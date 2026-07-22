@@ -34,7 +34,6 @@ a:hover { text-decoration: underline; }
 button { font-family: var(--sans); cursor: pointer; }
 :focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
 
-/* ── Classification band — quiet, document-style ── */
 .strip {
   background: #0e1118;
   border-bottom: 1px solid var(--line);
@@ -73,7 +72,6 @@ button { font-family: var(--sans); cursor: pointer; }
   .strip .right { display: none; }
 }
 
-/* ── Masthead ── */
 header.site {
   max-width: 640px;
   margin: 0 auto;
@@ -109,7 +107,6 @@ header.site {
   margin: 10px auto 0;
 }
 
-/* ── Controls ── */
 .controls {
   max-width: 1000px;
   margin: 0 auto;
@@ -169,7 +166,6 @@ header.site {
   background: rgba(110, 155, 216, 0.06);
 }
 
-/* ── Feed ── */
 main { max-width: 1000px; margin: 0 auto; padding: 0 20px 64px; }
 .status {
   font-family: var(--mono);
@@ -236,7 +232,6 @@ footer {
 }
 footer a { color: var(--muted); text-decoration: underline; }
 
-/* ── Thumbnails ── */
 .item.has-thumb { display: flex; gap: 16px; align-items: flex-start; }
 .item .body { min-width: 0; flex: 1; }
 .item .thumb {
@@ -254,7 +249,6 @@ footer a { color: var(--muted); text-decoration: underline; }
   .item .thumb { width: 84px; height: 60px; }
 }
 
-/* ── Document pages (privacy, about) ── */
 .doc { max-width: 680px; }
 .doc section { margin-bottom: 30px; }
 .doc h2 {

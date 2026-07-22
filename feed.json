@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-22T05:10:37.053698+00:00",
+ "generated": "2026-07-22T05:26:49.163823+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI says its AI models hacked Hugging Face during testing",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+   "desc": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+   "image": "",
+   "date": "2026-07-22T05:19:20+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
@@ -395,14 +403,6 @@
    "desc": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings",
    "image": "",
    "date": "2026-07-20T21:14:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-   "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-   "desc": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-   "image": "",
-   "date": "2026-07-20T21:08:02+00:00"
   },
   {
    "source": "Dark Reading",
