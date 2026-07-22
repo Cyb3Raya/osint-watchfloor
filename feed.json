@@ -1,8 +1,10 @@
 {
- "generated": "2026-07-22T04:44:47.858498+00:00",
- "sources_ok": 11,
+ "generated": "2026-07-22T04:59:31.560393+00:00",
+ "sources_ok": 10,
  "sources_total": 11,
- "failed": [],
+ "failed": [
+  "CIS Advisories"
+ ],
  "items": [
   {
    "source": "SANS ISC",
@@ -485,14 +487,6 @@
    "date": "2026-07-20T14:00:00+00:00"
   },
   {
-   "source": "CIS Advisories",
-   "title": "A Vulnerability Chain in WordPress Core Could Allow for Remote Code Execution",
-   "link": "https://www.cisecurity.org/advisory/a-vulnerability-chain-in-wordpress-core-could-allow-for-remote-code-execution_2026-070",
-   "desc": "A vulnerability chain has been discovered in WordPress Core that could allow for remote code execution. WordPress is an open-source content management system (CMS) used to design, build, and publish personal and commerci",
-   "image": "",
-   "date": "2026-07-20T12:53:32+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
    "link": "https://isc.sans.edu/diary/rss/33166",
@@ -621,14 +615,6 @@
    "date": "2026-07-15T23:00:33+00:00"
   },
   {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-069",
-   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
-   "image": "",
-   "date": "2026-07-15T19:03:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "The Risk of Exposed Cloud Functions and How to Harden",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
@@ -675,22 +661,6 @@
    "desc": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-",
    "image": "",
    "date": "2026-07-14T19:22:42+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Adobe Products Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-products-could-allow-for-arbitrary-code-execution_2026-067",
-   "desc": "Multiple vulnerabilities have been discovered in Adobe products, the most severe of which could allow for arbitrary code execution.Adobe After Effects is a digital visual effects and motion graphics application used for ",
-   "image": "",
-   "date": "2026-07-14T18:30:28+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Critical Patches Issued for Microsoft Products, July 14, 2026",
-   "link": "https://www.cisecurity.org/advisory/critical-patches-issued-for-microsoft-products-july-14-2026_2026-068",
-   "desc": "Multiple vulnerabilities have been discovered in Microsoft products, the most severe of which could allow for remote code execution. Successful exploitation of the most severe of these vulnerabilities could result in an ",
-   "image": "",
-   "date": "2026-07-14T18:28:52+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -805,22 +775,6 @@
    "date": "2026-07-02T14:00:00+00:00"
   },
   {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Adobe Products Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-products-could-allow-for-arbitrary-code-execution_2026-066",
-   "desc": "Multiple vulnerabilities have been discovered in Adobe products, the most severe of which could allow for arbitrary code execution.Adobe Campaign Classic is an enterprise-grade marketing automation platform that helps or",
-   "image": "",
-   "date": "2026-07-01T19:09:27+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2026-065",
-   "desc": "Multiple vulnerabilities have been discovered in Mozilla products, the most severe of which could allow for arbitrary code execution. Mozilla Firefox is a web browser used to access the Internet.Thunderbird is a free, op",
-   "image": "",
-   "date": "2026-07-01T18:48:04+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Martin Lee: Running through the Arctic (and the threat landscape)",
    "link": "https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/",
@@ -835,14 +789,6 @@
    "desc": "Talos has identified \"ARToken,\" a phishing-as-a-service platform that targets Microsoft 365. The ARToken panel exposes 80+ API endpoints for device code phishing, Primary Refresh Token persistence, email access, BEC oper",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/threat_advisory.png",
    "date": "2026-07-01T10:00:38+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-064",
-   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
-   "image": "",
-   "date": "2026-07-01T04:41:22+00:00"
   },
   {
    "source": "Unit 42",
@@ -867,14 +813,6 @@
    "desc": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. The post Threat Brief: Mitigating Large-Scale Credential Attacks appe",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900-1.jpg",
    "date": "2026-06-26T19:05:33+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-063",
-   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
-   "image": "",
-   "date": "2026-06-26T04:39:02+00:00"
   },
   {
    "source": "Unit 42",
@@ -941,14 +879,6 @@
    "date": "2026-06-22T22:00:04+00:00"
   },
   {
-   "source": "CIS Advisories",
-   "title": "A Vulnerability in PAN-OS Could Allow for Authentication Bypass",
-   "link": "https://www.cisecurity.org/advisory/a-vulnerability-in-pan-os-could-allow-for-authentication-bypass_2026-062",
-   "desc": "A vulnerability has been discovered in the GlobalProtect portal and gateway of PAN-OS which could allow for authentication bypass. The PAN-OS GlobalProtect Portal acts as the central control plane for Palo Alto Networks ",
-   "image": "",
-   "date": "2026-06-22T17:39:44+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Close Encounters of the Human Kind",
    "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
@@ -963,22 +893,6 @@
    "desc": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. Thi",
    "image": "",
    "date": "2026-06-18T17:37:58+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2026-060",
-   "desc": "Multiple vulnerabilities have been discovered in Mozilla products, the most severe of which could allow for arbitrary code execution. Mozilla Firefox is a web browser used to access the Internet.Mozilla Firefox ESR is a ",
-   "image": "",
-   "date": "2026-06-16T19:30:19+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "A Vulnerability in SimpleHelp Could Allow for Authentication Bypass",
-   "link": "https://www.cisecurity.org/advisory/a-vulnerability-in-simplehelp-could-allow-for-authentication-bypass_2026-061",
-   "desc": "A vulnerability has been discovered in SimpleHelp, which could allow for authentication bypass. SimpleHelp is a self-hosted remote support, access, and monitoring software used by IT teams, managed service providers (MSP",
-   "image": "",
-   "date": "2026-06-16T19:23:16+00:00"
   },
   {
    "source": "Unit 42",
@@ -1013,14 +927,6 @@
    "date": "2026-06-12T22:00:14+00:00"
   },
   {
-   "source": "CIS Advisories",
-   "title": "A Vulnerability in Oracle PeopleSoft PeopleTools Could Allow for Remote Code Execution",
-   "link": "https://www.cisecurity.org/advisory/a-vulnerability-in-oracle-peoplesoft-peopletools-could-allow-for-remote-code-execution_2026-059",
-   "desc": "A vulnerability has been discovered in the Updates Environment Management component of PeopleSoft Enterprise PeopleTools that could allow an attacker with network access via HTTP to completely takeover the software. Peop",
-   "image": "",
-   "date": "2026-06-11T18:29:38+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
@@ -1043,30 +949,6 @@
    "desc": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly thre",
    "image": "",
    "date": "2026-06-09T22:07:28+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Critical Patches Issued for Microsoft Products, June 9, 2026",
-   "link": "https://www.cisecurity.org/advisory/critical-patches-issued-for-microsoft-products-june-9-2026_2026-056",
-   "desc": "Multiple vulnerabilities have been discovered in Microsoft products, the most severe of which could allow for remote code execution. Successful exploitation of the most severe of these vulnerabilities could result in an ",
-   "image": "",
-   "date": "2026-06-09T17:53:16+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Check Point Products Could Allow for Authentication Bypass",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-check-point-products-could-allow-for-authentication-bypass_2026-055",
-   "desc": "Multiple vulnerabilities have been discovered in Check Point products the most severe of which could allow for authentication bypass.Check Point VPN Remote Access provides remote and mobile employees with secure, encrypt",
-   "image": "",
-   "date": "2026-06-09T17:00:56+00:00"
-  },
-  {
-   "source": "CIS Advisories",
-   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
-   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-054",
-   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
-   "image": "",
-   "date": "2026-06-09T13:45:52+00:00"
   },
   {
    "source": "Google GTIG",
