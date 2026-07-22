@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-22T20:43:08.530948+00:00",
+ "generated": "2026-07-22T22:06:13.501934+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+   "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+   "desc": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+   "image": "",
+   "date": "2026-07-22T21:43:39+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Are Learning to Live Off the AI Toolchain",
+   "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+   "desc": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3487664d9c613ba9/6a61308f2c3e688b979308a0/ai_TSViPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-22T21:29:01+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
@@ -19,6 +35,14 @@
    "desc": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Aff",
    "image": "",
    "date": "2026-07-22T20:06:54+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
+   "link": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
+   "desc": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbfd2abd92ce58654/6a611f6de7ebfc13d44d6387/Bahrain_Manama_Skyline-trabantos-Getty-1140901617.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-22T19:42:42+00:00"
   },
   {
    "source": "RF The Record",
@@ -389,14 +413,6 @@
    "date": "2026-07-21T18:38:52+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-   "desc": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-   "image": "",
-   "date": "2026-07-21T16:41:50+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
    "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
@@ -531,22 +547,6 @@
    "desc": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaaf936e441aafd2/6a5a7c032292771ec0f65c59/Wall-PM_Images-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-17T20:01:13+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "The Real AI Threat Is Blind Trust",
-   "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
-   "desc": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-17T16:43:13+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
-   "desc": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7d85c41efe582eb/6a592f51435d222e500b875b/golden_eagle-Javier_Fernandez_Sanchez-Getty-578118565.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-17T13:00:00+00:00"
   },
   {
    "source": "Unit 42",
