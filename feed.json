@@ -1,9 +1,41 @@
 {
- "generated": "2026-07-22T07:39:59.622743+00:00",
+ "generated": "2026-07-22T10:08:15.018832+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
+   "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
+   "desc": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appe",
+   "image": "",
+   "date": "2026-07-22T10:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
+   "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
+   "desc": "Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI. The post Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-22T09:33:12+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
+   "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
+   "desc": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola&#8217;s Fairlife appeared first on Secur",
+   "image": "",
+   "date": "2026-07-22T08:32:02+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
+   "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
+   "desc": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loos",
+   "image": "",
+   "date": "2026-07-22T07:48:49+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
@@ -11,6 +43,14 @@
    "desc": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
    "image": "",
    "date": "2026-07-22T06:40:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+   "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+   "desc": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg",
+   "date": "2026-07-22T06:38:45+00:00"
   },
   {
    "source": "The Hacker News",
@@ -301,14 +341,6 @@
    "date": "2026-07-21T11:24:50+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
-   "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
-   "desc": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025. The post Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-21T11:12:33+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
@@ -317,28 +349,12 @@
    "date": "2026-07-21T11:07:07+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
-   "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
-   "desc": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-21T10:19:21+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
    "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
    "desc": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
    "image": "",
    "date": "2026-07-21T10:12:24+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Clover Health Investments Discloses Data Breach",
-   "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
-   "desc": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-21T09:36:51+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -357,14 +373,6 @@
    "date": "2026-07-21T08:59:30+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
-   "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-   "desc": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-21T08:41:53+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
    "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
@@ -379,14 +387,6 @@
    "desc": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE,",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg",
    "date": "2026-07-21T07:34:32+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-   "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-   "desc": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg",
-   "date": "2026-07-21T06:29:26+00:00"
   },
   {
    "source": "SANS ISC",
