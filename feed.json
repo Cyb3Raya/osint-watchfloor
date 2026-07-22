@@ -1,11 +1,41 @@
 {
- "generated": "2026-07-22T19:25:53.227652+00:00",
- "sources_ok": 9,
+ "generated": "2026-07-22T20:43:08.530948+00:00",
+ "sources_ok": 10,
  "sources_total": 10,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
+   "link": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
+   "desc": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
+   "image": "",
+   "date": "2026-07-22T20:39:35+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "South Korea discloses data breach impacting diplomats worldwide",
+   "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+   "desc": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Aff",
+   "image": "",
+   "date": "2026-07-22T20:06:54+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Federal agencies broaden alert on Iran-linked OT attacks",
+   "link": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
+   "desc": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
+   "image": "",
+   "date": "2026-07-22T19:18:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+   "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+   "desc": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg",
+   "date": "2026-07-22T18:37:42+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
@@ -13,6 +43,14 @@
    "desc": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target e",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg",
    "date": "2026-07-22T18:07:16+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "French Parliament greenlights social media ban for under-15s",
+   "link": "https://therecord.media/france-social-media-ban-parliament",
+   "desc": "Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.",
+   "image": "",
+   "date": "2026-07-22T18:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -31,12 +69,28 @@
    "date": "2026-07-22T16:59:17+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "New Kimsuky campaign compromised South Korean software vendors",
+   "link": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
+   "desc": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
+   "image": "",
+   "date": "2026-07-22T16:47:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
    "desc": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T15:53:47+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Japanese food logistics giant recovers as extortion group claims cyberattack",
+   "link": "https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery",
+   "desc": "Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.",
+   "image": "",
+   "date": "2026-07-22T15:40:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -375,28 +429,12 @@
    "date": "2026-07-21T14:04:57+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-   "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-   "desc": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting ",
-   "image": "",
-   "date": "2026-07-21T14:00:10+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Captive Portal Detection, (Tue, Jul 21st)",
    "link": "https://isc.sans.edu/diary/rss/33172",
    "desc": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
    "image": "",
    "date": "2026-07-21T13:44:56+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-   "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-   "desc": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_Q67gFWBtG5q7zVuyna7iJj3lSm-UQRoMsami8jaf-WYMCXqQlVprQ_ifyXx-PqJg2chDHN3KrFppnZSvejTvSco4kN-P_S4U3vKQHNtvZ48g5wftlSILrMulX1WUMOeeybU4apJ5Iv8BM6ipceEVGSJucR7yRJZguIrfTUaCbbHqefGt6o2BkHrJqV0/s1600/zimbra.jpg",
-   "date": "2026-07-21T13:18:31+00:00"
   },
   {
    "source": "Dark Reading",
