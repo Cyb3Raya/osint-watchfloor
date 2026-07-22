@@ -5,7 +5,6 @@
    All feeds are free, public RSS.
    ───────────────────────────────────────────── */
 const FEEDS = [
-  { name: 'CIS Advisories',   url: 'https://www.cisecurity.org/feed/advisories' },
   { name: 'SANS ISC',          url: 'https://isc.sans.edu/rssfeed.xml' },
   { name: 'The Hacker News',   url: 'https://feeds.feedburner.com/TheHackersNews' },
   { name: 'BleepingComputer',  url: 'https://www.bleepingcomputer.com/feed/' },

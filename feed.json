@@ -1,10 +1,8 @@
 {
- "generated": "2026-07-22T05:05:33.531232+00:00",
+ "generated": "2026-07-22T05:07:14.264993+00:00",
  "sources_ok": 10,
- "sources_total": 11,
- "failed": [
-  "CIS Advisories"
- ],
+ "sources_total": 10,
+ "failed": [],
  "items": [
   {
    "source": "SANS ISC",

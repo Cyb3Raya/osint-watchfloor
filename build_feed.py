@@ -9,7 +9,6 @@ import feedparser
 import requests
 
 FEEDS = [
-    ("CIS Advisories",    "https://www.cisecurity.org/feed/advisories"),
     ("SANS ISC",          "https://isc.sans.edu/rssfeed.xml"),
     ("The Hacker News",   "https://feeds.feedburner.com/TheHackersNews"),
     ("BleepingComputer",  "https://www.bleepingcomputer.com/feed/"),
