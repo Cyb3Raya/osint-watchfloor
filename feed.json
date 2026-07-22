@@ -1,0 +1,1128 @@
+{
+ "generated": "2026-07-22T04:44:47.858498+00:00",
+ "sources_ok": 11,
+ "sources_total": 11,
+ "failed": [],
+ "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33174",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-22T02:00:02+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "LG to Ban Residential Proxies from Smart TV Apps",
+   "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+   "desc": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after ",
+   "image": "",
+   "date": "2026-07-22T01:10:38+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Police dismantle Kratos phishing platform, arrest developer",
+   "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+   "desc": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
+   "image": "",
+   "date": "2026-07-21T23:07:33+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+   "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+   "desc": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+   "image": "",
+   "date": "2026-07-21T22:34:17+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
+   "desc": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d46e0386d2cd24e/6a5fd644651b13c322b2426e/ransomware_fadfebrian_shutterstok.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-21T21:48:05+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task",
+   "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
+   "desc": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-21T21:27:37+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+   "desc": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+   "image": "",
+   "date": "2026-07-21T20:06:55+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "DNI nominee Clayton wins Senate panel’s approval",
+   "link": "https://therecord.media/jay-clayton-dni-nomination-senate-committee-approval",
+   "desc": "By a party-line vote, the Senate Intelligence Committee sent the nomination of Jay Clayton to lead ODNI to the Senate floor.",
+   "image": "",
+   "date": "2026-07-21T19:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+   "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+   "desc": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
+   "image": "",
+   "date": "2026-07-21T18:50:54+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+   "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+   "desc": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg",
+   "date": "2026-07-21T18:46:32+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
+   "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
+   "desc": "A Russian-speaking actor, &quot;Trim,&quot; dismantled publicly available frontier models and integrated them with offensive security tools.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt706caa609307b368/6a5f71562729a47d3c4a2149/AI_(1800)_Techa_Tungateja_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-07-21T18:38:52+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains",
+   "link": "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/",
+   "desc": "New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks. The post Trump Orders Defense Contractors to Map Softwa",
+   "image": "",
+   "date": "2026-07-21T18:16:09+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Launches Low-Cost AI Models for Source Code Security",
+   "link": "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/",
+   "desc": "The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models. The post Cisco Launches Low-Cost AI Models for Source Code Security app",
+   "image": "",
+   "date": "2026-07-21T17:44:33+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
+   "link": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
+   "desc": "The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.",
+   "image": "",
+   "date": "2026-07-21T17:10:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+   "desc": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+   "image": "",
+   "date": "2026-07-21T16:41:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+   "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+   "desc": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in rese",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg",
+   "date": "2026-07-21T16:06:12+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+   "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+   "desc": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg",
+   "date": "2026-07-21T15:09:28+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+   "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+   "desc": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg",
+   "date": "2026-07-21T14:57:51+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+   "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+   "desc": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg",
+   "date": "2026-07-21T14:04:57+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+   "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+   "desc": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting ",
+   "image": "",
+   "date": "2026-07-21T14:00:10+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Captive Portal Detection, (Tue, Jul 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33172",
+   "desc": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
+   "image": "",
+   "date": "2026-07-21T13:44:56+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Taiwan to slow mobile data during national resilience drills",
+   "link": "https://therecord.media/taiwan-mobile-5g-speed-reductions-han-kuang",
+   "desc": "The speed of 5G and 4G networks across much of Taiwan will be temporarily reduced to 1 percent of capacity as the island holds annual civilian and military exercises.",
+   "image": "",
+   "date": "2026-07-21T13:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+   "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+   "desc": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_Q67gFWBtG5q7zVuyna7iJj3lSm-UQRoMsami8jaf-WYMCXqQlVprQ_ifyXx-PqJg2chDHN3KrFppnZSvejTvSco4kN-P_S4U3vKQHNtvZ48g5wftlSILrMulX1WUMOeeybU4apJ5Iv8BM6ipceEVGSJucR7yRJZguIrfTUaCbbHqefGt6o2BkHrJqV0/s1600/zimbra.jpg",
+   "date": "2026-07-21T13:18:31+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
+   "link": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
+   "desc": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c0e9544f78c82bf/6a5e8bfa651b136c90b23f50/door_choice-adventtr-GettyImages-2027127656.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-21T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Empirical Security Raises $25 Million in Series A Funding",
+   "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
+   "desc": "The startup will use the investment to accelerate the development of its threat prediction and discovery products. The post Empirical Security Raises $25 Million in Series A Funding appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-21T12:47:18+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
+   "link": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
+   "desc": "Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cyber",
+   "image": "",
+   "date": "2026-07-21T12:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Kenya probes hack of president's website after bitcoin ransom demand",
+   "link": "https://therecord.media/kenya-probes-hack-of-presidents-website-after-ransom-demand",
+   "desc": "The website was hacked on Saturday, when its homepage was replaced with a message displaying a cryptocurrency wallet address and threatening to publish unspecified information about President William Ruto unless the rans",
+   "image": "",
+   "date": "2026-07-21T12:08:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+   "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+   "desc": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running comman",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg",
+   "date": "2026-07-21T11:58:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
+   "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
+   "desc": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication appeared first on Security",
+   "image": "",
+   "date": "2026-07-21T11:55:28+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+   "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+   "desc": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg",
+   "date": "2026-07-21T11:42:23+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG",
+   "link": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
+   "desc": "Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer. The post CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG appeared first on Secu",
+   "image": "",
+   "date": "2026-07-21T11:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+   "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+   "desc": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, descri",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg",
+   "date": "2026-07-21T11:24:50+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
+   "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
+   "desc": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025. The post Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-21T11:12:33+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+   "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+   "desc": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
+   "image": "",
+   "date": "2026-07-21T11:07:07+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+   "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+   "desc": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-21T10:19:21+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+   "desc": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+   "image": "",
+   "date": "2026-07-21T10:12:24+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Clover Health Investments Discloses Data Breach",
+   "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+   "desc": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-21T09:36:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+   "desc": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+   "image": "",
+   "date": "2026-07-21T09:05:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+   "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+   "desc": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg",
+   "date": "2026-07-21T08:59:30+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+   "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+   "desc": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-21T08:41:53+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+   "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+   "desc": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+   "image": "",
+   "date": "2026-07-21T08:06:26+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+   "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+   "desc": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg",
+   "date": "2026-07-21T07:34:32+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+   "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+   "desc": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg",
+   "date": "2026-07-21T06:29:26+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33170",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-21T02:00:02+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+   "desc": "Cosmetics giant Estée Lauder is notifying employees of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
+   "image": "",
+   "date": "2026-07-20T22:39:30+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+   "desc": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
+   "image": "",
+   "date": "2026-07-20T22:23:23+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+   "desc": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
+   "image": "",
+   "date": "2026-07-20T22:22:56+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+   "desc": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1df0898ba4c4a15/6a5e837c6c884d291eb9cdc9/wordpress_Silver_Wings_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-20T21:38:18+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+   "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+   "desc": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings",
+   "image": "",
+   "date": "2026-07-20T21:14:42+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+   "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+   "desc": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+   "image": "",
+   "date": "2026-07-20T21:08:02+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+   "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+   "desc": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb30ebf99943f9f9a/6a5e0e8c81d46ac05c6bf14f/llms-rawintanpin-Getty-2224684603.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-20T20:26:56+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Flock Safety kills acoustic system designed to detect 'human distress'",
+   "link": "https://therecord.media/flock-safety-kills-audio-detection-system-human-distress",
+   "desc": "\"Community consultation\" is one of the reasons automated license plate reader (ALPR) company Flock Safety cited in its decision to drop voice-oriented tech from a gunshot detection system.",
+   "image": "",
+   "date": "2026-07-20T19:55:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+   "desc": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+   "image": "",
+   "date": "2026-07-20T19:32:04+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "CISOs Feel the Heat Over AI Risk",
+   "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+   "desc": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt825053c5705a6278/6a5a7debb02e503616cf34f1/tired-business-man-stress-Volodymyr_TVERDOKHLIB-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-20T19:07:01+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33168",
+   "desc": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress pl",
+   "image": "",
+   "date": "2026-07-20T18:41:24+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+   "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+   "desc": "&quot;The TFF Trap&quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bb343e182f4af3e/6a5e0b48c714ec6091e7ebc7/Phishing_ronstik_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-20T18:30:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+   "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+   "desc": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware fa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg",
+   "date": "2026-07-20T18:23:03+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+   "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+   "desc": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg",
+   "date": "2026-07-20T17:29:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+   "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+   "desc": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg",
+   "date": "2026-07-20T14:33:43+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cybersecurity Keeps Events 'Uneventful'",
+   "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
+   "desc": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ca17cbbd6fe254a/6a5a72ee004f2c1000c2b123/crowd-Oleh_Slobodeniuk-getty-1447355262.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-20T14:00:00+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "A Vulnerability Chain in WordPress Core Could Allow for Remote Code Execution",
+   "link": "https://www.cisecurity.org/advisory/a-vulnerability-chain-in-wordpress-core-could-allow-for-remote-code-execution_2026-070",
+   "desc": "A vulnerability chain has been discovered in WordPress Core that could allow for remote code execution. WordPress is an open-source content management system (CMS) used to design, build, and publish personal and commerci",
+   "image": "",
+   "date": "2026-07-20T12:53:32+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33166",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-20T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
+   "link": "https://isc.sans.edu/diary/rss/33164",
+   "desc": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our hone",
+   "image": "",
+   "date": "2026-07-19T15:00:38+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+   "desc": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaaf936e441aafd2/6a5a7c032292771ec0f65c59/Wall-PM_Images-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-17T20:01:13+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "The Real AI Threat Is Blind Trust",
+   "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+   "desc": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-17T16:43:13+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
+   "desc": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7d85c41efe582eb/6a592f51435d222e500b875b/golden_eagle-Javier_Fernandez_Sanchez-Getty-578118565.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-17T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
+   "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+   "desc": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce1b28d3805840ac/69b32c68d73e49322916d5a6/cloud-lightning-Athapet_Piruksa-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-17T11:50:25+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
+   "link": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
+   "desc": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access. The post Three Steps to the Terminal: A Siemens ROX II Zero-Day Tri",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Vulnerabilities_1920x900.jpg",
+   "date": "2026-07-17T10:00:24+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)",
+   "link": "https://isc.sans.edu/diary/rss/33162",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-17T02:00:02+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report",
+   "link": "https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/",
+   "desc": "Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report. The post AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Repo",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Opinion_Category_1505x922-1.jpg",
+   "date": "2026-07-16T23:00:59+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Agentic AI: Taming the Unpredictable",
+   "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
+   "desc": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte217b770933bdcd6/690ceee03ce143613d3f62e0/man-selecting-AI-agent-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-16T20:57:47+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Begun, the Patch Wars have",
+   "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
+   "desc": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-1.jpg",
+   "date": "2026-07-16T18:00:50+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
+   "desc": "Written by: Jules Czarniak Introduction As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week before a patch even e",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Demystifying_AI_image1.max-1000x1000.png",
+   "date": "2026-07-16T14:00:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "The Hunter's Paradox: Is it time to embrace automated threat hunting?",
+   "link": "https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/",
+   "desc": "Humans can no longer keep up with the volume and velocity of security data on their own, but AI can't be fully trusted. David discusses the merits of both and muses on what the future might look like.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/on_the_radar.jpg",
+   "date": "2026-07-16T10:00:07+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign",
+   "link": "https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/",
+   "desc": "Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/starlandrat.jpg",
+   "date": "2026-07-16T10:00:01+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)",
+   "link": "https://isc.sans.edu/diary/rss/33160",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-16T02:40:10+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+   "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+   "desc": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg",
+   "date": "2026-07-15T23:00:33+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-069",
+   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
+   "image": "",
+   "date": "2026-07-15T19:03:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "The Risk of Exposed Cloud Functions and How to Harden",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
+   "desc": "Written by: Corné de Jong Introduction Mandiant security assessments frequently identify publicly exposed serverless applications that lack authentication, often as a result of specific business requirements. Serverless ",
+   "image": "",
+   "date": "2026-07-15T14:00:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development",
+   "link": "https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/",
+   "desc": "TuxBot v3 Evolution, an IoT botnet framework built with LLMs. Read our analysis of its cross-compiled binaries, C2 architecture and bugs. The post TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development a",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-1-scaled.jpeg",
+   "date": "2026-07-15T10:00:54+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
+   "link": "https://isc.sans.edu/diary/rss/33158",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-15T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Recent DShield SIEM Update, (Tue, Jul 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33156",
+   "desc": "The last update to the DShield SIEM &#x5b;4&#x5d; was in Sep 2025 which contained some minor tweaks. This update currently is using ELK stack version 8.19.15, contains some additional dashboards and new logs.&#xd;",
+   "image": "",
+   "date": "2026-07-15T01:38:43+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities",
+   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/",
+   "desc": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical.\"",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/patch_tuesday.png",
+   "date": "2026-07-14T20:27:33+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+   "desc": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-",
+   "image": "",
+   "date": "2026-07-14T19:22:42+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Adobe Products Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-products-could-allow-for-arbitrary-code-execution_2026-067",
+   "desc": "Multiple vulnerabilities have been discovered in Adobe products, the most severe of which could allow for arbitrary code execution.Adobe After Effects is a digital visual effects and motion graphics application used for ",
+   "image": "",
+   "date": "2026-07-14T18:30:28+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Critical Patches Issued for Microsoft Products, July 14, 2026",
+   "link": "https://www.cisecurity.org/advisory/critical-patches-issued-for-microsoft-products-july-14-2026_2026-068",
+   "desc": "Multiple vulnerabilities have been discovered in Microsoft products, the most severe of which could allow for remote code execution. Successful exploitation of the most severe of these vulnerabilities could result in an ",
+   "image": "",
+   "date": "2026-07-14T18:28:52+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "[Video] Where protection starts: Cisco Talos Intelligence Integrations",
+   "link": "https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/",
+   "desc": "Every day, defenders make high-consequence decisions with incomplete information. Learn how Cisco Talos Intelligence Integrations help reduce uncertainty by turning the latest threat intelligence into proactive protectio",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/Talos_integrations_header-2.jpg",
+   "date": "2026-07-14T10:47:18+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "The serpent’s tongue: Luring the Python out of its den",
+   "link": "https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/",
+   "desc": "This blog examines the full lifecycle of a Python package, from hosting on repositories such as PyPI or custom web servers, through source and wheel distribution formats, to the final installation into virtual or system-",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/python-package-header.jpg",
+   "date": "2026-07-14T10:00:06+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+   "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub ",
+   "image": "",
+   "date": "2026-07-13T15:03:28+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+   "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
+   "desc": "Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here. The post No Manners Here: The Ruthless Rise of The Gentlemen Ransomware appeared first on Uni",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/05_Opinion_Overview_1920x900.jpg",
+   "date": "2026-07-10T22:00:39+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "WolfSSL, GeoVision, VTK vulnerabilities",
+   "link": "https://blog.talosintelligence.com/wolfssl-vulnerabilities/",
+   "desc": "Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed three vulnerabilities in WolfSSF, fourteen in GeoVision, and one vulnerability in VTK-DICOM.The vulnerabilities mentioned in this blog po",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/vuln_roundup.jpg",
+   "date": "2026-07-09T18:52:29+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Winning 54% of the time",
+   "link": "https://blog.talosintelligence.com/winning-54-of-the-time/",
+   "desc": "With Wimbledon's help, Hazel argues against the popular myth that \"Attackers only need to be right once, but defenders need to be right 100% of the time.\"",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source.jpg",
+   "date": "2026-07-09T18:00:06+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+   "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+   "desc": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures inc",
+   "image": "",
+   "date": "2026-07-08T12:31:39+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
+   "link": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
+   "desc": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination. The post Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders a",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/01_Malware_Category_1920x900-2.jpg",
+   "date": "2026-07-07T22:00:21+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
+   "desc": "Written by: Shebin Mathew Introduction The \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for thr",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ghost-database-fig1.max-1000x1000.png",
+   "date": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "UAT-7810 continues building ORB networks using new malware",
+   "link": "https://blog.talosintelligence.com/uat-7810/",
+   "desc": "Talos’ latest findings on UAT-7810 indicate that the threat actor continues to develop their custom-made malware.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/UAT-7810.jpg",
+   "date": "2026-07-07T10:00:05+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "How We Added WebAuthn to a Browser-Based RDP Client",
+   "link": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
+   "desc": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection. The post How We Added WebAuthn to a Browser-Based RDP Client appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg",
+   "date": "2026-07-02T22:00:39+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+   "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+   "desc": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli com",
+   "image": "",
+   "date": "2026-07-02T19:27:33+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Catan and Mouse",
+   "link": "https://blog.talosintelligence.com/catan-and-mouse/",
+   "desc": "What do board games and cybersecurity have in common? Pattern recognition. Strategy. Adaptation. In this week’s Threat Source Bill explores why curiosity may be a defender’s most valuable skill.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/threat_source-3.jpg",
+   "date": "2026-07-02T18:00:34+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
+   "desc": "Background Today, in coordination with the FBI, Lumen, and others, Google took action against the NetNut residential proxy network, also known as Popa. This action builds on our disruption of the IPIDEA proxy network tha",
+   "image": "",
+   "date": "2026-07-02T14:00:00+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Adobe Products Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-products-could-allow-for-arbitrary-code-execution_2026-066",
+   "desc": "Multiple vulnerabilities have been discovered in Adobe products, the most severe of which could allow for arbitrary code execution.Adobe Campaign Classic is an enterprise-grade marketing automation platform that helps or",
+   "image": "",
+   "date": "2026-07-01T19:09:27+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2026-065",
+   "desc": "Multiple vulnerabilities have been discovered in Mozilla products, the most severe of which could allow for arbitrary code execution. Mozilla Firefox is a web browser used to access the Internet.Thunderbird is a free, op",
+   "image": "",
+   "date": "2026-07-01T18:48:04+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Martin Lee: Running through the Arctic (and the threat landscape)",
+   "link": "https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/",
+   "desc": "Ever wonder how someone goes from studying human viruses to leading cybersecurity teams? In this Humans of Talos, we’re joined by Martin Lee, EMEA Lead, to talk about his journey into the industry.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/humans_of_talos-1.jpg",
+   "date": "2026-07-01T10:00:57+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365",
+   "link": "https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/",
+   "desc": "Talos has identified \"ARToken,\" a phishing-as-a-service platform that targets Microsoft 365. The ARToken panel exposes 80+ API endpoints for device code phishing, Primary Refresh Token persistence, email access, BEC oper",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/threat_advisory.png",
+   "date": "2026-07-01T10:00:38+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-064",
+   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
+   "image": "",
+   "date": "2026-07-01T04:41:22+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
+   "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
+   "desc": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. The post Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector ap",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_799983387-1-1-scaled.jpg",
+   "date": "2026-07-01T01:00:11+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/",
+   "desc": "Written by: James Sadowski, Alden Wahlstrom Introduction Four years into Russia’s full-scale invasion of Ukraine, the pro-Russia influence ecosystem has evolved from a tool of war back into a global strategic asset. Sinc",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/russia-io-fig1.max-1000x1000.png",
+   "date": "2026-06-29T14:00:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Threat Brief: Mitigating Large-Scale Credential Attacks",
+   "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
+   "desc": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. The post Threat Brief: Mitigating Large-Scale Credential Attacks appe",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900-1.jpg",
+   "date": "2026-06-26T19:05:33+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-063",
+   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
+   "image": "",
+   "date": "2026-06-26T04:39:02+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+   "link": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/",
+   "desc": "Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. The post CL-STA-1062 Targets Southeast Asian Governments and ",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg",
+   "date": "2026-06-25T22:00:52+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Beyond IOCs: AI-enabled threat intelligence",
+   "link": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
+   "desc": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/threat_source-3.jpg",
+   "date": "2026-06-25T18:00:26+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
+   "desc": "Written by: Jordan Jones Introduction Google Threat Intelligence Group (GTIG) has conducted an in-depth analysis of a .NET backdoor, tracked as STOCKSTAY, that has been continually developed and deployed by the Russia-li",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/stockstay-fig1.max-1000x1000.png",
+   "date": "2026-06-25T14:00:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Introduction to COM usage by Windows threats",
+   "link": "https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/",
+   "desc": "Component Object Model (COM) is a fundamental Windows technology used by legitimate applications for object activation, inter-process communication, automation and language-independent component reuse. Those same qualiti",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/GenericCiscoTalos-Header-1.webp",
+   "date": "2026-06-25T10:00:26+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
+   "desc": "Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan, Lukasz Lamparski Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial",
+   "image": "",
+   "date": "2026-06-24T11:00:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat",
+   "link": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/",
+   "desc": "Unit 42's analysis of ClawHub revealed evasive malicious skills bypassing automated scanners to deploy infostealers and execute agentic financial fraud. The post OpenClaw’s Skill Marketplace and the Emerging AI Supply Ch",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_768915868-1.jpg",
+   "date": "2026-06-23T22:00:51+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+   "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+   "desc": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Great",
+   "image": "",
+   "date": "2026-06-23T16:12:49+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
+   "link": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/",
+   "desc": "Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs. The post The Global Namespace Risk: Universal Bucket Hijacking Technique f",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/09_Cloud_cybersecurity_research_Overview_1920x900.jpg",
+   "date": "2026-06-22T22:00:04+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "A Vulnerability in PAN-OS Could Allow for Authentication Bypass",
+   "link": "https://www.cisecurity.org/advisory/a-vulnerability-in-pan-os-could-allow-for-authentication-bypass_2026-062",
+   "desc": "A vulnerability has been discovered in the GlobalProtect portal and gateway of PAN-OS which could allow for authentication bypass. The PAN-OS GlobalProtect Portal acts as the central control plane for Palo Alto Networks ",
+   "image": "",
+   "date": "2026-06-22T17:39:44+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Close Encounters of the Human Kind",
+   "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
+   "desc": "In the latest Threat Source, Hazel channels her inner Spielberg to explore why humans are delightfully irrational, reminding us that while security best practices are simple in theory, they’re a lot harder to pull off wh",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/threat_source-2.jpg",
+   "date": "2026-06-18T18:00:24+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+   "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+   "desc": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. Thi",
+   "image": "",
+   "date": "2026-06-18T17:37:58+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Mozilla Products Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-mozilla-products-could-allow-for-arbitrary-code-execution_2026-060",
+   "desc": "Multiple vulnerabilities have been discovered in Mozilla products, the most severe of which could allow for arbitrary code execution. Mozilla Firefox is a web browser used to access the Internet.Mozilla Firefox ESR is a ",
+   "image": "",
+   "date": "2026-06-16T19:30:19+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "A Vulnerability in SimpleHelp Could Allow for Authentication Bypass",
+   "link": "https://www.cisecurity.org/advisory/a-vulnerability-in-simplehelp-could-allow-for-authentication-bypass_2026-061",
+   "desc": "A vulnerability has been discovered in SimpleHelp, which could allow for authentication bypass. SimpleHelp is a self-hosted remote support, access, and monitoring software used by IT teams, managed service providers (MSP",
+   "image": "",
+   "date": "2026-06-16T19:23:16+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
+   "link": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
+   "desc": "Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote code execution via bucket squatting. Read the article for more. The post Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenan",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_1270203474-1.png",
+   "date": "2026-06-16T10:00:29+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Inside the Modern SOC: The 72-Minute Race",
+   "link": "https://unit42.paloaltonetworks.com/soc-72-minute-race/",
+   "desc": "Attackers can move from access to exfiltration in 72 minutes. Learn how modern SOC teams close the speed gap with Unit 42's AI-driven automation, threat hunting, MDR and Managed XSIAM. The post Inside the Modern SOC: The",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/02_Interview_Overview_1920x900.jpg",
+   "date": "2026-06-15T23:00:19+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
+   "desc": "Written by: Patrick Whitsell, John McGuiness, Muhammad Umair Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, t",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/inifinitered-fig1.max-1000x1000.png",
+   "date": "2026-06-15T14:00:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
+   "link": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
+   "desc": "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here. The post Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered appeare",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Listicle_Category_1505x922.jpg",
+   "date": "2026-06-12T22:00:14+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "A Vulnerability in Oracle PeopleSoft PeopleTools Could Allow for Remote Code Execution",
+   "link": "https://www.cisecurity.org/advisory/a-vulnerability-in-oracle-peoplesoft-peopletools-could-allow-for-remote-code-execution_2026-059",
+   "desc": "A vulnerability has been discovered in the Updates Environment Management component of PeopleSoft Enterprise PeopleTools that could allow an attacker with network access via HTTP to completely takeover the software. Peop",
+   "image": "",
+   "date": "2026-06-11T18:29:38+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
+   "desc": "Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified an active compromise and extortion campaign attributed to UNC6240 (ShinyHunters) targeting Oracle PeopleSoft application infrastructure. T",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/peoplesoft-shinyhunters.max-1000x1000.png",
+   "date": "2026-06-11T14:00:00+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+   "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+   "desc": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affi",
+   "image": "",
+   "date": "2026-06-10T14:03:44+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "A Record-Breaking Patch Tuesday for June 2026",
+   "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+   "desc": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly thre",
+   "image": "",
+   "date": "2026-06-09T22:07:28+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Critical Patches Issued for Microsoft Products, June 9, 2026",
+   "link": "https://www.cisecurity.org/advisory/critical-patches-issued-for-microsoft-products-june-9-2026_2026-056",
+   "desc": "Multiple vulnerabilities have been discovered in Microsoft products, the most severe of which could allow for remote code execution. Successful exploitation of the most severe of these vulnerabilities could result in an ",
+   "image": "",
+   "date": "2026-06-09T17:53:16+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Check Point Products Could Allow for Authentication Bypass",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-check-point-products-could-allow-for-authentication-bypass_2026-055",
+   "desc": "Multiple vulnerabilities have been discovered in Check Point products the most severe of which could allow for authentication bypass.Check Point VPN Remote Access provides remote and mobile employees with secure, encrypt",
+   "image": "",
+   "date": "2026-06-09T17:00:56+00:00"
+  },
+  {
+   "source": "CIS Advisories",
+   "title": "Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code Execution",
+   "link": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-google-chrome-could-allow-for-arbitrary-code-execution_2026-054",
+   "desc": "Multiple vulnerabilities have been discovered in Google Chrome, the most severe of which could allow for arbitrary code execution. Successful exploitation of the most severe of these vulnerabilities could allow for arbit",
+   "image": "",
+   "date": "2026-06-09T13:45:52+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
+   "desc": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threa",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/seeking-counsel-fig1.max-1000x1000.png",
+   "date": "2026-06-05T14:00:00+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+   "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+   "desc": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on T",
+   "image": "",
+   "date": "2026-06-01T17:32:50+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
+   "desc": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learn",
+   "image": "",
+   "date": "2026-05-25T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "2 PhaaS 2 Furious: The Evolution of Chinese-Language Phishing Services",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
+   "desc": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/phaas-fig1.max-1000x1000.png",
+   "date": "2026-05-25T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/",
+   "desc": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/blackfile-fig5.max-1000x1000.png",
+   "date": "2026-05-15T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
+   "desc": "Executive Summary Since our February 2026 report on AI-related threat activity, Google Threat Intelligence Group (GTIG) has continued to track a maturing transition from nascent AI-enabled operations to the industrial-sc",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ai-q2-cog.max-1000x1000.png",
+   "date": "2026-05-11T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware/",
+   "desc": "Written by: JP Glab, Tufail Ahmed, Josh Kelley, Muhammad Umair Introduction Google Threat Intelligence Group (GTIG) identified a multistage intrusion campaign by a newly tracked threat group, UNC6692, that leveraged pers",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/unc6692-custom-malware-fig5.max-1000x1000.png",
+   "date": "2026-04-23T14:00:00+00:00"
+  }
+ ]
+}

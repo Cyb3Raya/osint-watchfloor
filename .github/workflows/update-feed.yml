@@ -1,0 +1,50 @@
+name: Update threat intel feed
+
+on:
+  schedule:
+    - cron: "*/20 * * * *" # every 20 min (GitHub may delay scheduled runs)
+  workflow_dispatch: # manual run button
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-update
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 - SHA-pinned
+        with:
+          persist-credentials: false # token passed only to the push step
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0 - SHA-pinned
+        with:
+          python-version: "3.12"
+
+      - name: Install deps (hash-verified)
+        run: pip install --require-hashes -r requirements.txt
+
+      - name: Build feed.json
+        run: python build_feed.py
+
+      - name: Validate feed.json before publish
+        run: |
+          jq empty feed.json
+          test "$(stat -c%s feed.json)" -lt 3000000  # sanity cap: <3MB
+
+      - name: Commit if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update feed.json"
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          fi

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self' https://api.allorigins.win https://corsproxy.io https://api.codetabs.com; img-src 'self' https:; base-uri 'none'; form-action 'none'"
+    />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="icon" href="Images/osintwatchfloor.png" />
+    <title>OSINT Watchfloor - Free Cyber Threat Intel & News Feed</title>
+    <meta
+      name="description"
+      content="A free, open-source cyber threat intelligence & news feed aggregating advisories and security news from public sources."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="strip" role="status">
+      <span>TLP:CLEAR // OPEN-SOURCE INTEL</span>
+      <span class="right">
+        <span
+          ><span class="dot live" id="liveDot"></span
+          ><span id="feedCount">0</span> SOURCES</span
+        >
+        <span>LAST PULL: <span id="lastPull">-</span></span>
+      </span>
+    </div>
+    <header class="site">
+      <img
+        class="logo"
+        src="Images/osintwatchfloor.png"
+        alt="OSINT Watchfloor logo"
+        width="140"
+        height="140"
+      />
+      <div class="brand">
+        <h1>OSINT<span class="accent">-</span>WATCHFLOOR</h1>
+        <span class="sub">free cyber threat intel feed</span>
+      </div>
+      <p class="tagline">
+        Live aggregation of advisories and security news from public, free
+        sources. No accounts, & no paywalls.
+      </p>
+    </header>
+    <div class="controls">
+      <input
+        class="search"
+        id="search"
+        type="search"
+        maxlength="200"
+        placeholder="Search for keywords: ransomware, CVE-2026, APT…"
+        aria-label="Filter items"
+      />
+      <button class="btn" id="refreshBtn">↻ Refresh</button>
+    </div>
+    <div
+      class="chips"
+      id="chips"
+      role="group"
+      aria-label="Filter by source"
+    ></div>
+    <main>
+      <div class="status" id="status">Initializing…</div>
+      <div id="feed"><div class="loading">Pulling feeds…</div></div>
+    </main>
+    <footer>
+      Built for the community. Aggregated headlines link to their original
+      publishers.<br />
+      Not an official advisory service - always confirm against the primary
+      source.
+      <br />
+      <br />
+      <a href="privacy.html">Privacy</a> &middot; © 2026 OSINT Watchfloor.
+      Headlines and summaries belong to their original publishers.
+    </footer>
+    <script src="app.js" defer></script>
+  </body>
+</html>
+<!-- nothing to see here! -->
