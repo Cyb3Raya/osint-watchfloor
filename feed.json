@@ -1,9 +1,41 @@
 {
- "generated": "2026-07-22T14:29:56.382253+00:00",
+ "generated": "2026-07-22T16:06:55.602841+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Japanese food logistics giant recovers as extortion group claims cyberattack",
+   "link": "https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery",
+   "desc": "Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.",
+   "image": "",
+   "date": "2026-07-22T15:40:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+   "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+   "desc": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help r",
+   "image": "",
+   "date": "2026-07-22T15:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
+   "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
+   "desc": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on Securi",
+   "image": "",
+   "date": "2026-07-22T15:02:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Palo Alto Networks to Acquire Observability Platform Provider Embrace",
+   "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/",
+   "desc": "Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability. The post Palo Alto Networks to Acquire Observability Platform Provider Embrace appeared first o",
+   "image": "",
+   "date": "2026-07-22T14:58:53+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft",
@@ -157,14 +189,6 @@
    "date": "2026-07-22T08:32:02+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
-   "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
-   "desc": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loos",
-   "image": "",
-   "date": "2026-07-22T07:48:49+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
@@ -293,14 +317,6 @@
    "date": "2026-07-21T18:38:52+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains",
-   "link": "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/",
-   "desc": "New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks. The post Trump Orders Defense Contractors to Map Softwa",
-   "image": "",
-   "date": "2026-07-21T18:16:09+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
    "link": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
@@ -389,14 +405,6 @@
    "date": "2026-07-21T13:00:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Kenya probes hack of president's website after bitcoin ransom demand",
-   "link": "https://therecord.media/kenya-probes-hack-of-presidents-website-after-ransom-demand",
-   "desc": "The website was hacked on Saturday, when its homepage was replaced with a message displaying a cryptocurrency wallet address and threatening to publish unspecified information about President William Ruto unless the rans",
-   "image": "",
-   "date": "2026-07-21T12:08:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
    "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
@@ -419,14 +427,6 @@
    "desc": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
    "image": "",
    "date": "2026-07-21T11:07:07+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-   "desc": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-   "image": "",
-   "date": "2026-07-21T10:12:24+00:00"
   },
   {
    "source": "SANS ISC",
