@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-22T05:50:03.620601+00:00",
+ "generated": "2026-07-22T07:39:59.622743+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+   "desc": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+   "image": "",
+   "date": "2026-07-22T06:40:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+   "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+   "desc": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digita",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg",
+   "date": "2026-07-22T06:00:06+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "OpenAI says its AI models hacked Hugging Face during testing",
@@ -11,6 +27,22 @@
    "desc": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
    "image": "",
    "date": "2026-07-22T05:19:20+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+   "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+   "desc": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg",
+   "date": "2026-07-22T04:57:52+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+   "desc": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
+   "date": "2026-07-22T04:18:33+00:00"
   },
   {
    "source": "SANS ISC",
@@ -397,14 +429,6 @@
    "date": "2026-07-20T21:38:18+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-   "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-   "desc": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings",
-   "image": "",
-   "date": "2026-07-20T21:14:42+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
    "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
@@ -451,30 +475,6 @@
    "desc": "&quot;The TFF Trap&quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bb343e182f4af3e/6a5e0b48c714ec6091e7ebc7/Phishing_ronstik_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-20T18:30:22+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-   "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-   "desc": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware fa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg",
-   "date": "2026-07-20T18:23:03+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-   "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-   "desc": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg",
-   "date": "2026-07-20T17:29:50+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-   "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-   "desc": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg",
-   "date": "2026-07-20T14:33:43+00:00"
   },
   {
    "source": "Dark Reading",
