@@ -1,9 +1,65 @@
 {
- "generated": "2026-07-22T12:08:31.950635+00:00",
+ "generated": "2026-07-22T14:29:56.382253+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft",
+   "link": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
+   "desc": "An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts. The post Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft appeared fi",
+   "image": "",
+   "date": "2026-07-22T14:22:31+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+   "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+   "desc": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, netwo",
+   "image": "",
+   "date": "2026-07-22T14:15:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover",
+   "link": "https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/",
+   "desc": "Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge. The post When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Ta",
+   "image": "",
+   "date": "2026-07-22T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
+   "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+   "desc": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
+   "image": "",
+   "date": "2026-07-22T13:22:20+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
+   "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
+   "desc": "The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform. The post StrongestLayer Raises $4.1 Million in Seed Funding Extension appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
+   "link": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
+   "desc": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues. The post Vibe-Coded Apps Riddled With Exploitable Security Flaws a",
+   "image": "",
+   "date": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+   "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+   "desc": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg",
+   "date": "2026-07-22T12:36:36+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "OpenAI models behind breach of Hugging Face systems, companies say",
@@ -11,6 +67,14 @@
    "desc": "OpenAI announced that its models were behind a breach of the AI platform Hugging Face, which had earlier detected an attack carried out by \"by an autonomous AI agent.\"",
    "image": "",
    "date": "2026-07-22T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The Fastest Path to AI Adoption Runs Through Security",
+   "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+   "desc": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg",
+   "date": "2026-07-22T11:58:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -21,10 +85,18 @@
    "date": "2026-07-22T11:43:28+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+   "desc": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
+   "date": "2026-07-22T11:30:02+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
    "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-   "desc": "European banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
+   "desc": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T11:30:00+00:00"
   },
@@ -133,14 +205,6 @@
    "date": "2026-07-22T04:57:52+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-   "desc": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
-   "date": "2026-07-22T04:18:33+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
    "link": "https://isc.sans.edu/diary/rss/33174",
@@ -237,14 +301,6 @@
    "date": "2026-07-21T18:16:09+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cisco Launches Low-Cost AI Models for Source Code Security",
-   "link": "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/",
-   "desc": "The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models. The post Cisco Launches Low-Cost AI Models for Source Code Security app",
-   "image": "",
-   "date": "2026-07-21T17:44:33+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
    "link": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
@@ -333,22 +389,6 @@
    "date": "2026-07-21T13:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Empirical Security Raises $25 Million in Series A Funding",
-   "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
-   "desc": "The startup will use the investment to accelerate the development of its threat prediction and discovery products. The post Empirical Security Raises $25 Million in Series A Funding appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-21T12:47:18+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
-   "link": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
-   "desc": "Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cyber",
-   "image": "",
-   "date": "2026-07-21T12:30:00+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Kenya probes hack of president's website after bitcoin ransom demand",
    "link": "https://therecord.media/kenya-probes-hack-of-presidents-website-after-ransom-demand",
@@ -365,28 +405,12 @@
    "date": "2026-07-21T11:58:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
-   "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
-   "desc": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication appeared first on Security",
-   "image": "",
-   "date": "2026-07-21T11:55:28+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
    "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
    "desc": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, a",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg",
    "date": "2026-07-21T11:42:23+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-   "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-   "desc": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, descri",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg",
-   "date": "2026-07-21T11:24:50+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -403,30 +427,6 @@
    "desc": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
    "image": "",
    "date": "2026-07-21T10:12:24+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-   "desc": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-   "image": "",
-   "date": "2026-07-21T09:05:50+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-   "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-   "desc": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg",
-   "date": "2026-07-21T08:59:30+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-   "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-   "desc": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-   "image": "",
-   "date": "2026-07-21T08:06:26+00:00"
   },
   {
    "source": "SANS ISC",
