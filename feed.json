@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-23T04:40:52.220625+00:00",
+ "generated": "2026-07-23T07:34:11.412574+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+   "desc": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-23T07:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
+   "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
+   "desc": "An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers. The post US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices ap",
+   "image": "",
+   "date": "2026-07-23T05:28:50+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
@@ -301,14 +317,6 @@
    "date": "2026-07-22T09:33:12+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
-   "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
-   "desc": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola&#8217;s Fairlife appeared first on Secur",
-   "image": "",
-   "date": "2026-07-22T08:32:02+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
@@ -531,14 +539,6 @@
    "desc": "&quot;The TFF Trap&quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bb343e182f4af3e/6a5e0b48c714ec6091e7ebc7/Phishing_ronstik_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-20T18:30:22+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cybersecurity Keeps Events 'Uneventful'",
-   "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-   "desc": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ca17cbbd6fe254a/6a5a72ee004f2c1000c2b123/crowd-Oleh_Slobodeniuk-getty-1447355262.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-20T14:00:00+00:00"
   },
   {
    "source": "SANS ISC",
