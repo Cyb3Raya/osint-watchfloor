@@ -1,16 +1,26 @@
 {
- "generated": "2026-07-23T17:50:42.807096+00:00",
- "sources_ok": 10,
+ "generated": "2026-07-23T19:23:03.242713+00:00",
+ "sources_ok": 9,
  "sources_total": 10,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
   {
-   "source": "RF The Record",
-   "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
-   "link": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
-   "desc": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
-   "image": "",
-   "date": "2026-07-23T16:58:00+00:00"
+   "source": "The Hacker News",
+   "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+   "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+   "desc": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email d",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg",
+   "date": "2026-07-23T18:36:08+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Don’t swing at everything",
+   "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
+   "desc": "Thorsten explores Q2 2026 stats, the artificial buffer zone of 2026, and why smart, prioritized patching is more critical than ever.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-2.jpg",
+   "date": "2026-07-23T18:00:46+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -29,18 +39,10 @@
    "date": "2026-07-23T16:32:35+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "State Department imposes visa restrictions on foreign cyber scammers",
-   "link": "https://therecord.media/visa-restrictions-cyber-scammers",
-   "desc": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
-   "image": "",
-   "date": "2026-07-23T16:29:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-   "desc": "Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]",
+   "desc": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
    "image": "",
    "date": "2026-07-23T15:34:43+00:00"
   },
@@ -115,14 +117,6 @@
    "desc": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s1600/claude.gif",
    "date": "2026-07-23T13:27:59+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Major Australian energy supplier confirms customer data compromised",
-   "link": "https://therecord.media/australia-origin-energy-data-breach",
-   "desc": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
-   "image": "",
-   "date": "2026-07-23T13:20:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -317,14 +311,6 @@
    "date": "2026-07-22T23:50:01+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
-   "link": "https://therecord.media/stadler-refuses-everest-ransom-demand",
-   "desc": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
-   "image": "",
-   "date": "2026-07-22T23:00:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
    "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
@@ -339,14 +325,6 @@
    "desc": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3487664d9c613ba9/6a61308f2c3e688b979308a0/ai_TSViPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T21:29:01+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
-   "link": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
-   "desc": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
-   "image": "",
-   "date": "2026-07-22T20:39:35+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -459,14 +437,6 @@
    "desc": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg",
    "date": "2026-07-22T11:58:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-   "desc": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
-   "date": "2026-07-22T11:30:02+00:00"
   },
   {
    "source": "Dark Reading",
@@ -843,14 +813,6 @@
    "desc": "Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. The post CL-STA-1062 Targets Southeast Asian Governments and ",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg",
    "date": "2026-06-25T22:00:52+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Beyond IOCs: AI-enabled threat intelligence",
-   "link": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
-   "desc": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/threat_source-3.jpg",
-   "date": "2026-06-25T18:00:26+00:00"
   },
   {
    "source": "Google GTIG",
