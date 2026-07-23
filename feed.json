@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-22T23:26:44.434036+00:00",
+ "generated": "2026-07-23T01:10:24.997571+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
+   "desc": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-23T01:00:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
@@ -539,14 +547,6 @@
    "desc": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our hone",
    "image": "",
    "date": "2026-07-19T15:00:38+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
-   "desc": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaaf936e441aafd2/6a5a7c032292771ec0f65c59/Wall-PM_Images-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-17T20:01:13+00:00"
   },
   {
    "source": "Unit 42",
