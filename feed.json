@@ -1,9 +1,65 @@
 {
- "generated": "2026-07-23T12:06:04.736792+00:00",
+ "generated": "2026-07-23T14:37:40.985237+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Russian Global Webmail Espionage",
+   "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
+   "desc": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg",
+   "date": "2026-07-23T14:10:53+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+   "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+   "desc": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how org",
+   "image": "",
+   "date": "2026-07-23T14:00:10+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
+   "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
+   "desc": "The latest investment round brings the total raised by Abstract to nearly $50 million. The post Abstract Raises $25 Million to Expand Composable Security Operations Platform appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-23T13:54:56+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33180",
+   "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
+   "image": "",
+   "date": "2026-07-23T13:40:27+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Major Australian energy supplier confirms customer data compromised",
+   "link": "https://therecord.media/australia-origin-energy-data-breach",
+   "desc": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+   "image": "",
+   "date": "2026-07-23T13:20:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+   "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+   "desc": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared fir",
+   "image": "",
+   "date": "2026-07-23T12:42:12+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "EU fines Google $1 billion for search, app store antitrust violations",
+   "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+   "desc": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
+   "image": "",
+   "date": "2026-07-23T12:33:19+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
@@ -261,14 +317,6 @@
    "date": "2026-07-22T16:59:17+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "New Kimsuky campaign compromised South Korean software vendors",
-   "link": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
-   "desc": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
-   "image": "",
-   "date": "2026-07-22T16:47:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
@@ -341,22 +389,6 @@
    "date": "2026-07-22T13:22:20+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
-   "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
-   "desc": "The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform. The post StrongestLayer Raises $4.1 Million in Seed Funding Extension appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-22T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
-   "link": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
-   "desc": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues. The post Vibe-Coded Apps Riddled With Exploitable Security Flaws a",
-   "image": "",
-   "date": "2026-07-22T13:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
    "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
@@ -421,14 +453,6 @@
    "date": "2026-07-22T10:44:52+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-   "desc": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
-   "image": "",
-   "date": "2026-07-22T06:40:29+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
    "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
@@ -443,14 +467,6 @@
    "desc": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digita",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg",
    "date": "2026-07-22T06:00:06+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI says its AI models hacked Hugging Face during testing",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-   "desc": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-   "image": "",
-   "date": "2026-07-22T05:19:20+00:00"
   },
   {
    "source": "The Hacker News",
@@ -627,14 +643,6 @@
    "desc": "Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/starlandrat.jpg",
    "date": "2026-07-16T10:00:01+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, July 16th, 2026 https://isc.sans.edu/podcastdetail/10010, (Thu, Jul 16th)",
-   "link": "https://isc.sans.edu/diary/rss/33160",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-16T02:40:10+00:00"
   },
   {
    "source": "Unit 42",
@@ -915,14 +923,6 @@
    "desc": "Written by: Patrick Whitsell, John McGuiness, Muhammad Umair Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, t",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/inifinitered-fig1.max-1000x1000.png",
    "date": "2026-06-15T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
-   "link": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
-   "desc": "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here. The post Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered appeare",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Listicle_Category_1505x922.jpg",
-   "date": "2026-06-12T22:00:14+00:00"
   },
   {
    "source": "Google GTIG",
