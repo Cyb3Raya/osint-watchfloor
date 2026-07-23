@@ -1,11 +1,25 @@
 {
- "generated": "2026-07-23T19:23:03.242713+00:00",
- "sources_ok": 9,
+ "generated": "2026-07-23T20:40:28.502440+00:00",
+ "sources_ok": 10,
  "sources_total": 10,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Australian energy provider Origin says data breach exposes client data",
+   "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+   "desc": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+   "image": "",
+   "date": "2026-07-23T20:14:35+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+   "desc": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+   "image": "",
+   "date": "2026-07-23T19:48:30+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
@@ -23,6 +37,14 @@
    "date": "2026-07-23T18:00:46+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+   "link": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+   "desc": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+   "image": "",
+   "date": "2026-07-23T16:58:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
@@ -37,6 +59,14 @@
    "desc": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
    "image": "",
    "date": "2026-07-23T16:32:35+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "State Department imposes visa restrictions on foreign cyber scammers",
+   "link": "https://therecord.media/visa-restrictions-cyber-scammers",
+   "desc": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
+   "image": "",
+   "date": "2026-07-23T16:29:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -117,6 +147,14 @@
    "desc": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s1600/claude.gif",
    "date": "2026-07-23T13:27:59+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Major Australian energy supplier confirms customer data compromised",
+   "link": "https://therecord.media/australia-origin-energy-data-breach",
+   "desc": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+   "image": "",
+   "date": "2026-07-23T13:20:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -311,6 +349,14 @@
    "date": "2026-07-22T23:50:01+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
+   "link": "https://therecord.media/stadler-refuses-everest-ransom-demand",
+   "desc": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
+   "image": "",
+   "date": "2026-07-22T23:00:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
    "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
@@ -325,6 +371,14 @@
    "desc": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3487664d9c613ba9/6a61308f2c3e688b979308a0/ai_TSViPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T21:29:01+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
+   "link": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
+   "desc": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
+   "image": "",
+   "date": "2026-07-22T20:39:35+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -405,22 +459,6 @@
    "desc": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg",
    "date": "2026-07-22T15:01:21+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-   "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-   "desc": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, netwo",
-   "image": "",
-   "date": "2026-07-22T14:15:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-   "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-   "desc": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
-   "image": "",
-   "date": "2026-07-22T13:22:20+00:00"
   },
   {
    "source": "The Hacker News",
