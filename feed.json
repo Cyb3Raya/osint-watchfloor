@@ -1,9 +1,41 @@
 {
- "generated": "2026-07-23T16:14:13.010190+00:00",
+ "generated": "2026-07-23T17:50:42.807096+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+   "link": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+   "desc": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+   "image": "",
+   "date": "2026-07-23T16:58:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+   "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+   "desc": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploit",
+   "image": "",
+   "date": "2026-07-23T16:49:27+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+   "desc": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+   "image": "",
+   "date": "2026-07-23T16:32:35+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "State Department imposes visa restrictions on foreign cyber scammers",
+   "link": "https://therecord.media/visa-restrictions-cyber-scammers",
+   "desc": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
+   "image": "",
+   "date": "2026-07-23T16:29:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
@@ -19,6 +51,14 @@
    "desc": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider a",
    "image": "",
    "date": "2026-07-23T15:09:59+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+   "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+   "desc": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in ope",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s1600/th.jpg",
+   "date": "2026-07-23T15:02:07+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -262,7 +302,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
+   "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
    "desc": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -325,14 +365,6 @@
    "date": "2026-07-22T19:42:42+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Federal agencies broaden alert on Iran-linked OT attacks",
-   "link": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
-   "desc": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
-   "image": "",
-   "date": "2026-07-22T19:18:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
    "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
@@ -347,14 +379,6 @@
    "desc": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target e",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg",
    "date": "2026-07-22T18:07:16+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "French Parliament greenlights social media ban for under-15s",
-   "link": "https://therecord.media/france-social-media-ban-parliament",
-   "desc": "Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.",
-   "image": "",
-   "date": "2026-07-22T18:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -437,14 +461,6 @@
    "date": "2026-07-22T11:58:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. ",
-   "image": "",
-   "date": "2026-07-22T11:43:28+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
    "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
@@ -459,22 +475,6 @@
    "desc": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T11:30:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Why Modern SOCs Need Multi-Layered Detections",
-   "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-   "desc": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_BCT5VYzHAi2ZYmYF84NAe3JitSR-U0uk4JZeuJf-hgHgwMXRj1_44z0DfwmtHqFZMxeEYGHR4AlvuIe-_4oAGvQlVnCm9peV1-H0nZ__XbPIcKlz_7RxoPuR7C2IMBZ7B27ABzkk9Zv08DOaKAefwt72n8H0WBP8Z8TBajQwEzBt10hFwE3-70o0A5V/s1600/corelight.jpg",
-   "date": "2026-07-22T11:25:35+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-   "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-   "desc": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a single p",
-   "image": "",
-   "date": "2026-07-22T11:09:16+00:00"
   },
   {
    "source": "SANS ISC",
