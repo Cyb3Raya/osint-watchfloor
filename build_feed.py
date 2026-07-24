@@ -8,6 +8,8 @@ from datetime import datetime, timezone
 import feedparser
 import requests
 
+_year = datetime.now().year
+
 FEEDS = [
     ("SANS ISC",          "https://isc.sans.edu/rssfeed.xml"),
     ("The Hacker News",   "https://feeds.feedburner.com/TheHackersNews"),
@@ -19,7 +21,7 @@ FEEDS = [
     ("Unit 42",           "https://unit42.paloaltonetworks.com/feed/"),
     ("Google GTIG",       "https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/"),
     ("RF The Record",     "https://therecord.media/feed"),
-
+    ("IC3 PSA",           "https://www.ic3.gov/PSA/RSS"),
 ]
 
 MAX_PER_FEED = 15
