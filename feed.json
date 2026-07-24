@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-24T21:32:14.269663+00:00",
- "sources_ok": 10,
- "sources_total": 10,
+ "generated": "2026-07-24T21:55:41.290209+00:00",
+ "sources_ok": 11,
+ "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+   "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+   "desc": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-24T21:31:53+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "OnTrac notifies customers of data breach after network hack",
@@ -565,14 +573,6 @@
    "date": "2026-07-21T21:48:05+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task",
-   "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
-   "desc": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-21T21:27:37+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Captive Portal Detection, (Tue, Jul 21st)",
    "link": "https://isc.sans.edu/diary/rss/33172",
@@ -595,6 +595,14 @@
    "desc": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress pl",
    "image": "",
    "date": "2026-07-20T18:41:24+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "FBI Warns of Scammers Impersonating the IC3",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260720",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-20T14:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -853,6 +861,14 @@
    "date": "2026-06-26T19:05:33+00:00"
   },
   {
+   "source": "IC3 PSA",
+   "title": "Russian Intelligence Services Continue to Target Commercial Messaging Applications",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260626",
+   "desc": "",
+   "image": "",
+   "date": "2026-06-26T16:30:00+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
    "link": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/",
@@ -909,6 +925,22 @@
    "date": "2026-06-18T17:37:58+00:00"
   },
   {
+   "source": "IC3 PSA",
+   "title": "Cyber Criminals Redirecting Users to Fraudulent Websites with Malicious Traffic Distribution Systems",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260618",
+   "desc": "",
+   "image": "",
+   "date": "2026-06-18T14:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Protect Your Property from Illegal Sales Through Parcel Owner Impersonation",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260616",
+   "desc": "",
+   "image": "",
+   "date": "2026-06-16T14:00:00+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
    "link": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
@@ -930,6 +962,14 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
    "desc": "Written by: Patrick Whitsell, John McGuiness, Muhammad Umair Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, t",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/inifinitered-fig1.max-1000x1000.png",
+   "date": "2026-06-15T14:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Scammers Use Couriers to Collect Cash in Cryptocurrency Investment Scams",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260615",
+   "desc": "",
+   "image": "",
    "date": "2026-06-15T14:00:00+00:00"
   },
   {
