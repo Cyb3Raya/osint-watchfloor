@@ -1,9 +1,41 @@
 {
- "generated": "2026-07-24T11:14:37.833238+00:00",
+ "generated": "2026-07-24T12:49:35.400384+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
+   "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
+   "desc": "The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital. The post AegisAI Raises $36 Million for AI-Powered Email Security appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-24T12:01:18+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+   "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+   "desc": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we eve",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg",
+   "date": "2026-07-24T11:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
+   "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
+   "desc": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone. The post Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday appeared ",
+   "image": "",
+   "date": "2026-07-24T11:19:46+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+   "desc": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
+   "image": "",
+   "date": "2026-07-24T11:17:19+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
@@ -365,14 +397,6 @@
    "date": "2026-07-23T09:20:10+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
-   "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
-   "desc": "The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations. The post New Check Point Zero-Day Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-23T09:06:04+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
@@ -395,22 +419,6 @@
    "desc": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-23T07:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-   "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-   "desc": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg",
-   "date": "2026-07-23T06:34:36+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
-   "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
-   "desc": "An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers. The post US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices ap",
-   "image": "",
-   "date": "2026-07-23T05:28:50+00:00"
   },
   {
    "source": "SANS ISC",
@@ -467,14 +475,6 @@
    "desc": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
    "image": "",
    "date": "2026-07-22T20:39:35+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "South Korea discloses data breach impacting diplomats worldwide",
-   "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-   "desc": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Aff",
-   "image": "",
-   "date": "2026-07-22T20:06:54+00:00"
   },
   {
    "source": "Dark Reading",
