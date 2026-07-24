@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-24T03:49:40.981077+00:00",
+ "generated": "2026-07-24T06:28:34.768067+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
+   "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
+   "desc": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityW",
+   "image": "",
+   "date": "2026-07-24T05:52:31+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
@@ -320,7 +328,7 @@
    "source": "The Hacker News",
    "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
    "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-   "desc": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default i",
+   "desc": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default insta",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg",
    "date": "2026-07-23T08:04:35+00:00"
   },
@@ -459,14 +467,6 @@
    "desc": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T15:53:47+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
-   "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
-   "desc": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on Securi",
-   "image": "",
-   "date": "2026-07-22T15:02:11+00:00"
   },
   {
    "source": "The Hacker News",
