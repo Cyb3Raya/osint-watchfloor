@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-24T00:14:42.759895+00:00",
+ "generated": "2026-07-24T03:49:40.981077+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
+   "link": "https://isc.sans.edu/diary/rss/33182",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-24T02:00:02+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
@@ -603,14 +611,6 @@
    "desc": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access. The post Three Steps to the Terminal: A Siemens ROX II Zero-Day Tri",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Vulnerabilities_1920x900.jpg",
    "date": "2026-07-17T10:00:24+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33162",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-17T02:00:02+00:00"
   },
   {
    "source": "Unit 42",
