@@ -1,10 +1,8 @@
 {
- "generated": "2026-07-24T20:00:21.071476+00:00",
- "sources_ok": 9,
+ "generated": "2026-07-24T21:32:14.269663+00:00",
+ "sources_ok": 10,
  "sources_total": 10,
- "failed": [
-  "SANS ISC"
- ],
+ "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
@@ -13,6 +11,14 @@
    "desc": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
    "image": "",
    "date": "2026-07-24T19:55:01+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+   "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+   "desc": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3f49df1dd4f34a3/6a63a44a4fedb59e30067233/road-block-detour-signs-JJ_Gouin-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-24T19:45:02+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -239,6 +245,14 @@
    "date": "2026-07-24T05:52:31+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
+   "link": "https://isc.sans.edu/diary/rss/33182",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-24T02:00:02+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
@@ -375,6 +389,14 @@
    "date": "2026-07-23T13:54:56+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33180",
+   "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
+   "image": "",
+   "date": "2026-07-23T13:40:27+00:00"
+  },
+  {
    "source": "The Hacker News",
    "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
    "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
@@ -455,6 +477,14 @@
    "date": "2026-07-23T07:00:00+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33178",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-23T02:00:03+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
@@ -487,6 +517,14 @@
    "date": "2026-07-22T19:42:42+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33176",
+   "desc": "This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
+   "image": "",
+   "date": "2026-07-22T17:35:33+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
@@ -501,6 +539,14 @@
    "desc": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T11:30:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33174",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-22T02:00:02+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -527,12 +573,44 @@
    "date": "2026-07-21T21:27:37+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
-   "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
-   "desc": "A Russian-speaking actor, &quot;Trim,&quot; dismantled publicly available frontier models and integrated them with offensive security tools.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt706caa609307b368/6a5f71562729a47d3c4a2149/AI_(1800)_Techa_Tungateja_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-07-21T18:38:52+00:00"
+   "source": "SANS ISC",
+   "title": "Captive Portal Detection, (Tue, Jul 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33172",
+   "desc": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
+   "image": "",
+   "date": "2026-07-21T13:44:56+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33170",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-21T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33168",
+   "desc": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress pl",
+   "image": "",
+   "date": "2026-07-20T18:41:24+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33166",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-20T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
+   "link": "https://isc.sans.edu/diary/rss/33164",
+   "desc": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our hone",
+   "image": "",
+   "date": "2026-07-19T15:00:38+00:00"
   },
   {
    "source": "Unit 42",
