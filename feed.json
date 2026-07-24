@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-24T16:50:26.582109+00:00",
+ "generated": "2026-07-24T18:20:36.717756+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+   "desc": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+   "image": "",
+   "date": "2026-07-24T17:50:37+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
+   "link": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
+   "desc": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
+   "image": "",
+   "date": "2026-07-24T17:14:00+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "'Wrench' attacks against crypto holders appear to be on the rise",
@@ -413,14 +429,6 @@
    "date": "2026-07-23T12:20:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-   "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-   "desc": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-   "image": "",
-   "date": "2026-07-23T11:40:16+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Agentic AI Challenges Progress in Confidential Computing",
    "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
@@ -483,14 +491,6 @@
    "desc": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9550e8ba7752b437/6a5a40aa4a830941d7bdad92/GettyImages-147261287.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T23:50:01+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
-   "link": "https://therecord.media/stadler-refuses-everest-ransom-demand",
-   "desc": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
-   "image": "",
-   "date": "2026-07-22T23:00:00+00:00"
   },
   {
    "source": "Dark Reading",
