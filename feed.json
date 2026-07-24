@@ -1,9 +1,27 @@
 {
- "generated": "2026-07-24T18:20:36.717756+00:00",
- "sources_ok": 10,
+ "generated": "2026-07-24T20:00:21.071476+00:00",
+ "sources_ok": 9,
  "sources_total": 10,
- "failed": [],
+ "failed": [
+  "SANS ISC"
+ ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OnTrac notifies customers of data breach after network hack",
+   "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+   "desc": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+   "image": "",
+   "date": "2026-07-24T19:55:01+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+   "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+   "desc": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+   "image": "",
+   "date": "2026-07-24T19:09:09+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
@@ -221,14 +239,6 @@
    "date": "2026-07-24T05:52:31+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33182",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-24T02:00:02+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
@@ -357,28 +367,12 @@
    "date": "2026-07-23T14:10:53+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-   "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-   "desc": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how org",
-   "image": "",
-   "date": "2026-07-23T14:00:10+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
    "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
    "desc": "The latest investment round brings the total raised by Abstract to nearly $50 million. The post Abstract Raises $25 Million to Expand Composable Security Operations Platform appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-07-23T13:54:56+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33180",
-   "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
-   "image": "",
-   "date": "2026-07-23T13:40:27+00:00"
   },
   {
    "source": "The Hacker News",
@@ -411,14 +405,6 @@
    "desc": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared fir",
    "image": "",
    "date": "2026-07-23T12:42:12+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "EU fines Google $1 billion for search, app store antitrust violations",
-   "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
-   "desc": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
-   "image": "",
-   "date": "2026-07-23T12:33:19+00:00"
   },
   {
    "source": "The Hacker News",
@@ -469,14 +455,6 @@
    "date": "2026-07-23T07:00:00+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33178",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-23T02:00:03+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
@@ -509,14 +487,6 @@
    "date": "2026-07-22T19:42:42+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33176",
-   "desc": "This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
-   "image": "",
-   "date": "2026-07-22T17:35:33+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
@@ -531,14 +501,6 @@
    "desc": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T11:30:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33174",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-22T02:00:02+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -571,46 +533,6 @@
    "desc": "A Russian-speaking actor, &quot;Trim,&quot; dismantled publicly available frontier models and integrated them with offensive security tools.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt706caa609307b368/6a5f71562729a47d3c4a2149/AI_(1800)_Techa_Tungateja_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-21T18:38:52+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Captive Portal Detection, (Tue, Jul 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33172",
-   "desc": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
-   "image": "",
-   "date": "2026-07-21T13:44:56+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33170",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-21T02:00:02+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33168",
-   "desc": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress pl",
-   "image": "",
-   "date": "2026-07-20T18:41:24+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33166",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-20T02:00:02+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
-   "link": "https://isc.sans.edu/diary/rss/33164",
-   "desc": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our hone",
-   "image": "",
-   "date": "2026-07-19T15:00:38+00:00"
   },
   {
    "source": "Unit 42",
