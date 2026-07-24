@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-24T09:08:47.988681+00:00",
+ "generated": "2026-07-24T11:14:37.833238+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+   "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+   "desc": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg",
+   "date": "2026-07-24T10:15:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+   "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+   "desc": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public d",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6m42WBQBHda1ntTqYkaxPyEiKYjc2xnTFIawfUcAxMuYQ_HtOz3ebO0HTtt3qyhUIIg8NB8W92WIfldPiOjZKCY1_aTGfgWq2NnZOhrgoU_Z8y8rtfVxCdJuc1QL94IcLm0IF_h-euFZydB5Qc8z4ifT-lx84glPyRnfTX8-R31O_0aswgRZR0uUTxs1/s1600/malwares.jpg",
+   "date": "2026-07-24T10:09:24+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
@@ -467,22 +483,6 @@
    "desc": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbfd2abd92ce58654/6a611f6de7ebfc13d44d6387/Bahrain_Manama_Skyline-trabantos-Getty-1140901617.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T19:42:42+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-   "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-   "desc": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg",
-   "date": "2026-07-22T18:37:42+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-   "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-   "desc": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target e",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg",
-   "date": "2026-07-22T18:07:16+00:00"
   },
   {
    "source": "SANS ISC",
