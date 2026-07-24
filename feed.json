@@ -1,9 +1,49 @@
 {
- "generated": "2026-07-24T06:28:34.768067+00:00",
+ "generated": "2026-07-24T09:08:47.988681+00:00",
  "sources_ok": 10,
  "sources_total": 10,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+   "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+   "desc": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1600/nodebb.jpg",
+   "date": "2026-07-24T07:41:06+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+   "desc": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+   "image": "",
+   "date": "2026-07-24T07:36:39+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
+   "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
+   "desc": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-24T07:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+   "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+   "desc": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg",
+   "date": "2026-07-24T06:58:27+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+   "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+   "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg",
+   "date": "2026-07-24T06:50:57+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
@@ -57,7 +97,7 @@
    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
    "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
    "desc": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email d",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkCZuPeRyg1ChSuRUngYAxHTfN5dCHgGrSaCg3hA40XvmX2vRmKxgGJ7Pzli72_i9XK9XgCQhhRNK5dE3XJ_EklUH_Nzoqx4YLy7NeKSHB4RCd4KkdhrCB1vdEEcGsgnzumTMwi3_J4BxsGc3t0pjb2mhjkHfBcF5PDUqTe9F0wZPaC94Y6AwMXICZ9E/s1600/zimbra-exploit.jpg",
    "date": "2026-07-23T18:36:08+00:00"
   },
   {
@@ -453,44 +493,12 @@
    "date": "2026-07-22T17:35:33+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-   "desc": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
-   "image": "",
-   "date": "2026-07-22T16:59:17+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
    "desc": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-22T15:53:47+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-   "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-   "desc": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg",
-   "date": "2026-07-22T15:01:21+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-   "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-   "desc": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg",
-   "date": "2026-07-22T12:36:36+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Fastest Path to AI Adoption Runs Through Security",
-   "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-   "desc": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg",
-   "date": "2026-07-22T11:58:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -571,14 +579,6 @@
    "desc": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1df0898ba4c4a15/6a5e837c6c884d291eb9cdc9/wordpress_Silver_Wings_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-20T21:38:18+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-   "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-   "desc": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb30ebf99943f9f9a/6a5e0e8c81d46ac05c6bf14f/llms-rawintanpin-Getty-2224684603.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-20T20:26:56+00:00"
   },
   {
    "source": "SANS ISC",
