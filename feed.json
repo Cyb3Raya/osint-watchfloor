@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-25T06:20:53.482770+00:00",
+ "generated": "2026-07-25T08:36:25.970656+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+   "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
+   "desc": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-07-25T08:30:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "CISOs vs. Boards: Myth or Misunderstanding?",
@@ -451,14 +459,6 @@
    "desc": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e62e39ece6ef685/656a984ef3b292040a878813/confidentialai-everything_possible-alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-23T11:17:51+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
-   "link": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
-   "desc": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-23T10:49:10+00:00"
   },
   {
    "source": "Cisco Talos",
