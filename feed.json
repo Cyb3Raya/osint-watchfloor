@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-25T14:38:53.528190+00:00",
+ "generated": "2026-07-25T15:46:36.518677+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Malicious sites use JavaScript to build malware in browser memory",
+   "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+   "desc": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+   "image": "",
+   "date": "2026-07-25T15:21:09+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
@@ -371,14 +379,6 @@
    "desc": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
    "image": "",
    "date": "2026-07-23T16:58:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-   "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-   "desc": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploit",
-   "image": "",
-   "date": "2026-07-23T16:49:27+00:00"
   },
   {
    "source": "RF The Record",
