@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-25T08:36:25.970656+00:00",
+ "generated": "2026-07-25T10:15:51.722914+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI confirms ChatGPT is down worldwide",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+   "desc": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+   "image": "",
+   "date": "2026-07-25T09:31:09+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+   "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+   "desc": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif",
+   "date": "2026-07-25T08:34:15+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
@@ -349,14 +365,6 @@
    "date": "2026-07-23T16:29:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-   "desc": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-   "image": "",
-   "date": "2026-07-23T15:34:43+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
    "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
@@ -443,14 +451,6 @@
    "desc": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared fir",
    "image": "",
    "date": "2026-07-23T12:42:12+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-   "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-   "desc": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a pre",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rvCSGHVd2nngnpcdcc8Eh-QFaxQrcyegoSIPhUeTpr5qrGHcHYIstDAj08yLDeYcNZkZ26Ta53fdYefY8NjW8MprrOL4lQ4VnDCMpBrsrSQccyUipoC3VvFtMNUxUpUzOYra58WqjRwn952-fvzZLpXtgeY8Ao660YY49FaqcTTjBrDN_DsFFnsftJ8/s1600/malware-attack.jpg",
-   "date": "2026-07-23T12:20:23+00:00"
   },
   {
    "source": "Dark Reading",
