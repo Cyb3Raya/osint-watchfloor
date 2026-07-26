@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-26T14:02:57.752532+00:00",
+ "generated": "2026-07-26T15:33:40.681436+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
+   "link": "https://isc.sans.edu/diary/rss/33184",
+   "desc": "ESAFENET&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and ",
+   "image": "",
+   "date": "2026-07-26T15:26:14+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+   "desc": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+   "image": "",
+   "date": "2026-07-26T14:13:39+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
@@ -357,14 +373,6 @@
    "date": "2026-07-23T21:20:34+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Australian energy provider Origin says data breach exposes client data",
-   "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-   "desc": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-   "image": "",
-   "date": "2026-07-23T20:14:35+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Don’t swing at everything",
    "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
@@ -611,14 +619,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-20T02:00:02+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)",
-   "link": "https://isc.sans.edu/diary/rss/33164",
-   "desc": "We have been following issues with Hikvision cameras for a long, long time. Like many similar products, Hikvision cameras have a long history of vulnerabilities and are often targeted by internet-wide scans that our hone",
-   "image": "",
-   "date": "2026-07-19T15:00:38+00:00"
   },
   {
    "source": "Unit 42",
