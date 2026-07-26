@@ -1,10 +1,8 @@
 {
- "generated": "2026-07-26T20:26:57.246237+00:00",
- "sources_ok": 10,
+ "generated": "2026-07-26T21:36:16.609021+00:00",
+ "sources_ok": 11,
  "sources_total": 11,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
   {
    "source": "SANS ISC",
@@ -149,6 +147,22 @@
    "desc": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
    "image": "",
    "date": "2026-07-24T17:50:37+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
+   "link": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
+   "desc": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
+   "image": "",
+   "date": "2026-07-24T17:14:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "'Wrench' attacks against crypto holders appear to be on the rise",
+   "link": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
+   "desc": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
+   "image": "",
+   "date": "2026-07-24T15:55:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -367,6 +381,22 @@
    "date": "2026-07-23T18:00:46+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+   "link": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+   "desc": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+   "image": "",
+   "date": "2026-07-23T16:58:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "State Department imposes visa restrictions on foreign cyber scammers",
+   "link": "https://therecord.media/visa-restrictions-cyber-scammers",
+   "desc": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
+   "image": "",
+   "date": "2026-07-23T16:29:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
    "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
@@ -413,6 +443,14 @@
    "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
    "image": "",
    "date": "2026-07-23T13:40:27+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Major Australian energy supplier confirms customer data compromised",
+   "link": "https://therecord.media/australia-origin-energy-data-breach",
+   "desc": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+   "image": "",
+   "date": "2026-07-23T13:20:00+00:00"
   },
   {
    "source": "SecurityWeek",
