@@ -1,9 +1,49 @@
 {
- "generated": "2026-07-27T19:59:48.471340+00:00",
+ "generated": "2026-07-27T21:20:35.698288+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+   "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+   "desc": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+   "image": "",
+   "date": "2026-07-27T21:08:15+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+   "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+   "desc": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+   "image": "",
+   "date": "2026-07-27T21:00:25+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+   "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+   "desc": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt858353272bfe1d66/6a67aa58d69290224aaaac5a/confusedeputy-sjharmon-Getty-174844180.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-27T20:57:26+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Outdated VPNs should be purged from federal agencies, senator says",
+   "link": "https://therecord.media/federal-purge-outdated-vpns-wyden-letter",
+   "desc": "Intelligence Committee member Ron Wyden wants CISA, OMB and NIST to lead a federal effort to rout out obsolete VPNs from the U.S. government.",
+   "image": "",
+   "date": "2026-07-27T20:45:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+   "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+   "desc": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1369910f8c4361ac/6a67667e18998400d30c8d1e/FBIhoody_jvphoto_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-07-27T20:33:29+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
@@ -381,36 +421,12 @@
    "date": "2026-07-24T17:50:37+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
-   "link": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
-   "desc": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
-   "image": "",
-   "date": "2026-07-24T17:14:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
    "desc": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [..",
    "image": "",
    "date": "2026-07-24T15:41:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Chick-fil-A data breach affects more than 13,000 customers",
-   "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-   "desc": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-   "image": "",
-   "date": "2026-07-24T14:04:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-   "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-   "desc": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verifica",
-   "image": "",
-   "date": "2026-07-24T14:01:11+00:00"
   },
   {
    "source": "Google GTIG",
@@ -563,22 +579,6 @@
    "desc": "This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
    "image": "",
    "date": "2026-07-22T17:35:33+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
-   "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-   "desc": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-22T15:53:47+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
-   "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-   "desc": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-22T11:30:00+00:00"
   },
   {
    "source": "SANS ISC",
