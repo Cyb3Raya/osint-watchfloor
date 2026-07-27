@@ -1,9 +1,49 @@
 {
- "generated": "2026-07-27T06:51:41.390592+00:00",
+ "generated": "2026-07-27T10:45:14.344070+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
+   "link": "https://isc.sans.edu/diary/rss/33188",
+   "desc": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current sta",
+   "image": "",
+   "date": "2026-07-27T10:04:51+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
+   "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
+   "desc": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on Secu",
+   "image": "",
+   "date": "2026-07-27T10:02:41+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
+   "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
+   "desc": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-27T09:34:12+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+   "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+   "desc": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg",
+   "date": "2026-07-27T08:48:47+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+   "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+   "desc": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg",
+   "date": "2026-07-27T08:01:23+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "MCBS Data Breach Affects 1.2 Million Individuals",
@@ -325,14 +365,6 @@
    "date": "2026-07-24T10:09:24+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-   "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-   "desc": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1600/nodebb.jpg",
-   "date": "2026-07-24T07:41:06+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
    "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
@@ -347,14 +379,6 @@
    "desc": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-24T07:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-   "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-   "desc": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg",
-   "date": "2026-07-24T06:58:27+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -429,28 +453,12 @@
    "date": "2026-07-23T15:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
-   "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
-   "desc": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-23T14:55:19+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Russian Global Webmail Espionage",
    "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
    "desc": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg",
    "date": "2026-07-23T14:10:53+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
-   "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
-   "desc": "The latest investment round brings the total raised by Abstract to nearly $50 million. The post Abstract Raises $25 Million to Expand Composable Security Operations Platform appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-23T13:54:56+00:00"
   },
   {
    "source": "SANS ISC",
@@ -603,14 +611,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-21T02:00:02+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33168",
-   "desc": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress pl",
-   "image": "",
-   "date": "2026-07-20T18:41:24+00:00"
   },
   {
    "source": "IC3 PSA",
