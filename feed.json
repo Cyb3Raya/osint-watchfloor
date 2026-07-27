@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-27T03:28:24.828174+00:00",
+ "generated": "2026-07-27T06:51:41.390592+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "MCBS Data Breach Affects 1.2 Million Individuals",
+   "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
+   "desc": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-27T04:51:32+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
@@ -459,14 +467,6 @@
    "desc": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
    "image": "",
    "date": "2026-07-23T13:20:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
-   "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
-   "desc": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared fir",
-   "image": "",
-   "date": "2026-07-23T12:42:12+00:00"
   },
   {
    "source": "Dark Reading",
