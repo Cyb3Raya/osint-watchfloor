@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-27T22:40:17.974907+00:00",
+ "generated": "2026-07-27T23:46:31.295651+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+   "desc": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
+   "image": "",
+   "date": "2026-07-27T22:49:44+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
@@ -419,14 +427,6 @@
    "desc": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
    "image": "",
    "date": "2026-07-24T17:50:37+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-   "desc": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [..",
-   "image": "",
-   "date": "2026-07-24T15:41:44+00:00"
   },
   {
    "source": "Google GTIG",
