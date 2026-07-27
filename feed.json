@@ -1,9 +1,97 @@
 {
- "generated": "2026-07-27T10:45:14.344070+00:00",
+ "generated": "2026-07-27T13:40:33.887412+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+   "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+   "desc": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-27T13:19:30+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+   "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+   "desc": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw whil",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg",
+   "date": "2026-07-27T13:05:15+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+   "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+   "desc": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Window",
+   "image": "",
+   "date": "2026-07-27T13:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+   "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+   "desc": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg",
+   "date": "2026-07-27T12:37:49+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+   "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+   "desc": "The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents. The post Nvidia and Tech Giants Launch AI Security Alliance appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-27T12:25:43+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hackers used autonomous AI agent to spy on Thailand's finance ministry",
+   "link": "https://therecord.media/thailand-hackers-ai-finance-ministry",
+   "desc": "Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.",
+   "image": "",
+   "date": "2026-07-27T12:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+   "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+   "desc": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-27T11:29:03+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
+   "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
+   "desc": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-27T11:06:24+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
+   "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
+   "desc": "The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks. The post What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out ",
+   "image": "",
+   "date": "2026-07-27T11:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+   "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+   "desc": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg",
+   "date": "2026-07-27T10:51:45+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
+   "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
+   "desc": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first o",
+   "image": "",
+   "date": "2026-07-27T10:50:19+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
@@ -157,14 +245,6 @@
    "date": "2026-07-25T09:31:09+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-   "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-   "desc": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-07-25T08:30:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISOs vs. Boards: Myth or Misunderstanding?",
    "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
@@ -237,14 +317,6 @@
    "date": "2026-07-24T15:12:35+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-   "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-   "desc": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: ",
-   "image": "",
-   "date": "2026-07-24T14:20:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
    "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
@@ -301,14 +373,6 @@
    "date": "2026-07-24T12:48:16+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
-   "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
-   "desc": "The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital. The post AegisAI Raises $36 Million for AI-Powered Email Security appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-24T12:01:18+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
    "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
@@ -325,44 +389,12 @@
    "date": "2026-07-24T11:45:17+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-   "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-   "desc": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we eve",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg",
-   "date": "2026-07-24T11:30:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
-   "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
-   "desc": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone. The post Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday appeared ",
-   "image": "",
-   "date": "2026-07-24T11:19:46+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Man gets six years for hacking 750 women's Snapchat accounts",
    "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
    "desc": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
    "image": "",
    "date": "2026-07-24T11:17:19+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-   "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-   "desc": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg",
-   "date": "2026-07-24T10:15:29+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-   "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-   "desc": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public d",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6m42WBQBHda1ntTqYkaxPyEiKYjc2xnTFIawfUcAxMuYQ_HtOz3ebO0HTtt3qyhUIIg8NB8W92WIfldPiOjZKCY1_aTGfgWq2NnZOhrgoU_Z8y8rtfVxCdJuc1QL94IcLm0IF_h-euFZydB5Qc8z4ifT-lx84glPyRnfTX8-R31O_0aswgRZR0uUTxs1/s1600/malwares.jpg",
-   "date": "2026-07-24T10:09:24+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -379,14 +411,6 @@
    "desc": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-24T07:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
-   "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
-   "desc": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityW",
-   "image": "",
-   "date": "2026-07-24T05:52:31+00:00"
   },
   {
    "source": "SANS ISC",
@@ -437,22 +461,6 @@
    "date": "2026-07-23T16:29:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
-   "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
-   "desc": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider a",
-   "image": "",
-   "date": "2026-07-23T15:09:59+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-   "link": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-   "desc": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the Pos",
-   "image": "",
-   "date": "2026-07-23T15:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Russian Global Webmail Espionage",
    "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
@@ -467,14 +475,6 @@
    "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
    "image": "",
    "date": "2026-07-23T13:40:27+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Major Australian energy supplier confirms customer data compromised",
-   "link": "https://therecord.media/australia-origin-energy-data-breach",
-   "desc": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
-   "image": "",
-   "date": "2026-07-23T13:20:00+00:00"
   },
   {
    "source": "Dark Reading",
