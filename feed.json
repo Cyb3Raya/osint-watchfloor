@@ -1,12 +1,52 @@
 {
- "generated": "2026-07-27T16:23:55.352094+00:00",
+ "generated": "2026-07-27T18:12:16.853109+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
   {
    "source": "RF The Record",
-   "title": "Hackers used Telegram phishing campaign to target exiled Belarusian activist",
+   "title": "UK court rejects Bahrain immunity claim in spyware case",
+   "link": "https://therecord.media/uk-court-rejects-bahrain-immunity-claim-spyware-case",
+   "desc": "The alleged hacking by officials in Bahrain “allowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers’ microphones and came",
+   "image": "",
+   "date": "2026-07-27T17:52:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Health system in South Carolina, Georgia closes offices after malware affects networks",
+   "link": "https://therecord.media/health-system-south-carolina-georgia-disruptions-malware",
+   "desc": "On Sunday, AnMed published a statement online saying they were “experiencing a cybersecurity disruption involving malware” and were working to restore systems and determine the scope of the incident.",
+   "image": "",
+   "date": "2026-07-27T17:38:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+   "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+   "desc": "Confidence in autonomous security tools is declining, and here's why.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b631ddb7cee0fa/6a67994ec60e8f44ee7ac204/rulebook-filo-Getty-2256745097.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-27T17:31:18+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+   "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+   "desc": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+   "image": "",
+   "date": "2026-07-27T17:29:07+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+   "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+   "desc": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg",
+   "date": "2026-07-27T17:16:28+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
    "link": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
    "desc": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan.",
    "image": "",
@@ -341,14 +381,6 @@
    "date": "2026-07-24T17:14:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-   "link": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-   "desc": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-   "image": "",
-   "date": "2026-07-24T15:55:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -363,14 +395,6 @@
    "desc": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platform",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg",
    "date": "2026-07-24T15:12:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-   "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-   "desc": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg",
-   "date": "2026-07-24T14:15:21+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -403,14 +427,6 @@
    "desc": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf219cccb8d006239/6a62178fd61e3e49c64c9e23/Catholic-gelmold-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-24T13:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-   "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-   "desc": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-   "image": "",
-   "date": "2026-07-24T12:56:53+00:00"
   },
   {
    "source": "Dark Reading",
@@ -451,14 +467,6 @@
    "desc": "Thorsten explores Q2 2026 stats, the artificial buffer zone of 2026, and why smart, prioritized patching is more critical than ever.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-2.jpg",
    "date": "2026-07-23T18:00:46+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
-   "link": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
-   "desc": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
-   "image": "",
-   "date": "2026-07-23T16:58:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -587,14 +595,6 @@
    "desc": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after ",
    "image": "",
    "date": "2026-07-22T01:10:38+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ransomware Is Accelerating, but It's Not Because of AI",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
-   "desc": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d46e0386d2cd24e/6a5fd644651b13c322b2426e/ransomware_fadfebrian_shutterstok.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-21T21:48:05+00:00"
   },
   {
    "source": "SANS ISC",
