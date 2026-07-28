@@ -1,9 +1,81 @@
 {
- "generated": "2026-07-28T13:04:24.865406+00:00",
+ "generated": "2026-07-28T15:38:48.037654+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+   "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+   "desc": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg",
+   "date": "2026-07-28T15:01:33+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+   "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+   "desc": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-28T14:55:30+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+   "link": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+   "desc": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+   "image": "",
+   "date": "2026-07-28T14:45:57+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+   "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+   "desc": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg",
+   "date": "2026-07-28T14:41:36+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
+   "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
+   "desc": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems. The post Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-28T14:19:31+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+   "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+   "desc": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure mod",
+   "image": "",
+   "date": "2026-07-28T14:00:10+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+   "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+   "desc": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. Ope",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg",
+   "date": "2026-07-28T13:33:47+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OT Security Startup Frenos Raises $1.52 Million",
+   "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
+   "desc": "The company will use the fresh investment to grow its customer success and AI R&#038;D teams. The post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-28T13:05:25+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+   "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+   "desc": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg",
+   "date": "2026-07-28T12:56:14+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
@@ -133,28 +205,12 @@
    "date": "2026-07-28T06:07:22+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Origin Energy Data Breach Affects 900,000 Australians",
-   "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-   "desc": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-28T05:01:05+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
    "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
    "desc": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg",
    "date": "2026-07-28T04:43:53+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
-   "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
-   "desc": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came ",
-   "image": "",
-   "date": "2026-07-28T02:28:03+00:00"
   },
   {
    "source": "SANS ISC",
@@ -325,14 +381,6 @@
    "date": "2026-07-27T14:40:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
-   "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
-   "desc": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on Sec",
-   "image": "",
-   "date": "2026-07-27T14:26:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
    "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
@@ -365,44 +413,12 @@
    "date": "2026-07-27T12:37:49+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers used autonomous AI agent to spy on Thailand's finance ministry",
-   "link": "https://therecord.media/thailand-hackers-ai-finance-ministry",
-   "desc": "Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.",
-   "image": "",
-   "date": "2026-07-27T12:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-   "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-   "desc": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg",
-   "date": "2026-07-27T10:51:45+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
    "link": "https://isc.sans.edu/diary/rss/33188",
    "desc": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current sta",
    "image": "",
    "date": "2026-07-27T10:04:51+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-   "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-   "desc": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg",
-   "date": "2026-07-27T08:48:47+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-   "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-   "desc": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg",
-   "date": "2026-07-27T08:01:23+00:00"
   },
   {
    "source": "SANS ISC",
@@ -437,14 +453,6 @@
    "date": "2026-07-25T22:37:47+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-   "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-   "desc": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg",
-   "date": "2026-07-25T18:48:44+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Malicious sites use JavaScript to build malware in browser memory",
    "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
@@ -459,14 +467,6 @@
    "desc": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
    "image": "",
    "date": "2026-07-25T14:16:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI confirms ChatGPT is down worldwide",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-   "desc": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-   "image": "",
-   "date": "2026-07-25T09:31:09+00:00"
   },
   {
    "source": "Dark Reading",
