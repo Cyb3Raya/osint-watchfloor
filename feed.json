@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-28T21:34:50.928114+00:00",
+ "generated": "2026-07-28T22:41:06.624946+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+   "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+   "desc": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30bed8fd33fe3bfb/6888bea8af946d84d071204f/ghost-igor-Stevanovic-alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T21:33:23+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
@@ -14,9 +22,9 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
+   "title": "Thousands of Data Center Controllers Open to Takeover",
    "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
-   "desc": "Lots of Internet-exposed server management controllers are subject to offline password-cracking attacks — and adversaries have taken note.",
+   "desc": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T21:07:55+00:00"
   },
@@ -531,14 +539,6 @@
    "desc": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf219cccb8d006239/6a62178fd61e3e49c64c9e23/Catholic-gelmold-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-24T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-   "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-   "desc": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltee2b6459a49ecef3/64f171e51bf536263bbf9b29/Azure_SOPA_Images_Limited_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-24T12:48:16+00:00"
   },
   {
    "source": "SANS ISC",
