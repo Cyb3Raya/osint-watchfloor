@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-28T17:09:39.686845+00:00",
+ "generated": "2026-07-28T18:51:08.086164+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "CISA shares advice on isolating vital systems during cyberattacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+   "desc": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disrupti",
+   "image": "",
+   "date": "2026-07-28T18:41:04+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+   "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+   "desc": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+   "image": "",
+   "date": "2026-07-28T18:08:50+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+   "desc": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T16:38:48+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
@@ -453,22 +477,6 @@
    "date": "2026-07-25T22:37:47+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Malicious sites use JavaScript to build malware in browser memory",
-   "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-   "desc": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-   "image": "",
-   "date": "2026-07-25T15:21:09+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-   "desc": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-   "image": "",
-   "date": "2026-07-25T14:16:26+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISOs vs. Boards: Myth or Misunderstanding?",
    "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
@@ -579,14 +587,6 @@
    "desc": "Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/BH2026_social_generic.jpg",
    "date": "2026-07-23T10:00:14+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
-   "desc": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-23T07:00:00+00:00"
   },
   {
    "source": "SANS ISC",
