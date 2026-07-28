@@ -1,9 +1,41 @@
 {
- "generated": "2026-07-28T05:49:22.662944+00:00",
+ "generated": "2026-07-28T08:39:33.136581+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33192",
+   "desc": "For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a pa",
+   "image": "",
+   "date": "2026-07-28T07:42:27+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
+   "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
+   "desc": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityW",
+   "image": "",
+   "date": "2026-07-28T07:27:55+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
+   "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
+   "desc": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first",
+   "image": "",
+   "date": "2026-07-28T06:40:36+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+   "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+   "desc": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95%",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg",
+   "date": "2026-07-28T06:07:22+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Origin Energy Data Breach Affects 900,000 Australians",
@@ -269,28 +301,12 @@
    "date": "2026-07-27T11:06:24+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
-   "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
-   "desc": "The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks. The post What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out ",
-   "image": "",
-   "date": "2026-07-27T11:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
    "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
    "desc": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg",
    "date": "2026-07-27T10:51:45+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-   "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-   "desc": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first o",
-   "image": "",
-   "date": "2026-07-27T10:50:19+00:00"
   },
   {
    "source": "SANS ISC",
@@ -395,14 +411,6 @@
    "desc": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised la",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg",
    "date": "2026-07-25T10:14:21+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-   "desc": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data ext",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg",
-   "date": "2026-07-25T10:14:03+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -603,14 +611,6 @@
    "desc": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after ",
    "image": "",
    "date": "2026-07-22T01:10:38+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Captive Portal Detection, (Tue, Jul 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33172",
-   "desc": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
-   "image": "",
-   "date": "2026-07-21T13:44:56+00:00"
   },
   {
    "source": "IC3 PSA",
