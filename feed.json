@@ -1,14 +1,54 @@
 {
- "generated": "2026-07-28T11:02:35.841200+00:00",
+ "generated": "2026-07-28T13:04:24.865406+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
   {
+   "source": "Dark Reading",
+   "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+   "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+   "desc": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68d8e956799bc6e1/6a67b826d69290b8a1aaac6c/leader1800_studio-fi_GettyImages-1299087003_2.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T12:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+   "desc": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+   "image": "",
+   "date": "2026-07-28T12:10:23+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+   "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+   "desc": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the M",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Whbx97t7xBrrpM26fYSbwg29hdKR8zskNLIwlrWC0Jd3Rrf4INhiCTI3WMw8NzmJ1iETQlt-CKdUxBzL2hef4pgQBOoI1rrrtRbU96hJRUXtTGy5dT40mP2B1AshyphenhyphenM4mc1K1-IISWwY6PSPyGXNBHplHM8kuxX9e5Di6RmMybyO2Q7Guu__CK8jOOkja/s1600/proxy.jpg",
+   "date": "2026-07-28T11:55:20+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
+   "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
+   "desc": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing. The post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-28T11:11:48+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
    "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
    "desc": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared fir",
+   "image": "",
+   "date": "2026-07-28T11:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Act Security Emerges from Stealth to Fight the Patch Problem",
+   "link": "https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/",
+   "desc": "Act Security tackles the spiraling patch problem caused by AI’s ability to find new vulnerabilities in existing cloud environments. The post Act Security Emerges from Stealth to Fight the Patch Problem appeared first on ",
    "image": "",
    "date": "2026-07-28T11:00:00+00:00"
   },
@@ -149,6 +189,14 @@
    "date": "2026-07-27T22:49:44+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "Agentic Browsers Rewind Web Security by 20 years",
+   "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+   "desc": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf459c9ff5d345e58/686d20d8a502a804ecf992c7/browser-security-Robert_Avgustin-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-27T21:39:09+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
    "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
@@ -187,6 +235,14 @@
    "desc": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1369910f8c4361ac/6a67667e18998400d30c8d1e/FBIhoody_jvphoto_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-27T20:33:29+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Why Resetting Passwords No Longer Stops Attackers",
+   "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+   "desc": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteef9f34649cb1353/6a5a7778892e6dc3e6015302/authenticate_janews_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-27T18:39:50+00:00"
   },
   {
    "source": "The Hacker News",
@@ -293,28 +349,12 @@
    "date": "2026-07-27T14:01:11+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
-   "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
-   "desc": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-27T13:19:30+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
    "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
    "desc": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw whil",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg",
    "date": "2026-07-27T13:05:15+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
-   "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
-   "desc": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Window",
-   "image": "",
-   "date": "2026-07-27T13:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -421,14 +461,6 @@
    "date": "2026-07-25T14:16:26+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-   "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-   "desc": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without auth",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif",
-   "date": "2026-07-25T12:52:43+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "OpenAI confirms ChatGPT is down worldwide",
    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
@@ -443,14 +475,6 @@
    "desc": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-24T21:31:53+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OnTrac notifies customers of data breach after network hack",
-   "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-   "desc": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-   "image": "",
-   "date": "2026-07-24T19:55:01+00:00"
   },
   {
    "source": "Dark Reading",
@@ -571,30 +595,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-23T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
-   "desc": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-23T01:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
-   "link": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
-   "desc": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9550e8ba7752b437/6a5a40aa4a830941d7bdad92/GettyImages-147261287.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-22T23:50:01+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Attackers Are Learning to Live Off the AI Toolchain",
-   "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-   "desc": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3487664d9c613ba9/6a61308f2c3e688b979308a0/ai_TSViPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-22T21:29:01+00:00"
   },
   {
    "source": "SANS ISC",
