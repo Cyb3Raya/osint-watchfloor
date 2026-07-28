@@ -1,9 +1,49 @@
 {
- "generated": "2026-07-28T20:17:46.046993+00:00",
+ "generated": "2026-07-28T21:34:50.928114+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+   "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+   "desc": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+   "image": "",
+   "date": "2026-07-28T21:17:39+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
+   "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+   "desc": "Lots of Internet-exposed server management controllers are subject to offline password-cracking attacks — and adversaries have taken note.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T21:07:55+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+   "desc": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [",
+   "image": "",
+   "date": "2026-07-28T20:37:06+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+   "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+   "desc": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94af172165d49722/6a690498bd5a135ff4077c33/Sandbox-Ukususha-Getty-530496540.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T20:27:36+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+   "desc": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ed770837a0439d0/6a68ccdcd103440a6aebc9bb/brain-activation-map-illiustration-Adrian46-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T20:05:32+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
@@ -278,7 +318,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Agentic Browsers Rewind Web Security by 20 years",
+   "title": "Agentic Browsers Rewind Web Security by 20 Years",
    "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
    "desc": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf459c9ff5d345e58/686d20d8a502a804ecf992c7/browser-security-Robert_Avgustin-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -461,22 +501,6 @@
    "date": "2026-07-26T15:26:14+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-   "desc": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-   "image": "",
-   "date": "2026-07-26T14:13:39+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-   "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-   "desc": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-   "image": "",
-   "date": "2026-07-25T22:37:47+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISOs vs. Boards: Myth or Misunderstanding?",
    "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
@@ -517,28 +541,12 @@
    "date": "2026-07-24T12:48:16+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
-   "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
-   "desc": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-24T07:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
    "link": "https://isc.sans.edu/diary/rss/33182",
    "desc": "",
    "image": "",
    "date": "2026-07-24T02:00:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
-   "desc": "A state-sponsored threat group, dubbed &quot;Laundry Bear,&quot; sends &quot;half-click&quot; phishing emails that require a victim only to open or preview the message.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta778b4705951b9ec/6a6271d8e9fe84f275c977a7/russianhackers_Anton_Petrus-Getty-2027926930.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-23T21:23:18+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -563,14 +571,6 @@
    "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
    "image": "",
    "date": "2026-07-23T13:40:27+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Agentic AI Challenges Progress in Confidential Computing",
-   "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-   "desc": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e62e39ece6ef685/656a984ef3b292040a878813/confidentialai-everything_possible-alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-23T11:17:51+00:00"
   },
   {
    "source": "Cisco Talos",
