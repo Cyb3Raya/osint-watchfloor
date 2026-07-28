@@ -1,9 +1,41 @@
 {
- "generated": "2026-07-27T23:46:31.295651+00:00",
+ "generated": "2026-07-28T02:45:27.638285+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
+   "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
+   "desc": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came ",
+   "image": "",
+   "date": "2026-07-28T02:28:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33190",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-28T02:00:03+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+   "desc": "Attackers used Hermes, an autonomous open source tool, in unrestricted &quot;YOLO mode&quot; to conduct espionage against Thailand's Ministry of Finance.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b19e9ee4e36d14d/6a67b3e6b75c8234608ace20/Thai_Baht-PATCHARIN_SAENLAKON-Getty-2262450613.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-28T01:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+   "desc": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
+   "image": "",
+   "date": "2026-07-27T23:49:44+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
@@ -261,14 +293,6 @@
    "date": "2026-07-27T10:02:41+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-   "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-   "desc": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-27T09:34:12+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
    "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
@@ -421,14 +445,6 @@
    "date": "2026-07-24T19:09:09+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-   "desc": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-   "image": "",
-   "date": "2026-07-24T17:50:37+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Updated Cyber Threat Actor Naming System",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
@@ -565,14 +581,6 @@
    "date": "2026-07-22T21:29:01+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
-   "link": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
-   "desc": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbfd2abd92ce58654/6a611f6de7ebfc13d44d6387/Bahrain_Manama_Skyline-trabantos-Getty-1140901617.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-22T19:42:42+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
    "link": "https://isc.sans.edu/diary/rss/33176",
@@ -603,14 +611,6 @@
    "desc": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
    "image": "",
    "date": "2026-07-21T13:44:56+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33170",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-21T02:00:02+00:00"
   },
   {
    "source": "IC3 PSA",
