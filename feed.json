@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-29T15:33:50.032717+00:00",
+ "generated": "2026-07-29T16:56:05.263736+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+   "desc": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security",
+   "image": "",
+   "date": "2026-07-29T16:04:59+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+   "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+   "desc": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg",
+   "date": "2026-07-29T15:39:30+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+   "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+   "desc": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg",
+   "date": "2026-07-29T15:31:15+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
@@ -19,6 +43,14 @@
    "desc": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.",
    "image": "",
    "date": "2026-07-29T14:45:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+   "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+   "desc": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc48aaf4c329f0fbe/6a69d8d89d447d1bec077dc5/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-07-29T14:40:33+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -349,28 +381,12 @@
    "date": "2026-07-28T14:45:57+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-   "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-   "desc": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg",
-   "date": "2026-07-28T14:41:36+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Is Your SSO Protected Against Modern Credential Attacks?",
    "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
    "desc": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure mod",
    "image": "",
    "date": "2026-07-28T14:00:10+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-   "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-   "desc": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. Ope",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg",
-   "date": "2026-07-28T13:33:47+00:00"
   },
   {
    "source": "Dark Reading",
@@ -461,14 +477,6 @@
    "date": "2026-07-27T21:08:15+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-   "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-   "desc": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-   "image": "",
-   "date": "2026-07-27T21:00:25+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
    "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
@@ -547,14 +555,6 @@
    "desc": "Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for tracking threat actors. This new naming taxonomy represents an effort to standardize tracking across platform",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
    "date": "2026-07-24T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-   "desc": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf219cccb8d006239/6a62178fd61e3e49c64c9e23/Catholic-gelmold-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-24T13:00:00+00:00"
   },
   {
    "source": "SANS ISC",
