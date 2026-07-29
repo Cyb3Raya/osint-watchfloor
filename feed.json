@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-29T20:59:16.096759+00:00",
+ "generated": "2026-07-29T22:07:58.508193+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic confirms Claude is down worldwide",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+   "desc": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on i",
+   "image": "",
+   "date": "2026-07-29T21:39:29+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+   "desc": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerab",
+   "image": "",
+   "date": "2026-07-29T21:35:40+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
@@ -333,20 +349,20 @@
    "date": "2026-07-29T04:20:57+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
+   "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
+   "desc": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a",
+   "image": "",
+   "date": "2026-07-29T04:00:00+00:00"
+  },
+  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
    "link": "https://isc.sans.edu/diary/rss/33194",
    "desc": "",
    "image": "",
    "date": "2026-07-29T02:00:02+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Senate confirms Clayton as intel chief after delays",
-   "link": "https://therecord.media/jay-clayton-confirmed-dni-senate",
-   "desc": "A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.",
-   "image": "",
-   "date": "2026-07-28T23:18:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -491,22 +507,6 @@
    "desc": "Attackers used Hermes, an autonomous open source tool, in unrestricted &quot;YOLO mode&quot; to conduct espionage against Thailand's Ministry of Finance.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b19e9ee4e36d14d/6a67b3e6b75c8234608ace20/Thai_Baht-PATCHARIN_SAENLAKON-Getty-2262450613.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T01:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-   "desc": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-   "image": "",
-   "date": "2026-07-27T23:49:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-   "desc": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-   "image": "",
-   "date": "2026-07-27T22:49:44+00:00"
   },
   {
    "source": "Dark Reading",
