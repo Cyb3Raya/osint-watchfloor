@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-29T03:30:15.649402+00:00",
+ "generated": "2026-07-29T06:17:39.671501+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+   "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+   "desc": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
+   "date": "2026-07-29T04:20:57+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
@@ -483,14 +491,6 @@
    "desc": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissio",
    "image": "",
    "date": "2026-07-27T14:01:11+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-   "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-   "desc": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw whil",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg",
-   "date": "2026-07-27T13:05:15+00:00"
   },
   {
    "source": "SANS ISC",
