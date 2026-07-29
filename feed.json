@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-28T22:41:06.624946+00:00",
+ "generated": "2026-07-29T00:00:03.051357+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Senate confirms Clayton as intel chief after delays",
+   "link": "https://therecord.media/jay-clayton-confirmed-dni-senate",
+   "desc": "A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.",
+   "image": "",
+   "date": "2026-07-28T23:18:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
@@ -427,14 +435,6 @@
    "desc": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg",
    "date": "2026-07-27T17:16:28+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
-   "link": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
-   "desc": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan.",
-   "image": "",
-   "date": "2026-07-27T16:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
