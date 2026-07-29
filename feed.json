@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-29T18:10:13.686061+00:00",
+ "generated": "2026-07-29T19:48:50.936049+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+   "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+   "desc": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg",
+   "date": "2026-07-29T18:10:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
@@ -403,14 +411,6 @@
    "desc": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T16:38:48+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-   "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-   "desc": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg",
-   "date": "2026-07-28T15:01:33+00:00"
   },
   {
    "source": "BleepingComputer",
