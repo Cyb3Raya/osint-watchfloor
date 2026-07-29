@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-29T00:00:03.051357+00:00",
+ "generated": "2026-07-29T03:30:15.649402+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33194",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-29T02:00:02+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Senate confirms Clayton as intel chief after delays",
@@ -16,7 +24,7 @@
    "source": "Dark Reading",
    "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
    "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-   "desc": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+   "desc": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30bed8fd33fe3bfb/6888bea8af946d84d071204f/ghost-igor-Stevanovic-alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T21:33:23+00:00"
   },
@@ -603,14 +611,6 @@
    "desc": "This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
    "image": "",
    "date": "2026-07-22T17:35:33+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33174",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-22T02:00:02+00:00"
   },
   {
    "source": "Krebs on Security",
