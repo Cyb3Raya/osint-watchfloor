@@ -1,9 +1,81 @@
 {
- "generated": "2026-07-29T06:17:39.671501+00:00",
+ "generated": "2026-07-29T09:18:03.541019+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Spur Raises $200 Million for IP Intelligence Platform",
+   "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
+   "desc": "The IP intelligence company will use the fresh investment to accelerate and scale its operations. The post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-29T09:12:19+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+   "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+   "desc": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg",
+   "date": "2026-07-29T08:58:27+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+   "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+   "desc": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-29T08:46:30+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+   "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+   "desc": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first o",
+   "image": "",
+   "date": "2026-07-29T07:53:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+   "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+   "desc": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and se",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg",
+   "date": "2026-07-29T07:51:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+   "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+   "desc": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg",
+   "date": "2026-07-29T07:47:19+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33196",
+   "desc": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions ",
+   "image": "",
+   "date": "2026-07-29T07:32:37+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+   "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+   "desc": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificate",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg",
+   "date": "2026-07-29T07:07:23+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ShinyHunters Claims Ernst & Young Hack",
+   "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+   "desc": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-29T06:23:34+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
@@ -229,14 +301,6 @@
    "date": "2026-07-28T11:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hush Security Raises $30 Million for AI Agent Governance",
-   "link": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
-   "desc": "The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships. The post Hush Security Raises $30 Million for AI Agent Governance appeared first on ",
-   "image": "",
-   "date": "2026-07-28T10:17:27+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains",
    "link": "https://blog.talosintelligence.com/ir-trends-q2-2026/",
@@ -251,14 +315,6 @@
    "desc": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
    "image": "",
    "date": "2026-07-28T09:10:03+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Google Adopts New Threat Actor Naming System",
-   "link": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
-   "desc": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-28T08:42:52+00:00"
   },
   {
    "source": "The Hacker News",
@@ -283,22 +339,6 @@
    "desc": "For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a pa",
    "image": "",
    "date": "2026-07-28T07:42:27+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
-   "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
-   "desc": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityW",
-   "image": "",
-   "date": "2026-07-28T07:27:55+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
-   "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
-   "desc": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first",
-   "image": "",
-   "date": "2026-07-28T06:40:36+00:00"
   },
   {
    "source": "The Hacker News",
@@ -405,14 +445,6 @@
    "date": "2026-07-27T18:39:50+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-   "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-   "desc": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-O7sLARD9c2QGCheTeoamew1jlKiNe2KRKqw4_8f6VTxZo0MHNIQdizHhyphenhyphen-Bchq9tTzlYBJrJcJDhhhzNB17wPMHDT00pAikN61fAgOh7AdibxKPt5fQ_1KwMvkUXx1J7IzZBbtONSSIAOjRV74KSkmlsKYB7hFWy17AaQu02BqwngqCzlubslSbKvg/s1600/nvidia.jpg",
-   "date": "2026-07-27T18:10:05+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "UK court rejects Bahrain immunity claim in spyware case",
    "link": "https://therecord.media/uk-court-rejects-bahrain-immunity-claim-spyware-case",
@@ -445,14 +477,6 @@
    "date": "2026-07-27T17:29:07+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-   "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-   "desc": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg",
-   "date": "2026-07-27T17:16:28+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
    "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
@@ -467,22 +491,6 @@
    "desc": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
    "image": "",
    "date": "2026-07-27T15:12:27+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-   "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-   "desc": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg",
-   "date": "2026-07-27T14:40:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-   "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-   "desc": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg",
-   "date": "2026-07-27T14:10:54+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -603,14 +611,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-23T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33176",
-   "desc": "This isn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t a new attack, but something I saw \"pop-up\" in our logs this week:&#xd;",
-   "image": "",
-   "date": "2026-07-22T17:35:33+00:00"
   },
   {
    "source": "Krebs on Security",
