@@ -1,9 +1,49 @@
 {
- "generated": "2026-07-30T07:18:42.048675+00:00",
+ "generated": "2026-07-30T09:55:58.767523+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+   "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+   "desc": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities. The post 1 in 5 Data Center Assets Are Within Easy Reach of Attackers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T09:28:37+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US and Allies Update SBOM Guidance",
+   "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+   "desc": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T08:21:19+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chrome 151 Patches 370 Vulnerabilities",
+   "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+   "desc": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T07:51:24+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+   "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+   "desc": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg",
+   "date": "2026-07-30T07:40:48+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+   "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+   "desc": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg",
+   "date": "2026-07-30T07:28:43+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
@@ -333,36 +373,12 @@
    "date": "2026-07-29T10:10:09+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Spur Raises $200 Million for IP Intelligence Platform",
-   "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-   "desc": "The IP intelligence company will use the fresh investment to accelerate and scale its operations. The post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T09:12:19+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
    "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
    "desc": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that h",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg",
    "date": "2026-07-29T08:58:27+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-   "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-   "desc": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T08:46:30+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-   "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-   "desc": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first o",
-   "image": "",
-   "date": "2026-07-29T07:53:22+00:00"
   },
   {
    "source": "The Hacker News",
@@ -373,28 +389,12 @@
    "date": "2026-07-29T07:51:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-   "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-   "desc": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg",
-   "date": "2026-07-29T07:47:19+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
    "link": "https://isc.sans.edu/diary/rss/33196",
    "desc": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions ",
    "image": "",
    "date": "2026-07-29T07:32:37+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-   "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-   "desc": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificate",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg",
-   "date": "2026-07-29T07:07:23+00:00"
   },
   {
    "source": "RF The Record",
