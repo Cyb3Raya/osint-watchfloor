@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-30T04:24:07.674838+00:00",
+ "generated": "2026-07-30T07:18:42.048675+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+   "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+   "desc": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T06:31:31+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+   "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+   "desc": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg",
+   "date": "2026-07-30T06:05:17+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+   "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg",
+   "date": "2026-07-30T05:08:39+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
@@ -373,22 +397,6 @@
    "date": "2026-07-29T07:07:23+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "ShinyHunters Claims Ernst & Young Hack",
-   "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-   "desc": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T06:23:34+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-   "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-   "desc": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
-   "date": "2026-07-29T04:20:57+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
    "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
@@ -451,14 +459,6 @@
    "desc": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ed770837a0439d0/6a68ccdcd103440a6aebc9bb/brain-activation-map-illiustration-Adrian46-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T20:05:32+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-   "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-   "desc": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symm",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg",
-   "date": "2026-07-28T18:59:07+00:00"
   },
   {
    "source": "BleepingComputer",
