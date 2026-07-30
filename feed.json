@@ -1,9 +1,97 @@
 {
- "generated": "2026-07-30T11:55:20.058492+00:00",
+ "generated": "2026-07-30T14:09:58.108238+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+   "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+   "desc": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must inve",
+   "image": "",
+   "date": "2026-07-30T14:01:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
+   "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
+   "desc": "The company will accelerate investments in R&#038;D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-07-30T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
+   "desc": "Written by: Kelli Vanderlee, Stuart Carrera For years, the cybersecurity industry's understanding of software supply chain compromise has been anchored by a few watershed events, including Russian cyber espionage actor I",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/BattenDownYourPackages_1.max-1000x1000.png",
+   "date": "2026-07-30T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cantina Emerges From Stealth With $8 Million in Funding",
+   "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
+   "desc": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on Security",
+   "image": "",
+   "date": "2026-07-30T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Discern Security Raises $13 Million in Series A Funding",
+   "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
+   "desc": "The company will invest in accelerating the development and adoption of its agentic platform. The post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
+   "link": "https://therecord.media/north-korea-hackers-amazon-malware",
+   "desc": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.",
+   "image": "",
+   "date": "2026-07-30T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
+   "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
+   "desc": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T12:29:03+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
+   "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
+   "desc": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post ‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records a",
+   "image": "",
+   "date": "2026-07-30T12:15:24+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyber extortionists steal data from UK Department for Education",
+   "link": "https://therecord.media/united-kingdom-ransomware-education",
+   "desc": "Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.",
+   "image": "",
+   "date": "2026-07-30T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+   "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+   "desc": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg",
+   "date": "2026-07-30T11:54:49+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The Network Has Become the Control Plane for AI Security",
+   "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+   "desc": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg",
+   "date": "2026-07-30T11:32:46+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
@@ -93,14 +181,6 @@
    "date": "2026-07-30T07:28:43+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
-   "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
-   "desc": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-30T06:31:31+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
    "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
@@ -128,7 +208,7 @@
    "source": "Dark Reading",
    "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
    "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
-   "desc": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+   "desc": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt375b31ff55356eb8/6a6a6c190179f65a251bb12d/industrial-cybercrime-technologies-TippaPatt-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T01:00:00+00:00"
   },
@@ -173,16 +253,24 @@
    "date": "2026-07-29T21:35:40+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
+   "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
+   "desc": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a",
+   "image": "",
+   "date": "2026-07-29T21:00:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
    "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-   "desc": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+   "desc": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-29T19:48:12+00:00"
   },
   {
    "source": "Dark Reading",
-   "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+   "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
    "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
    "desc": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda67aa668122e771/6a6a4b0db8ab35a066dea164/blueteam-sqback-Getty-2255978330.jpg?width=720&quality=80&disable=upscale",
@@ -214,7 +302,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Hugging Face Hack Lessons for Cyber Defenders",
+   "title": "Hugging Face Hack: Lessons for Cyber Defenders",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
    "desc": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
@@ -317,51 +405,11 @@
    "date": "2026-07-29T13:42:57+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
-   "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
-   "desc": "The agency said imports of advanced robots pose cybersecurity and other national security risks. The post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T13:31:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Mate Security Raises $35 Million for Agentic SOC",
-   "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
-   "desc": "The startup will use the investment to expand its customer support, sales, and R&#038;D teams. The post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T12:47:13+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russia accuses Telegram founder of aiding terrorism, seeks international arrest",
-   "link": "https://therecord.media/russia-telegram-durov-arrest",
-   "desc": "Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.",
-   "image": "",
-   "date": "2026-07-29T12:45:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ThreatLocker Raises $190 Million in Series F Funding",
-   "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
-   "desc": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation. The post ThreatLocker Raises $190 Million in Series F Funding appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T12:17:14+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
    "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
    "desc": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in securi",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg",
-   "date": "2026-07-29T12:15:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyberattack hits Angola’s largest telco hours before landmark stock debut",
-   "link": "https://therecord.media/angola-unitel-cyberattack-outage",
-   "desc": "Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.",
-   "image": "",
    "date": "2026-07-29T12:15:00+00:00"
   },
   {
@@ -373,22 +421,6 @@
    "date": "2026-07-29T11:57:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-   "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-   "desc": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T11:42:38+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-   "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-   "desc": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg",
-   "date": "2026-07-29T11:13:10+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "These near-mint ASUS Chromebook refurbs are only $145",
    "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
@@ -397,28 +429,12 @@
    "date": "2026-07-29T11:12:19+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-   "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-   "desc": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in v",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg",
-   "date": "2026-07-29T11:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
    "link": "https://isc.sans.edu/diary/rss/33196",
    "desc": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions ",
    "image": "",
    "date": "2026-07-29T07:32:37+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
-   "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
-   "desc": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a",
-   "image": "",
-   "date": "2026-07-29T04:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -515,14 +531,6 @@
    "desc": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68d8e956799bc6e1/6a67b826d69290b8a1aaac6c/leader1800_studio-fi_GettyImages-1299087003_2.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T12:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-   "desc": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-   "image": "",
-   "date": "2026-07-28T12:10:23+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1035,14 +1043,6 @@
    "desc": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/blackfile-fig5.max-1000x1000.png",
    "date": "2026-05-15T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
-   "desc": "Executive Summary Since our February 2026 report on AI-related threat activity, Google Threat Intelligence Group (GTIG) has continued to track a maturing transition from nascent AI-enabled operations to the industrial-sc",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ai-q2-cog.max-1000x1000.png",
-   "date": "2026-05-11T14:00:00+00:00"
   }
  ]
 }
