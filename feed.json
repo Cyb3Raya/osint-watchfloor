@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-30T19:37:24.921128+00:00",
+ "generated": "2026-07-30T20:46:04.183423+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "AI Harnesses Burst With Potential Exploit Opps",
+   "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
+   "desc": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-30T19:40:40+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
@@ -547,14 +555,6 @@
    "desc": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T16:38:48+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-   "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-   "desc": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68d8e956799bc6e1/6a67b826d69290b8a1aaac6c/leader1800_studio-fi_GettyImages-1299087003_2.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-28T12:30:00+00:00"
   },
   {
    "source": "Cisco Talos",
