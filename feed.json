@@ -1,9 +1,57 @@
 {
- "generated": "2026-07-30T09:55:58.767523+00:00",
+ "generated": "2026-07-30T11:55:20.058492+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+   "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
+   "desc": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-30T11:16:23+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+   "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+   "desc": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security softwa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg",
+   "date": "2026-07-30T10:33:15+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+   "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+   "desc": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s1600/drivers.jpg",
+   "date": "2026-07-30T10:32:59+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
+   "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
+   "desc": "Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more. The post Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-3-scaled.jpeg",
+   "date": "2026-07-30T10:00:52+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Black Hat special: Rewind and revisit",
+   "link": "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
+   "desc": "Amy looks back at the incredible journeys that brought past guests to the world of threat intelligence.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/humans_of_talos.jpg",
+   "date": "2026-07-30T10:00:08+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+   "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+   "desc": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityW",
+   "image": "",
+   "date": "2026-07-30T09:56:10+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
@@ -355,38 +403,6 @@
    "desc": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in v",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg",
    "date": "2026-07-29T11:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
-   "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
-   "desc": "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period. The post US, Australia Release OT Isolation Guidance for Critical Infrastruct",
-   "image": "",
-   "date": "2026-07-29T10:58:44+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
-   "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
-   "desc": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation. The post OpenAI&#8217;s Rogue AI Ventured Beyond Hugging Face appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-29T10:10:09+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-   "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-   "desc": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg",
-   "date": "2026-07-29T08:58:27+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-   "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-   "desc": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg",
-   "date": "2026-07-29T07:51:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -829,14 +845,6 @@
    "date": "2026-07-02T14:00:00+00:00"
   },
   {
-   "source": "Cisco Talos",
-   "title": "Martin Lee: Running through the Arctic (and the threat landscape)",
-   "link": "https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/",
-   "desc": "Ever wonder how someone goes from studying human viruses to leading cybersecurity teams? In this Humans of Talos, we’re joined by Martin Lee, EMEA Lead, to talk about his journey into the industry.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/06/humans_of_talos-1.jpg",
-   "date": "2026-07-01T10:00:57+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
    "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
@@ -947,14 +955,6 @@
    "desc": "Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote code execution via bucket squatting. Read the article for more. The post Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenan",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_1270203474-1.png",
    "date": "2026-06-16T10:00:29+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Inside the Modern SOC: The 72-Minute Race",
-   "link": "https://unit42.paloaltonetworks.com/soc-72-minute-race/",
-   "desc": "Attackers can move from access to exfiltration in 72 minutes. Learn how modern SOC teams close the speed gap with Unit 42's AI-driven automation, threat hunting, MDR and Managed XSIAM. The post Inside the Modern SOC: The",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/02_Interview_Overview_1920x900.jpg",
-   "date": "2026-06-15T23:00:19+00:00"
   },
   {
    "source": "Google GTIG",
