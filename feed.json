@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-30T01:01:10.935843+00:00",
+ "generated": "2026-07-30T04:24:07.674838+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
+   "link": "https://isc.sans.edu/diary/rss/33200",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-30T02:00:03+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
@@ -73,7 +81,7 @@
    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
    "desc": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg",
    "date": "2026-07-29T18:10:00+00:00"
   },
   {
@@ -587,14 +595,6 @@
    "desc": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg",
    "date": "2026-07-23T14:10:53+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33180",
-   "desc": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
-   "image": "",
-   "date": "2026-07-23T13:40:27+00:00"
   },
   {
    "source": "Cisco Talos",
