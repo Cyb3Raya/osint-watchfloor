@@ -1,16 +1,18 @@
 {
- "generated": "2026-07-30T16:01:45.227600+00:00",
- "sources_ok": 11,
+ "generated": "2026-07-30T17:53:57.023030+00:00",
+ "sources_ok": 10,
  "sources_total": 11,
- "failed": [],
+ "failed": [
+  "BleepingComputer"
+ ],
  "items": [
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-   "desc": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+   "source": "Krebs on Security",
+   "title": "Read This Before You Buy That TV Streaming Stick",
+   "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+   "desc": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio",
    "image": "",
-   "date": "2026-07-30T15:56:33+00:00"
+   "date": "2026-07-30T16:49:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -21,20 +23,20 @@
    "date": "2026-07-30T15:46:17+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Analog Devices discloses data breach, says operations unaffected",
-   "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-   "desc": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-   "image": "",
-   "date": "2026-07-30T15:12:25+00:00"
+   "source": "Dark Reading",
+   "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
+   "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+   "desc": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd055540c06ee3acd/6a6ada64165f081ff8010b6c/claude1800_Kenneth_Cheung_GettyImages-2270277028.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-07-30T15:28:43+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-   "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-   "desc": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must inve",
-   "image": "",
-   "date": "2026-07-30T14:01:11+00:00"
+   "source": "The Hacker News",
+   "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+   "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+   "desc": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credenti",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
+   "date": "2026-07-30T15:25:57+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -261,30 +263,6 @@
    "date": "2026-07-30T00:30:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-   "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-   "desc": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [..",
-   "image": "",
-   "date": "2026-07-29T23:44:07+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Anthropic confirms Claude is down worldwide",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-   "desc": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on i",
-   "image": "",
-   "date": "2026-07-29T21:39:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-   "desc": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerab",
-   "image": "",
-   "date": "2026-07-29T21:35:40+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
    "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
@@ -315,14 +293,6 @@
    "desc": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg",
    "date": "2026-07-29T18:10:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-   "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-   "desc": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-   "image": "",
-   "date": "2026-07-29T17:54:05+00:00"
   },
   {
    "source": "Dark Reading",
@@ -357,14 +327,6 @@
    "date": "2026-07-29T17:06:52+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-   "desc": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security",
-   "image": "",
-   "date": "2026-07-29T16:04:59+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
    "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
@@ -381,36 +343,12 @@
    "date": "2026-07-29T15:31:15+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-   "desc": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-   "image": "",
-   "date": "2026-07-29T14:55:57+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
    "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
    "desc": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc48aaf4c329f0fbe/6a69d8d89d447d1bec077dc5/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-29T14:40:33+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-   "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-   "desc": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the found",
-   "image": "",
-   "date": "2026-07-29T14:02:12+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-   "desc": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
-   "image": "",
-   "date": "2026-07-29T13:56:22+00:00"
   },
   {
    "source": "The Hacker News",
@@ -427,22 +365,6 @@
    "desc": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nin",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg",
    "date": "2026-07-29T13:42:57+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-   "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-   "desc": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in securi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg",
-   "date": "2026-07-29T12:15:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "These near-mint ASUS Chromebook refurbs are only $145",
-   "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-   "desc": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condit",
-   "image": "",
-   "date": "2026-07-29T11:12:19+00:00"
   },
   {
    "source": "SANS ISC",
@@ -469,28 +391,12 @@
    "date": "2026-07-28T21:33:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-   "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-   "desc": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
-   "image": "",
-   "date": "2026-07-28T21:17:39+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Thousands of Data Center Controllers Open to Takeover",
    "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
    "desc": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T21:07:55+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-   "desc": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [",
-   "image": "",
-   "date": "2026-07-28T20:37:06+00:00"
   },
   {
    "source": "Dark Reading",
@@ -507,14 +413,6 @@
    "desc": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ed770837a0439d0/6a68ccdcd103440a6aebc9bb/brain-activation-map-illiustration-Adrian46-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T20:05:32+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA shares advice on isolating vital systems during cyberattacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-   "desc": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disrupti",
-   "image": "",
-   "date": "2026-07-28T18:41:04+00:00"
   },
   {
    "source": "Dark Reading",
@@ -555,14 +453,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-28T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
-   "desc": "Attackers used Hermes, an autonomous open source tool, in unrestricted &quot;YOLO mode&quot; to conduct espionage against Thailand's Ministry of Finance.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b19e9ee4e36d14d/6a67b3e6b75c8234608ace20/Thai_Baht-PATCHARIN_SAENLAKON-Getty-2262450613.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-28T01:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1011,14 +901,6 @@
    "desc": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threa",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/seeking-counsel-fig1.max-1000x1000.png",
    "date": "2026-06-05T14:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-   "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-   "desc": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on T",
-   "image": "",
-   "date": "2026-06-01T17:32:50+00:00"
   },
   {
    "source": "Google GTIG",
