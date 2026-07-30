@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-30T22:08:35.311292+00:00",
+ "generated": "2026-07-30T23:29:01.991748+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "IC3 PSA",
+   "title": "Malicious Cyber Actors Targeting Water and Wastewater Sector Internet Facing Programmable Logic Controllers, Causing Operational Disruptions",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260730.pdf",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-30T23:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "South Korea fines telco giant KT $39 million for customer data breach",
+   "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+   "desc": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+   "image": "",
+   "date": "2026-07-30T22:28:30+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
+   "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
+   "desc": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems. The post CISA Urges Water Sector to Protect OT After Coordinated Attacks on ",
+   "image": "",
+   "date": "2026-07-30T22:18:36+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "JetBrains warns of critical TeamCity remote code execution flaw",
@@ -293,14 +317,6 @@
    "date": "2026-07-30T10:00:08+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
-   "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
-   "desc": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityW",
-   "image": "",
-   "date": "2026-07-30T09:56:10+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
    "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
@@ -491,14 +507,6 @@
    "desc": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc48aaf4c329f0fbe/6a69d8d89d447d1bec077dc5/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-29T14:40:33+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-   "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-   "desc": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the found",
-   "image": "",
-   "date": "2026-07-29T14:02:12+00:00"
   },
   {
    "source": "The Hacker News",
@@ -978,14 +986,6 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
    "desc": "Written by: Patrick Whitsell, John McGuiness, Muhammad Umair Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, t",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/inifinitered-fig1.max-1000x1000.png",
-   "date": "2026-06-15T14:00:00+00:00"
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "Scammers Use Couriers to Collect Cash in Cryptocurrency Investment Scams",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260615",
-   "desc": "",
-   "image": "",
    "date": "2026-06-15T14:00:00+00:00"
   },
   {
