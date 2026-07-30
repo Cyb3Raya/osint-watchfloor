@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-30T14:09:58.108238+00:00",
+ "generated": "2026-07-30T16:01:45.227600+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+   "desc": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+   "image": "",
+   "date": "2026-07-30T15:56:33+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
+   "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
+   "desc": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why ",
+   "image": "",
+   "date": "2026-07-30T15:46:17+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Analog Devices discloses data breach, says operations unaffected",
+   "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+   "desc": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+   "image": "",
+   "date": "2026-07-30T15:12:25+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "After the Break-In: What Attackers Do Once They're Already Inside",
@@ -27,6 +51,22 @@
    "desc": "Written by: Kelli Vanderlee, Stuart Carrera For years, the cybersecurity industry's understanding of software supply chain compromise has been anchored by a few watershed events, including Russian cyber espionage actor I",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/BattenDownYourPackages_1.max-1000x1000.png",
    "date": "2026-07-30T14:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+   "link": "https://therecord.media/north-korea-hackers-ransomware",
+   "desc": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyon",
+   "image": "",
+   "date": "2026-07-30T14:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+   "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+   "desc": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg",
+   "date": "2026-07-30T13:34:09+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -155,14 +195,6 @@
    "desc": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-07-30T08:21:19+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Chrome 151 Patches 370 Vulnerabilities",
-   "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-   "desc": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-30T07:51:24+00:00"
   },
   {
    "source": "The Hacker News",
@@ -357,14 +389,6 @@
    "date": "2026-07-29T14:55:57+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Laundry Bear’s webmail hackers had more in store after February, report says",
-   "link": "https://therecord.media/russia-hackers-outlook-webmail-malware",
-   "desc": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.",
-   "image": "",
-   "date": "2026-07-29T14:45:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
    "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
@@ -411,14 +435,6 @@
    "desc": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in securi",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg",
    "date": "2026-07-29T12:15:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-   "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-   "desc": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif",
-   "date": "2026-07-29T11:57:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -501,28 +517,12 @@
    "date": "2026-07-28T18:41:04+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-   "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-   "desc": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-   "image": "",
-   "date": "2026-07-28T18:08:50+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
    "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
    "desc": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-28T16:38:48+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-   "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-   "desc": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure mod",
-   "image": "",
-   "date": "2026-07-28T14:00:10+00:00"
   },
   {
    "source": "Dark Reading",
