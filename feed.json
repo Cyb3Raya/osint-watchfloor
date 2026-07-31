@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-31T17:10:32.723642+00:00",
+ "generated": "2026-07-31T18:48:12.978195+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
+   "link": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
+   "desc": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
+   "image": "",
+   "date": "2026-07-31T17:47:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+   "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+   "desc": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+   "image": "",
+   "date": "2026-07-31T17:35:35+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyber Command plans Silicon Valley office to drive innovation",
+   "link": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
+   "desc": "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
+   "image": "",
+   "date": "2026-07-31T17:35:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
@@ -11,6 +35,14 @@
    "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
    "image": "",
    "date": "2026-07-31T16:49:49+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+   "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+   "desc": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
+   "date": "2026-07-31T16:39:31+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -265,7 +297,7 @@
    "title": "AI Harnesses Burst With Potential Exploit Opps",
    "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
    "desc": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T19:40:40+00:00"
   },
   {
@@ -381,28 +413,12 @@
    "date": "2026-07-30T14:00:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
-   "link": "https://therecord.media/north-korea-hackers-ransomware",
-   "desc": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyon",
-   "image": "",
-   "date": "2026-07-30T14:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
    "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
    "desc": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg",
    "date": "2026-07-30T13:34:09+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
-   "link": "https://therecord.media/north-korea-hackers-amazon-malware",
-   "desc": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.",
-   "image": "",
-   "date": "2026-07-30T13:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -461,14 +477,6 @@
    "date": "2026-07-30T07:40:48+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-   "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-   "desc": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg",
-   "date": "2026-07-30T07:28:43+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
    "link": "https://isc.sans.edu/diary/rss/33200",
@@ -515,14 +523,6 @@
    "desc": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on i",
    "image": "",
    "date": "2026-07-29T21:39:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-   "desc": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerab",
-   "image": "",
-   "date": "2026-07-29T21:35:40+00:00"
   },
   {
    "source": "Dark Reading",
