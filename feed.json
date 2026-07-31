@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-31T15:25:12.705049+00:00",
+ "generated": "2026-07-31T17:10:32.723642+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
+   "image": "",
+   "date": "2026-07-31T16:49:49+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+   "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
+   "desc": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Li",
+   "image": "",
+   "date": "2026-07-31T15:47:02+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
@@ -11,6 +27,14 @@
    "desc": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared",
    "image": "",
    "date": "2026-07-31T15:17:41+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+   "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+   "desc": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers na",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg",
+   "date": "2026-07-31T14:45:01+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -245,14 +269,6 @@
    "date": "2026-07-30T19:40:40+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-   "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-   "desc": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response. The post Okta to Acquire Ide",
-   "image": "",
-   "date": "2026-07-30T19:10:26+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Semiconductor chip titan Analog Devices reports data breach",
    "link": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
@@ -453,14 +469,6 @@
    "date": "2026-07-30T07:28:43+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-   "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-   "desc": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg",
-   "date": "2026-07-30T06:05:17+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
    "link": "https://isc.sans.edu/diary/rss/33200",
@@ -531,14 +539,6 @@
    "desc": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda67aa668122e771/6a6a4b0db8ab35a066dea164/blueteam-sqback-Getty-2255978330.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-29T19:46:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-   "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-   "desc": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-   "image": "",
-   "date": "2026-07-29T17:54:05+00:00"
   },
   {
    "source": "Dark Reading",
