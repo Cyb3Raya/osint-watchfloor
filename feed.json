@@ -1,9 +1,33 @@
 {
- "generated": "2026-07-31T10:42:33.550749+00:00",
+ "generated": "2026-07-31T12:58:18.836483+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Anthropic says its AI hacked real-world companies in three incidents",
+   "link": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
+   "desc": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet.",
+   "image": "",
+   "date": "2026-07-31T12:15:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+   "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+   "desc": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-cons",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg",
+   "date": "2026-07-31T11:24:59+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+   "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+   "desc": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found interne",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg",
+   "date": "2026-07-31T11:21:27+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
@@ -19,6 +43,14 @@
    "desc": "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic. The post The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Ve",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Malware_Category_1920x900-6.jpg",
    "date": "2026-07-31T10:00:18+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+   "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+   "desc": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illi",
+   "image": "",
+   "date": "2026-07-31T10:00:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -59,6 +91,14 @@
    "desc": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-07-31T06:50:30+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+   "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+   "desc": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organization",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s1600/claude.jpg",
+   "date": "2026-07-31T06:41:44+00:00"
   },
   {
    "source": "SANS ISC",
@@ -253,14 +293,6 @@
    "date": "2026-07-30T14:01:11+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-   "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-   "desc": "The company will accelerate investments in R&#038;D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-07-30T14:00:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
@@ -437,14 +469,6 @@
    "date": "2026-07-29T21:35:40+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
-   "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
-   "desc": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a",
-   "image": "",
-   "date": "2026-07-29T21:00:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
    "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
@@ -509,36 +533,12 @@
    "date": "2026-07-29T16:04:59+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-   "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-   "desc": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg",
-   "date": "2026-07-29T15:39:30+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-   "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-   "desc": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg",
-   "date": "2026-07-29T15:31:15+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
    "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
    "desc": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc48aaf4c329f0fbe/6a69d8d89d447d1bec077dc5/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-07-29T14:40:33+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-   "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-   "desc": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Pla",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg",
-   "date": "2026-07-29T13:48:36+00:00"
   },
   {
    "source": "SANS ISC",
