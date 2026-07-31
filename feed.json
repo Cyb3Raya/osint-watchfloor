@@ -1,9 +1,25 @@
 {
- "generated": "2026-07-31T04:47:53.771900+00:00",
+ "generated": "2026-07-31T07:52:30.370166+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "CareCloud Data Breach Impacts Over 350,000",
+   "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+   "desc": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-31T07:51:43+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+   "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+   "desc": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-07-31T06:50:30+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
@@ -261,14 +277,6 @@
    "date": "2026-07-30T12:29:03+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
-   "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
-   "desc": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post ‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records a",
-   "image": "",
-   "date": "2026-07-30T12:15:24+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Cyber extortionists steal data from UK Department for Education",
    "link": "https://therecord.media/united-kingdom-ransomware-education",
@@ -291,14 +299,6 @@
    "desc": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg",
    "date": "2026-07-30T11:32:46+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-   "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-   "desc": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-30T11:16:23+00:00"
   },
   {
    "source": "The Hacker News",
