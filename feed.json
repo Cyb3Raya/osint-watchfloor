@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-31T21:44:59.096397+00:00",
+ "generated": "2026-07-31T23:04:19.087769+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+   "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+   "desc": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+   "image": "",
+   "date": "2026-07-31T22:16:42+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Arch Linux disables AUR package adoption to stop malware flood",
@@ -427,14 +435,6 @@
    "desc": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credenti",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
    "date": "2026-07-30T15:25:57+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Analog Devices discloses data breach, says operations unaffected",
-   "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-   "desc": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-   "image": "",
-   "date": "2026-07-30T15:12:25+00:00"
   },
   {
    "source": "Google GTIG",
