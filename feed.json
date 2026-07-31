@@ -1,9 +1,17 @@
 {
- "generated": "2026-07-30T23:29:01.991748+00:00",
+ "generated": "2026-07-31T01:11:14.012297+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+   "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+   "desc": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of thr",
+   "image": "",
+   "date": "2026-07-31T00:57:25+00:00"
+  },
   {
    "source": "IC3 PSA",
    "title": "Malicious Cyber Actors Targeting Water and Wastewater Sector Internet Facing Programmable Logic Controllers, Causing Operational Disruptions",
@@ -491,14 +499,6 @@
    "desc": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critic",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg",
    "date": "2026-07-29T15:31:15+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-   "desc": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-   "image": "",
-   "date": "2026-07-29T14:55:57+00:00"
   },
   {
    "source": "Dark Reading",
