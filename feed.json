@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-01T14:01:25.822942+00:00",
+ "generated": "2026-08-01T15:31:39.376551+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Rails patches critical Active Storage flaw with RCE potential",
+   "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+   "desc": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+   "image": "",
+   "date": "2026-08-01T14:20:30+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
@@ -443,14 +451,6 @@
    "desc": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
    "image": "",
    "date": "2026-07-30T16:46:15+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-   "desc": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
-   "image": "",
-   "date": "2026-07-30T15:56:33+00:00"
   },
   {
    "source": "Dark Reading",
