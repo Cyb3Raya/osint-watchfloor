@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-01T10:44:04.476258+00:00",
+ "generated": "2026-08-01T12:04:04.309435+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Ruby on Rails Patches Critical Vulnerability",
+   "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+   "desc": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-01T11:15:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
@@ -363,14 +371,6 @@
    "desc": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd2572a409133e33/6a6bb64522716cf19f0b542e/water_Bilanol_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T21:16:13+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
-   "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-   "desc": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom. The post Bank of America to Acquire Cybersecurity Firm MDSec appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-30T21:02:21+00:00"
   },
   {
    "source": "Dark Reading",
