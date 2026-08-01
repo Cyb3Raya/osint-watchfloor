@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-01T06:35:02.638815+00:00",
+ "generated": "2026-08-01T08:55:58.690321+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33206",
+   "desc": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on ",
+   "image": "",
+   "date": "2026-08-01T07:22:32+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+   "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+   "desc": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerab",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
+   "date": "2026-08-01T07:12:42+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+   "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+   "desc": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
+   "date": "2026-08-01T06:29:05+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
@@ -469,22 +493,6 @@
    "date": "2026-07-30T11:32:46+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-   "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-   "desc": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security softwa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg",
-   "date": "2026-07-30T10:33:15+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-   "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-   "desc": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s1600/drivers.jpg",
-   "date": "2026-07-30T10:32:59+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
    "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
@@ -619,14 +627,6 @@
    "desc": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current sta",
    "image": "",
    "date": "2026-07-27T10:04:51+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
-   "link": "https://isc.sans.edu/diary/rss/33186",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-27T02:00:02+00:00"
   },
   {
    "source": "Google GTIG",
