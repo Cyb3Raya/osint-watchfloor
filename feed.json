@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-01T08:55:58.690321+00:00",
+ "generated": "2026-08-01T10:44:04.476258+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+   "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+   "desc": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, remo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
+   "date": "2026-08-01T09:03:07+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
@@ -483,14 +491,6 @@
    "desc": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after re",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg",
    "date": "2026-07-30T11:54:49+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Network Has Become the Control Plane for AI Security",
-   "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-   "desc": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg",
-   "date": "2026-07-30T11:32:46+00:00"
   },
   {
    "source": "Unit 42",
