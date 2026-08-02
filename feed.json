@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-02T22:13:37.259701+00:00",
+ "generated": "2026-08-02T23:16:09.592970+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+   "desc": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+   "image": "",
+   "date": "2026-08-02T22:31:41+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
@@ -443,14 +451,6 @@
    "desc": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
    "image": "",
    "date": "2026-07-30T18:13:24+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-   "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-   "desc": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or",
-   "image": "",
-   "date": "2026-07-30T18:00:51+00:00"
   },
   {
    "source": "Cisco Talos",
