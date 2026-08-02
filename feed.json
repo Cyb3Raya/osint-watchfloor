@@ -1,10 +1,8 @@
 {
- "generated": "2026-08-02T15:31:40.628618+00:00",
- "sources_ok": 10,
+ "generated": "2026-08-02T16:35:47.747244+00:00",
+ "sources_ok": 11,
  "sources_total": 11,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
@@ -135,12 +133,28 @@
    "date": "2026-07-31T18:13:11+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
+   "link": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
+   "desc": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
+   "image": "",
+   "date": "2026-07-31T17:47:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
    "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
    "desc": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
    "image": "",
    "date": "2026-07-31T17:35:35+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyber Command plans Silicon Valley office to drive innovation",
+   "link": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
+   "desc": "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
+   "image": "",
+   "date": "2026-07-31T17:35:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -229,6 +243,14 @@
    "desc": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg",
    "date": "2026-07-31T12:51:52+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Anthropic says its AI hacked real-world companies in three incidents",
+   "link": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
+   "desc": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet.",
+   "image": "",
+   "date": "2026-07-31T12:15:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -327,6 +349,14 @@
    "date": "2026-07-31T06:41:44+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Finland to disconnect fiber-optic link to Russia as lease expires",
+   "link": "https://therecord.media/finland-russia-fiber-optic-disconnection",
+   "desc": "Finland stopped power transmissions with Russia at the start of the war in Ukraine, and two related telecom connections will stop at the end of this year, authorities said.",
+   "image": "",
+   "date": "2026-07-31T04:00:00+00:00"
+  },
+  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
    "link": "https://isc.sans.edu/diary/rss/33204",
@@ -381,6 +411,14 @@
    "desc": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T19:40:40+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Semiconductor chip titan Analog Devices reports data breach",
+   "link": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
+   "desc": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.",
+   "image": "",
+   "date": "2026-07-30T19:10:00+00:00"
   },
   {
    "source": "The Hacker News",
