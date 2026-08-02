@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-02T00:16:40.040248+00:00",
+ "generated": "2026-08-02T04:00:24.388218+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
+   "link": "https://isc.sans.edu/diary/rss/33208",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-08-02T03:21:28+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
@@ -619,14 +627,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-28T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
-   "link": "https://isc.sans.edu/diary/rss/33188",
-   "desc": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current sta",
-   "image": "",
-   "date": "2026-07-27T10:04:51+00:00"
   },
   {
    "source": "Google GTIG",
