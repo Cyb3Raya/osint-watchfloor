@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-02T21:14:08.905135+00:00",
+ "generated": "2026-08-02T22:13:37.259701+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+   "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+   "desc": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+   "image": "",
+   "date": "2026-08-02T21:14:29+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
@@ -451,14 +459,6 @@
    "desc": "Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-3.jpg",
    "date": "2026-07-30T18:00:35+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-   "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-   "desc": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent release",
-   "image": "",
-   "date": "2026-07-30T17:00:00+00:00"
   },
   {
    "source": "Krebs on Security",
