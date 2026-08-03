@@ -1,9 +1,41 @@
 {
- "generated": "2026-08-03T18:52:39.438442+00:00",
+ "generated": "2026-08-03T20:28:05.723258+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
+   "link": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
+   "desc": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.",
+   "image": "",
+   "date": "2026-08-03T20:15:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+   "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+   "desc": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote ac",
+   "image": "",
+   "date": "2026-08-03T20:01:22+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+   "desc": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+   "image": "",
+   "date": "2026-08-03T19:25:10+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+   "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+   "desc": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
+   "date": "2026-08-03T18:43:53+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
@@ -57,7 +89,7 @@
    "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
    "desc": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-03T15:42:18+00:00"
   },
   {
@@ -389,36 +421,12 @@
    "date": "2026-07-31T17:35:35+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Cyber Command plans Silicon Valley office to drive innovation",
-   "link": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
-   "desc": "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
-   "image": "",
-   "date": "2026-07-31T17:35:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
    "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
    "image": "",
    "date": "2026-07-31T16:49:49+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-   "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-   "desc": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
-   "date": "2026-07-31T16:39:31+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-   "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-   "desc": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, ",
-   "image": "",
-   "date": "2026-07-31T14:01:11+00:00"
   },
   {
    "source": "Dark Reading",
@@ -475,14 +483,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-31T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-   "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-   "desc": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of thr",
-   "image": "",
-   "date": "2026-07-31T00:57:25+00:00"
   },
   {
    "source": "IC3 PSA",
