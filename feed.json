@@ -1,9 +1,41 @@
 {
- "generated": "2026-08-03T16:42:55.957113+00:00",
+ "generated": "2026-08-03T18:52:39.438442+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
+   "link": "https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations",
+   "desc": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.",
+   "image": "",
+   "date": "2026-08-03T17:36:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+   "desc": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+   "image": "",
+   "date": "2026-08-03T17:00:56+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+   "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+   "desc": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
+   "date": "2026-08-03T16:24:47+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+   "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+   "desc": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
+   "date": "2026-08-03T16:15:13+00:00"
+  },
   {
    "source": "Cisco Talos",
    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
@@ -11,14 +43,6 @@
    "desc": "Register for an exclusive, unrecorded 30-minute webinar to review the most high-impact incidents Talos IR faced in Q2.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/2-1-no-copy.jpg",
    "date": "2026-08-03T16:00:12+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Chinese Actor Weaponizes DeepSeek AI Agent to Attack Security Firm",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-   "desc": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T15:56:28+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -29,12 +53,28 @@
    "date": "2026-08-03T15:50:00+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+   "desc": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-03T15:42:18+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
    "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
    "desc": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm Bi",
    "image": "",
    "date": "2026-08-03T15:32:05+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
+   "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
+   "desc": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing. The post Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foun",
+   "image": "",
+   "date": "2026-08-03T15:15:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -128,7 +168,7 @@
    "source": "The Hacker News",
    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-   "desc": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it ide",
+   "desc": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys sa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
    "date": "2026-08-03T10:49:06+00:00"
   },
@@ -253,14 +293,6 @@
    "date": "2026-08-01T14:20:30+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
-   "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
-   "desc": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. The post Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments appeared first on",
-   "image": "",
-   "date": "2026-08-01T12:30:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
    "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
@@ -381,14 +413,6 @@
    "date": "2026-07-31T16:39:31+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-   "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-   "desc": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers na",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg",
-   "date": "2026-07-31T14:45:01+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
    "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
@@ -429,22 +453,6 @@
    "date": "2026-07-31T13:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-   "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-   "desc": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg",
-   "date": "2026-07-31T12:51:52+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Anthropic says its AI hacked real-world companies in three incidents",
-   "link": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
-   "desc": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet.",
-   "image": "",
-   "date": "2026-07-31T12:15:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
    "link": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
@@ -483,14 +491,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-30T23:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "South Korea fines telco giant KT $39 million for customer data breach",
-   "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-   "desc": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
-   "image": "",
-   "date": "2026-07-30T22:28:30+00:00"
   },
   {
    "source": "Dark Reading",
