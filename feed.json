@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-03T20:28:05.723258+00:00",
+ "generated": "2026-08-03T21:46:38.211989+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
+   "desc": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-03T21:21:11+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "New Tool Traces AI Videos Back to Their Source",
+   "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+   "desc": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9546018118863fd/6a70ff2fbe6c657faa5a6e3b/GettyImages-1136317674.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-03T20:42:28+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic: AI Attacks Result of Security Gaps, Not Model Issues",
+   "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+   "desc": "Last month's incidents in which Claude breached real-world systems derived from over-permissioning, especially with Internet access.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c93a3d3405d789d/6a70e02ffbf44d4210bb1101/claude2_Samuel_Boivin_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-03T20:31:12+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
@@ -88,7 +112,7 @@
    "source": "Dark Reading",
    "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-   "desc": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
+   "desc": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-03T15:42:18+00:00"
   },
@@ -587,30 +611,6 @@
    "desc": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64dd0d457b1c0a07/6a6a64473ece06782ad0a027/Eagle-Tatsuya_Sakamoto-GettyImages-2223926307.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T00:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cybersecurity, Then &amp; Now",
-   "link": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
-   "desc": "Since 2006, Dark Reading has been at the forefront of covering cybersecurity. The more things change, the more they stay the same.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5abd01698ef78f0b/6a6ff0639d445c29f4e76f1b/dr20-inout.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-29T23:26:46+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-   "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-   "desc": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-29T19:48:12+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
-   "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-   "desc": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda67aa668122e771/6a6a4b0db8ab35a066dea164/blueteam-sqback-Getty-2255978330.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-29T19:46:20+00:00"
   },
   {
    "source": "SANS ISC",
