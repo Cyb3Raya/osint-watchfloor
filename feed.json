@@ -1,9 +1,73 @@
 {
- "generated": "2026-08-03T11:28:30.247328+00:00",
+ "generated": "2026-08-03T14:01:18.896575+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Is There Really a Fix for CISO Fatigue?",
+   "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+   "desc": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bd4cb621eab153c/6a6ce7295c6370055b106be4/burnout-Moor_Studio-_Getty-1445628897.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-03T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
+   "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
+   "desc": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-03T13:02:06+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
+   "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
+   "desc": "Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why. The post Horizon3 Raises $250 Million to Fund Continuing Growth app",
+   "image": "",
+   "date": "2026-08-03T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
+   "link": "https://therecord.media/amgen-hackers-cyberattack-sec",
+   "desc": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
+   "image": "",
+   "date": "2026-08-03T12:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
+   "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
+   "desc": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-08-03T12:34:06+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
+   "link": "https://therecord.media/russian-wifi-hackers-hotels",
+   "desc": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
+   "image": "",
+   "date": "2026-08-03T12:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+   "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
+   "desc": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-03T11:45:14+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+   "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+   "desc": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
+   "date": "2026-08-03T11:30:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
@@ -277,14 +341,6 @@
    "date": "2026-07-31T15:47:02+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
-   "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-   "desc": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared",
-   "image": "",
-   "date": "2026-07-31T15:17:41+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
    "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
@@ -357,22 +413,6 @@
    "date": "2026-07-31T11:55:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-   "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-   "desc": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-cons",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg",
-   "date": "2026-07-31T11:24:59+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
-   "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
-   "desc": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-07-31T10:28:45+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
    "link": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
@@ -381,36 +421,12 @@
    "date": "2026-07-31T10:00:18+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
-   "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
-   "desc": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illi",
-   "image": "",
-   "date": "2026-07-31T10:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
-   "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
-   "desc": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. The post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations appeared first on S",
-   "image": "",
-   "date": "2026-07-31T09:39:57+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
    "link": "https://isc.sans.edu/diary/rss/33202",
    "desc": "I was asked for help with a problem similar to the following.&#xd;",
    "image": "",
    "date": "2026-07-31T09:22:19+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Finland to disconnect fiber-optic link to Russia as lease expires",
-   "link": "https://therecord.media/finland-russia-fiber-optic-disconnection",
-   "desc": "Finland stopped power transmissions with Russia at the start of the war in Ukraine, and two related telecom connections will stop at the end of this year, authorities said.",
-   "image": "",
-   "date": "2026-07-31T04:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -467,14 +483,6 @@
    "desc": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T19:40:40+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Semiconductor chip titan Analog Devices reports data breach",
-   "link": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
-   "desc": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.",
-   "image": "",
-   "date": "2026-07-30T19:10:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -595,14 +603,6 @@
    "desc": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta214a48ce72c3ebd/6a690739208e6b500fcd14c1/huggingface_Tada_Images_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-29T17:43:38+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Hugging Face Hack: Lessons for Cyber Defenders",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-   "desc": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-29T17:35:23+00:00"
   },
   {
    "source": "SANS ISC",
