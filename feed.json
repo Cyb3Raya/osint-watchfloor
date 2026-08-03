@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-03T04:02:45.785892+00:00",
+ "generated": "2026-08-03T07:52:03.647934+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+   "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+   "desc": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affect",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
+   "date": "2026-08-03T06:41:46+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+   "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+   "desc": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg",
+   "date": "2026-08-03T06:40:31+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
@@ -485,28 +501,12 @@
    "date": "2026-07-30T15:28:43+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-   "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-   "desc": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credenti",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
-   "date": "2026-07-30T15:25:57+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
    "desc": "Written by: Kelli Vanderlee, Stuart Carrera For years, the cybersecurity industry's understanding of software supply chain compromise has been anchored by a few watershed events, including Russian cyber espionage actor I",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/BattenDownYourPackages_1.max-1000x1000.png",
    "date": "2026-07-30T14:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-   "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-   "desc": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg",
-   "date": "2026-07-30T13:34:09+00:00"
   },
   {
    "source": "Unit 42",
