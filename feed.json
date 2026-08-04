@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-04T03:44:21.092344+00:00",
+ "generated": "2026-08-04T06:30:27.347147+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
+   "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
+   "desc": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-04T05:18:34+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
@@ -275,14 +283,6 @@
    "desc": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless ",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-08-03T10:00:35+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
-   "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
-   "desc": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on Se",
-   "image": "",
-   "date": "2026-08-03T09:17:37+00:00"
   },
   {
    "source": "The Hacker News",
