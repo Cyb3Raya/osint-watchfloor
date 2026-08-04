@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-04T18:17:36.446128+00:00",
+ "generated": "2026-08-04T20:03:29.873864+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+   "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+   "desc": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+   "image": "",
+   "date": "2026-08-04T19:03:09+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "77 Open VSX extensions found harvesting developer info",
+   "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+   "desc": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+   "image": "",
+   "date": "2026-08-04T18:50:55+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
+   "desc": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b501fd239cea948/6a7205c2f2df87f4451c6c0b/Playbook(1800)_Ivelin_Radkov_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-04T18:37:35+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
@@ -493,22 +517,6 @@
    "date": "2026-08-01T07:22:32+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-   "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-   "desc": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-   "image": "",
-   "date": "2026-07-31T22:16:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Arch Linux disables AUR package adoption to stop malware flood",
-   "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-   "desc": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-   "image": "",
-   "date": "2026-07-31T21:38:08+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
@@ -611,14 +619,6 @@
    "desc": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio",
    "image": "",
    "date": "2026-07-30T16:49:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
-   "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
-   "desc": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd055540c06ee3acd/6a6ada64165f081ff8010b6c/claude1800_Kenneth_Cheung_GettyImages-2270277028.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-30T15:28:43+00:00"
   },
   {
    "source": "Google GTIG",
