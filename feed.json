@@ -1,9 +1,49 @@
 {
- "generated": "2026-08-04T09:26:28.859853+00:00",
+ "generated": "2026-08-04T11:48:13.204062+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+   "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+   "desc": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering ",
+   "image": "",
+   "date": "2026-08-04T10:54:30+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+   "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+   "desc": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg",
+   "date": "2026-08-04T10:36:27+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
+   "link": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/",
+   "desc": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based A",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/aiartifactheader.jpg",
+   "date": "2026-08-04T10:00:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+   "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+   "desc": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-08-04T09:56:06+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+   "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+   "desc": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg",
+   "date": "2026-08-04T09:03:23+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "150,000 Impacted by Madera Community Hospital Data Breach",
@@ -253,28 +293,12 @@
    "date": "2026-08-03T12:45:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-   "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-   "desc": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-08-03T12:34:06+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
    "link": "https://therecord.media/russian-wifi-hackers-hotels",
    "desc": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
    "image": "",
    "date": "2026-08-03T12:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-   "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-   "desc": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-03T11:45:14+00:00"
   },
   {
    "source": "The Hacker News",
@@ -403,22 +427,6 @@
    "desc": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on ",
    "image": "",
    "date": "2026-08-01T07:22:32+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-   "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-   "desc": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerab",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
-   "date": "2026-08-01T07:12:42+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-   "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-   "desc": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
-   "date": "2026-08-01T06:29:05+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -827,14 +835,6 @@
    "desc": "Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed three vulnerabilities in WolfSSF, fourteen in GeoVision, and one vulnerability in VTK-DICOM.The vulnerabilities mentioned in this blog po",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/vuln_roundup.jpg",
    "date": "2026-07-09T18:52:29+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Winning 54% of the time",
-   "link": "https://blog.talosintelligence.com/winning-54-of-the-time/",
-   "desc": "With Wimbledon's help, Hazel argues against the popular myth that \"Attackers only need to be right once, but defenders need to be right 100% of the time.\"",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source.jpg",
-   "date": "2026-07-09T18:00:06+00:00"
   },
   {
    "source": "Krebs on Security",
