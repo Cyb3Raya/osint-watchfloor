@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-03T23:04:23.975009+00:00",
+ "generated": "2026-08-04T00:17:40.181160+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+   "desc": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+   "image": "",
+   "date": "2026-08-04T00:17:15+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+   "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+   "desc": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract",
+   "image": "",
+   "date": "2026-08-03T23:58:01+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
@@ -435,22 +451,6 @@
    "desc": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
    "image": "",
    "date": "2026-07-31T17:47:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-   "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-   "desc": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-   "image": "",
-   "date": "2026-07-31T17:35:35+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
-   "image": "",
-   "date": "2026-07-31T16:49:49+00:00"
   },
   {
    "source": "Dark Reading",
