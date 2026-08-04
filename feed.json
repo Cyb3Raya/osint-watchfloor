@@ -1,9 +1,145 @@
 {
- "generated": "2026-08-04T11:48:13.204062+00:00",
+ "generated": "2026-08-04T14:22:53.137869+00:00",
  "sources_ok": 11,
  "sources_total": 11,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Russian businesses erase Durov-linked products after 'terrorist' designation",
+   "link": "https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation",
+   "desc": "The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency ",
+   "image": "",
+   "date": "2026-08-04T14:11:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+   "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+   "desc": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardr",
+   "image": "",
+   "date": "2026-08-04T14:00:10+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+   "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+   "desc": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Ass",
+   "image": "",
+   "date": "2026-08-04T13:54:13+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Zenity Raises $125 Million in Series C Funding",
+   "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
+   "desc": "The AI security company will invest in product innovation, global expansion, and customer experience. The post Zenity Raises $125 Million in Series C Funding appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-04T13:40:42+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+   "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+   "desc": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned ve",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg",
+   "date": "2026-08-04T13:30:23+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+   "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+   "desc": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance ut",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
+   "date": "2026-08-04T13:11:22+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software",
+   "link": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
+   "desc": "Frontier AI is reshaping vulnerability discovery. Learn how our NOVA system found 14,000+ unknown vulnerabilities across the open-source software supply chain. The post The Frontier AI Vulnerability Burst: Industrializin",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/11_Myth-Busting_Overview_1920x900.jpg",
+   "date": "2026-08-04T13:00:11+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
+   "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
+   "desc": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltacd93dbe5fa30f62/6a6fb9993e6bcafcff0bbab9/Video_call_AiTM-jack191-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-04T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Apple launches new legal challenge against UK over iCloud access",
+   "link": "https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge",
+   "desc": "Seeking to protect users' iCloud accounts, Apple is reportedly mounting a new challenge to British legal demands for ways around the company's Advanced Data Protection feature.",
+   "image": "",
+   "date": "2026-08-04T13:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Ongoing Threats of Swatting and Indicators for Community Members",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260804",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-04T13:00:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Almost Half of Malware Samples Communicate Direct to IP",
+   "link": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
+   "desc": "Nearly half of C2 malware bypasses DNS by connecting directly to IP addresses. Zero trust IP enforcement secures networks against these threats. The post Almost Half of Malware Samples Communicate Direct to IP appeared f",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_DNS_Overview_1920x900.jpg",
+   "date": "2026-08-04T12:50:53+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
+   "link": "https://isc.sans.edu/diary/rss/33214",
+   "desc": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with diagnostic tools:&#xd;",
+   "image": "",
+   "date": "2026-08-04T12:46:19+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected",
+   "link": "https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities",
+   "desc": "The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.",
+   "image": "",
+   "date": "2026-08-04T12:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
+   "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
+   "desc": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-04T12:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
+   "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
+   "desc": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-04T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+   "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+   "desc": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg",
+   "date": "2026-08-04T11:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+   "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+   "desc": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif",
+   "date": "2026-08-04T11:16:23+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
@@ -221,22 +357,6 @@
    "date": "2026-08-03T15:42:18+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
-   "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
-   "desc": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm Bi",
-   "image": "",
-   "date": "2026-08-03T15:32:05+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
-   "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
-   "desc": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing. The post Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foun",
-   "image": "",
-   "date": "2026-08-03T15:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
    "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
@@ -267,38 +387,6 @@
    "desc": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bd4cb621eab153c/6a6ce7295c6370055b106be4/burnout-Moor_Studio-_Getty-1445628897.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-03T14:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-   "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-   "desc": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-03T13:02:06+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
-   "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
-   "desc": "Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why. The post Horizon3 Raises $250 Million to Fund Continuing Growth app",
-   "image": "",
-   "date": "2026-08-03T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
-   "link": "https://therecord.media/amgen-hackers-cyberattack-sec",
-   "desc": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
-   "image": "",
-   "date": "2026-08-03T12:45:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
-   "link": "https://therecord.media/russian-wifi-hackers-hotels",
-   "desc": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
-   "image": "",
-   "date": "2026-08-03T12:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -341,22 +429,6 @@
    "date": "2026-08-03T08:05:30+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-   "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-   "desc": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affect",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
-   "date": "2026-08-03T06:41:46+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-   "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-   "desc": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg",
-   "date": "2026-08-03T06:40:31+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
    "link": "https://isc.sans.edu/diary/rss/33210",
@@ -397,28 +469,12 @@
    "date": "2026-08-02T04:05:08+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-   "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-   "desc": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-on",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
-   "date": "2026-08-01T17:17:22+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Rails patches critical Active Storage flaw with RCE potential",
    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
    "desc": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
    "image": "",
    "date": "2026-08-01T14:20:30+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-   "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-   "desc": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, remo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
-   "date": "2026-08-01T09:03:07+00:00"
   },
   {
    "source": "SANS ISC",
@@ -453,28 +509,12 @@
    "date": "2026-07-31T21:09:25+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-   "desc": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-   "image": "",
-   "date": "2026-07-31T18:52:44+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
    "desc": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ea01097eb709f8a/6a6ce63bcc814023251d23dd/Long_list-erhui1979-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-31T18:13:11+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
-   "link": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
-   "desc": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
-   "image": "",
-   "date": "2026-07-31T17:47:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -613,14 +653,6 @@
    "date": "2026-07-30T02:00:03+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
-   "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
-   "desc": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt375b31ff55356eb8/6a6a6c190179f65a251bb12d/industrial-cybercrime-technologies-TippaPatt-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-30T01:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
    "link": "https://isc.sans.edu/diary/rss/33198",
@@ -635,14 +667,6 @@
    "desc": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions ",
    "image": "",
    "date": "2026-07-29T07:32:37+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
-   "link": "https://isc.sans.edu/diary/rss/33194",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-29T02:00:02+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -917,14 +941,6 @@
    "date": "2026-06-26T16:30:00+00:00"
   },
   {
-   "source": "Unit 42",
-   "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
-   "link": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/",
-   "desc": "Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. The post CL-STA-1062 Targets Southeast Asian Governments and ",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg",
-   "date": "2026-06-25T22:00:52+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
@@ -939,14 +955,6 @@
    "desc": "Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan, Lukasz Lamparski Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial",
    "image": "",
    "date": "2026-06-24T11:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat",
-   "link": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/",
-   "desc": "Unit 42's analysis of ClawHub revealed evasive malicious skills bypassing automated scanners to deploy infostealers and execute agentic financial fraud. The post OpenClaw’s Skill Marketplace and the Emerging AI Supply Ch",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_768915868-1.jpg",
-   "date": "2026-06-23T22:00:51+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -971,14 +979,6 @@
    "desc": "",
    "image": "",
    "date": "2026-06-18T14:00:00+00:00"
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "Protect Your Property from Illegal Sales Through Parcel Owner Impersonation",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260616",
-   "desc": "",
-   "image": "",
-   "date": "2026-06-16T14:00:00+00:00"
   },
   {
    "source": "Google GTIG",
