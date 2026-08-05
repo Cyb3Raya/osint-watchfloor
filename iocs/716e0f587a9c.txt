@@ -1,0 +1,11 @@
+IOC EXTRACTION - Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk
+Source: https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html
+Extracted: 2026-08-05 14:16:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

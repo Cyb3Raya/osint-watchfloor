@@ -1,0 +1,12 @@
+IOC EXTRACTION - New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch
+Source: https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html
+Extracted: 2026-08-05 14:16:00 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-64531
