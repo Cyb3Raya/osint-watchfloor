@@ -1,0 +1,15 @@
+IOC EXTRACTION - Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses
+Source: https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html
+Extracted: 2026-08-05 16:13:18 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (1)
+----------------------------------------
+166[.]88[.]134[.]62

@@ -1,0 +1,24 @@
+IOC EXTRACTION - Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug
+Source: https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html
+Extracted: 2026-08-05 16:13:17 UTC
+Total indicators: 14
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (14)
+----------------------------------------
+CVE-2026-1207
+CVE-2026-14869
+CVE-2026-15307
+CVE-2026-15337
+CVE-2026-15830
+CVE-2026-15920
+CVE-2026-16496
+CVE-2026-16498
+CVE-2026-32998
+CVE-2026-50522
+CVE-2026-58067
+CVE-2026-58071
+CVE-2026-58072
+CVE-2026-58073

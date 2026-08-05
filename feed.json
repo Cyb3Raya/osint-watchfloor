@@ -1,9 +1,53 @@
 {
- "generated": "2026-08-05T14:16:19.841239+00:00",
+ "generated": "2026-08-05T16:13:31.558770+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+   "image": "",
+   "date": "2026-08-05T15:51:33+00:00",
+   "iocs": "iocs/4dcce587c04d.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "RF The Record",
+   "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
+   "link": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
+   "desc": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
+   "image": "",
+   "date": "2026-08-05T15:36:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Google Blogger locks hundreds of blogs in malware false positive",
+   "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+   "desc": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+   "image": "",
+   "date": "2026-08-05T14:59:29+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
+   "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
+   "desc": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 3) appeared first on S",
+   "image": "",
+   "date": "2026-08-05T14:36:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+   "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+   "desc": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's con",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg",
+   "date": "2026-08-05T14:27:30+00:00",
+   "iocs": "iocs/bf12718855e8.txt",
+   "ioc_count": 14
+  },
   {
    "source": "BleepingComputer",
    "title": "How AI-powered phishing killed blocklists for good",
@@ -19,6 +63,16 @@
    "desc": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
    "image": "",
    "date": "2026-08-05T14:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+   "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+   "desc": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg",
+   "date": "2026-08-05T13:41:27+00:00",
+   "iocs": "iocs/66d9046cc862.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -295,22 +349,6 @@
    "date": "2026-08-04T16:19:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
-   "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
-   "desc": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security",
-   "image": "",
-   "date": "2026-08-04T16:15:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Polish convenience store chain Żabka hacked through third-party account",
-   "link": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
-   "desc": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
-   "image": "",
-   "date": "2026-08-04T15:55:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
    "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
@@ -425,16 +463,6 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-   "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-   "desc": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg",
-   "date": "2026-08-04T10:36:27+00:00",
-   "iocs": "iocs/df5a94b50e3d.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Socket",
    "title": "Popular npm Packages in the keyv and Cacheable Namespaces Compromised in Active Supply Chain Attack",
    "link": "https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain?utm_medium=feed",
@@ -453,16 +481,6 @@
    "date": "2026-08-04T10:00:11+00:00",
    "iocs": "iocs/b938abdeb597.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-   "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-   "desc": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg",
-   "date": "2026-08-04T09:03:23+00:00",
-   "iocs": "iocs/79321c6c50ff.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -487,6 +505,14 @@
    "desc": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
    "image": "",
    "date": "2026-08-04T00:17:15+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "keyv and cacheable npm Package Hijacked in Supply Chain Attack (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/keyv-and-cacheable-npm-package-hijacked-in-supply-chain-attack",
+   "desc": "Multiple npm packages in the keyv/cacheable ecosystem were compromised following the compromise of a GitHub maintainer account, resulting in the publication of malicious package versions. All versions shared a consistent",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-08-04T00:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -565,22 +591,6 @@
    "desc": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-03T15:42:18+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-   "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-   "desc": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-   "image": "",
-   "date": "2026-08-03T15:04:39+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-   "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-   "desc": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales cha",
-   "image": "",
-   "date": "2026-08-03T14:45:55+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1437,14 +1447,6 @@
    "date": "2026-06-15T14:00:00+00:00",
    "iocs": "iocs/eb358928c590.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "Wiz Threats",
-   "title": "Atomic Arch: AUR Package Supply Chain Compromise Using Malicious npm Package (Campaign)",
-   "link": "https://threats.wiz.io/all-incidents/atomic-arch-aur-package-supply-chain-compromise-using-malicious-npm-package",
-   "desc": "Researchers have disclosed a software supply chain attack, dubbed \"Atomic Arch,\" targeting orphaned packages in the Arch User Repository (AUR). Using newly created AUR accounts, an attacker adopted more than 400 abandone",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-06-12T00:00:00+00:00"
   },
   {
    "source": "Google GTIG",
