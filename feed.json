@@ -1,9 +1,41 @@
 {
- "generated": "2026-08-05T22:30:40.766615+00:00",
+ "generated": "2026-08-05T23:36:08.676001+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+   "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+   "desc": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d5bbb76a9a7ed2b/6a73baa39adea75f0c6c4181/fraud-RapidEye-Getty-155132055.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-05T23:35:28+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+   "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+   "desc": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63af621e575150fc/6a735a66494066273df9c027/aibrowsers-SaksitSangtong-Getty-2259378669.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-05T23:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+   "desc": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+   "image": "",
+   "date": "2026-08-05T23:00:50+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+   "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+   "desc": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7e0cf3695ec46a69/6a73b8d82ab3843852e5758c/robot_browsing-sorbetto-Getty-2150544898.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-05T22:18:25+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
@@ -107,14 +139,6 @@
    "desc": "Three summer disclosures documented AI agents attacking real organizations with no human intent in the chain. Incident response has no box for this yet. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a737a3832193854d8fbce62_Next-threat-actor-may-not-know-it-is-a-threat-actor_16x9.jpg",
    "date": "2026-08-05T17:59:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-   "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-   "desc": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-   "image": "",
-   "date": "2026-08-05T17:57:15+00:00"
   },
   {
    "source": "SANS ISC",
@@ -601,14 +625,6 @@
    "date": "2026-08-04T00:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-   "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-   "desc": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract",
-   "image": "",
-   "date": "2026-08-03T23:58:01+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
    "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
@@ -709,14 +725,6 @@
    "date": "2026-07-31T20:05:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
-   "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
-   "desc": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ea01097eb709f8a/6a6ce63bcc814023251d23dd/Long_list-erhui1979-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-31T18:13:11+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
    "link": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
@@ -733,14 +741,6 @@
    "desc": "Compare Astra Security alternatives for AI pentesting in 2026 on depth, white-box testing, compliance output, and platform breadth Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-07-31T14:25:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
-   "link": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
-   "desc": "The most valuable move any security team can make is building a certificate and key inventory.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0708e08cf8273efe/6a6b94fd5c63704e75106890/trust-puzzle-yusnizam-getty-1409309926.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-31T14:00:00+00:00"
   },
   {
    "source": "Unit 42",
