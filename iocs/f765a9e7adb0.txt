@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attackers Exploit N-able Patch Bypass Flaw on RMM Servers
+Source: https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw
+Extracted: 2026-08-05 04:31:26 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-18556
+CVE-2026-18577

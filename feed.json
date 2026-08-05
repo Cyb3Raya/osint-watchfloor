@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05T04:19:43.283159+00:00",
+ "generated": "2026-08-05T04:31:42.674630+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -410,7 +410,9 @@
    "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
    "desc": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T21:21:11+00:00"
+   "date": "2026-08-03T21:21:11+00:00",
+   "iocs": "iocs/f765a9e7adb0.txt",
+   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
