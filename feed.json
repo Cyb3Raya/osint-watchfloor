@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-05T16:13:31.558770+00:00",
+ "generated": "2026-08-05T17:57:19.347033+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33218",
+   "desc": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup",
+   "image": "",
+   "date": "2026-08-05T17:53:03+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "COLDCARD security audit phishing attack installs remote access tool",
+   "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+   "desc": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...",
+   "image": "",
+   "date": "2026-08-05T17:49:41+00:00",
+   "iocs": "iocs/b8de3a001b73.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
@@ -15,12 +33,32 @@
    "ioc_count": 5
   },
   {
+   "source": "The Hacker News",
+   "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+   "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+   "desc": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such servic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg",
+   "date": "2026-08-05T15:36:03+00:00",
+   "iocs": "iocs/45c69e058649.txt",
+   "ioc_count": 5
+  },
+  {
    "source": "RF The Record",
    "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
    "link": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
    "desc": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
    "image": "",
    "date": "2026-08-05T15:36:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+   "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+   "desc": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both pat",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg",
+   "date": "2026-08-05T15:14:05+00:00",
+   "iocs": "iocs/0edaefefe6d3.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -66,7 +104,7 @@
   },
   {
    "source": "The Hacker News",
-   "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+   "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
    "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
    "desc": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg",
@@ -433,26 +471,6 @@
    "ioc_count": 4
   },
   {
-   "source": "The Hacker News",
-   "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-   "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-   "desc": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg",
-   "date": "2026-08-04T11:30:00+00:00",
-   "iocs": "iocs/06c0ec5ab822.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-   "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-   "desc": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif",
-   "date": "2026-08-04T11:16:23+00:00",
-   "iocs": "iocs/06b31a39b35c.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
    "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
@@ -565,16 +583,6 @@
    "desc": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
    "image": "",
    "date": "2026-08-03T19:25:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-   "desc": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-   "image": "",
-   "date": "2026-08-03T17:00:56+00:00",
-   "iocs": "iocs/1ebcd51a8367.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",
@@ -819,16 +827,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-30T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner &#x5b;Guest Diary&#x5d;, (Thu, Jul 30th)",
-   "link": "https://isc.sans.edu/diary/rss/33198",
-   "desc": "&#x5b;This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-07-30T00:42:29+00:00",
-   "iocs": "iocs/684cb4d2defb.txt",
-   "ioc_count": 1
   },
   {
    "source": "Aikido",

@@ -1,0 +1,11 @@
+IOC EXTRACTION - COLDCARD security audit phishing attack installs remote access tool
+Source: https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/
+Extracted: 2026-08-05 17:57:12 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+activeretirementrelocation[.]com

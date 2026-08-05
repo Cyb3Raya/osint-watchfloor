@@ -1,0 +1,18 @@
+IOC EXTRACTION - Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt
+Source: https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html
+Extracted: 2026-08-05 17:57:09 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (4)
+----------------------------------------
+dakaka[.]org
+emailinbo[.]live
+poison-claude[.]bitsender[.]top
+ratixq[.]com

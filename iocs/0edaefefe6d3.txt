@@ -1,0 +1,12 @@
+IOC EXTRACTION - Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports
+Source: https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html
+Extracted: 2026-08-05 17:57:10 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-41679
+CVE-2026-50522
