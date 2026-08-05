@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-05T21:14:13.135915+00:00",
+ "generated": "2026-08-05T22:30:40.766615+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+   "desc": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. ",
+   "image": "",
+   "date": "2026-08-05T21:53:26+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
@@ -99,6 +107,14 @@
    "desc": "Three summer disclosures documented AI agents attacking real organizations with no human intent in the chain. Incident response has no box for this yet. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a737a3832193854d8fbce62_Next-threat-actor-may-not-know-it-is-a-threat-actor_16x9.jpg",
    "date": "2026-08-05T17:59:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+   "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+   "desc": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+   "image": "",
+   "date": "2026-08-05T17:57:15+00:00"
   },
   {
    "source": "SANS ISC",
@@ -619,16 +635,6 @@
    "date": "2026-08-03T20:31:12+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-   "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-   "desc": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote ac",
-   "image": "",
-   "date": "2026-08-03T20:01:22+00:00",
-   "iocs": "iocs/1074e2818821.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Cisco Talos",
    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
    "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
@@ -735,14 +741,6 @@
    "desc": "The most valuable move any security team can make is building a certificate and key inventory.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0708e08cf8273efe/6a6b94fd5c63704e75106890/trust-puzzle-yusnizam-getty-1409309926.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-31T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Interpol Leverages Global System to Curtail Fraud Payments",
-   "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
-   "desc": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt264b54ff513eeccd/6a6bbc45cc81404df41d20a4/accountant-with-handcuffs-megaflopp-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-31T13:30:00+00:00"
   },
   {
    "source": "Unit 42",
