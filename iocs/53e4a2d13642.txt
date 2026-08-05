@@ -1,0 +1,15 @@
+IOC EXTRACTION - Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup
+Source: https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html
+Extracted: 2026-08-05 11:44:48 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-20896
+CVE-2026-27771
+CVE-2026-50522
+CVE-2026-59774
+CVE-2026-60004

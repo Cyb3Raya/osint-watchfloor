@@ -1,0 +1,15 @@
+IOC EXTRACTION - Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data
+Source: https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html
+Extracted: 2026-08-05 11:44:50 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (1)
+----------------------------------------
+mangorbit[.]com

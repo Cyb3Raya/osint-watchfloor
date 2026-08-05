@@ -1,9 +1,73 @@
 {
- "generated": "2026-08-05T09:23:00.846270+00:00",
+ "generated": "2026-08-05T11:45:02.003164+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+   "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+   "desc": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-05T11:35:23+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
+   "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
+   "desc": "The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations. The post Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data appeared first on Se",
+   "image": "",
+   "date": "2026-08-05T11:11:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+   "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+   "desc": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafte",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg",
+   "date": "2026-08-05T11:04:23+00:00",
+   "iocs": "iocs/53e4a2d13642.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+   "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+   "desc": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif",
+   "date": "2026-08-05T10:35:29+00:00",
+   "iocs": "iocs/b4f3d444777d.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+   "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
+   "desc": "In one instance, an unsanctioned model attempted to inject malicious code into an open source repository. The post AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations appeared firs",
+   "image": "",
+   "date": "2026-08-05T10:33:41+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+   "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+   "desc": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-05T09:44:50+00:00",
+   "iocs": "iocs/6b6297575336.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+   "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+   "desc": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg",
+   "date": "2026-08-05T09:23:03+00:00",
+   "iocs": "iocs/e7d8afd8e492.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
@@ -229,22 +293,6 @@
    "date": "2026-08-04T14:00:10+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-   "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-   "desc": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Ass",
-   "image": "",
-   "date": "2026-08-04T13:54:13+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Zenity Raises $125 Million in Series C Funding",
-   "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
-   "desc": "The AI security company will invest in product innovation, global expansion, and customer experience. The post Zenity Raises $125 Million in Series C Funding appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-04T13:40:42+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
@@ -317,24 +365,6 @@
    "date": "2026-08-04T12:46:19+00:00",
    "iocs": "iocs/18ff0fd24d57.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
-   "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
-   "desc": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-04T12:00:00+00:00",
-   "iocs": "iocs/d86258c60ad6.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
-   "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
-   "desc": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-04T12:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -513,26 +543,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-   "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-   "desc": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
-   "date": "2026-08-03T16:24:47+00:00",
-   "iocs": "iocs/5264422e426d.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-   "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-   "desc": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
-   "date": "2026-08-03T16:15:13+00:00",
-   "iocs": "iocs/5c95936bd159.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Cisco Talos",
    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
    "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
@@ -563,16 +573,6 @@
    "desc": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales cha",
    "image": "",
    "date": "2026-08-03T14:45:55+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-   "desc": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg",
-   "date": "2026-08-03T14:03:11+00:00",
-   "iocs": "iocs/05bc9225a21d.txt",
-   "ioc_count": 89
   },
   {
    "source": "Dark Reading",

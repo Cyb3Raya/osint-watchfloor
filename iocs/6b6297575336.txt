@@ -1,0 +1,15 @@
+IOC EXTRACTION - CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities
+Source: https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/
+Extracted: 2026-08-05 11:44:56 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-18556
+CVE-2026-18577
+CVE-2026-29146
+CVE-2026-34486
+CVE-2026-9198
