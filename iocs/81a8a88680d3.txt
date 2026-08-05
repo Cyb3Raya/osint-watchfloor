@@ -1,0 +1,16 @@
+IOC EXTRACTION - QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer
+Source: https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html
+Extracted: 2026-08-05 09:22:49 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (2)
+----------------------------------------
+51quickfox[.]com
+cdns3[.]51quickfox[.]cn

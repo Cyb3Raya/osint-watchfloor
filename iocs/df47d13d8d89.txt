@@ -1,0 +1,19 @@
+IOC EXTRACTION - CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited
+Source: https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html
+Extracted: 2026-08-05 09:22:47 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-18556
+CVE-2026-18577
+CVE-2026-3055
+CVE-2026-33017
+CVE-2026-33824
+CVE-2026-34486
+CVE-2026-39987
+CVE-2026-50522
+CVE-2026-9198

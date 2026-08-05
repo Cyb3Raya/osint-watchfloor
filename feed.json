@@ -1,9 +1,71 @@
 {
- "generated": "2026-08-05T06:31:14.371693+00:00",
+ "generated": "2026-08-05T09:23:00.846270+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+   "link": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+   "desc": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on Security",
+   "image": "",
+   "date": "2026-08-05T08:56:58+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Angola's Largest Telco Breached Hours Before IPO",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+   "desc": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc562507d832ba51c/6a72581b9aeba22476b547f2/SIM-cards-with-Angola-flag-Novikov_Aleksey-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-05T08:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+   "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+   "desc": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly wa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg",
+   "date": "2026-08-05T07:53:50+00:00",
+   "iocs": "iocs/359c14ceebc6.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+   "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1600/cisa.jpg",
+   "date": "2026-08-05T07:40:39+00:00",
+   "iocs": "iocs/df47d13d8d89.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
+   "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
+   "desc": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-05T07:24:52+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "The Aikido Machine: on-prem AI pentesting that never leaves your network",
+   "link": "https://www.aikido.dev/blog/the-aikido-machine-on-prem-ai-pentesting-that-never-leaves-your-network",
+   "desc": "Continuous AI pentesting for teams that can't use the cloud. The Aikido Machine keeps models, code, and results entirely inside your network. Category: Product & Company Updates",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a72d6a5ef1bb7f853aa2384_Feature_Aikido-Machine-Launch_16x9.jpg",
+   "date": "2026-08-05T07:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+   "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+   "desc": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. Ac",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg",
+   "date": "2026-08-05T05:47:19+00:00",
+   "iocs": "iocs/81a8a88680d3.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
@@ -295,14 +357,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-   "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-   "desc": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering ",
-   "image": "",
-   "date": "2026-08-04T10:54:30+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
    "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
@@ -341,16 +395,6 @@
    "date": "2026-08-04T10:00:11+00:00",
    "iocs": "iocs/b938abdeb597.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-   "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-   "desc": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-08-04T09:56:06+00:00",
-   "iocs": "iocs/a1a3942ed120.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -539,42 +583,12 @@
    "date": "2026-08-03T14:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-   "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-   "desc": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
-   "date": "2026-08-03T11:30:00+00:00",
-   "iocs": "iocs/02e9c00b5f52.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-   "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-   "desc": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys sa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
-   "date": "2026-08-03T10:49:06+00:00",
-   "iocs": "iocs/8f03bf579ace.txt",
-   "ioc_count": 14
-  },
-  {
    "source": "Unit 42",
    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
    "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
    "desc": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless ",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-08-03T10:00:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-   "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-   "desc": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addres",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
-   "date": "2026-08-03T09:13:56+00:00",
-   "iocs": "iocs/a71a79482b5b.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -741,14 +755,6 @@
    "desc": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd2572a409133e33/6a6bb64522716cf19f0b542e/water_Bilanol_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-30T21:16:13+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Harnesses Burst With Potential Exploit Opps",
-   "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-   "desc": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-30T19:40:40+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1035,16 +1041,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts",
-   "link": "https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack",
-   "desc": "SleeperGem: two dormant RubyGems maintainer accounts were hijacked to inject malware into trusted gems, one with over 500,000 total downloads Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5c9b9904667f6a18a47053_Group%202147256878.png",
-   "date": "2026-07-19T08:45:00+00:00",
-   "iocs": "iocs/0d849b95e879.txt",
-   "ioc_count": 1
   },
   {
    "source": "Wiz Threats",
