@@ -1,0 +1,18 @@
+IOC EXTRACTION - UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign
+Source: https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/
+Extracted: 2026-08-05 04:17:44 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (8)
+----------------------------------------
+aipythondevs[.]com
+api64[.]ipify[.]org
+eorthopaedics[.]com
+polygon-rpc[.]com
+sastoro[.]com
+web-devtools[.]com
+windowscreenrepairnearme[.]com
+zynaris[.]io

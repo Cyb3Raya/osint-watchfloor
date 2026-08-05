@@ -1,0 +1,28 @@
+IOC EXTRACTION - Welcome to BlackFile: Inside a Vishing Extortion Operation
+Source: https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/
+Extracted: 2026-08-05 04:18:46 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+179[.]43[.]185[.]226
+
+Domains (4)
+----------------------------------------
+enrollms[.]com
+getsession[.]org
+passkeyms[.]com
+setupsso[.]com
+
+URLs (2)
+----------------------------------------
+hxxps://company[.]sharepoint[.]com/sites/ProductionOps/
+hxxps://organization[.]sharepoint[.]com/sites/Legal_Archive/
+
+Emails (2)
+----------------------------------------
+victim.user@company.com
+victim.user@organization.com

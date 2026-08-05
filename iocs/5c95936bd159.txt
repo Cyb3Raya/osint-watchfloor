@@ -1,0 +1,17 @@
+IOC EXTRACTION - INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws
+Source: https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html
+Extracted: 2026-08-05 04:16:26 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-15409
+CVE-2026-15410
+CVE-2026-50522
+
+Emails (1)
+----------------------------------------
+info@helprans.com

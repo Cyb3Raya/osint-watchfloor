@@ -1,0 +1,11 @@
+IOC EXTRACTION - CVE-2025-54068 Exploited in Large-Scale Laravel Livewire Credential Theft Campaign (Campaign)
+Source: https://threats.wiz.io/all-incidents/cve-2025-54068-exploited-in-large-scale-laravel-livewire-credential-theft-campaign
+Extracted: 2026-08-05 04:19:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-54068

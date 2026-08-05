@@ -1,0 +1,17 @@
+IOC EXTRACTION - 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
+Source: https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html
+Extracted: 2026-08-05 04:16:23 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (3)
+----------------------------------------
+aone-cli-next[.]oss-cn-beijing[.]aliyuncs[.]com
+npmjs[.]com
+webhook[.]site

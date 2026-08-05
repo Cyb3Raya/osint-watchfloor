@@ -1,0 +1,14 @@
+IOC EXTRACTION - The Risk of Exposed Cloud Functions and How to Harden
+Source: https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/
+Extracted: 2026-08-05 04:18:34 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (4)
+----------------------------------------
+hxxp://metadata[.]google[.]internal/computeMetadata/v1/instance/service-accounts/default/token
+hxxps://cloudrun01-abc[.]europe-west3[.]run[.]app/
+hxxps://cloudrun02-abc[.]europe-west3[.]run[.]app/
+hxxps://exampleabc01[.]com

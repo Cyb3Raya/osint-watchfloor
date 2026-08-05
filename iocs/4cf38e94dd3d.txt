@@ -1,0 +1,34 @@
+IOC EXTRACTION - Large-Scale GitHub Actions Abuse Powers a Distributed cPanel and WHM Exploitation Campaign
+Source: https://socket.dev/blog/github-actions-abuse-powers-cpanel-and-whm-exploitation?utm_medium=feed
+Extracted: 2026-08-05 04:19:26 UTC
+Total indicators: 12
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-41940
+
+IPv4 (1)
+----------------------------------------
+43[.]228[.]157[.]68
+
+Domains (1)
+----------------------------------------
+f5b0b742-240a-4811-8a5b-b0ba6060685d[.]dnshook[.]site
+
+URLs (8)
+----------------------------------------
+hxxp://43[.]228[.]157[.]68/api/dl/$_s
+hxxp://43[.]228[.]157[.]68:80
+hxxp://43[.]228[.]157[.]68:80/api/dl/386
+hxxp://43[.]228[.]157[.]68:80/api/dl/amd64
+hxxp://43[.]228[.]157[.]68:80/api/dl/arm
+hxxp://43[.]228[.]157[.]68:80/api/dl/arm64
+hxxp://43[.]228[.]157[.]68:80/api/github-heartbeat
+hxxp://43[.]228[.]157[.]68:80/api/github-results
+
+SHA256 (1)
+----------------------------------------
+22f721fd3a81d2e27cbf90a122bb977f630c50b79daa98350f0e57b04dfa81f1

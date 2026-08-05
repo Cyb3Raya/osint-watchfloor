@@ -1,0 +1,12 @@
+IOC EXTRACTION - Massive ChainDrop npm supply-chain attack infects hundreds of packages
+Source: https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/
+Extracted: 2026-08-05 04:16:40 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+npm-cache[.]com
+registry[.]npmjs[.]org

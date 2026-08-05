@@ -1,0 +1,19 @@
+IOC EXTRACTION - Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel
+Source: https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/
+Extracted: 2026-08-05 04:17:40 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+172[.]86[.]126[.]18
+
+Domains (1)
+----------------------------------------
+is-01-ast[.]ols-img-12[.]workers[.]dev
+
+URLs (1)
+----------------------------------------
+hxxp://172[.]86[.]126[.]18:443/update_ms[.]msi

@@ -1,0 +1,11 @@
+IOC EXTRACTION - FBI Seizes NetNut Proxy Platform, Popa Botnet
+Source: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+Extracted: 2026-08-05 04:16:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+alarum[.]io

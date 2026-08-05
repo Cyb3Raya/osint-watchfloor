@@ -1,0 +1,22 @@
+IOC EXTRACTION - CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises
+Source: https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html
+Extracted: 2026-08-05 04:16:22 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2025-8875
+CVE-2025-8876
+CVE-2026-18556
+CVE-2026-18577
+CVE-2026-50522
+
+IPv4 (4)
+----------------------------------------
+173[.]249[.]252[.]200
+37[.]19[.]210[.]32
+68[.]235[.]46[.]214
+87[.]249[.]138[.]34

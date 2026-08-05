@@ -1,0 +1,35 @@
+IOC EXTRACTION - Russian Global Webmail Espionage
+Source: https://unit42.paloaltonetworks.com/russian-webmail-espionage/
+Extracted: 2026-08-05 04:18:04 UTC
+Total indicators: 19
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-66376
+
+IPv4 (9)
+----------------------------------------
+104[.]248[.]134[.]194
+185[.]86[.]79[.]95
+193[.]238[.]152[.]66
+194[.]156[.]103[.]193
+216[.]252[.]238[.]104
+216[.]252[.]238[.]18
+216[.]252[.]238[.]64
+37[.]120[.]247[.]228
+64[.]226[.]124[.]190
+
+Domains (9)
+----------------------------------------
+analyticemailmeter[.]com
+emailanalytics[.]com[.]ua
+istc-cloud[.]com
+mailnalysis[.]com
+synacorzimbra[.]nl
+zimbra-metadata[.]com
+zimbrasoft[.]com[.]ua
+zimbrastat[.]com
+zmailanalytics[.]com

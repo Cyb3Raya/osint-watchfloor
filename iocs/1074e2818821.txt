@@ -1,0 +1,11 @@
+IOC EXTRACTION - New DOUBLECUP ClickFix service hides malware in browser cache images
+Source: https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/
+Extracted: 2026-08-05 04:16:45 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+213[.]139[.]77[.]109

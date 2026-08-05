@@ -1,0 +1,66 @@
+IOC EXTRACTION - The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)
+Source: https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
+Extracted: 2026-08-05 04:18:12 UTC
+Total indicators: 41
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+85[.]137[.]53[.]71
+91[.]195[.]240[.]123
+94[.]154[.]172[.]43
+
+Domains (9)
+----------------------------------------
+dht[.]transmissionbt[.]com
+ethereum-rpc[.]publicnode[.]com
+ipfs[.]io
+registry[.]npmjs[.]org
+relay[.]damus[.]io
+relay[.]nostr[.]com
+rentry[.]co
+router[.]bittorrent[.]com
+t[.]m-kosche[.]com
+
+URLs (7)
+----------------------------------------
+hxxp://85[.]137[.]53[.]71:8080
+hxxp://85[.]137[.]53[.]71:8080/api/v1/beacon
+hxxp://85[.]137[.]53[.]71:8080/api/v1/file-result
+hxxp://85[.]137[.]53[.]71:8081
+hxxp://85[.]137[.]53[.]71:8091
+hxxps://audit[.]checkmarx[.]cx:443/v1/telemetry
+hxxps://example[.]com
+
+Emails (1)
+----------------------------------------
+helloworm00@proton.me
+
+SHA256 (13)
+----------------------------------------
+082d733db0687dcd768104972b065d4b58cb1e6043688c6c20fa3702337f36ab
+167ce57ef59a32a6a0ef4137785828077879092d7f83ddbc1755d6e69116e0ad
+18f784b3bc9a0bcdcb1a8d7f51bc5f54323fc40cbd874119354ab609bef6e4cb
+34014776d3d3ff11bc4439b02fd7ac0f02a887eb3a052eeafff236e2f6db8ad1
+4066781fa830224c8bbcc3aa005a396657f9c8f9016f9a64ad44a9d7f5f45e34
+540028bbd229cc8ce0f531f84e11296870f9b54faa231abb6f5da8557ae3df31
+6f933d00b7d05678eb43c90963a80b8947c4ae6830182f89df31da9f568fea95
+73b44b8724d31f80859018c988e9b033155c5fd8225205a914eda1a11b78a841
+9b2e65db653ca8575c9b10eefb9a80c6006404812c2ec212bf5675e3c690233b
+bfaeb987faa6de2b5a5eb63b1233d055215b09b0349a9394f2175fd7cdf385e4
+d425e4583cc6185d41e95c45eda00550045a5d1919b9a012236a4520d009dbd7
+f35475829991b303c5efc2ee0f343dd38f8614e8b5e69db683923135f85cf60d
+f7367ce5509f536a406deecdbb577c60e8585cb2ab77058a86bde6188a609cfd
+
+SHA1 (8)
+----------------------------------------
+22bf76fe317ea6769bd38619bd440e42d119bd6b
+3eab3ec9304aa26081358330491d3cfeb55cc245
+79ac49eedf774dd4b0cfa308722bc463cfe5885c
+9890950adcbc2478e7a080234f053214adbad44e
+a7e18d96efd3cdb127ef4cdcad9e3ad26c482bf2
+bc544f455d7c06c8a1f3446160a6d9a4a8236b11
+c70e105e212ff3c1daa04bb2a62507717f296b0b
+c8cb3f6d5b90c46686d2bf531dc1a5786e27edc5

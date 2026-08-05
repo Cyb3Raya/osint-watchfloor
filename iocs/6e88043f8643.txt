@@ -1,0 +1,17 @@
+IOC EXTRACTION - TP-Link patches Omada ZTP flaws allowing hackers to breach networks
+Source: https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/
+Extracted: 2026-08-05 04:16:35 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2025-15544
+CVE-2025-15627
+CVE-2025-15631
+CVE-2025-7850
+CVE-2025-7851
+CVE-2025-9289
+CVE-2025-9293

@@ -1,0 +1,11 @@
+IOC EXTRACTION - SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts
+Source: https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack
+Extracted: 2026-08-05 04:19:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://git[.]disroot[.]org/git-ecosystem/

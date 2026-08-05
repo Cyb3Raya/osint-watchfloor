@@ -1,0 +1,51 @@
+IOC EXTRACTION - Finding eight high-severity vulnerabilities in NodeBB in six hours
+Source: https://www.aikido.dev/blog/eight-high-severity-vulnerabilities-nodebb
+Extracted: 2026-08-05 04:19:10 UTC
+Total indicators: 32
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+4[.]245[.]3[.]4
+
+Domains (2)
+----------------------------------------
+object[.]cc
+tag[.]name
+
+URLs (27)
+----------------------------------------
+hxxp://4[.]245[.]3[.]4:4567/post/2
+hxxp://4[.]245[.]3[.]4:4567/testThis
+hxxp://localhost[.]com
+hxxps://attacker[.]tld/actor
+hxxps://attacker[.]tld/actor#main-key
+hxxps://attacker[.]tld/ap/actor/xss
+hxxps://attacker[.]tld/ap/actor/xss#main-key
+hxxps://attacker[.]tld/ap/inbox/xss
+hxxps://attacker[.]tld/inbox
+hxxps://nodebb[.]local/category/1
+hxxps://nodebb[.]local/category/1/followers
+hxxps://nodebb[.]local/category/1/inbox
+hxxps://nodebb[.]local/fake-{uuid[.]uuid4(
+hxxps://nodebb[.]local/inbox
+hxxps://nodebb[.]local/object/{uuid[.]uuid4(
+hxxps://nodebb[.]local/post/1
+hxxps://nodebb[.]local/post/2
+hxxps://nodebb[.]local/post/3
+hxxps://nodebb[.]local/post/3#activity/announce/1717234567890
+hxxps://nodebb[.]local/post/{POST_ID}
+hxxps://nodebb[.]local/testFlag
+hxxps://nodebb[.]local/testThis
+hxxps://nodebb[.]local/uid/42
+hxxps://nodebb[.]local/uid/42#activity/like/3
+hxxps://nodebb[.]local/uid/7
+hxxps://nodebb[.]local/uid/999
+hxxps://w3id[.]org/security/v1
+
+Emails (2)
+----------------------------------------
+evil@attacker.tld
+xss@attacker.tld

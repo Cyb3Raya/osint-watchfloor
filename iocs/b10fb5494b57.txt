@@ -1,0 +1,11 @@
+IOC EXTRACTION - SleeperGem: RubyGems Supply Chain Attack Targets Dormant Maintainer Accounts (Campaign)
+Source: https://threats.wiz.io/all-incidents/sleepergem-rubygems-supply-chain-attack-targets-dormant-maintainer-accounts
+Extracted: 2026-08-05 04:19:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+git[.]disroot[.]org

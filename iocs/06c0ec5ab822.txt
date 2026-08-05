@@ -1,0 +1,11 @@
+IOC EXTRACTION - When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted
+Source: https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html
+Extracted: 2026-08-05 04:16:14 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

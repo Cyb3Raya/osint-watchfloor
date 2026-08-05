@@ -1,0 +1,11 @@
+IOC EXTRACTION - Phishing service spoofs RingCentral to steal Microsoft 365 accounts
+Source: https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/
+Extracted: 2026-08-05 04:16:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Emails (1)
+----------------------------------------
+service@ringcentral.com

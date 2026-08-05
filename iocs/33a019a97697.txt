@@ -1,0 +1,90 @@
+IOC EXTRACTION - The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version
+Source: https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
+Extracted: 2026-08-05 04:17:59 UTC
+Total indicators: 71
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (7)
+----------------------------------------
+151[.]243[.]109[.]188
+178[.]208[.]92[.]129
+178[.]208[.]92[.]168
+91[.]108[.]106[.]229
+95[.]142[.]35[.]206
+95[.]142[.]35[.]34
+95[.]142[.]37[.]159
+
+Domains (57)
+----------------------------------------
+accapple[.]ru
+adschecks[.]ru
+adsmobi[.]ru
+adsmorein[.]in
+adsmoreme[.]in
+amdcdn[.]ru
+amznprod[.]in
+applecdn[.]ru
+appledisk[.]ru
+appledns[.]ru
+applehosts[.]ru
+appletime[.]in
+bulksec[.]ru
+cdnamz[.]in
+cdnamz[.]ru
+cdnapple[.]in
+cdnatapple[.]ru
+cdnroute[.]ru
+checkcdn[.]ru
+chromeads[.]ru
+cnmag[.]ru
+devnetaps[.]ru
+dnsapple[.]ru
+dnsrelays[.]ru
+explorecdn[.]ru
+fiddlejoy[.]ru
+figmacat[.]ru
+figmanets[.]in
+funchats[.]ru
+gironetcdn[.]ru
+goalmate[.]ru
+greencn[.]ru
+icloudsnet[.]ru
+imails[.]ru
+legalads[.]in
+littleads[.]in
+littledns[.]ru
+maganet[.]ru
+mindelgate[.]ru
+netapsdev[.]ru
+netcdnads[.]in
+netcdnamz[.]ru
+netcorps[.]ru
+netsprot[.]in
+netsproto[.]in
+networkads[.]in
+rigacdn[.]in
+rigmajoys[.]in
+rigmanet[.]ru
+rigmanets[.]in
+sahusuzuki[.]in
+stuffdns[.]in
+testjoys[.]ru
+timewebnet[.]in
+vigmanet[.]ru
+wincdn[.]ru
+windsecure[.]ru
+
+URLs (6)
+----------------------------------------
+hxxps://amzndev[.]in/d/zw_sfp64
+hxxps://amzndev[.]ru/d/zw_sfp64
+hxxps://googlenets[.]ru/d/zw_sfp64
+hxxps://netcdndev[.]in/d/zw_sfp64
+hxxps://whitead[.]in/d/zw_sfp64
+hxxps://whiteads[.]ru/d/zw_sfp64
+
+SHA1 (1)
+----------------------------------------
+6e480d648fa1b70612f5d198a66875e28847547d

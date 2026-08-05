@@ -1,0 +1,11 @@
+IOC EXTRACTION - The upgrade trap: when upgrading is the wrong answer to a CVE
+Source: https://www.aikido.dev/blog/cve-upgrade-breaking-changes-open-source
+Extracted: 2026-08-05 04:19:12 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-48937

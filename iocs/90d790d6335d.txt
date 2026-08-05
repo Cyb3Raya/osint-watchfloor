@@ -1,0 +1,15 @@
+IOC EXTRACTION - Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability
+Source: https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/
+Extracted: 2026-08-05 04:18:44 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-5426
+
+SHA256 (1)
+----------------------------------------
+7c1f99dca8e5a7897892f9d224a6495023a2cfd2671697d229d355978c415ed2

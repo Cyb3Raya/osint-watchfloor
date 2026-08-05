@@ -1,0 +1,46 @@
+IOC EXTRACTION - Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)
+Source: https://isc.sans.edu/diary/rss/33208
+Extracted: 2026-08-05 04:15:57 UTC
+Total indicators: 27
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+188[.]166[.]78[.]138
+
+Domains (1)
+----------------------------------------
+macspheres[.]com
+
+URLs (20)
+----------------------------------------
+hxxp://188[.]166[.]78[.]138/api/bots/device-info
+hxxp://188[.]166[.]78[.]138/api/feed/items/49359f77ebb4ffd9a95568d27a8ff3e7
+hxxp://188[.]166[.]78[.]138/api/feed/register
+hxxp://188[.]166[.]78[.]138/api/join/
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=browsers
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=credentials
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=init_session
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=local_data
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=messengers
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=resolve_auth
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=stage&stage=wallets
+hxxp://188[.]166[.]78[.]138/api/metrics/run?event=started&stage=boot
+hxxp://188[.]166[.]78[.]138/api/tasks/ack
+hxxp://188[.]166[.]78[.]138/api/tasks/r3dqbX7fptIT-gXz--D_nw?v=2[.]1
+hxxp://188[.]166[.]78[.]138/contact
+hxxps://getmacouscloud[.]com/?FSSbmnNdviEDE5S?io=16vwsb0rgIiPNIgM
+hxxps://grove-89[.]com/api/metrics/run?event=pasted
+hxxps://macostruecloud[.]xyz/?h=2f9548d041648a8030c040ae0e1e530b&z=304
+hxxps://render65[.]com/2kqYRM0DCrnyJgoS4gVLl_FHJRRdTUhGCbjyuYwpZ6c/m1/update
+hxxps://render65[.]com/curl/f5509695dd98a9732378e5256d6235415d64d92194459bb08525c7ce5991a0c9
+
+SHA256 (5)
+----------------------------------------
+01a0d5332b09bb299f7784bf0d0c43c4199269ed6a0712377279eeb999847d20
+0a03cf18de28017c0ea591dffc380a6b41fedd2acc3a39e901e58d9188c01836
+13b868b3ea8b492e7fbab1ca04535c53d0930650185b5a082cd59c1974689cd5
+9f25ec533cb23d020e568fb771500d7776b1300f07119ad9d0876f4329ce22ab
+b9ec3261d633c289e51c5fa8842af4350efe68446df39cb995de82e0941d0f3c

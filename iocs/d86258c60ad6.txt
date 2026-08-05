@@ -1,0 +1,12 @@
+IOC EXTRACTION - TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover
+Source: https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/
+Extracted: 2026-08-05 04:17:29 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-7850
+CVE-2025-7851

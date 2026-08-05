@@ -1,0 +1,27 @@
+IOC EXTRACTION - Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS
+Source: https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html
+Extracted: 2026-08-05 04:16:31 UTC
+Total indicators: 14
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (13)
+----------------------------------------
+103[.]106[.]190[.]217
+103[.]226[.]155[.]200
+103[.]226[.]155[.]201
+103[.]238[.]129[.]112
+103[.]97[.]128[.]67
+107[.]175[.]49[.]181
+151[.]243[.]126[.]191
+162[.]4[.]136[.]30
+202[.]8[.]120[.]249
+223[.]26[.]63[.]56
+38[.]181[.]52[.]95
+38[.]22[.]89[.]117
+93[.]152[.]221[.]37

@@ -1,0 +1,25 @@
+IOC EXTRACTION - Popular npm Packages in the keyv and Cacheable Namespaces Compromised in Active Supply Chain Attack
+Source: https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain?utm_medium=feed
+Extracted: 2026-08-05 04:19:17 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (5)
+----------------------------------------
+hxxp://169[.]254[.]169[.]254/latest/api/token
+hxxp://169[.]254[.]169[.]254/latest/meta-data/iam/security-credentials/
+hxxp://169[.]254[.]170[.]2
+hxxps://registry[.]npmjs[.]org/-/npm/v1/oidc/token/exchange/package/
+hxxps://registry[.]npmjs[.]org/-/whoami
+
+SHA512 (1)
+----------------------------------------
+37f9f847e9c3e520b47d83a9029e199dbc30c6a195a1d80467d0fb1a6fd5068728ad4d1a422995ca578359263afdac5d3b4fed7a6b9befad27de19cca6966952
+
+SHA256 (3)
+----------------------------------------
+54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668
+9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc
+fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb

@@ -1,0 +1,11 @@
+IOC EXTRACTION - PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web
+Source: https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html
+Extracted: 2026-08-05 04:16:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

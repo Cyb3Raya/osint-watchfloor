@@ -1,0 +1,22 @@
+IOC EXTRACTION - Keyv and friends compromised in active Shai-Hulud supply chain attack
+Source: https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
+Extracted: 2026-08-05 04:19:00 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+eth-mainnet[.]nodereal[.]io
+
+URLs (2)
+----------------------------------------
+hxxps://npm-cache[.]com:443/router
+hxxps://registry[.]npmjs[.]org/-/npm/v1/tokens
+
+SHA256 (3)
+----------------------------------------
+54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668
+9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc
+fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb

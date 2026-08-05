@@ -1,0 +1,11 @@
+IOC EXTRACTION - Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks
+Source: https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/
+Extracted: 2026-08-05 04:17:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2013-4786

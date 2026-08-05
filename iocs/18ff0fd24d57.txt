@@ -1,0 +1,14 @@
+IOC EXTRACTION - Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)
+Source: https://isc.sans.edu/diary/rss/33214
+Extracted: 2026-08-05 04:15:52 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2013-7179
+CVE-2020-8949
+CVE-2024-12856
+CVE-2024-48419

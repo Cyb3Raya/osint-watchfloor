@@ -1,0 +1,40 @@
+IOC EXTRACTION - Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan
+Source: https://socket.dev/blog/joyfill-npm-beta-releases-compromised?utm_medium=feed
+Extracted: 2026-08-05 04:19:22 UTC
+Total indicators: 24
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (4)
+----------------------------------------
+166[.]88[.]134[.]62
+198[.]105[.]127[.]210
+23[.]27[.]13[.]43
+23[.]27[.]202[.]27
+
+Domains (5)
+----------------------------------------
+api[.]trongrid[.]io
+bsc-dataseed[.]binance[.]org
+bsc-rpc[.]publicnode[.]com
+fullnode[.]mainnet[.]aptoslabs[.]com
+ip-api[.]com
+
+SHA256 (15)
+----------------------------------------
+1352ad22c99983d91e600348b7cbf58235131b1ee34cea9f09623206d5b7dea7
+26351aed0397158d3a3b8cc8fd3047d4c015d264c9895f10f20f1521b974ed18
+26e679eaf1e9baeb7c55eb48db482301171d4d26e1728544b23734a90dc70e1b
+2cfede38fb121a71a2f3607474aa8cd588a99f51b37e5e6f0d8cb789fa275032
+36ff00b45e67baa7e3674b0c80f48e88737264c61e5c6b3b091200972de8157c
+5f6a92006ca2ea4b464d66fb41af777edce7296939a7c6ee491e2b3cbfe09848
+67c6ef602cc850f10d935fee53fa40440df841adf081563bf4fc2631a71249ce
+78f0de8682e0e894a5784eb7e95db4da6088f528918ca3107dd1e76f80a561d8
+8e8b90dedd456ded0c5748119836e1ca1066112bc569c1b41ca70eb931d1d4dc
+adc4af90540d33cd1e98f44b51482ae9250fbeb97d6f8d7841c81b618cb2c6e6
+ae7565109fd01b88d82acf7f73ab20709cbc2c9f26fdea13e429ccc87a55d4fb
+bcc93dc55bc7daedf4ca57254f0e7a7f1c40e09851eab98fe10cde801982db17
+c5742ea1875ecd2360022624149994909cd0546e221e4203dffd01f48de45469
+cb46f12d70824ea24ed1f8bcf45bf3f86680e02a9089aafc03b27f691be57be3
+f452f9cfa539f4a1fe25187a99a484391290d5dbaa422ba455edf6b04f81b7d1

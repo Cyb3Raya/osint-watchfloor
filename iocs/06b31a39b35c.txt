@@ -1,0 +1,11 @@
+IOC EXTRACTION - Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent
+Source: https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html
+Extracted: 2026-08-05 04:16:18 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

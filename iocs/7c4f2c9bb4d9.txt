@@ -1,0 +1,14 @@
+IOC EXTRACTION - ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm
+Source: https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/
+Extracted: 2026-08-05 04:17:00 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+gmslb[.]net
+ninjatech[.]io
+safernetwork[.]io
+tera-home[.]com

@@ -1,0 +1,15 @@
+IOC EXTRACTION - Anthropic's Fever Dream: Claude's package that stole real keys
+Source: https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys
+Extracted: 2026-08-05 04:19:02 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+f[.]name
+
+URLs (1)
+----------------------------------------
+hxxps://enqqnvvtgrnyl[.]x[.]pipedream[.]net/

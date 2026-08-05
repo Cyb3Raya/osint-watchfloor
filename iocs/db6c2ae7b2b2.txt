@@ -1,0 +1,20 @@
+IOC EXTRACTION - Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
+Source: https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html
+Extracted: 2026-08-05 04:16:13 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (2)
+----------------------------------------
+207[.]174[.]0[.]143
+207[.]189[.]11[.]170
+
+Domains (1)
+----------------------------------------
+solthere[.]net

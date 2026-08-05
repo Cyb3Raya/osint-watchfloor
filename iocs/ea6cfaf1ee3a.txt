@@ -1,0 +1,14 @@
+IOC EXTRACTION - A Record-Breaking Patch Tuesday for June 2026
+Source: https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/
+Extracted: 2026-08-05 04:17:02 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2020-17103
+CVE-2026-45586
+CVE-2026-49160
+CVE-2026-50507

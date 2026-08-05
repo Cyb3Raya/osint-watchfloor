@@ -1,0 +1,15 @@
+IOC EXTRACTION - No Manners Here: The Ruthless Rise of The Gentlemen Ransomware
+Source: https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/
+Extracted: 2026-08-05 04:18:17 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2024-55591
+CVE-2025-32433
+CVE-2025-33073
+CVE-2025-55182
+CVE-2025-7771

@@ -1,0 +1,107 @@
+IOC EXTRACTION - TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development
+Source: https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/
+Extracted: 2026-08-05 04:18:15 UTC
+Total indicators: 82
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (25)
+----------------------------------------
+CVE-2007-3010
+CVE-2007-5693
+CVE-2013-7471
+CVE-2014-2321
+CVE-2014-8361
+CVE-2016-11021
+CVE-2017-17215
+CVE-2017-18377
+CVE-2018-10561
+CVE-2018-10562
+CVE-2018-20062
+CVE-2020-17456
+CVE-2020-8515
+CVE-2021-25646
+CVE-2021-4045
+CVE-2022-1388
+CVE-2022-22947
+CVE-2022-22965
+CVE-2022-30525
+CVE-2022-44877
+CVE-2023-1389
+CVE-2023-39780
+CVE-2025-34037
+CVE-2025-34117
+CVE-2026-5815
+
+IPv4 (9)
+----------------------------------------
+107[.]174[.]133[.]119
+154[.]6[.]197[.]43
+185[.]10[.]68[.]127
+188[.]166[.]2[.]226
+194[.]46[.]59[.]169
+209[.]182[.]237[.]133
+37[.]32[.]24[.]195
+45[.]145[.]185[.]229
+8[.]8[.]8[.]8
+
+Domains (8)
+----------------------------------------
+api[.]digikalas[.]online
+cfcybernews[.]eu
+digikalas[.]online
+health[.]digikalas[.]online
+high[.]cpu[.]co[.]ua
+jetross[.]com
+newtuxdev[.]sevielw[.]digikalas[.]online
+vrunabo[.]su
+
+URLs (2)
+----------------------------------------
+hxxp://127[.]0[.]0[.]1/cmd
+hxxp://188[.]166[.]2[.]226/OwO/Tsunami[.]x86
+
+SHA256 (20)
+----------------------------------------
+0f8bcca3ed65e980da2a1f90a767b7d543be32eeea3e9338d09d4d635a497988
+146f6010f6ee082aab13e0148d39baefa77eaba4ff65817b511b08c2092bdfd2
+15c17dce89deccd5172285b2650de957918aa1157cde8e4633ae15dfe31f2711
+246c97957651de568e61eba1abe572f0b0f960456209995d43d53a0d7cc494a1
+2f2c3551762c03da126e45dca6fc2f997c63f0f1bfc21fd0ceed680ac6f083ce
+3ec016d637e4c9cd331edd2580a229621ad638e924a4aa29ac0342e9144ace19
+511d3ffb4091cbcc94571d9fb3102e8cb424c6e187d01d53ff12078d54929bda
+6aa4034dc7a2858094ff4dc59af07d6fe31119591e41599bcc0f3d0b516ee734
+6b7a8e0c96c2318e747f074f9a99d26738700769ac01bba692d19fc884847737
+71dfbb171eca4ef9d02ff630b56e5283bbef7b375d4dbe9e8c9531bef312fa8d
+96b1f96efca3b9df2dea85678d60da27e3265b4a00e39e20e64b27bb985e1561
+9cd5e7e3c8bad321ef6c3d47fe25b3b56e9487f703a7eeee52db4067e6bafe61
+a03b0d41f5ef03328150331ffa0ed970998883f7e0343d79b2d3b95330d8e7c1
+a8d70d16509e227d8306be361bc37a3dc9fe34bf476f51e361e55e6d293c2b3f
+bd6431fb06e4689142ef597cf00382e38ae20a5393a4d9277e45a3f5b3cbcff9
+c7a36d6b8128c41f93a32413675401a10a2b5769b221bbaa8c5c309585b73ceb
+e3a5296e762e9ee16010399666441d663beeea956382e97cca032a6a5ad06811
+eb2fa179fde2f097c18d5d700ad87d660fc238ee14cbe5477032e60856859621
+f1efb78887bb8783d7781c07cd13b53c9c79ebe5baa81f335838d0a6e73dec7e
+f324a45fcd2a9db4e542c09486c21b08bc42d6bf76fbd5f17871090361b10815
+
+SHA1 (18)
+----------------------------------------
+2774a5f5991657eb9b0062cd3da0391c9bad2643
+304e14a138b92135aad27bb37f4e9db440401ec2
+4cba585d9f208bd712b28f867f908e503ccc9cfe
+4e1483737f769e1cee80fa4d7a056a5d8e3b537e
+64af594c7f91793813e3d769e63816b143102396
+69dc276dde8efcb409411508da55d4cbe28d5600
+74fba0bad93bbb0e1eedb196b6efe6af1c0bf23d
+7ad840b1945cc346012987727ebcc062431965a4
+81670f250f4b3492fd3e00920f9fe7395ecbf85c
+877b804892ab218a53420b6dfbd0a2837368d0b5
+a70cea846442c18ad265f311b5ced29a4071771d
+a8fd13f6b1bdfa87c0f466df69b7e81325b5dd15
+adf267caab78a74c4b4dfabe7b578b0a4d639782
+b1cc41e2b9ddb11d0c9d03d319531fea9459cdae
+b21cdc5e1b96c640a1d553ed518c49729e367823
+befb0e4d1cd7d2b4139b55f811993af2c8839e75
+cd540bb31909440fd2bf773e6f1480f5b6f12400
+e0f8dd23e4fb0086feb42ea0a5dcef70d7b4d17c

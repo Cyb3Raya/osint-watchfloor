@@ -1,0 +1,20 @@
+IOC EXTRACTION - Don’t swing at everything
+Source: https://blog.talosintelligence.com/dont-swing-at-everything/
+Extracted: 2026-08-05 04:17:39 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-60137
+CVE-2026-63030
+
+MD5 (5)
+----------------------------------------
+2915b3f8b703eb744fc54c81f4a9c67f
+38de5b216c33833af710e88f7f64fc98
+770dbe473180366d7b539ff2c188e551
+c2efb2dcacba6d3ccc175b6ce1b7ed0a
+dbd8dbecaa80795c135137d69921fdba

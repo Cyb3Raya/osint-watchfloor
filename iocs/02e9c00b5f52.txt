@@ -1,0 +1,11 @@
+IOC EXTRACTION - FOMO in the SOC: Where AI Platforms like Claude Actually Fit
+Source: https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html
+Extracted: 2026-08-05 04:16:29 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

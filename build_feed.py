@@ -7,6 +7,8 @@ from datetime import datetime, timezone
 
 import feedparser
 import requests
+import hashlib, os
+from  ioc_extract import extract_iocs_from_html, render_txt, total_count
 
 _year = datetime.now().year
 
@@ -22,6 +24,9 @@ FEEDS = [
     ("Google GTIG",       "https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/"),
     ("RF The Record",     "https://therecord.media/feed"),
     ("IC3 PSA",           "https://www.ic3.gov/PSA/RSS"),
+    ("Aikido",            "https://www.aikido.dev/blog/rss.xml"),
+    ("Socket",            "https://socket.dev/api/blog/feed.atom"),
+    ("Wiz Threats",       "https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml"),
 ]
 
 MAX_PER_FEED = 15
@@ -88,6 +93,33 @@ def entry_date(e) -> str:
             return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc).isoformat()
     return datetime.now(tz=timezone.utc).isoformat()
 
+IOC_DIR = "iocs"
+IOC_COUNT_RE = re.compile(r"Total indicators: (\d+)")
+
+def attach_iocs(session, item):
+    """Extract IoCs for one article, cached by link hash. Never fatal."""
+    os.makedirs(IOC_DIR, exist_ok=True)
+    path = f"{IOC_DIR}/{hashlib.sha256(item['link'].encode()).hexdigest()[:12]}.txt"
+    try:
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                m = IOC_COUNT_RE.search(f.read(400))
+            n = int(m.group(1)) if m else 0
+        else:
+            time.sleep(1)  # politeness delay so hosts like BleepingComputer don't 429 us
+            body = fetch_capped(session, item["link"]).decode("utf-8", errors="replace")
+            own_host = item["link"].split("/")[2].lower()
+            own_deny = {own_host, own_host.removeprefix("www.")}
+            iocs = extract_iocs_from_html(body, item["title"], item["desc"], extra_deny=own_deny)
+            n = total_count(iocs)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(render_txt(iocs, item["title"], item["link"]))
+        if n:
+            item["iocs"] = path
+            item["ioc_count"] = n
+    except Exception as exc:
+        print(f"IOC skip {item['link']}: {exc}", file=sys.stderr)
+
 def main() -> int:
     items, failed = [], []
     session = requests.Session()
@@ -102,14 +134,16 @@ def main() -> int:
                 title = clean(getattr(e, "title", ""), 300)
                 if not (link and title):
                     continue
-                items.append({
+                item = {
                     "source": name,
                     "title": title,
                     "link": link,
                     "desc": clean(getattr(e, "summary", "")),
                     "image": extract_image(e),
                     "date": entry_date(e),
-                })
+                }
+                attach_iocs(session, item)
+                items.append(item)
             print(f"ok   {name}")
         except Exception as exc:
             failed.append(name)

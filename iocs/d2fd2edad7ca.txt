@@ -1,0 +1,28 @@
+IOC EXTRACTION - Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager
+Source: https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/
+Extracted: 2026-08-05 04:18:40 UTC
+Total indicators: 12
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-20127
+CVE-2026-20182
+CVE-2026-20245
+
+IPv4 (8)
+----------------------------------------
+126[.]51[.]108[.]152
+153[.]186[.]231[.]233
+167[.]179[.]79[.]189
+207[.]190[.]37[.]94
+209[.]137[.]225[.]101
+23[.]245[.]7[.]178
+45[.]32[.]38[.]160
+76[.]92[.]245[.]217
+
+SHA256 (1)
+----------------------------------------
+b82936f37648518425c7d3cf9e09eaffa41d7cdb3840f6a40287e3a108880f7b

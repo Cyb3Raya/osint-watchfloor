@@ -1,0 +1,33 @@
+IOC EXTRACTION - Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks
+Source: https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
+Extracted: 2026-08-05 04:18:02 UTC
+Total indicators: 20
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (17)
+----------------------------------------
+CVE-2023-33538
+CVE-2025-0921
+CVE-2025-40947
+CVE-2025-40948
+CVE-2025-68613
+CVE-2026-0257
+CVE-2026-0300
+CVE-2026-1281
+CVE-2026-1340
+CVE-2026-1731
+CVE-2026-21858
+CVE-2026-3055
+CVE-2026-31431
+CVE-2026-33017
+CVE-2026-33824
+CVE-2026-34486
+CVE-2026-39987
+
+Domains (3)
+----------------------------------------
+api[.]deepseek[.]com
+code[.]newcli[.]com
+dashscope[.]aliyuncs[.]com

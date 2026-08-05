@@ -1,0 +1,35 @@
+IOC EXTRACTION - Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector
+Source: https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
+Extracted: 2026-08-05 04:18:25 UTC
+Total indicators: 19
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (7)
+----------------------------------------
+benefitsportal[.]com
+business[.]com
+empresas[.]com
+es[.]org
+evilphishing[.]com
+login[.]com
+post-app[.]com
+
+URLs (10)
+----------------------------------------
+hxxp://[redacted][.]com/[redacted][.]zip
+hxxp://[redacted][.]com/letgovip[.]zip
+hxxp://[redacted][.]com/mentalite[.]php
+hxxp://[redacted][.]com/panel_track[.]php
+hxxp://[redacted][.]com/verify_api[.]php
+hxxp://[redacted]post-app[.]com/[redacted]post[.]apk
+hxxps://admin[.][redacted][.]com
+hxxps://api[.]build-notifier[.]io/v1/pipeline/events
+hxxps://billing[.][redacted][.]com/
+hxxps://sandbox[.][redacted][.]com/payment/api/v1/pay
+
+SHA256 (2)
+----------------------------------------
+2202a30daad9928ef47cca5f4ab04ce083692a94428e386fa01c2dd44557e34b
+eb07edaa2786cfddfa4c15526168f2200d85300aee0a8f253b32d2462a7b0bcd

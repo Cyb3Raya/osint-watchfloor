@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-05T03:40:53.450832+00:00",
- "sources_ok": 11,
- "sources_total": 11,
+ "generated": "2026-08-05T04:19:43.283159+00:00",
+ "sources_ok": 14,
+ "sources_total": 14,
  "failed": [],
  "items": [
   {
@@ -26,7 +26,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
    "desc": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
    "image": "",
-   "date": "2026-08-04T22:18:20+00:00"
+   "date": "2026-08-04T22:18:20+00:00",
+   "iocs": "iocs/6e88043f8643.txt",
+   "ioc_count": 7
   },
   {
    "source": "BleepingComputer",
@@ -34,7 +36,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
    "desc": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
    "image": "",
-   "date": "2026-08-04T21:45:36+00:00"
+   "date": "2026-08-04T21:45:36+00:00",
+   "iocs": "iocs/27d1686feff4.txt",
+   "ioc_count": 1
   },
   {
    "source": "RF The Record",
@@ -53,12 +57,22 @@
    "date": "2026-08-04T19:03:09+00:00"
   },
   {
+   "source": "Socket",
+   "title": "AWS Security Hub Adds Socket for Supply Chain Security",
+   "link": "https://socket.dev/blog/aws-security-hub-socket?utm_medium=feed",
+   "desc": "Socket is now in the AWS Security Hub Extended plan. Adopt it through AWS, apply committed spend, and block malicious open source packages.",
+   "image": "",
+   "date": "2026-08-04T18:56:11+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "77 Open VSX extensions found harvesting developer info",
    "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
    "desc": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
    "image": "",
-   "date": "2026-08-04T18:50:55+00:00"
+   "date": "2026-08-04T18:50:55+00:00",
+   "iocs": "iocs/6c3ceb315bbd.txt",
+   "ioc_count": 5
   },
   {
    "source": "Dark Reading",
@@ -74,7 +88,9 @@
    "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
    "desc": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg",
-   "date": "2026-08-04T17:27:39+00:00"
+   "date": "2026-08-04T17:27:39+00:00",
+   "iocs": "iocs/bc208a99b0f1.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -114,7 +130,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
    "desc": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
    "image": "",
-   "date": "2026-08-04T15:24:35+00:00"
+   "date": "2026-08-04T15:24:35+00:00",
+   "iocs": "iocs/dabae787120b.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -170,7 +188,9 @@
    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
    "desc": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned ve",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg",
-   "date": "2026-08-04T13:30:23+00:00"
+   "date": "2026-08-04T13:30:23+00:00",
+   "iocs": "iocs/4b6302d9f5c4.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -178,7 +198,9 @@
    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
    "desc": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance ut",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
-   "date": "2026-08-04T13:11:22+00:00"
+   "date": "2026-08-04T13:11:22+00:00",
+   "iocs": "iocs/db6c2ae7b2b2.txt",
+   "ioc_count": 4
   },
   {
    "source": "Unit 42",
@@ -186,7 +208,9 @@
    "link": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
    "desc": "Frontier AI is reshaping vulnerability discovery. Learn how our NOVA system found 14,000+ unknown vulnerabilities across the open-source software supply chain. The post The Frontier AI Vulnerability Burst: Industrializin",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/11_Myth-Busting_Overview_1920x900.jpg",
-   "date": "2026-08-04T13:00:11+00:00"
+   "date": "2026-08-04T13:00:11+00:00",
+   "iocs": "iocs/e27981c46e6e.txt",
+   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -218,7 +242,9 @@
    "link": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
    "desc": "Nearly half of C2 malware bypasses DNS by connecting directly to IP addresses. Zero trust IP enforcement secures networks against these threats. The post Almost Half of Malware Samples Communicate Direct to IP appeared f",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_DNS_Overview_1920x900.jpg",
-   "date": "2026-08-04T12:50:53+00:00"
+   "date": "2026-08-04T12:50:53+00:00",
+   "iocs": "iocs/42f878a67581.txt",
+   "ioc_count": 19
   },
   {
    "source": "SANS ISC",
@@ -226,7 +252,9 @@
    "link": "https://isc.sans.edu/diary/rss/33214",
    "desc": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with diagnostic tools:&#xd;",
    "image": "",
-   "date": "2026-08-04T12:46:19+00:00"
+   "date": "2026-08-04T12:46:19+00:00",
+   "iocs": "iocs/18ff0fd24d57.txt",
+   "ioc_count": 4
   },
   {
    "source": "SecurityWeek",
@@ -234,7 +262,9 @@
    "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
    "desc": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek.",
    "image": "",
-   "date": "2026-08-04T12:00:00+00:00"
+   "date": "2026-08-04T12:00:00+00:00",
+   "iocs": "iocs/d86258c60ad6.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -250,7 +280,9 @@
    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
    "desc": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistic",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg",
-   "date": "2026-08-04T11:30:00+00:00"
+   "date": "2026-08-04T11:30:00+00:00",
+   "iocs": "iocs/06c0ec5ab822.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -258,7 +290,9 @@
    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
    "desc": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif",
-   "date": "2026-08-04T11:16:23+00:00"
+   "date": "2026-08-04T11:16:23+00:00",
+   "iocs": "iocs/06b31a39b35c.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -269,12 +303,34 @@
    "date": "2026-08-04T10:54:30+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+   "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+   "desc": "Mini Shai-Hulud malware was injected into keyv and eight related npm packages on August 4, 2026 after an attacker compromised the maintainer's GitHub account Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a71ca295c3e4e22563f3fbc_OG-Image_ShaiHulud-Default_16x9.png",
+   "date": "2026-08-04T10:37:00+00:00",
+   "iocs": "iocs/1c015336aa68.txt",
+   "ioc_count": 6
+  },
+  {
    "source": "The Hacker News",
    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
    "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
    "desc": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg",
-   "date": "2026-08-04T10:36:27+00:00"
+   "date": "2026-08-04T10:36:27+00:00",
+   "iocs": "iocs/df5a94b50e3d.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Socket",
+   "title": "Popular npm Packages in the keyv and Cacheable Namespaces Compromised in Active Supply Chain Attack",
+   "link": "https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain?utm_medium=feed",
+   "desc": "Popular npm packages keyv and cacheable compromised.",
+   "image": "",
+   "date": "2026-08-04T10:36:00+00:00",
+   "iocs": "iocs/541eac1c7fc4.txt",
+   "ioc_count": 9
   },
   {
    "source": "Cisco Talos",
@@ -282,7 +338,9 @@
    "link": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/",
    "desc": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based A",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/aiartifactheader.jpg",
-   "date": "2026-08-04T10:00:11+00:00"
+   "date": "2026-08-04T10:00:11+00:00",
+   "iocs": "iocs/b938abdeb597.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -290,7 +348,9 @@
    "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
    "desc": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek",
    "image": "",
-   "date": "2026-08-04T09:56:06+00:00"
+   "date": "2026-08-04T09:56:06+00:00",
+   "iocs": "iocs/a1a3942ed120.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -298,7 +358,9 @@
    "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
    "desc": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg",
-   "date": "2026-08-04T09:03:23+00:00"
+   "date": "2026-08-04T09:03:23+00:00",
+   "iocs": "iocs/79321c6c50ff.txt",
+   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
@@ -306,7 +368,9 @@
    "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
    "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active e",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png",
-   "date": "2026-08-04T07:00:13+00:00"
+   "date": "2026-08-04T07:00:13+00:00",
+   "iocs": "iocs/da4061a77e66.txt",
+   "ioc_count": 9
   },
   {
    "source": "Dark Reading",
@@ -370,7 +434,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
    "desc": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote ac",
    "image": "",
-   "date": "2026-08-03T20:01:22+00:00"
+   "date": "2026-08-03T20:01:22+00:00",
+   "iocs": "iocs/1074e2818821.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -386,7 +452,9 @@
    "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
    "desc": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
-   "date": "2026-08-03T18:43:53+00:00"
+   "date": "2026-08-03T18:43:53+00:00",
+   "iocs": "iocs/5e41b682e284.txt",
+   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -394,7 +462,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
    "desc": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
    "image": "",
-   "date": "2026-08-03T17:00:56+00:00"
+   "date": "2026-08-03T17:00:56+00:00",
+   "iocs": "iocs/1ebcd51a8367.txt",
+   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -402,7 +472,9 @@
    "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
    "desc": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
-   "date": "2026-08-03T16:24:47+00:00"
+   "date": "2026-08-03T16:24:47+00:00",
+   "iocs": "iocs/5264422e426d.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -410,7 +482,9 @@
    "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
    "desc": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
-   "date": "2026-08-03T16:15:13+00:00"
+   "date": "2026-08-03T16:15:13+00:00",
+   "iocs": "iocs/5c95936bd159.txt",
+   "ioc_count": 4
   },
   {
    "source": "Cisco Talos",
@@ -450,7 +524,9 @@
    "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
    "desc": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg",
-   "date": "2026-08-03T14:03:11+00:00"
+   "date": "2026-08-03T14:03:11+00:00",
+   "iocs": "iocs/05bc9225a21d.txt",
+   "ioc_count": 89
   },
   {
    "source": "Dark Reading",
@@ -466,7 +542,9 @@
    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
    "desc": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize in",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
-   "date": "2026-08-03T11:30:00+00:00"
+   "date": "2026-08-03T11:30:00+00:00",
+   "iocs": "iocs/02e9c00b5f52.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -474,7 +552,9 @@
    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
    "desc": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys sa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
-   "date": "2026-08-03T10:49:06+00:00"
+   "date": "2026-08-03T10:49:06+00:00",
+   "iocs": "iocs/8f03bf579ace.txt",
+   "ioc_count": 14
   },
   {
    "source": "Unit 42",
@@ -490,7 +570,9 @@
    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
    "desc": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addres",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
-   "date": "2026-08-03T09:13:56+00:00"
+   "date": "2026-08-03T09:13:56+00:00",
+   "iocs": "iocs/a71a79482b5b.txt",
+   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -514,7 +596,9 @@
    "link": "https://isc.sans.edu/diary/rss/33208",
    "desc": "Introduction&#xd;",
    "image": "",
-   "date": "2026-08-02T04:05:08+00:00"
+   "date": "2026-08-02T04:05:08+00:00",
+   "iocs": "iocs/362667c7dbb7.txt",
+   "ioc_count": 27
   },
   {
    "source": "SANS ISC",
@@ -525,12 +609,46 @@
    "date": "2026-08-01T07:22:32+00:00"
   },
   {
+   "source": "Socket",
+   "title": "Claude Breached 3 Companies and Uploaded Malware to PyPI During Anthropic's Security Tests",
+   "link": "https://socket.dev/blog/anthropic-claude-pypi-malware?utm_medium=feed",
+   "desc": "A misconfiguration gave three Anthropic models internet access, and one, believing it was in a simulation, shipped a credential-stealing package to PyPI.",
+   "image": "",
+   "date": "2026-07-31T21:48:15+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top enterprise SAST tools 2026",
+   "link": "https://www.aikido.dev/blog/top-enterprise-sast-tools",
+   "desc": "Comparing the best enterprise SAST tools on noise reduction, AI remediation, governance, compliance, and cost Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-07-31T20:05:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
    "desc": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ea01097eb709f8a/6a6ce63bcc814023251d23dd/Long_list-erhui1979-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-31T18:13:11+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
+   "link": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
+   "desc": "Anthropic disclosed an agent that pushed real malware to PyPI. We think we found the package, and every mistake in it points back to the AI. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cccd1b81bb68c62ed2bf1_Feature_Just-alert-on-real-issues-HF-breach_16x9.jpg",
+   "date": "2026-07-31T16:10:00+00:00",
+   "iocs": "iocs/5d1f09c17ba1.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Aikido",
+   "title": "Top Astra Security alternatives for automated pentesting in 2026",
+   "link": "https://www.aikido.dev/blog/astra-alternatives",
+   "desc": "Compare Astra Security alternatives for AI pentesting in 2026 on depth, white-box testing, compliance output, and platform breadth Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-07-31T14:25:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -570,7 +688,9 @@
    "link": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
    "desc": "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic. The post The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Ve",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Malware_Category_1920x900-6.jpg",
-   "date": "2026-07-31T10:00:18+00:00"
+   "date": "2026-07-31T10:00:18+00:00",
+   "iocs": "iocs/33a019a97697.txt",
+   "ioc_count": 71
   },
   {
    "source": "SANS ISC",
@@ -581,12 +701,28 @@
    "date": "2026-07-31T09:22:19+00:00"
   },
   {
+   "source": "Socket",
+   "title": "Socket Is Sponsoring Composer and Packagist",
+   "link": "https://socket.dev/blog/socket-sponsoring-composer-and-packagist?utm_medium=feed",
+   "desc": "Socket has joined the new Composer and Packagist sponsorship program as a launch sponsor, supporting the team that keeps PHP's package ecosystem secure.",
+   "image": "",
+   "date": "2026-07-31T07:02:26+00:00"
+  },
+  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
    "link": "https://isc.sans.edu/diary/rss/33204",
    "desc": "",
    "image": "",
    "date": "2026-07-31T02:00:03+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "CaptiveCrunch: Midnight Blizzard Hospitality Network AiTM Campaign (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/captivecrunch-midnight-blizzard-hospitality-network-aitm-campaign",
+   "desc": "Microsoft Threat Intelligence identified CaptiveCrunch, an ongoing cyberespionage campaign conducted by Storm-2945, a subgroup of the Russian state-sponsored actor Midnight Blizzard. The campaign compromises hospitality-",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-31T00:00:00+00:00"
   },
   {
    "source": "IC3 PSA",
@@ -618,7 +754,9 @@
    "link": "https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/",
    "desc": "Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-3.jpg",
-   "date": "2026-07-30T18:00:35+00:00"
+   "date": "2026-07-30T18:00:35+00:00",
+   "iocs": "iocs/2b4182e0d041.txt",
+   "ioc_count": 5
   },
   {
    "source": "Krebs on Security",
@@ -626,7 +764,9 @@
    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
    "desc": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio",
    "image": "",
-   "date": "2026-07-30T16:49:00+00:00"
+   "date": "2026-07-30T16:49:00+00:00",
+   "iocs": "iocs/f62495d07518.txt",
+   "ioc_count": 1
   },
   {
    "source": "Google GTIG",
@@ -642,7 +782,9 @@
    "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
    "desc": "Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more. The post Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-3-scaled.jpeg",
-   "date": "2026-07-30T10:00:52+00:00"
+   "date": "2026-07-30T10:00:52+00:00",
+   "iocs": "iocs/bf8d747b9fac.txt",
+   "ioc_count": 20
   },
   {
    "source": "Cisco Talos",
@@ -666,7 +808,45 @@
    "link": "https://isc.sans.edu/diary/rss/33198",
    "desc": "&#x5b;This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
    "image": "",
-   "date": "2026-07-30T00:42:29+00:00"
+   "date": "2026-07-30T00:42:29+00:00",
+   "iocs": "iocs/684cb4d2defb.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Four incident-response decisions from the Hugging Face breach",
+   "link": "https://www.aikido.dev/blog/hugging-face-open-ai-breach-takeaways",
+   "desc": "Recon, stolen credentials, hidden C2, and rebuild-or-patch. Four Hugging Face breach decisions that show whether you can catch an attack in progress. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6a903f7f8a426f3dff5040_Feature_Just-alert-on-real-issues-HF-breach_16x9.jpg",
+   "date": "2026-07-29T21:37:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top SAST tools 2026",
+   "link": "https://www.aikido.dev/blog/top-sast-tools",
+   "desc": "Compare the top SAST tools of 2026 across detection depth, noise, remediation, and enterprise fit Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-07-29T13:28:00+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers",
+   "link": "https://socket.dev/blog/npm-rat-targets-alibaba?utm_medium=feed",
+   "desc": "Benign-looking npm packages split malicious functionality across a dependency chain that deploys a cross-platform RAT targeting Alibaba developers.",
+   "image": "",
+   "date": "2026-07-28T20:23:55+00:00",
+   "iocs": "iocs/28f5d9d9e155.txt",
+   "ioc_count": 15
+  },
+  {
+   "source": "Socket",
+   "title": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
+   "link": "https://socket.dev/blog/joyfill-npm-beta-releases-compromised?utm_medium=feed",
+   "desc": "Two Joyfill npm beta releases contain an import-time implant that uses blockchain transactions to retrieve a remote-access trojan.",
+   "image": "",
+   "date": "2026-07-28T14:34:42+00:00",
+   "iocs": "iocs/075835da826d.txt",
+   "ioc_count": 24
   },
   {
    "source": "Cisco Talos",
@@ -677,6 +857,40 @@
    "date": "2026-07-28T10:00:01+00:00"
   },
   {
+   "source": "Socket",
+   "title": "Socket Releases Free Certified Patches for Nuxt Security Vulnerabilities",
+   "link": "https://socket.dev/blog/patches-for-nuxt-security-vulnerabilities?utm_medium=feed",
+   "desc": "Socket releases free Certified Patches for high-severity Nuxt vulnerabilities, including server-side remote code execution through server island props.",
+   "image": "",
+   "date": "2026-07-27T22:57:36+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "The AI Industry Is Betting on Open Weights",
+   "link": "https://socket.dev/blog/the-ai-industry-is-betting-on-open-weights?utm_medium=feed",
+   "desc": "An open letter signed by 50 companies, from NVIDIA and Microsoft to Mistral and Hugging Face, urges Washington not to restrict open weight AI.",
+   "image": "",
+   "date": "2026-07-27T06:34:38+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top LLM security tools to protect AI applications",
+   "link": "https://www.aikido.dev/blog/llm-security-tools",
+   "desc": "Compare the top LLM security tools for AI applications, including Aikido, Snyk, Semgrep, Endor Labs, and Wiz, across code, supply chain, and runtime. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-07-24T18:41:00+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Fake Corepack Site Distributes Infostealer and Proxyware to Developers",
+   "link": "https://socket.dev/blog/fake-corepack-site-distributes-infostealer-and-proxyware?utm_medium=feed",
+   "desc": "A fake corepack.org site is impersonating the Node.js tool and delivers an infostealer and proxyware to developers who download it.",
+   "image": "",
+   "date": "2026-07-24T14:55:18+00:00",
+   "iocs": "iocs/efb305858293.txt",
+   "ioc_count": 9
+  },
+  {
    "source": "Google GTIG",
    "title": "Updated Cyber Threat Actor Naming System",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
@@ -685,12 +899,30 @@
    "date": "2026-07-24T14:00:00+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Top Acunetix alternatives for automated vulnerability scanning",
+   "link": "https://www.aikido.dev/blog/acunetix-alternatives",
+   "desc": "Exploring Acunetix alternatives? Its DAST covers rule-based checks but can't reason about business logic or produce audit-grade pentests. Five options that go further. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-07-24T13:51:00+00:00"
+  },
+  {
    "source": "Cisco Talos",
    "title": "Don’t swing at everything",
    "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
    "desc": "Thorsten explores Q2 2026 stats, the artificial buffer zone of 2026, and why smart, prioritized patching is more critical than ever.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-2.jpg",
-   "date": "2026-07-23T18:00:46+00:00"
+   "date": "2026-07-23T18:00:46+00:00",
+   "iocs": "iocs/c2feb9ad65c5.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "Aikido",
+   "title": "Better generic secrets detection starts with finding non-secrets",
+   "link": "https://www.aikido.dev/blog/better-generic-secrets-detection-non-secrets",
+   "desc": "Some API keys are meant to be public. Betterleaks now removes them from generic secret findings, dropping thousands of false positives per scan. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a62409892989a1bf59fabbe_secrets-scanning-part-2_16x9_keys.jpg",
+   "date": "2026-07-23T16:11:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -698,7 +930,9 @@
    "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
    "desc": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg",
-   "date": "2026-07-23T14:10:53+00:00"
+   "date": "2026-07-23T14:10:53+00:00",
+   "iocs": "iocs/5f2aac4bcb83.txt",
+   "ioc_count": 19
   },
   {
    "source": "Cisco Talos",
@@ -706,7 +940,9 @@
    "link": "https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/",
    "desc": "The Chaos ransomware group uses new malware \"msaRAT\" that hijacks browsers. The malware doesn't communicate directly with C2 but connects through the browser. It enables arbitrary command execution while hiding the attac",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/newchaosrat.jpg",
-   "date": "2026-07-23T10:00:38+00:00"
+   "date": "2026-07-23T10:00:38+00:00",
+   "iocs": "iocs/678e715aba62.txt",
+   "ioc_count": 3
   },
   {
    "source": "Cisco Talos",
@@ -717,12 +953,78 @@
    "date": "2026-07-23T10:00:14+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Finding eight high-severity vulnerabilities in NodeBB in six hours",
+   "link": "https://www.aikido.dev/blog/eight-high-severity-vulnerabilities-nodebb",
+   "desc": "Eight high-severity NodeBB vulnerabilities, found by our AI Pentest in six hours. Full technical breakdown of the XSS chains, auth bypasses, and post hijacking. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a55786ecee46df1759dbe9c_Feature_Finding-eight-high-severity-vulns-in-NodeBB_16x9.jpg",
+   "date": "2026-07-22T21:44:00+00:00",
+   "iocs": "iocs/b1446d13eb7c.txt",
+   "ioc_count": 32
+  },
+  {
+   "source": "Socket",
+   "title": "Large-Scale GitHub Actions Abuse Powers a Distributed cPanel and WHM Exploitation Campaign",
+   "link": "https://socket.dev/blog/github-actions-abuse-powers-cpanel-and-whm-exploitation?utm_medium=feed",
+   "desc": "A large-scale campaign abused GitHub Actions in compromised repositories to exploit CVE-2026-41940 in cPanel and WHM and steal server credentials.",
+   "image": "",
+   "date": "2026-07-22T20:10:30+00:00",
+   "iocs": "iocs/4cf38e94dd3d.txt",
+   "ioc_count": 12
+  },
+  {
+   "source": "Aikido",
+   "title": "SQL injection isn't dead",
+   "link": "https://www.aikido.dev/blog/sql-injection-isnt-dead",
+   "desc": "The fix for SQL injection is decades old and still works. So why did WordPress core just need an emergency patch for one? The data, and how to defend against it. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5fed7ca539131b55e16a87_SQL-injection-isnt-dead_16x9%20feature.jpg",
+   "date": "2026-07-22T15:03:00+00:00",
+   "iocs": "iocs/8f26eb6920a6.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "The upgrade trap: when upgrading is the wrong answer to a CVE",
+   "link": "https://www.aikido.dev/blog/cve-upgrade-breaking-changes-open-source",
+   "desc": "Upgrading to fix a CVE sounds straightforward. But the patched version often breaks your app, hasn't shipped yet, or doesn't exist. Here's why, and what actually works. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a60fa0737331e19aeb76859_Feature_Upgrade-trap_16x9.jpg",
+   "date": "2026-07-22T09:23:00+00:00",
+   "iocs": "iocs/c56d29f7db18.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "Krebs on Security",
    "title": "LG to Ban Residential Proxies from Smart TV Apps",
    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
    "desc": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after ",
    "image": "",
    "date": "2026-07-22T01:10:38+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Cl0p Exploitation of PTC Windchill and FlexPLM Vulnerability (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/cl0p-exploitation-of-ptc-windchill-and-flexplm-vulnerability",
+   "desc": "The observed attack chain begins with reconnaissance against the FlexPLM WSDL endpoint, followed by exploitation of the information disclosure vulnerability and CVE-2026-12569, a deserialization flaw that enables unauthe",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-22T00:00:00+00:00",
+   "iocs": "iocs/504ab9d2c02e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Tyro's CISO: Being the \"Einstein of cybersecurity\" isn't enough if developers don't trust you",
+   "link": "https://www.aikido.dev/blog/security-controls-developer-trust",
+   "desc": "Tyro CISO Arun Singh on developer trust as a finite resource, and what happens when supply chain attacks force teams to spend it Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5fdbe6641692896ea262fb_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-07-21T19:50:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "What developers need to know about DSPM and data exposure in code",
+   "link": "https://www.aikido.dev/blog/what-is-dspm",
+   "desc": "Traditional DSPM finds where sensitive data lives. Code-based DSPM finds how it gets exposed, and points to the fix in your code. Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5e78c48c4ce1dbbc7c9a20_What-is-DSPM-and-how-does-it-work_16x9-feature.jpg",
+   "date": "2026-07-20T16:15:00+00:00"
   },
   {
    "source": "IC3 PSA",
@@ -733,12 +1035,42 @@
    "date": "2026-07-20T14:00:00+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts",
+   "link": "https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack",
+   "desc": "SleeperGem: two dormant RubyGems maintainer accounts were hijacked to inject malware into trusted gems, one with over 500,000 total downloads Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5c9b9904667f6a18a47053_Group%202147256878.png",
+   "date": "2026-07-19T08:45:00+00:00",
+   "iocs": "iocs/0d849b95e879.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "SleeperGem: RubyGems Supply Chain Attack Targets Dormant Maintainer Accounts (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/sleepergem-rubygems-supply-chain-attack-targets-dormant-maintainer-accounts",
+   "desc": "On July 18-19, 2026, an attacker compromised at least two dormant RubyGems maintainer accounts (inactive since 2019) to publish malicious gem versions. The attack was discovered when git_credential_manager appeared with ",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-19T00:00:00+00:00",
+   "iocs": "iocs/b10fb5494b57.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "Unit 42",
    "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
    "link": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
    "desc": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access. The post Three Steps to the Terminal: A Siemens ROX II Zero-Day Tri",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Vulnerabilities_1920x900.jpg",
-   "date": "2026-07-17T10:00:24+00:00"
+   "date": "2026-07-17T10:00:24+00:00",
+   "iocs": "iocs/ee74a81b3849.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "NadMesh: Autonomous AI-Focused Botnet Targeting Cloud and AI Infrastructure (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/nadmesh-autonomous-ai-focused-botnet-targeting-cloud-and-ai-infrastructure",
+   "desc": "NadMesh uses a centralized controller to coordinate scanning across large IP ranges and attempts exploitation using more than 20 supported attack vectors. The malware targets exposed services such as Docker APIs, Kuberne",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-17T00:00:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -754,7 +1086,9 @@
    "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
    "desc": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-1.jpg",
-   "date": "2026-07-16T18:00:50+00:00"
+   "date": "2026-07-16T18:00:50+00:00",
+   "iocs": "iocs/90c5e8b91901.txt",
+   "ioc_count": 4
   },
   {
    "source": "Google GTIG",
@@ -778,7 +1112,19 @@
    "link": "https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/",
    "desc": "Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/starlandrat.jpg",
-   "date": "2026-07-16T10:00:01+00:00"
+   "date": "2026-07-16T10:00:01+00:00",
+   "iocs": "iocs/28207cdc7d99.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "CVE-2025-54068 Exploited in Large-Scale Laravel Livewire Credential Theft Campaign (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/cve-2025-54068-exploited-in-large-scale-laravel-livewire-credential-theft-campaign",
+   "desc": "A large-scale credential theft campaign exploiting CVE-2025-54068, a critical unauthenticated remote code execution vulnerability in Laravel Livewire v3. Attackers used PHP deserialization to execute a Bash-based credent",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-16T00:00:00+00:00",
+   "iocs": "iocs/fa8d79d27a82.txt",
+   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -786,7 +1132,9 @@
    "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
    "desc": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg",
-   "date": "2026-07-15T23:00:33+00:00"
+   "date": "2026-07-15T23:00:33+00:00",
+   "iocs": "iocs/bbb6da0dea02.txt",
+   "ioc_count": 41
   },
   {
    "source": "Google GTIG",
@@ -794,7 +1142,9 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
    "desc": "Written by: Corné de Jong Introduction Mandiant security assessments frequently identify publicly exposed serverless applications that lack authentication, often as a result of specific business requirements. Serverless ",
    "image": "",
-   "date": "2026-07-15T14:00:00+00:00"
+   "date": "2026-07-15T14:00:00+00:00",
+   "iocs": "iocs/e9ca52746d18.txt",
+   "ioc_count": 4
   },
   {
    "source": "Unit 42",
@@ -802,7 +1152,9 @@
    "link": "https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/",
    "desc": "TuxBot v3 Evolution, an IoT botnet framework built with LLMs. Read our analysis of its cross-compiled binaries, C2 architecture and bugs. The post TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development a",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-1-scaled.jpeg",
-   "date": "2026-07-15T10:00:54+00:00"
+   "date": "2026-07-15T10:00:54+00:00",
+   "iocs": "iocs/6eac967cdb31.txt",
+   "ioc_count": 82
   },
   {
    "source": "Cisco Talos",
@@ -810,7 +1162,9 @@
    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/",
    "desc": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical.\"",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/patch_tuesday.png",
-   "date": "2026-07-14T20:27:33+00:00"
+   "date": "2026-07-14T20:27:33+00:00",
+   "iocs": "iocs/586930469aa5.txt",
+   "ioc_count": 92
   },
   {
    "source": "Krebs on Security",
@@ -818,7 +1172,9 @@
    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
    "desc": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-",
    "image": "",
-   "date": "2026-07-14T19:22:42+00:00"
+   "date": "2026-07-14T19:22:42+00:00",
+   "iocs": "iocs/b49a657379e3.txt",
+   "ioc_count": 4
   },
   {
    "source": "Cisco Talos",
@@ -837,6 +1193,14 @@
    "date": "2026-07-14T10:00:06+00:00"
   },
   {
+   "source": "Wiz Threats",
+   "title": "AsyncAPI Supply Chain Compromise via GitHub Actions (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/asyncapi-supply-chain-compromise-via-github-actions",
+   "desc": "On July 14, 2026, an attacker opened 37 pull requests to the AsyncAPI generator repository. Almost all attempted to add a fake charity donation page. Camouflage in the noise, a single PR exploited a misconfigured GitHub ",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
    "source": "Krebs on Security",
    "title": "Lessons Learned from CISA’s Recent GitHub Leak",
    "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
@@ -845,12 +1209,30 @@
    "date": "2026-07-13T15:03:28+00:00"
   },
   {
+   "source": "Wiz Threats",
+   "title": "Cryptomining campaign targeting Linux SSH servers (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/cryptomining-campaign-targeting-linux-ssh-servers",
+   "desc": "AhnLab ASEC identified an ongoing Linux-targeted cryptomining campaign that compromises internet-exposed SSH servers using brute-force attacks against weak credentials. Once access is obtained, attackers deploy a multi-s",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-12T00:00:00+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Jscrambler npm Package Compromised in Supply Chain Attack (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/jscrambler-npm-package-compromised-in-supply-chain-attack",
+   "desc": "A malicious version of the Jscrambler npm package, jscrambler@8.14.0, was published at 15:12 UTC on 11 July 2026. The compromised release executed a dropper via an npm preinstall hook that detected the host operating sys",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-11T00:00:00+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
    "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
    "desc": "Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here. The post No Manners Here: The Ruthless Rise of The Gentlemen Ransomware appeared first on Uni",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/05_Opinion_Overview_1920x900.jpg",
-   "date": "2026-07-10T22:00:39+00:00"
+   "date": "2026-07-10T22:00:39+00:00",
+   "iocs": "iocs/5ef75c565476.txt",
+   "ioc_count": 5
   },
   {
    "source": "Cisco Talos",
@@ -858,7 +1240,17 @@
    "link": "https://blog.talosintelligence.com/wolfssl-vulnerabilities/",
    "desc": "Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed three vulnerabilities in WolfSSF, fourteen in GeoVision, and one vulnerability in VTK-DICOM.The vulnerabilities mentioned in this blog po",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/vuln_roundup.jpg",
-   "date": "2026-07-09T18:52:29+00:00"
+   "date": "2026-07-09T18:52:29+00:00",
+   "iocs": "iocs/569b8b59bbcf.txt",
+   "ioc_count": 41
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys",
+   "desc": "A malicious version of the @injectivelabs/sdk-ts npm package (version 1.20.21) was briefly published to the official Injective Labs npm namespace after a contributor account was compromised. The package contained credent",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-09T00:00:00+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -866,7 +1258,17 @@
    "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
    "desc": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures inc",
    "image": "",
-   "date": "2026-07-08T12:31:39+00:00"
+   "date": "2026-07-08T12:31:39+00:00",
+   "iocs": "iocs/11d2003407b7.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Coordinated GitHub API Enumeration and Access Token Abuse (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/coordinated-github-api-enumeration-and-access-token-abuse",
+   "desc": "Datadog Security Labs identified multiple coordinated campaigns abusing the GitHub API to systematically enumerate organizations, repositories, users, and software development activity at scale. The activity primarily re",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-07-08T00:00:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -874,7 +1276,9 @@
    "link": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
    "desc": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination. The post Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders a",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/01_Malware_Category_1920x900-2.jpg",
-   "date": "2026-07-07T22:00:21+00:00"
+   "date": "2026-07-07T22:00:21+00:00",
+   "iocs": "iocs/d673bb868534.txt",
+   "ioc_count": 113
   },
   {
    "source": "Google GTIG",
@@ -890,7 +1294,9 @@
    "link": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
    "desc": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection. The post How We Added WebAuthn to a Browser-Based RDP Client appeared first on Unit 42.",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg",
-   "date": "2026-07-02T22:00:39+00:00"
+   "date": "2026-07-02T22:00:39+00:00",
+   "iocs": "iocs/9eda0c139df0.txt",
+   "ioc_count": 2
   },
   {
    "source": "Krebs on Security",
@@ -898,7 +1304,9 @@
    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
    "desc": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli com",
    "image": "",
-   "date": "2026-07-02T19:27:33+00:00"
+   "date": "2026-07-02T19:27:33+00:00",
+   "iocs": "iocs/417bdaa0c3e1.txt",
+   "ioc_count": 1
   },
   {
    "source": "Google GTIG",
@@ -914,7 +1322,9 @@
    "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
    "desc": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. The post Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector ap",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_799983387-1-1-scaled.jpg",
-   "date": "2026-07-01T01:00:11+00:00"
+   "date": "2026-07-01T01:00:11+00:00",
+   "iocs": "iocs/991a4d0a2130.txt",
+   "ioc_count": 19
   },
   {
    "source": "Google GTIG",
@@ -930,7 +1340,9 @@
    "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
    "desc": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. The post Threat Brief: Mitigating Large-Scale Credential Attacks appe",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900-1.jpg",
-   "date": "2026-06-26T19:05:33+00:00"
+   "date": "2026-06-26T19:05:33+00:00",
+   "iocs": "iocs/01da362d0548.txt",
+   "ioc_count": 1
   },
   {
    "source": "IC3 PSA",
@@ -946,7 +1358,17 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
    "desc": "Written by: Jordan Jones Introduction Google Threat Intelligence Group (GTIG) has conducted an in-depth analysis of a .NET backdoor, tracked as STOCKSTAY, that has been continually developed and deployed by the Russia-li",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/stockstay-fig1.max-1000x1000.png",
-   "date": "2026-06-25T14:00:00+00:00"
+   "date": "2026-06-25T14:00:00+00:00",
+   "iocs": "iocs/97310fabbf13.txt",
+   "ioc_count": 58
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Cryptojacking Campaign Targeting K8s Clusters (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targeting-k8s-clusters",
+   "desc": "Researchers identified a campaign leveraging the Realm C2 framework that has compromised thousands of Linux hosts between June 13-23, 2026, with a primary focus on a large managed Kubernetes clusters. The attackers explo",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-06-25T00:00:00+00:00"
   },
   {
    "source": "Google GTIG",
@@ -954,7 +1376,9 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
    "desc": "Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan, Lukasz Lamparski Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial",
    "image": "",
-   "date": "2026-06-24T11:00:00+00:00"
+   "date": "2026-06-24T11:00:00+00:00",
+   "iocs": "iocs/d2fd2edad7ca.txt",
+   "ioc_count": 12
   },
   {
    "source": "Krebs on Security",
@@ -970,7 +1394,9 @@
    "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
    "desc": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. Thi",
    "image": "",
-   "date": "2026-06-18T17:37:58+00:00"
+   "date": "2026-06-18T17:37:58+00:00",
+   "iocs": "iocs/7c4f2c9bb4d9.txt",
+   "ioc_count": 4
   },
   {
    "source": "IC3 PSA",
@@ -981,12 +1407,46 @@
    "date": "2026-06-18T14:00:00+00:00"
   },
   {
+   "source": "Wiz Threats",
+   "title": "Klue Supply Chain Breach Leads to Salesforce Data Exfiltration (Incident)",
+   "link": "https://threats.wiz.io/all-incidents/klue-supply-chain-breach-leads-to-salesforce-data-exfiltration",
+   "desc": "According to investigations, the compromise began when attackers gained access to Klue backend systems and deployed code capable of harvesting OAuth tokens used by customers to integrate Klue with third-party platforms s",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-06-18T00:00:00+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Mastra Packages Trojanized with Malicious Dependency (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/mastra-packages-trojanized-with-malicious-dependency",
+   "desc": "On 17 June 2026, attackers compromised a maintainer account associated with the Mastra npm organization and used it to republish 116 packages over a 27-minute period. Rather than modifying Mastra’s source code directly, ",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-06-17T00:00:00+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "FortiBleed: Credential Compromise Campaign Targeting Fortinet Devices (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/fortibleed-credential-compromise-campaign-targeting-fortinet-devices",
+   "desc": "According to the research, the threat actor operates an automated infrastructure that scans the internet for Fortinet devices and attempts authentication using a curated set of previously leaked or compromised credential",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-06-16T00:00:00+00:00"
+  },
+  {
    "source": "Google GTIG",
    "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
    "desc": "Written by: Patrick Whitsell, John McGuiness, Muhammad Umair Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, t",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/inifinitered-fig1.max-1000x1000.png",
-   "date": "2026-06-15T14:00:00+00:00"
+   "date": "2026-06-15T14:00:00+00:00",
+   "iocs": "iocs/eb358928c590.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Atomic Arch: AUR Package Supply Chain Compromise Using Malicious npm Package (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/atomic-arch-aur-package-supply-chain-compromise-using-malicious-npm-package",
+   "desc": "Researchers have disclosed a software supply chain attack, dubbed \"Atomic Arch,\" targeting orphaned packages in the Arch User Repository (AUR). Using newly created AUR accounts, an attacker adopted more than 400 abandone",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-06-12T00:00:00+00:00"
   },
   {
    "source": "Google GTIG",
@@ -994,7 +1454,9 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
    "desc": "Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified an active compromise and extortion campaign attributed to UNC6240 (ShinyHunters) targeting Oracle PeopleSoft application infrastructure. T",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/peoplesoft-shinyhunters.max-1000x1000.png",
-   "date": "2026-06-11T14:00:00+00:00"
+   "date": "2026-06-11T14:00:00+00:00",
+   "iocs": "iocs/2ba6a2a91f63.txt",
+   "ioc_count": 6
   },
   {
    "source": "Krebs on Security",
@@ -1010,7 +1472,9 @@
    "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
    "desc": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly thre",
    "image": "",
-   "date": "2026-06-09T22:07:28+00:00"
+   "date": "2026-06-09T22:07:28+00:00",
+   "iocs": "iocs/ea6cfaf1ee3a.txt",
+   "ioc_count": 4
   },
   {
    "source": "Google GTIG",
@@ -1018,7 +1482,9 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
    "desc": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threa",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/seeking-counsel-fig1.max-1000x1000.png",
-   "date": "2026-06-05T14:00:00+00:00"
+   "date": "2026-06-05T14:00:00+00:00",
+   "iocs": "iocs/aa977c30763e.txt",
+   "ioc_count": 6
   },
   {
    "source": "Google GTIG",
@@ -1026,7 +1492,9 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
    "desc": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learn",
    "image": "",
-   "date": "2026-05-25T14:00:00+00:00"
+   "date": "2026-05-25T14:00:00+00:00",
+   "iocs": "iocs/90d790d6335d.txt",
+   "ioc_count": 2
   },
   {
    "source": "Google GTIG",
@@ -1042,7 +1510,9 @@
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/",
    "desc": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/blackfile-fig5.max-1000x1000.png",
-   "date": "2026-05-15T14:00:00+00:00"
+   "date": "2026-05-15T14:00:00+00:00",
+   "iocs": "iocs/6257462df173.txt",
+   "ioc_count": 9
   }
  ]
 }

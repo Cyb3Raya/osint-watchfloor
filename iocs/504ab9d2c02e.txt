@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cl0p Exploitation of PTC Windchill and FlexPLM Vulnerability (Campaign)
+Source: https://threats.wiz.io/all-incidents/cl0p-exploitation-of-ptc-windchill-and-flexplm-vulnerability
+Extracted: 2026-08-05 04:19:29 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-12569

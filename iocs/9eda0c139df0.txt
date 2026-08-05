@@ -1,0 +1,15 @@
+IOC EXTRACTION - How We Added WebAuthn to a Browser-Based RDP Client
+Source: https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
+Extracted: 2026-08-05 04:18:22 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-59287
+
+URLs (1)
+----------------------------------------
+hxxps://okta[.]com

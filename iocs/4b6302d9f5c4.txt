@@ -1,0 +1,11 @@
+IOC EXTRACTION - Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
+Source: https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html
+Extracted: 2026-08-05 04:16:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

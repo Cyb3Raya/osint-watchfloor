@@ -1,0 +1,15 @@
+IOC EXTRACTION - Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
+Source: https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html
+Extracted: 2026-08-05 04:16:06 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (1)
+----------------------------------------
+38[.]248[.]95[.]214

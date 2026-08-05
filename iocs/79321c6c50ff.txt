@@ -1,0 +1,16 @@
+IOC EXTRACTION - DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT
+Source: https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html
+Extracted: 2026-08-05 04:16:20 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (2)
+----------------------------------------
+213[.]139[.]77[.]109
+91[.]92[.]240[.]100

@@ -1,0 +1,19 @@
+IOC EXTRACTION - Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms
+Source: https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/
+Extracted: 2026-08-05 04:18:43 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+helpdesk[.]com
+it[.]com
+itdesk[.]com
+privnote[.]com
+
+URLs (2)
+----------------------------------------
+hxxp://[actor-controlled-ip]/installer
+hxxps://business-data-leaks[.]com

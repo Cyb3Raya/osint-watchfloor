@@ -1,0 +1,11 @@
+IOC EXTRACTION - SQL injection isn't dead
+Source: https://www.aikido.dev/blog/sql-injection-isnt-dead
+Extracted: 2026-08-05 04:19:11 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2024-42005
