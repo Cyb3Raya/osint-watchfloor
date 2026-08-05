@@ -1,9 +1,43 @@
 {
- "generated": "2026-08-05T19:47:26.439588+00:00",
+ "generated": "2026-08-05T21:14:13.135915+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+   "link": "https://therecord.media/chinese-hackers-telecoms-house",
+   "desc": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+   "image": "",
+   "date": "2026-08-05T20:45:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
+   "link": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
+   "desc": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.",
+   "image": "",
+   "date": "2026-08-05T20:15:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+   "desc": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+   "image": "",
+   "date": "2026-08-05T19:55:25+00:00",
+   "iocs": "iocs/167589835478.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "CSS: The Hidden Threat Lurking in Your Inbox",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+   "desc": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteab809ef662786f0/6a72695ca3f8037e14ce6b0b/email1800_alubalish_GettyImages-184320446.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-05T19:47:55+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
@@ -381,14 +415,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud",
-   "link": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption",
-   "desc": "A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers.",
-   "image": "",
-   "date": "2026-08-04T20:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
    "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
@@ -431,14 +457,6 @@
    "date": "2026-08-04T17:27:39+00:00",
    "iocs": "iocs/bc208a99b0f1.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "RF The Record",
-   "title": "Britain’s next war won’t be an away game: Q&A with former head of Defence Intelligence",
-   "link": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
-   "desc": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.",
-   "image": "",
-   "date": "2026-08-04T16:19:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -611,14 +629,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-   "desc": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-   "image": "",
-   "date": "2026-08-03T19:25:10+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
    "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
@@ -733,14 +743,6 @@
    "desc": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt264b54ff513eeccd/6a6bbc45cc81404df41d20a4/accountant-with-handcuffs-megaflopp-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-07-31T13:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "DROP Platform Lets Californians Reduce Digital Footprint",
-   "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
-   "desc": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce1c962346b69c12/6a6ca456f4f70a9041eb0d90/GettyImages-2208944455.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-07-31T13:19:36+00:00"
   },
   {
    "source": "Unit 42",
