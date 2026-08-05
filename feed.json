@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-04T23:05:46.595958+00:00",
- "sources_ok": 11,
+ "generated": "2026-08-05T00:17:13.556204+00:00",
+ "sources_ok": 10,
  "sources_total": 11,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+   "desc": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attack",
+   "image": "",
+   "date": "2026-08-04T23:39:59+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
@@ -19,14 +29,6 @@
    "desc": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
    "image": "",
    "date": "2026-08-04T21:45:36+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud",
-   "link": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption",
-   "desc": "A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers.",
-   "image": "",
-   "date": "2026-08-04T20:15:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -69,28 +71,12 @@
    "date": "2026-08-04T16:49:39+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Britain’s next war won’t be an away game: Q&A with former head of Defence Intelligence",
-   "link": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
-   "desc": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.",
-   "image": "",
-   "date": "2026-08-04T16:19:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
    "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
    "desc": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security",
    "image": "",
    "date": "2026-08-04T16:15:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Polish convenience store chain Żabka hacked through third-party account",
-   "link": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
-   "desc": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
-   "image": "",
-   "date": "2026-08-04T15:55:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -115,14 +101,6 @@
    "desc": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night. The post CISO Conversations: Russ Kirby – Passion Is the A",
    "image": "",
    "date": "2026-08-04T14:30:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian businesses erase Durov-linked products after 'terrorist' designation",
-   "link": "https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation",
-   "desc": "The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency ",
-   "image": "",
-   "date": "2026-08-04T14:11:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -178,14 +156,6 @@
    "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
    "desc": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltacd93dbe5fa30f62/6a6fb9993e6bcafcff0bbab9/Video_call_AiTM-jack191-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-04T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Apple launches new legal challenge against UK over iCloud access",
-   "link": "https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge",
-   "desc": "Seeking to protect users' iCloud accounts, Apple is reportedly mounting a new challenge to British legal demands for ways around the company's Advanced Data Protection feature.",
-   "image": "",
    "date": "2026-08-04T13:00:00+00:00"
   },
   {
@@ -491,14 +461,6 @@
    "desc": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
    "image": "",
    "date": "2026-08-02T22:31:41+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-   "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-   "desc": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-   "image": "",
-   "date": "2026-08-02T21:14:29+00:00"
   },
   {
    "source": "SANS ISC",
