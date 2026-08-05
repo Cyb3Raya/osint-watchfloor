@@ -1,0 +1,15 @@
+IOC EXTRACTION - Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
+Source: https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html
+Extracted: 2026-08-05 19:47:12 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (1)
+----------------------------------------
+applefilevault[.]com

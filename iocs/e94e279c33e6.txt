@@ -1,0 +1,13 @@
+IOC EXTRACTION - How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones
+Source: https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/
+Extracted: 2026-08-05 19:47:18 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-21079
+CVE-2025-58486
+CVE-2025-58487
