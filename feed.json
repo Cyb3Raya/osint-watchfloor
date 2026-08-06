@@ -1,9 +1,47 @@
 {
- "generated": "2026-08-06T04:32:52.176041+00:00",
+ "generated": "2026-08-06T07:23:18.089892+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
+   "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
+   "desc": "Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code. The post Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-06T07:20:20+00:00",
+   "iocs": "iocs/f3d712ed1410.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+   "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+   "desc": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-06T06:37:44+00:00",
+   "iocs": "iocs/c55cfcc724b8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+   "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+   "desc": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrus",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg",
+   "date": "2026-08-06T06:04:30+00:00",
+   "iocs": "iocs/b41d695ada77.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "Ruby's Bundler 4.0.18 Extends Cooldown to bundle lock and bundle cache",
+   "link": "https://socket.dev/blog/bundler-extends-cooldown-to-bundle-lock-and-bundle-cache?utm_medium=feed",
+   "desc": "The supply chain control that delays freshly published gems now covers lockfile generation and gem vendoring in Ruby projects.",
+   "image": "",
+   "date": "2026-08-06T03:50:54+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
@@ -375,14 +413,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
-   "link": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
-   "desc": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on Security",
-   "image": "",
-   "date": "2026-08-05T08:56:58+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Angola's Largest Telco Breached Hours Before IPO",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
@@ -409,14 +439,6 @@
    "date": "2026-08-05T07:40:39+00:00",
    "iocs": "iocs/df47d13d8d89.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
-   "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
-   "desc": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-05T07:24:52+00:00"
   },
   {
    "source": "Aikido",
@@ -505,16 +527,6 @@
    "desc": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b501fd239cea948/6a7205c2f2df87f4451c6c0b/Playbook(1800)_Ivelin_Radkov_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-04T18:37:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-   "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-   "desc": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg",
-   "date": "2026-08-04T17:27:39+00:00",
-   "iocs": "iocs/bc208a99b0f1.txt",
-   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -915,16 +927,6 @@
    "desc": "Compare the top LLM security tools for AI applications, including Aikido, Snyk, Semgrep, Endor Labs, and Wiz, across code, supply chain, and runtime. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-07-24T18:41:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Fake Corepack Site Distributes Infostealer and Proxyware to Developers",
-   "link": "https://socket.dev/blog/fake-corepack-site-distributes-infostealer-and-proxyware?utm_medium=feed",
-   "desc": "A fake corepack.org site is impersonating the Node.js tool and delivers an infostealer and proxyware to developers who download it.",
-   "image": "",
-   "date": "2026-07-24T14:55:18+00:00",
-   "iocs": "iocs/efb305858293.txt",
-   "ioc_count": 9
   },
   {
    "source": "Google GTIG",

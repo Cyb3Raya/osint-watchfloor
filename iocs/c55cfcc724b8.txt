@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability
+Source: https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/
+Extracted: 2026-08-06 07:23:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-63077

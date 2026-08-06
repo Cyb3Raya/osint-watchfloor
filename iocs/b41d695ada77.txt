@@ -1,0 +1,11 @@
+IOC EXTRACTION - Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People
+Source: https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html
+Extracted: 2026-08-06 07:23:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

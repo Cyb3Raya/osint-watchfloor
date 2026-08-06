@@ -1,0 +1,19 @@
+IOC EXTRACTION - Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities
+Source: https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/
+Extracted: 2026-08-06 07:23:09 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20200
+CVE-2026-20267
+CVE-2026-20272
+CVE-2026-20303
+CVE-2026-20304
+CVE-2026-20310
+CVE-2026-20312
+CVE-2026-20313
