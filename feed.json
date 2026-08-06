@@ -1,9 +1,57 @@
 {
- "generated": "2026-08-06T10:16:57.004068+00:00",
+ "generated": "2026-08-06T12:22:57.553636+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
+   "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
+   "desc": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. The post Podcast: Compliance Won’t Save You: Th",
+   "image": "",
+   "date": "2026-08-06T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+   "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+   "desc": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg",
+   "date": "2026-08-06T11:49:48+00:00",
+   "iocs": "iocs/4f4e67e509ed.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+   "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+   "desc": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to e",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg",
+   "date": "2026-08-06T11:33:08+00:00",
+   "iocs": "iocs/73f30e8ce330.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+   "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+   "desc": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
+   "date": "2026-08-06T11:30:00+00:00",
+   "iocs": "iocs/376accbc001d.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
+   "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
+   "desc": "An attacker could self-register, sign in for board-level API access, and import a new company for code execution. The post Critical Paperclip Flaw Allowed Admin Access, Code Execution appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-06T11:09:11+00:00",
+   "iocs": "iocs/548abf35bbc6.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Unit 42",
    "title": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
@@ -403,52 +451,6 @@
    "desc": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-05T12:48:49+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-   "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-   "desc": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for rou",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg",
-   "date": "2026-08-05T11:43:27+00:00",
-   "iocs": "iocs/8cfe78538442.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-   "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-   "desc": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication pa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg",
-   "date": "2026-08-05T11:43:19+00:00",
-   "iocs": "iocs/716e0f587a9c.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
-   "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
-   "desc": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-05T11:35:23+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
-   "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
-   "desc": "The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations. The post Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data appeared first on Se",
-   "image": "",
-   "date": "2026-08-05T11:11:29+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-   "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-   "desc": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafte",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg",
-   "date": "2026-08-05T11:04:23+00:00",
-   "iocs": "iocs/53e4a2d13642.txt",
-   "ioc_count": 5
   },
   {
    "source": "Dark Reading",

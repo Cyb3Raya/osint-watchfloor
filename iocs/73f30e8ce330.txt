@@ -1,0 +1,15 @@
+IOC EXTRACTION - Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses
+Source: https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html
+Extracted: 2026-08-06 12:22:46 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (1)
+----------------------------------------
+leaks[.]psylo[.]app

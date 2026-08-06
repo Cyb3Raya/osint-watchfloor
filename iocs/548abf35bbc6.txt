@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Paperclip Flaw Allowed Admin Access, Code Execution
+Source: https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/
+Extracted: 2026-08-06 12:22:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-41679

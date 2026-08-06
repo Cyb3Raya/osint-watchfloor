@@ -1,0 +1,21 @@
+IOC EXTRACTION - AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory
+Source: https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html
+Extracted: 2026-08-06 12:22:47 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (1)
+----------------------------------------
+example[.]com
+
+URLs (3)
+----------------------------------------
+hxxps://chatgpt[.]com/?q=Summarize+this+article
+hxxps://claude[.]ai/new?q=
+hxxps://grok[.]com/?q=
