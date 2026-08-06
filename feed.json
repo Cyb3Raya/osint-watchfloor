@@ -1,9 +1,51 @@
 {
- "generated": "2026-08-06T12:22:57.553636+00:00",
+ "generated": "2026-08-06T14:58:57.591963+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Snowflake Hacker Pleads Guilty in US Court",
+   "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
+   "desc": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-06T14:56:31+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+   "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+   "desc": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI",
+   "image": "",
+   "date": "2026-08-06T14:02:12+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
+   "link": "https://therecord.media/belarus-hacker-ransomware-sentenced",
+   "desc": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
+   "image": "",
+   "date": "2026-08-06T13:15:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
+   "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
+   "desc": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appea",
+   "image": "",
+   "date": "2026-08-06T12:54:09+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+   "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+   "desc": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan co",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg",
+   "date": "2026-08-06T12:16:58+00:00",
+   "iocs": "iocs/5ebab680430f.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
@@ -419,40 +461,6 @@
    "date": "2026-08-05T14:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-   "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-   "desc": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg",
-   "date": "2026-08-05T13:41:27+00:00",
-   "iocs": "iocs/66d9046cc862.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
-   "link": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
-   "desc": "CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield. The post The Fourth Battlefield: The Growing Role of Cyber Op",
-   "image": "",
-   "date": "2026-08-05T13:00:08+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
-   "link": "https://therecord.media/anthropic-ai-hacking-uk",
-   "desc": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britai",
-   "image": "",
-   "date": "2026-08-05T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
-   "link": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
-   "desc": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-05T12:48:49+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Angola's Largest Telco Breached Hours Before IPO",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
@@ -647,14 +655,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-04T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-   "desc": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-   "image": "",
-   "date": "2026-08-04T00:17:15+00:00"
   },
   {
    "source": "Wiz Threats",

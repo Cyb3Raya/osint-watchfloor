@@ -1,0 +1,12 @@
+IOC EXTRACTION - Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities
+Source: https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html
+Extracted: 2026-08-06 14:58:45 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2017-16740
+CVE-2026-50522
