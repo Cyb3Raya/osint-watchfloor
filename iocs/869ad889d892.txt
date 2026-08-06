@@ -1,0 +1,24 @@
+IOC EXTRACTION - Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells
+Source: https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html
+Extracted: 2026-08-06 10:16:41 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (4)
+----------------------------------------
+43[.]248[.]136[.]125
+45[.]32[.]81[.]152
+47[.]100[.]190[.]96
+47[.]107[.]224[.]89
+
+Domains (3)
+----------------------------------------
+online-string[.]com
+rbdg4nzqadui[.]wikaba[.]com
+zbtctl[.]epplink[.]net

@@ -1,0 +1,12 @@
+IOC EXTRACTION - CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild
+Source: https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html
+Extracted: 2026-08-06 10:16:44 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-63077

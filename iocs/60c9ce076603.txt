@@ -1,0 +1,30 @@
+IOC EXTRACTION - Token Jacking: Cybercriminals Could Be Stealing Your AI Resources
+Source: https://unit42.paloaltonetworks.com/ai-token-jacking/
+Extracted: 2026-08-06 10:16:52 UTC
+Total indicators: 17
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (16)
+----------------------------------------
+104[.]243[.]42[.]117
+116[.]105[.]166[.]148
+117[.]72[.]74[.]48
+15[.]204[.]106[.]173
+172[.]96[.]142[.]186
+198[.]255[.]70[.]210
+207[.]246[.]106[.]162
+23[.]236[.]182[.]215
+23[.]237[.]196[.]170
+38[.]46[.]219[.]162
+38[.]46[.]219[.]163
+38[.]46[.]219[.]166
+3[.]235[.]109[.]125
+47[.]251[.]72[.]239
+47[.]88[.]103[.]81
+95[.]214[.]112[.]26
+
+Domains (1)
+----------------------------------------
+amutes[.]com

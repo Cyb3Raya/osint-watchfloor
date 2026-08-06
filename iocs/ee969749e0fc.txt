@@ -1,0 +1,11 @@
+IOC EXTRACTION - Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service
+Source: https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html
+Extracted: 2026-08-06 10:16:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

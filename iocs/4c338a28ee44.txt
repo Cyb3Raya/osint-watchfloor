@@ -1,0 +1,15 @@
+IOC EXTRACTION - Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access
+Source: https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html
+Extracted: 2026-08-06 10:16:39 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+IPv4 (1)
+----------------------------------------
+178[.]162[.]151[.]229

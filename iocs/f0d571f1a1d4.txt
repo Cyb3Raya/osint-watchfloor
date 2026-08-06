@@ -1,0 +1,15 @@
+IOC EXTRACTION - AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model
+Source: https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html
+Extracted: 2026-08-06 10:16:40 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-18236
+CVE-2026-18830
+CVE-2026-50522
+CVE-2026-64650
+CVE-2026-64651

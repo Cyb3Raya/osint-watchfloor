@@ -1,9 +1,65 @@
 {
- "generated": "2026-08-06T07:23:18.089892+00:00",
+ "generated": "2026-08-06T10:16:57.004068+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
+   "link": "https://unit42.paloaltonetworks.com/ai-token-jacking/",
+   "desc": "Discover how attackers hijack AI tokens to fuel gray market transfer stations by stealing developer API keys. The post Token Jacking: Cybercriminals Could Be Stealing Your AI Resources appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/AdobeStock_1246251272-2.jpg",
+   "date": "2026-08-06T10:00:49+00:00",
+   "iocs": "iocs/60c9ce076603.txt",
+   "ioc_count": 17
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
+   "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
+   "desc": "The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week. The post Meta AI Hacked External Systems During Cybersecurity Testing appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-06T09:56:26+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+   "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
+   "desc": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution. The post Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-06T09:30:30+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+   "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+   "desc": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java sour",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg",
+   "date": "2026-08-06T09:19:23+00:00",
+   "iocs": "iocs/4c338a28ee44.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+   "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+   "desc": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNMtOKfZBxSDQ1928IVtFay3f8_6go4rnTY6yFaQYCzAdGt3e6uBkZfZkoFtHbS_cEbTCri3ZNVVO7BbuvoVpjGCLSpdphneotNbiXRT3vciQT6dzPa0K81_ee8Al2rxx7GlT5qTS3_B2MKjCCUcHut1pdIeqaLBRjoD5ZqttMcHxZ5AwKea3eL-wruta7/s1600/agent-sdk.jpg",
+   "date": "2026-08-06T08:57:30+00:00",
+   "iocs": "iocs/f0d571f1a1d4.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+   "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+   "desc": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmwa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg",
+   "date": "2026-08-06T08:05:22+00:00",
+   "iocs": "iocs/869ad889d892.txt",
+   "ioc_count": 8
+  },
   {
    "source": "SecurityWeek",
    "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
@@ -13,6 +69,26 @@
    "date": "2026-08-06T07:20:20+00:00",
    "iocs": "iocs/f3d712ed1410.txt",
    "ioc_count": 9
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+   "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+   "desc": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 202",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg",
+   "date": "2026-08-06T07:19:54+00:00",
+   "iocs": "iocs/ee969749e0fc.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+   "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+   "desc": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnera",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg",
+   "date": "2026-08-06T06:51:43+00:00",
+   "iocs": "iocs/0024bf7a69c1.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -375,44 +451,6 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-   "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-   "desc": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif",
-   "date": "2026-08-05T10:35:29+00:00",
-   "iocs": "iocs/b4f3d444777d.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
-   "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
-   "desc": "AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects. The post AI Agents Targeted Real People and Projects During Cybersecurity Tests appeared",
-   "image": "",
-   "date": "2026-08-05T10:33:41+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-   "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-   "desc": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-05T09:44:50+00:00",
-   "iocs": "iocs/6b6297575336.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-   "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-   "desc": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg",
-   "date": "2026-08-05T09:23:03+00:00",
-   "iocs": "iocs/e7d8afd8e492.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Dark Reading",
    "title": "Angola's Largest Telco Breached Hours Before IPO",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
@@ -421,42 +459,12 @@
    "date": "2026-08-05T08:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-   "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-   "desc": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly wa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg",
-   "date": "2026-08-05T07:53:50+00:00",
-   "iocs": "iocs/359c14ceebc6.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-   "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1600/cisa.jpg",
-   "date": "2026-08-05T07:40:39+00:00",
-   "iocs": "iocs/df47d13d8d89.txt",
-   "ioc_count": 9
-  },
-  {
    "source": "Aikido",
    "title": "The Aikido Machine: on-prem AI pentesting that never leaves your network",
    "link": "https://www.aikido.dev/blog/the-aikido-machine-on-prem-ai-pentesting-that-never-leaves-your-network",
    "desc": "Continuous AI pentesting for teams that can't use the cloud. The Aikido Machine keeps models, code, and results entirely inside your network. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a72d6a5ef1bb7f853aa2384_Feature_Aikido-Machine-Launch_16x9.jpg",
    "date": "2026-08-05T07:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-   "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-   "desc": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. Ac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg",
-   "date": "2026-08-05T05:47:19+00:00",
-   "iocs": "iocs/81a8a88680d3.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -1343,16 +1351,6 @@
    "desc": "Written by: James Sadowski, Alden Wahlstrom Introduction Four years into Russia’s full-scale invasion of Ukraine, the pro-Russia influence ecosystem has evolved from a tool of war back into a global strategic asset. Sinc",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/russia-io-fig1.max-1000x1000.png",
    "date": "2026-06-29T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Threat Brief: Mitigating Large-Scale Credential Attacks",
-   "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
-   "desc": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. The post Threat Brief: Mitigating Large-Scale Credential Attacks appe",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900-1.jpg",
-   "date": "2026-06-26T19:05:33+00:00",
-   "iocs": "iocs/01da362d0548.txt",
-   "ioc_count": 1
   },
   {
    "source": "IC3 PSA",
