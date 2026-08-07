@@ -1,9 +1,39 @@
 {
- "generated": "2026-08-07T10:31:49.030855+00:00",
+ "generated": "2026-08-07T11:29:49.644283+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
+   "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
+   "desc": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-07T11:06:01+00:00",
+   "iocs": "iocs/7c6beb5d2ba8.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+   "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+   "desc": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to ide",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg",
+   "date": "2026-08-07T10:38:27+00:00",
+   "iocs": "iocs/e7fa1f5e0b02.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+   "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+   "desc": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg",
+   "date": "2026-08-07T10:09:54+00:00",
+   "iocs": "iocs/862642bee841.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
@@ -46,7 +76,7 @@
    "source": "The Hacker News",
    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
    "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-   "desc": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose",
+   "desc": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attack",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg",
    "date": "2026-08-07T08:52:11+00:00",
    "iocs": "iocs/2749aa1817e2.txt",
@@ -160,7 +190,7 @@
    "source": "Dark Reading",
    "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
    "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-   "desc": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.",
+   "desc": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-06T19:00:11+00:00"
   },
@@ -367,14 +397,6 @@
    "ioc_count": 17
   },
   {
-   "source": "SecurityWeek",
-   "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
-   "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
-   "desc": "The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week. The post Meta AI Hacked External Systems During Cybersecurity Testing appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-06T09:56:26+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
    "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
@@ -383,26 +405,6 @@
    "date": "2026-08-06T09:19:23+00:00",
    "iocs": "iocs/4c338a28ee44.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-   "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-   "desc": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNMtOKfZBxSDQ1928IVtFay3f8_6go4rnTY6yFaQYCzAdGt3e6uBkZfZkoFtHbS_cEbTCri3ZNVVO7BbuvoVpjGCLSpdphneotNbiXRT3vciQT6dzPa0K81_ee8Al2rxx7GlT5qTS3_B2MKjCCUcHut1pdIeqaLBRjoD5ZqttMcHxZ5AwKea3eL-wruta7/s1600/agent-sdk.jpg",
-   "date": "2026-08-06T08:57:30+00:00",
-   "iocs": "iocs/f0d571f1a1d4.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-   "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-   "desc": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmwa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg",
-   "date": "2026-08-06T08:05:22+00:00",
-   "iocs": "iocs/869ad889d892.txt",
-   "ioc_count": 8
   },
   {
    "source": "RF The Record",

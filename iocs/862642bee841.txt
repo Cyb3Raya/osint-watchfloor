@@ -1,0 +1,12 @@
+IOC EXTRACTION - AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day
+Source: https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html
+Extracted: 2026-08-07 11:29:42 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-63078

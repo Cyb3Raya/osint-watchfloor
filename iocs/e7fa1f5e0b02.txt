@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails
+Source: https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html
+Extracted: 2026-08-07 11:29:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
