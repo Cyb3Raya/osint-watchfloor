@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-07T13:57:21.935579+00:00",
+ "generated": "2026-08-07T15:02:21.082514+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
+   "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
+   "desc": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple B",
+   "image": "",
+   "date": "2026-08-07T14:26:42+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+   "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+   "desc": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocu",
+   "image": "",
+   "date": "2026-08-07T14:00:10+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Levi Strauss says hackers breached employee computers, accessed corporate data",
@@ -24,7 +40,7 @@
    "source": "The Hacker News",
    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-   "desc": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. Under additional conditions, the bug can be chained into",
+   "desc": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg",
    "date": "2026-08-07T12:56:23+00:00",
    "iocs": "iocs/38709a9cedbf.txt",
@@ -411,16 +427,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
-   "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
-   "desc": "An attacker could self-register, sign in for board-level API access, and import a new company for code execution. The post Critical Paperclip Flaw Allowed Admin Access, Code Execution appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-06T11:09:11+00:00",
-   "iocs": "iocs/548abf35bbc6.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Unit 42",
    "title": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
    "link": "https://unit42.paloaltonetworks.com/ai-token-jacking/",
@@ -589,14 +595,6 @@
    "desc": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
    "image": "",
    "date": "2026-08-05T14:59:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "How AI-powered phishing killed blocklists for good",
-   "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-   "desc": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more ",
-   "image": "",
-   "date": "2026-08-05T14:01:11+00:00"
   },
   {
    "source": "Dark Reading",
