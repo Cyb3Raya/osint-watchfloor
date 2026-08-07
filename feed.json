@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T21:59:07.975394+00:00",
+ "generated": "2026-08-07T22:49:12.095611+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -283,6 +283,14 @@
    "date": "2026-08-07T06:50:05+00:00",
    "iocs": "iocs/78779d6a9c8b.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "Free Business Plan Upgrades for Open Source Maintainers",
+   "link": "https://socket.dev/blog/free-business-plan-upgrades-for-open-source?utm_medium=feed",
+   "desc": "Open source maintainers are under more pressure than ever. We're raising our open source program from the Team plan to the Business plan, free.",
+   "image": "",
+   "date": "2026-08-07T06:49:17+00:00"
   },
   {
    "source": "SANS ISC",
@@ -947,14 +955,6 @@
    "desc": "Socket releases free Certified Patches for high-severity Nuxt vulnerabilities, including server-side remote code execution through server island props.",
    "image": "",
    "date": "2026-07-27T22:57:36+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "The AI Industry Is Betting on Open Weights",
-   "link": "https://socket.dev/blog/the-ai-industry-is-betting-on-open-weights?utm_medium=feed",
-   "desc": "An open letter signed by 50 companies, from NVIDIA and Microsoft to Mistral and Hugging Face, urges Washington not to restrict open weight AI.",
-   "image": "",
-   "date": "2026-07-27T06:34:38+00:00"
   },
   {
    "source": "Aikido",
