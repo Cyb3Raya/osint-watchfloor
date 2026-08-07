@@ -1,0 +1,11 @@
+IOC EXTRACTION - Growing Up The Hard Way
+Source: https://thehackernews.com/2026/08/growing-up-hard-way.html
+Extracted: 2026-08-07 12:26:28 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

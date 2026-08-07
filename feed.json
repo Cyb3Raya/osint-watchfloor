@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-07T11:29:49.644283+00:00",
+ "generated": "2026-08-07T12:26:36.766632+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "French rugby club Stade Français restores systems after cyberattack, probes data leak",
+   "link": "https://therecord.media/french-rugby-club-restores-systems-after-cyberattack",
+   "desc": "The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain full",
+   "image": "",
+   "date": "2026-08-07T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Growing Up The Hard Way",
+   "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+   "desc": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand tha",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg",
+   "date": "2026-08-07T11:55:26+00:00",
+   "iocs": "iocs/b31d99cb8265.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+   "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+   "desc": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 200",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg",
+   "date": "2026-08-07T11:10:33+00:00",
+   "iocs": "iocs/897a98755e75.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
@@ -13,6 +41,16 @@
    "date": "2026-08-07T11:06:01+00:00",
    "iocs": "iocs/7c6beb5d2ba8.txt",
    "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+   "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+   "desc": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose m",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg",
+   "date": "2026-08-07T10:58:38+00:00",
+   "iocs": "iocs/db7fd783f4de.txt",
+   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
@@ -28,7 +66,7 @@
    "source": "The Hacker News",
    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-   "desc": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors",
+   "desc": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg",
    "date": "2026-08-07T10:09:54+00:00",
    "iocs": "iocs/862642bee841.txt",
@@ -41,16 +79,6 @@
    "desc": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities. The post Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix appeared ",
    "image": "",
    "date": "2026-08-07T10:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-   "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-   "desc": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose m",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg",
-   "date": "2026-08-07T09:32:57+00:00",
-   "iocs": "iocs/db7fd783f4de.txt",
-   "ioc_count": 3
   },
   {
    "source": "SecurityWeek",
@@ -367,16 +395,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-   "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-   "desc": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
-   "date": "2026-08-06T11:30:00+00:00",
-   "iocs": "iocs/376accbc001d.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "SecurityWeek",
    "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
    "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
@@ -395,16 +413,6 @@
    "date": "2026-08-06T10:00:49+00:00",
    "iocs": "iocs/60c9ce076603.txt",
    "ioc_count": 17
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-   "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-   "desc": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java sour",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg",
-   "date": "2026-08-06T09:19:23+00:00",
-   "iocs": "iocs/4c338a28ee44.txt",
-   "ioc_count": 2
   },
   {
    "source": "RF The Record",
@@ -487,14 +495,6 @@
    "desc": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. ",
    "image": "",
    "date": "2026-08-05T21:53:26+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
-   "link": "https://therecord.media/chinese-hackers-telecoms-house",
-   "desc": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
-   "image": "",
-   "date": "2026-08-05T20:45:00+00:00"
   },
   {
    "source": "BleepingComputer",
