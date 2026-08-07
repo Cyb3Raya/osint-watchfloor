@@ -1,0 +1,18 @@
+IOC EXTRACTION - Microsoft, Apple Release Fresh Security Updates
+Source: https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/
+Extracted: 2026-08-07 09:27:33 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-50481
+CVE-2026-50515
+CVE-2026-56162
+CVE-2026-59115
+CVE-2026-62830
+CVE-2026-63508
+CVE-2026-65400
+CVE-2026-65667

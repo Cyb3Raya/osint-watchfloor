@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-07T08:16:51.492851+00:00",
+ "generated": "2026-08-07T09:27:38.395488+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
+   "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
+   "desc": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 4) appeared first on Securi",
+   "image": "",
+   "date": "2026-08-07T09:24:22+00:00",
+   "iocs": "iocs/9ac2a587d751.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft, Apple Release Fresh Security Updates",
+   "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
+   "desc": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on Security",
+   "image": "",
+   "date": "2026-08-07T09:09:54+00:00",
+   "iocs": "iocs/2280a505042b.txt",
+   "ioc_count": 8
+  },
   {
    "source": "SANS ISC",
    "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
@@ -355,16 +375,6 @@
    "ioc_count": 8
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
-   "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
-   "desc": "Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code. The post Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-06T07:20:20+00:00",
-   "iocs": "iocs/f3d712ed1410.txt",
-   "ioc_count": 9
-  },
-  {
    "source": "The Hacker News",
    "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
    "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
@@ -383,16 +393,6 @@
    "date": "2026-08-06T06:51:43+00:00",
    "iocs": "iocs/0024bf7a69c1.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
-   "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
-   "desc": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-06T06:37:44+00:00",
-   "iocs": "iocs/c55cfcc724b8.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
