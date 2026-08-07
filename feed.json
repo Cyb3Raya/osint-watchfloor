@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-07T22:49:12.095611+00:00",
+ "generated": "2026-08-07T23:36:18.264458+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Inside the Modern SOC: The Identity Front Door",
+   "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
+   "desc": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond. The post Inside the Modern SOC: The Identity Front Door appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/04_Listicle_Overview_1920x900.jpg",
+   "date": "2026-08-07T23:00:01+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
@@ -1323,16 +1331,6 @@
    "desc": "Written by: Shebin Mathew Introduction The \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for thr",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ghost-database-fig1.max-1000x1000.png",
    "date": "2026-07-07T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "How We Added WebAuthn to a Browser-Based RDP Client",
-   "link": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
-   "desc": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection. The post How We Added WebAuthn to a Browser-Based RDP Client appeared first on Unit 42.",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg",
-   "date": "2026-07-02T22:00:39+00:00",
-   "iocs": "iocs/9eda0c139df0.txt",
-   "ioc_count": 2
   },
   {
    "source": "Krebs on Security",
