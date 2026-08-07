@@ -1,11 +1,33 @@
 {
- "generated": "2026-08-07T19:25:04.054324+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-07T20:19:52.298086+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+   "desc": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+   "image": "",
+   "date": "2026-08-07T20:14:46+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+   "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+   "desc": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+   "image": "",
+   "date": "2026-08-07T19:30:41+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
+   "link": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
+   "desc": "The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems.",
+   "image": "",
+   "date": "2026-08-07T18:55:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
@@ -37,6 +59,30 @@
    "ioc_count": 4
   },
   {
+   "source": "RF The Record",
+   "title": "US cyber ambassador nominee Cassady confirmed in Senate",
+   "link": "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
+   "desc": "NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.",
+   "image": "",
+   "date": "2026-08-07T18:14:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
+   "link": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
+   "desc": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
+   "image": "",
+   "date": "2026-08-07T16:58:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Military device manufacturer discloses cyber incident to SEC",
+   "link": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
+   "desc": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
+   "image": "",
+   "date": "2026-08-07T16:52:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "AI-Generated Patches Fail Half the Time",
    "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
@@ -51,6 +97,14 @@
    "desc": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
    "image": "",
    "date": "2026-08-07T15:48:20+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
+   "link": "https://therecord.media/irregular-ai-security-company-incidents",
+   "desc": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
+   "image": "",
+   "date": "2026-08-07T15:00:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -553,26 +607,6 @@
    "desc": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup",
    "image": "",
    "date": "2026-08-05T17:56:15+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "COLDCARD security audit phishing attack installs remote access tool",
-   "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-   "desc": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...",
-   "image": "",
-   "date": "2026-08-05T17:49:41+00:00",
-   "iocs": "iocs/b8de3a001b73.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
-   "image": "",
-   "date": "2026-08-05T15:51:33+00:00",
-   "iocs": "iocs/4dcce587c04d.txt",
-   "ioc_count": 5
   },
   {
    "source": "Dark Reading",
