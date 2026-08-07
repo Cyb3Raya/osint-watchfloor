@@ -1,0 +1,14 @@
+IOC EXTRACTION - New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts
+Source: https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html
+Extracted: 2026-08-07 00:29:24 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-46316
+CVE-2026-50522
+CVE-2026-53359
+CVE-2026-64561

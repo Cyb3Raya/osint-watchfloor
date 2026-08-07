@@ -1,0 +1,26 @@
+IOC EXTRACTION - Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs
+Source: https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html
+Extracted: 2026-08-07 00:29:25 UTC
+Total indicators: 16
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (16)
+----------------------------------------
+CVE-2026-20200
+CVE-2026-20267
+CVE-2026-20268
+CVE-2026-20269
+CVE-2026-20270
+CVE-2026-20271
+CVE-2026-20272
+CVE-2026-20273
+CVE-2026-20288
+CVE-2026-20303
+CVE-2026-20304
+CVE-2026-20310
+CVE-2026-20312
+CVE-2026-20313
+CVE-2026-20316
+CVE-2026-50522

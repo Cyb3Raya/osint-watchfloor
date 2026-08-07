@@ -1,0 +1,12 @@
+IOC EXTRACTION - New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs
+Source: https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html
+Extracted: 2026-08-07 00:29:26 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2023-20569
+CVE-2026-50522

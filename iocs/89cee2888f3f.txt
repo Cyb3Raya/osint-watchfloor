@@ -1,0 +1,30 @@
+IOC EXTRACTION - ChainDrop: Inside a Self-Propagating npm Worm
+Source: https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/
+Extracted: 2026-08-07 00:29:42 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+104[.]21[.]91[.]101
+172[.]67[.]215[.]154
+
+Domains (2)
+----------------------------------------
+js-mirror[.]com
+pypi-get[.]com
+
+URLs (2)
+----------------------------------------
+hxxp://awqhnjewqjkl[.]icu/cdn-cgi/rum?
+hxxps://npm-cache[.]com:443/router
+
+SHA256 (5)
+----------------------------------------
+54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668
+9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc
+b27b82afa5f15512f3856e549fb83d873fd0049759a4b62ce64c8d7d4dc2c678
+d30b4ea6f68456672f5abb35e9dcf7d54226372b66e9d60a7ee26b7a52568e74
+fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb

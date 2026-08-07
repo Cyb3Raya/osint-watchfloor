@@ -1,0 +1,22 @@
+IOC EXTRACTION - ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories
+Source: https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html
+Extracted: 2026-08-07 00:29:27 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2025-21079
+CVE-2025-58486
+CVE-2025-7850
+CVE-2025-7851
+CVE-2026-20131
+CVE-2026-25177
+CVE-2026-27912
+CVE-2026-50522
+
+IPv4 (1)
+----------------------------------------
+193[.]233[.]202[.]17

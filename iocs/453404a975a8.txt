@@ -1,0 +1,12 @@
+IOC EXTRACTION - Swiss government SharePoint breach compromised 200 accounts
+Source: https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/
+Extracted: 2026-08-07 00:29:32 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-56164

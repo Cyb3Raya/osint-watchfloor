@@ -1,9 +1,159 @@
 {
- "generated": "2026-08-06T14:58:57.591963+00:00",
+ "generated": "2026-08-07T00:29:50.882047+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+   "desc": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
+   "image": "",
+   "date": "2026-08-06T22:48:22+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+   "desc": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+   "image": "",
+   "date": "2026-08-06T22:37:17+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "ChainDrop: Inside a Self-Propagating npm Worm",
+   "link": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
+   "desc": "Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing. The post ChainDrop: Inside a Self-Propagating npm Worm appeared first on Unit 42",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/03_Malware_Category_1920x900-7.jpg",
+   "date": "2026-08-06T22:26:39+00:00",
+   "iocs": "iocs/89cee2888f3f.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "Dark Reading",
+   "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
+   "desc": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773d06d488d0bafb/67ae0378f9958cc7415de40e/Cybercrime_(1800)_wsf_AL_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-06T21:42:50+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
+   "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
+   "desc": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a01e6b265bc8c2/6a74e71b469e8f1b3353e662/sandbox-diczman-GettyImages-2237058218.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-06T20:38:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+   "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+   "desc": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+   "image": "",
+   "date": "2026-08-06T20:07:24+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
+   "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
+   "desc": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-06T19:00:11+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Swiss government SharePoint breach compromised 200 accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+   "desc": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+   "image": "",
+   "date": "2026-08-06T18:14:19+00:00",
+   "iocs": "iocs/453404a975a8.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+   "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+   "desc": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+   "image": "",
+   "date": "2026-08-06T18:03:45+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Why metaphor may dictate your security strategy",
+   "link": "https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/",
+   "desc": "In this week's newsletter, Martin looks at how the metaphors we use to describe AI \"escaping\" its sandbox can completely change how we react to the threat.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_source.jpg",
+   "date": "2026-08-06T18:00:01+00:00",
+   "iocs": "iocs/7691dab3ed32.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+   "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+   "desc": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtua",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif",
+   "date": "2026-08-06T17:58:30+00:00",
+   "iocs": "iocs/76d72c59e4a3.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
+   "link": "https://therecord.media/cyberattack-north-carolina-ports",
+   "desc": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
+   "image": "",
+   "date": "2026-08-06T17:15:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+   "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+   "desc": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catal",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
+   "date": "2026-08-06T17:13:15+00:00",
+   "iocs": "iocs/928199c46052.txt",
+   "ioc_count": 16
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+   "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+   "desc": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the",
+   "image": "",
+   "date": "2026-08-06T17:00:56+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+   "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+   "desc": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_BgCPUTlxOgmh4ljCoOazIkcoSA_BHUGZmfAuhxD8TiUzui2nhB5b5KV_lv50ocFWI14FG5RIe8rqrm6D8ZC8ACR7mY1bXE4JADKcTRIY1bfIeXtnYs07yXk2T9Jsv0-vcxPkKbl6FuNXxXylv5BQQQLTDSpJ2XSyqxvIsxYy5d2X1Kwt_2CSJegj9Tv/s1600/place.jpg",
+   "date": "2026-08-06T16:17:13+00:00",
+   "iocs": "iocs/23bdedbf2371.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Meta AI model hacked a company during misconfigured cyber test",
+   "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+   "desc": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that ",
+   "image": "",
+   "date": "2026-08-06T16:11:39+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+   "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+   "desc": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg",
+   "date": "2026-08-06T15:24:31+00:00",
+   "iocs": "iocs/8347f09debcf.txt",
+   "ioc_count": 9
+  },
   {
    "source": "SecurityWeek",
    "title": "Snowflake Hacker Pleads Guilty in US Court",
@@ -19,6 +169,16 @@
    "desc": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI",
    "image": "",
    "date": "2026-08-06T14:02:12+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
+   "desc": "Written by: Tyler McLellan, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) continues to track UNC6671 actively conducting compromises leading to data theft extortion, despite the alleged announced ret",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_j8OyMFx.max-1000x1000.png",
+   "date": "2026-08-06T14:00:00+00:00",
+   "iocs": "iocs/7b5a120ec555.txt",
+   "ioc_count": 76
   },
   {
    "source": "RF The Record",
@@ -201,6 +361,22 @@
    "ioc_count": 1
   },
   {
+   "source": "RF The Record",
+   "title": "State Department says Trump raised cyber scam compound issue with Xi",
+   "link": "https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds",
+   "desc": "President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue.",
+   "image": "",
+   "date": "2026-08-06T04:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+   "link": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+   "desc": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+   "image": "",
+   "date": "2026-08-06T04:00:00+00:00"
+  },
+  {
    "source": "Socket",
    "title": "Ruby's Bundler 4.0.18 Extends Cooldown to bundle lock and bundle cache",
    "link": "https://socket.dev/blog/bundler-extends-cooldown-to-bundle-lock-and-bundle-cache?utm_medium=feed",
@@ -275,14 +451,6 @@
    "date": "2026-08-05T20:45:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
-   "link": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
-   "desc": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.",
-   "image": "",
-   "date": "2026-08-05T20:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
@@ -327,16 +495,6 @@
    "date": "2026-08-05T18:44:31+00:00",
    "iocs": "iocs/f35a2396c401.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-   "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-   "desc": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg",
-   "date": "2026-08-05T18:33:47+00:00",
-   "iocs": "iocs/55ca866b1715.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
@@ -391,34 +549,6 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-   "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-   "desc": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such servic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg",
-   "date": "2026-08-05T15:36:03+00:00",
-   "iocs": "iocs/45c69e058649.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "RF The Record",
-   "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
-   "link": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
-   "desc": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
-   "image": "",
-   "date": "2026-08-05T15:36:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-   "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-   "desc": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both pat",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg",
-   "date": "2026-08-05T15:14:05+00:00",
-   "iocs": "iocs/0edaefefe6d3.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "BleepingComputer",
    "title": "Google Blogger locks hundreds of blogs in malware false positive",
    "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
@@ -435,30 +565,12 @@
    "date": "2026-08-05T14:36:29+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-   "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-   "desc": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's con",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg",
-   "date": "2026-08-05T14:27:30+00:00",
-   "iocs": "iocs/bf12718855e8.txt",
-   "ioc_count": 14
-  },
-  {
    "source": "BleepingComputer",
    "title": "How AI-powered phishing killed blocklists for good",
    "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
    "desc": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more ",
    "image": "",
    "date": "2026-08-05T14:01:11+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-   "link": "https://therecord.media/iran-cyberattacks-water-treatment",
-   "desc": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
-   "image": "",
-   "date": "2026-08-05T14:00:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -493,34 +605,6 @@
    "date": "2026-08-04T23:39:59+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-   "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-   "desc": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
-   "image": "",
-   "date": "2026-08-04T22:18:20+00:00",
-   "iocs": "iocs/6e88043f8643.txt",
-   "ioc_count": 7
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-   "desc": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-   "image": "",
-   "date": "2026-08-04T21:45:36+00:00",
-   "iocs": "iocs/27d1686feff4.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-   "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-   "desc": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-   "image": "",
-   "date": "2026-08-04T19:03:09+00:00"
-  },
-  {
    "source": "Socket",
    "title": "AWS Security Hub Adds Socket for Supply Chain Security",
    "link": "https://socket.dev/blog/aws-security-hub-socket?utm_medium=feed",
@@ -529,40 +613,12 @@
    "date": "2026-08-04T18:56:11+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "77 Open VSX extensions found harvesting developer info",
-   "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-   "desc": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-   "image": "",
-   "date": "2026-08-04T18:50:55+00:00",
-   "iocs": "iocs/6c3ceb315bbd.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Dark Reading",
    "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
    "desc": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b501fd239cea948/6a7205c2f2df87f4451c6c0b/Playbook(1800)_Ivelin_Radkov_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-04T18:37:35+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-   "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-   "desc": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-   "image": "",
-   "date": "2026-08-04T15:24:35+00:00",
-   "iocs": "iocs/dabae787120b.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-   "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-   "desc": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardr",
-   "image": "",
-   "date": "2026-08-04T14:00:10+00:00"
   },
   {
    "source": "Unit 42",
@@ -683,36 +739,12 @@
    "date": "2026-08-03T20:42:28+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
-   "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
-   "desc": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c93a3d3405d789d/6a70e02ffbf44d4210bb1101/claude2_Samuel_Boivin_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T20:31:12+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
    "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
    "desc": "Register for an exclusive, unrecorded 30-minute webinar to review the most high-impact incidents Talos IR faced in Q2.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/2-1-no-copy.jpg",
    "date": "2026-08-03T16:00:12+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-   "desc": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T15:42:18+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Is There Really a Fix for CISO Fatigue?",
-   "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
-   "desc": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bd4cb621eab153c/6a6ce7295c6370055b106be4/burnout-Moor_Studio-_Getty-1445628897.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T14:00:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -1255,16 +1287,6 @@
    "ioc_count": 5
   },
   {
-   "source": "Cisco Talos",
-   "title": "WolfSSL, GeoVision, VTK vulnerabilities",
-   "link": "https://blog.talosintelligence.com/wolfssl-vulnerabilities/",
-   "desc": "Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed three vulnerabilities in WolfSSF, fourteen in GeoVision, and one vulnerability in VTK-DICOM.The vulnerabilities mentioned in this blog po",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/vuln_roundup.jpg",
-   "date": "2026-07-09T18:52:29+00:00",
-   "iocs": "iocs/569b8b59bbcf.txt",
-   "ioc_count": 41
-  },
-  {
    "source": "Wiz Threats",
    "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys",
@@ -1335,16 +1357,6 @@
    "desc": "Background Today, in coordination with the FBI, Lumen, and others, Google took action against the NetNut residential proxy network, also known as Popa. This action builds on our disruption of the IPIDEA proxy network tha",
    "image": "",
    "date": "2026-07-02T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
-   "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
-   "desc": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. The post Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector ap",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_799983387-1-1-scaled.jpg",
-   "date": "2026-07-01T01:00:11+00:00",
-   "iocs": "iocs/991a4d0a2130.txt",
-   "ioc_count": 19
   },
   {
    "source": "Google GTIG",
@@ -1469,16 +1481,6 @@
    "date": "2026-06-10T14:03:44+00:00"
   },
   {
-   "source": "Krebs on Security",
-   "title": "A Record-Breaking Patch Tuesday for June 2026",
-   "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-   "desc": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly thre",
-   "image": "",
-   "date": "2026-06-09T22:07:28+00:00",
-   "iocs": "iocs/ea6cfaf1ee3a.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Google GTIG",
    "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
@@ -1505,16 +1507,6 @@
    "desc": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/phaas-fig1.max-1000x1000.png",
    "date": "2026-05-25T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/",
-   "desc": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/blackfile-fig5.max-1000x1000.png",
-   "date": "2026-05-15T14:00:00+00:00",
-   "iocs": "iocs/6257462df173.txt",
-   "ioc_count": 9
   }
  ]
 }
