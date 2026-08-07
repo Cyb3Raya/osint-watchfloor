@@ -1,0 +1,11 @@
+IOC EXTRACTION - TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign
+Source: https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html
+Extracted: 2026-08-07 08:16:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

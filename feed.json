@@ -1,9 +1,45 @@
 {
- "generated": "2026-08-07T06:51:38.234588+00:00",
+ "generated": "2026-08-07T08:16:51.492851+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
+   "link": "https://isc.sans.edu/diary/rss/33226",
+   "desc": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historizatio",
+   "image": "",
+   "date": "2026-08-07T07:22:28+00:00",
+   "iocs": "iocs/1d8978e624b3.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
+   "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+   "desc": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-07T07:22:05+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
+   "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+   "desc": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-07T06:56:56+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+   "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+   "desc": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years befor",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg",
+   "date": "2026-08-07T06:50:05+00:00",
+   "iocs": "iocs/78779d6a9c8b.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
@@ -118,7 +154,7 @@
   },
   {
    "source": "The Hacker News",
-   "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+   "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
    "desc": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catal",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
@@ -477,32 +513,12 @@
    "date": "2026-08-05T19:47:55+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
-   "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
-   "desc": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on SecurityW",
-   "image": "",
-   "date": "2026-08-05T19:40:00+00:00",
-   "iocs": "iocs/e94e279c33e6.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
    "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
    "desc": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-05T19:08:36+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-   "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-   "desc": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had b",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg",
-   "date": "2026-08-05T18:44:31+00:00",
-   "iocs": "iocs/f35a2396c401.txt",
-   "ioc_count": 2
   },
   {
    "source": "Socket",
@@ -563,14 +579,6 @@
    "desc": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
    "image": "",
    "date": "2026-08-05T14:59:29+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
-   "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
-   "desc": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 3) appeared first on S",
-   "image": "",
-   "date": "2026-08-05T14:36:29+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -779,14 +787,6 @@
    "date": "2026-08-02T04:05:08+00:00",
    "iocs": "iocs/362667c7dbb7.txt",
    "ioc_count": 27
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33206",
-   "desc": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on ",
-   "image": "",
-   "date": "2026-08-01T07:22:32+00:00"
   },
   {
    "source": "Socket",

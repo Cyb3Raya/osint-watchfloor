@@ -1,0 +1,17 @@
+IOC EXTRACTION - Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)
+Source: https://isc.sans.edu/diary/rss/33226
+Extracted: 2026-08-07 08:16:40 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://docs[.]rs/regex/latest/regex/#syntax
+
+MD5 (3)
+----------------------------------------
+019fd2ba42c7779284d508825c4b2bd4
+019fd2bc13b174c094100175e489ade5
+019fd2bc264c799196071edfbfe9d452
