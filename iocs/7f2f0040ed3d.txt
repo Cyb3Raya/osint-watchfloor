@@ -1,0 +1,24 @@
+IOC EXTRACTION - Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer
+Source: https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
+Extracted: 2026-08-07 19:24:49 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (10)
+----------------------------------------
+cloudpayments[.]ru
+ext[.]dl[.]wel1[.]ru
+net[.]dl[.]wel1[.]ru
+oob-worker[.]cf102-baf[.]workers[.]dev
+oob-worker[.]cf103-070[.]workers[.]dev
+oob-worker[.]cf99-9b3[.]workers[.]dev
+pkg[.]dl[.]wel1[.]ru
+sdk[.]dl[.]wel1[.]ru
+tcsbank[.]ru
+wel1[.]ru

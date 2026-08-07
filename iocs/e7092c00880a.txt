@@ -1,0 +1,11 @@
+IOC EXTRACTION - ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets
+Source: https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html
+Extracted: 2026-08-07 19:24:50 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

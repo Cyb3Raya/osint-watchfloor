@@ -1,0 +1,17 @@
+IOC EXTRACTION - UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data
+Source: https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
+Extracted: 2026-08-07 19:24:52 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522
+
+Domains (3)
+----------------------------------------
+idokta[.]com
+passkeyhelpdesk[.]com
+setupsso[.]com

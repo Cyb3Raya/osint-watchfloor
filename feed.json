@@ -1,24 +1,40 @@
 {
- "generated": "2026-08-07T18:06:38.815948+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-07T19:25:04.054324+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
   {
-   "source": "RF The Record",
-   "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
-   "link": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
-   "desc": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
-   "image": "",
-   "date": "2026-08-07T16:58:00+00:00"
+   "source": "The Hacker News",
+   "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+   "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+   "desc": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg",
+   "date": "2026-08-07T18:48:17+00:00",
+   "iocs": "iocs/7f2f0040ed3d.txt",
+   "ioc_count": 11
   },
   {
-   "source": "RF The Record",
-   "title": "Military device manufacturer discloses cyber incident to SEC",
-   "link": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
-   "desc": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
-   "image": "",
-   "date": "2026-08-07T16:52:00+00:00"
+   "source": "The Hacker News",
+   "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+   "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+   "desc": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg",
+   "date": "2026-08-07T18:29:08+00:00",
+   "iocs": "iocs/e7092c00880a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+   "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+   "desc": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
+   "date": "2026-08-07T18:16:13+00:00",
+   "iocs": "iocs/37859bd4cd5d.txt",
+   "ioc_count": 4
   },
   {
    "source": "Dark Reading",
@@ -37,14 +53,6 @@
    "date": "2026-08-07T15:48:20+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
-   "link": "https://therecord.media/irregular-ai-security-company-incidents",
-   "desc": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
-   "image": "",
-   "date": "2026-08-07T15:00:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
    "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
@@ -59,14 +67,6 @@
    "desc": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocu",
    "image": "",
    "date": "2026-08-07T14:00:10+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Levi Strauss says hackers breached employee computers, accessed corporate data",
-   "link": "https://therecord.media/levis-data-breach-social-engineering",
-   "desc": "Intruders exfiltrated certain corporate information after gaining access to three company-issued computers through a social engineering attack, Levi Strauss reported.",
-   "image": "",
-   "date": "2026-08-07T13:35:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -85,14 +85,6 @@
    "date": "2026-08-07T12:56:23+00:00",
    "iocs": "iocs/38709a9cedbf.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "RF The Record",
-   "title": "French rugby club Stade Français restores systems after cyberattack, probes data leak",
-   "link": "https://therecord.media/french-rugby-club-restores-systems-after-cyberattack",
-   "desc": "The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain full",
-   "image": "",
-   "date": "2026-08-07T12:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -387,16 +379,6 @@
    "date": "2026-08-06T16:11:39+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-   "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-   "desc": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg",
-   "date": "2026-08-06T15:24:31+00:00",
-   "iocs": "iocs/8347f09debcf.txt",
-   "ioc_count": 9
-  },
-  {
    "source": "SecurityWeek",
    "title": "Snowflake Hacker Pleads Guilty in US Court",
    "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
@@ -431,32 +413,12 @@
    "date": "2026-08-06T12:54:09+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-   "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-   "desc": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan co",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg",
-   "date": "2026-08-06T12:16:58+00:00",
-   "iocs": "iocs/5ebab680430f.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SecurityWeek",
    "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
    "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
    "desc": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. The post Podcast: Compliance Won’t Save You: Th",
    "image": "",
    "date": "2026-08-06T12:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-   "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-   "desc": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg",
-   "date": "2026-08-06T11:49:48+00:00",
-   "iocs": "iocs/4f4e67e509ed.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
