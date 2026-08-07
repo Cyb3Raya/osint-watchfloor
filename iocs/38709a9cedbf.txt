@@ -1,0 +1,12 @@
+IOC EXTRACTION - New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP
+Source: https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html
+Extracted: 2026-08-07 13:57:12 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-64638
