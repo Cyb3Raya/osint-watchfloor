@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-07T15:02:21.082514+00:00",
+ "generated": "2026-08-07T16:12:13.769712+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+   "desc": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+   "image": "",
+   "date": "2026-08-07T15:48:20+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
+   "link": "https://therecord.media/irregular-ai-security-company-incidents",
+   "desc": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
+   "image": "",
+   "date": "2026-08-07T15:00:00+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
@@ -242,6 +258,14 @@
   },
   {
    "source": "Dark Reading",
+   "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
+   "desc": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e864537fec413db/6a74f1f43413ca898c4c0341/Jailbreak-tiero-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-06T20:39:30+00:00"
+  },
+  {
+   "source": "Dark Reading",
    "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
    "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
    "desc": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
@@ -437,14 +461,6 @@
    "ioc_count": 17
   },
   {
-   "source": "RF The Record",
-   "title": "State Department says Trump raised cyber scam compound issue with Xi",
-   "link": "https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds",
-   "desc": "President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue.",
-   "image": "",
-   "date": "2026-08-06T04:00:00+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Ruby's Bundler 4.0.18 Extends Cooldown to bundle lock and bundle cache",
    "link": "https://socket.dev/blog/bundler-extends-cooldown-to-bundle-lock-and-bundle-cache?utm_medium=feed",
@@ -587,14 +603,6 @@
    "date": "2026-08-05T15:51:33+00:00",
    "iocs": "iocs/4dcce587c04d.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Google Blogger locks hundreds of blogs in malware false positive",
-   "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-   "desc": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-   "image": "",
-   "date": "2026-08-05T14:59:29+00:00"
   },
   {
    "source": "Dark Reading",
@@ -745,14 +753,6 @@
    "date": "2026-08-03T21:21:11+00:00",
    "iocs": "iocs/f765a9e7adb0.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "New Tool Traces AI Videos Back to Their Source",
-   "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
-   "desc": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9546018118863fd/6a70ff2fbe6c657faa5a6e3b/GettyImages-1136317674.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T20:42:28+00:00"
   },
   {
    "source": "Cisco Talos",
