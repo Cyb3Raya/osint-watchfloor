@@ -1,0 +1,11 @@
+IOC EXTRACTION - Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access
+Source: https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html
+Extracted: 2026-08-07 10:31:40 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50522

@@ -1,0 +1,13 @@
+IOC EXTRACTION - Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets
+Source: https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html
+Extracted: 2026-08-07 10:31:41 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-12537
+CVE-2026-50522
+CVE-2026-54316

@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-07T09:27:38.395488+00:00",
+ "generated": "2026-08-07T10:31:49.030855+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
+   "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
+   "desc": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities. The post Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix appeared ",
+   "image": "",
+   "date": "2026-08-07T10:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+   "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+   "desc": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose m",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg",
+   "date": "2026-08-07T09:32:57+00:00",
+   "iocs": "iocs/db7fd783f4de.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SecurityWeek",
    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
@@ -23,6 +41,26 @@
    "date": "2026-08-07T09:09:54+00:00",
    "iocs": "iocs/2280a505042b.txt",
    "ioc_count": 8
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+   "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+   "desc": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg",
+   "date": "2026-08-07T08:52:11+00:00",
+   "iocs": "iocs/2749aa1817e2.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+   "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+   "desc": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg",
+   "date": "2026-08-07T08:18:35+00:00",
+   "iocs": "iocs/8eab464cc4e6.txt",
+   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -337,14 +375,6 @@
    "date": "2026-08-06T09:56:26+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
-   "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
-   "desc": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution. The post Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-06T09:30:30+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
    "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
@@ -373,36 +403,6 @@
    "date": "2026-08-06T08:05:22+00:00",
    "iocs": "iocs/869ad889d892.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-   "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-   "desc": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 202",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg",
-   "date": "2026-08-06T07:19:54+00:00",
-   "iocs": "iocs/ee969749e0fc.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-   "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-   "desc": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnera",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg",
-   "date": "2026-08-06T06:51:43+00:00",
-   "iocs": "iocs/0024bf7a69c1.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-   "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-   "desc": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrus",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg",
-   "date": "2026-08-06T06:04:30+00:00",
-   "iocs": "iocs/b41d695ada77.txt",
-   "ioc_count": 1
   },
   {
    "source": "RF The Record",

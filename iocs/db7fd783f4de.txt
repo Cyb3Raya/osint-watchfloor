@@ -1,0 +1,13 @@
+IOC EXTRACTION - New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables
+Source: https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html
+Extracted: 2026-08-07 10:31:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-56181
+CVE-2026-63913
