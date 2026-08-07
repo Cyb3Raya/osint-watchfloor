@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-07T16:12:13.769712+00:00",
+ "generated": "2026-08-07T17:12:26.550003+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
+   "link": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
+   "desc": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
+   "image": "",
+   "date": "2026-08-07T16:58:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Military device manufacturer discloses cyber incident to SEC",
+   "link": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
+   "desc": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
+   "image": "",
+   "date": "2026-08-07T16:52:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI-Generated Patches Fail Half the Time",
+   "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
+   "desc": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51cfa43c126c431d/6a75005453cbbc62a56894c9/patches-in-denim-nnattalli-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-07T16:47:43+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
@@ -327,14 +351,6 @@
    "ioc_count": 4
   },
   {
-   "source": "RF The Record",
-   "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
-   "link": "https://therecord.media/cyberattack-north-carolina-ports",
-   "desc": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
-   "image": "",
-   "date": "2026-08-06T17:15:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
@@ -405,14 +421,6 @@
    "date": "2026-08-06T14:00:00+00:00",
    "iocs": "iocs/7b5a120ec555.txt",
    "ioc_count": 76
-  },
-  {
-   "source": "RF The Record",
-   "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
-   "link": "https://therecord.media/belarus-hacker-ransomware-sentenced",
-   "desc": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
-   "image": "",
-   "date": "2026-08-06T13:15:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -743,16 +751,6 @@
    "desc": "Multiple npm packages in the keyv/cacheable ecosystem were compromised following the compromise of a GitHub maintainer account, resulting in the publication of malicious package versions. All versions shared a consistent",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-08-04T00:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
-   "desc": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-03T21:21:11+00:00",
-   "iocs": "iocs/f765a9e7adb0.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",
