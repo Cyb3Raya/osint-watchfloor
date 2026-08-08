@@ -1,0 +1,26 @@
+IOC EXTRACTION - N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist
+Source: https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html
+Extracted: 2026-08-08 08:19:42 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-18556
+CVE-2026-18577
+CVE-2026-50522
+
+IPv4 (10)
+----------------------------------------
+173[.]249[.]252[.]176
+173[.]249[.]252[.]200
+185[.]156[.]46[.]150
+23[.]234[.]94[.]43
+37[.]153[.]90[.]88
+37[.]19[.]210[.]32
+68[.]235[.]46[.]214
+68[.]235[.]46[.]235
+87[.]249[.]138[.]34
+92[.]118[.]112[.]181

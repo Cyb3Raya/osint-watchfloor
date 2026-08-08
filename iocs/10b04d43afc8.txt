@@ -1,0 +1,18 @@
+IOC EXTRACTION - Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts
+Source: https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html
+Extracted: 2026-08-08 08:19:43 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50522
+CVE-2026-8037
+
+IPv4 (3)
+----------------------------------------
+146[.]70[.]139[.]154
+192[.]42[.]116[.]105
+192[.]42[.]116[.]58
