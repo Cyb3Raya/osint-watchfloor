@@ -1,10 +1,8 @@
 {
- "generated": "2026-08-08T13:06:34.697849+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-08T14:01:29.656174+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "IC3 PSA"
- ],
+ "failed": [],
  "items": [
   {
    "source": "SecurityWeek",
@@ -693,6 +691,14 @@
    "date": "2026-08-04T13:00:00+00:00"
   },
   {
+   "source": "IC3 PSA",
+   "title": "Ongoing Threats of Swatting and Indicators for Community Members",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260804",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-04T13:00:00+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "Almost Half of Malware Samples Communicate Direct to IP",
    "link": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
@@ -859,6 +865,14 @@
    "desc": "Microsoft Threat Intelligence identified CaptiveCrunch, an ongoing cyberespionage campaign conducted by Storm-2945, a subgroup of the Russian state-sponsored actor Midnight Blizzard. The campaign compromises hospitality-",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-31T00:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Malicious Cyber Actors Targeting Water and Wastewater Sector Internet Facing Programmable Logic Controllers, Causing Operational Disruptions",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260730.pdf",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-30T23:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1075,6 +1089,14 @@
    "date": "2026-07-22T00:00:00+00:00",
    "iocs": "iocs/504ab9d2c02e.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "FBI Warns of Scammers Impersonating the IC3",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260720",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-20T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",
@@ -1337,6 +1359,14 @@
    "date": "2026-06-29T14:00:00+00:00"
   },
   {
+   "source": "IC3 PSA",
+   "title": "Russian Intelligence Services Continue to Target Commercial Messaging Applications",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260626",
+   "desc": "",
+   "image": "",
+   "date": "2026-06-26T16:30:00+00:00"
+  },
+  {
    "source": "Google GTIG",
    "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
@@ -1381,6 +1411,14 @@
    "date": "2026-06-18T17:37:58+00:00",
    "iocs": "iocs/7c4f2c9bb4d9.txt",
    "ioc_count": 4
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Cyber Criminals Redirecting Users to Fraudulent Websites with Malicious Traffic Distribution Systems",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260618",
+   "desc": "",
+   "image": "",
+   "date": "2026-06-18T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",
