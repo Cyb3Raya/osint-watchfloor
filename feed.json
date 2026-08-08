@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-08T10:42:01.524371+00:00",
+ "generated": "2026-08-08T11:31:29.281630+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
+   "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+   "desc": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterp",
+   "image": "",
+   "date": "2026-08-08T11:30:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
@@ -489,14 +497,6 @@
    "desc": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appea",
    "image": "",
    "date": "2026-08-06T12:54:09+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
-   "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
-   "desc": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. The post Podcast: Compliance Won’t Save You: Th",
-   "image": "",
-   "date": "2026-08-06T12:00:00+00:00"
   },
   {
    "source": "Unit 42",
