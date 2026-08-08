@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T23:36:18.264458+00:00",
+ "generated": "2026-08-08T00:04:48.976828+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -365,6 +365,14 @@
    "desc": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
    "image": "",
    "date": "2026-08-06T20:07:24+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "What is AI harness engineering?",
+   "link": "https://www.aikido.dev/blog/what-is-ai-harness-engineering",
+   "desc": "Harness engineering is the code around an AI model that turns it into an agent. What a harness does, why it beats picking a model, and how to build one. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a74ea32af8af93ae4a6ebd1_What-is-a-harness_feature.jpg",
+   "date": "2026-08-06T19:26:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1081,14 +1089,6 @@
    "date": "2026-07-22T00:00:00+00:00",
    "iocs": "iocs/504ab9d2c02e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "Tyro's CISO: Being the \"Einstein of cybersecurity\" isn't enough if developers don't trust you",
-   "link": "https://www.aikido.dev/blog/security-controls-developer-trust",
-   "desc": "Tyro CISO Arun Singh on developer trust as a finite resource, and what happens when supply chain attacks force teams to spend it Category: Guides & Best Practices",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5fdbe6641692896ea262fb_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-07-21T19:50:00+00:00"
   },
   {
    "source": "IC3 PSA",
