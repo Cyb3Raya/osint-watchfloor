@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers breach TrueConf to trojanize client installers with backdoors
+Source: https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/
+Extracted: 2026-08-08 14:53:13 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-3502

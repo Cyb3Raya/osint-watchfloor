@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-08T14:01:29.656174+00:00",
+ "generated": "2026-08-08T14:53:21.570727+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+   "desc": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+   "image": "",
+   "date": "2026-08-08T14:16:23+00:00",
+   "iocs": "iocs/efca8e4dba84.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
@@ -573,16 +583,6 @@
    "desc": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. ",
    "image": "",
    "date": "2026-08-05T21:53:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-   "desc": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
-   "image": "",
-   "date": "2026-08-05T19:55:25+00:00",
-   "iocs": "iocs/167589835478.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
