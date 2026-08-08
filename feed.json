@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-08T09:07:13.060772+00:00",
+ "generated": "2026-08-08T09:57:42.841831+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+   "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+   "desc": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independent",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg",
+   "date": "2026-08-08T08:54:50+00:00",
+   "iocs": "iocs/ab2cf02445d4.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+   "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+   "desc": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the tech",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg",
+   "date": "2026-08-08T08:03:57+00:00",
+   "iocs": "iocs/92a77f3ffeab.txt",
+   "ioc_count": 1
+  },
   {
    "source": "The Hacker News",
    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
@@ -173,7 +193,7 @@
    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
    "desc": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAXYZlxtz4bLTF4gNuVpVMMykRZpDR7IKjIFSR7jhL6CBKSsE1PZ7aIRpSGE57XGGb69NbrYV7wMJLjsRG_lP4SJzyvNZ0nUj9SHArph87e8bWBHKUsOGy1-9rymiMesSAcvUFrPP2Xrf_EuUXiOmKJC2MeBYFRcXmgxKhAv5UBcRzV0ku-_DLEONVLQuV/s1600/word.jpg",
    "date": "2026-08-07T12:56:23+00:00",
    "iocs": "iocs/38709a9cedbf.txt",
    "ioc_count": 2
@@ -277,16 +297,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-   "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-   "desc": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg",
-   "date": "2026-08-07T08:18:35+00:00",
-   "iocs": "iocs/8eab464cc4e6.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "SANS ISC",
    "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
    "link": "https://isc.sans.edu/diary/rss/33226",
@@ -311,16 +321,6 @@
    "desc": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-07T06:56:56+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-   "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-   "desc": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years befor",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg",
-   "date": "2026-08-07T06:50:05+00:00",
-   "iocs": "iocs/78779d6a9c8b.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
