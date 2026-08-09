@@ -1,8 +1,10 @@
 {
- "generated": "2026-08-09T10:56:27.469083+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-09T11:35:33.002805+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "Google GTIG"
+ ],
  "items": [
   {
    "source": "BleepingComputer",
@@ -491,16 +493,6 @@
    "date": "2026-08-06T14:02:12+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
-   "desc": "Written by: Tyler McLellan, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) continues to track UNC6671 actively conducting compromises leading to data theft extortion, despite the alleged announced ret",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_j8OyMFx.max-1000x1000.png",
-   "date": "2026-08-06T14:00:00+00:00",
-   "iocs": "iocs/7b5a120ec555.txt",
-   "ioc_count": 76
-  },
-  {
    "source": "SecurityWeek",
    "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
    "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
@@ -895,14 +887,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Google GTIG",
-   "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
-   "desc": "Written by: Kelli Vanderlee, Stuart Carrera For years, the cybersecurity industry's understanding of software supply chain compromise has been anchored by a few watershed events, including Russian cyber espionage actor I",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/BattenDownYourPackages_1.max-1000x1000.png",
-   "date": "2026-07-30T14:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
    "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
@@ -979,14 +963,6 @@
    "desc": "Compare the top LLM security tools for AI applications, including Aikido, Snyk, Semgrep, Endor Labs, and Wiz, across code, supply chain, and runtime. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-07-24T18:41:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Updated Cyber Threat Actor Naming System",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
-   "desc": "Update (July 30): A table listing the new names of select prominent threat actors was appended to this post. Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for ",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
-   "date": "2026-07-24T14:00:00+00:00"
   },
   {
    "source": "Aikido",
@@ -1145,14 +1121,6 @@
    "ioc_count": 4
   },
   {
-   "source": "Google GTIG",
-   "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-   "desc": "Written by: Jules Czarniak Introduction As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week before a patch even e",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Demystifying_AI_image1.max-1000x1000.png",
-   "date": "2026-07-16T14:00:00+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "The Hunter's Paradox: Is it time to embrace automated threat hunting?",
    "link": "https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/",
@@ -1189,16 +1157,6 @@
    "date": "2026-07-15T23:00:33+00:00",
    "iocs": "iocs/bbb6da0dea02.txt",
    "ioc_count": 41
-  },
-  {
-   "source": "Google GTIG",
-   "title": "The Risk of Exposed Cloud Functions and How to Harden",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
-   "desc": "Written by: Corné de Jong Introduction Mandiant security assessments frequently identify publicly exposed serverless applications that lack authentication, often as a result of specific business requirements. Serverless ",
-   "image": "",
-   "date": "2026-07-15T14:00:00+00:00",
-   "iocs": "iocs/e9ca52746d18.txt",
-   "ioc_count": 4
   },
   {
    "source": "Unit 42",
@@ -1325,14 +1283,6 @@
    "ioc_count": 113
   },
   {
-   "source": "Google GTIG",
-   "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
-   "desc": "Written by: Shebin Mathew Introduction The \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for thr",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ghost-database-fig1.max-1000x1000.png",
-   "date": "2026-07-07T14:00:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -1343,22 +1293,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Google GTIG",
-   "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
-   "desc": "Background Today, in coordination with the FBI, Lumen, and others, Google took action against the NetNut residential proxy network, also known as Popa. This action builds on our disruption of the IPIDEA proxy network tha",
-   "image": "",
-   "date": "2026-07-02T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/",
-   "desc": "Written by: James Sadowski, Alden Wahlstrom Introduction Four years into Russia’s full-scale invasion of Ukraine, the pro-Russia influence ecosystem has evolved from a tool of war back into a global strategic asset. Sinc",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/russia-io-fig1.max-1000x1000.png",
-   "date": "2026-06-29T14:00:00+00:00"
-  },
-  {
    "source": "IC3 PSA",
    "title": "Russian Intelligence Services Continue to Target Commercial Messaging Applications",
    "link": "https://www.ic3.gov/PSA/2026/PSA260626",
@@ -1367,32 +1301,12 @@
    "date": "2026-06-26T16:30:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/",
-   "desc": "Written by: Jordan Jones Introduction Google Threat Intelligence Group (GTIG) has conducted an in-depth analysis of a .NET backdoor, tracked as STOCKSTAY, that has been continually developed and deployed by the Russia-li",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/stockstay-fig1.max-1000x1000.png",
-   "date": "2026-06-25T14:00:00+00:00",
-   "iocs": "iocs/97310fabbf13.txt",
-   "ioc_count": 58
-  },
-  {
    "source": "Wiz Threats",
    "title": "Cryptojacking Campaign Targeting K8s Clusters (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targeting-k8s-clusters",
    "desc": "Researchers identified a campaign leveraging the Realm C2 framework that has compromised thousands of Linux hosts between June 13-23, 2026, with a primary focus on a large managed Kubernetes clusters. The attackers explo",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-06-25T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
-   "desc": "Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan, Lukasz Lamparski Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial",
-   "image": "",
-   "date": "2026-06-24T11:00:00+00:00",
-   "iocs": "iocs/d2fd2edad7ca.txt",
-   "ioc_count": 12
   },
   {
    "source": "Krebs on Security",
@@ -1445,60 +1359,12 @@
    "date": "2026-06-16T00:00:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
-   "desc": "Written by: Patrick Whitsell, John McGuiness, Muhammad Umair Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, t",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/inifinitered-fig1.max-1000x1000.png",
-   "date": "2026-06-15T14:00:00+00:00",
-   "iocs": "iocs/eb358928c590.txt",
-   "ioc_count": 8
-  },
-  {
-   "source": "Google GTIG",
-   "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
-   "desc": "Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified an active compromise and extortion campaign attributed to UNC6240 (ShinyHunters) targeting Oracle PeopleSoft application infrastructure. T",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/peoplesoft-shinyhunters.max-1000x1000.png",
-   "date": "2026-06-11T14:00:00+00:00",
-   "iocs": "iocs/2ba6a2a91f63.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "Krebs on Security",
    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
    "desc": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affi",
    "image": "",
    "date": "2026-06-10T14:03:44+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
-   "desc": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threa",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/seeking-counsel-fig1.max-1000x1000.png",
-   "date": "2026-06-05T14:00:00+00:00",
-   "iocs": "iocs/aa977c30763e.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
-   "desc": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learn",
-   "image": "",
-   "date": "2026-05-25T14:00:00+00:00",
-   "iocs": "iocs/90d790d6335d.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "Google GTIG",
-   "title": "2 PhaaS 2 Furious: The Evolution of Chinese-Language Phishing Services",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
-   "desc": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/phaas-fig1.max-1000x1000.png",
-   "date": "2026-05-25T14:00:00+00:00"
   }
  ]
 }
