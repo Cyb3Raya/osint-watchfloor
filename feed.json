@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T14:57:05.792701+00:00",
+ "generated": "2026-08-09T15:39:16.164715+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -355,6 +355,14 @@
    "desc": "",
    "image": "",
    "date": "2026-08-07T02:00:02+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "Payroll Pirates Phishing Campaign Targets Microsoft 365 Financial Workflows (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/payroll-pirates-phishing-campaign-targets-microsoft-365-financial-workflows",
+   "desc": "The attack begins with phishing emails impersonating voicemail notifications that direct victims through a multi-stage redirect chain abusing legitimate services, including Google Meet, Google Ads infrastructure, and Ama",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-08-07T00:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -1435,14 +1443,6 @@
    "desc": "On 17 June 2026, attackers compromised a maintainer account associated with the Mastra npm organization and used it to republish 116 packages over a 27-minute period. Rather than modifying Mastra’s source code directly, ",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-06-17T00:00:00+00:00"
-  },
-  {
-   "source": "Wiz Threats",
-   "title": "FortiBleed: Credential Compromise Campaign Targeting Fortinet Devices (Campaign)",
-   "link": "https://threats.wiz.io/all-incidents/fortibleed-credential-compromise-campaign-targeting-fortinet-devices",
-   "desc": "According to the research, the threat actor operates an automated infrastructure that scans the internet for Fortinet devices and attempts authentication using a curated set of previously leaked or compromised credential",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-06-16T00:00:00+00:00"
   },
   {
    "source": "Google GTIG",
