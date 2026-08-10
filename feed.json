@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-10T18:31:25.756310+00:00",
+ "generated": "2026-08-10T19:40:31.048528+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
+   "link": "https://therecord.media/ransomware-south-korea-fbi-gunra",
+   "desc": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.",
+   "image": "",
+   "date": "2026-08-10T19:30:00+00:00",
+   "iocs": "iocs/318e8811c831.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+   "desc": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+   "image": "",
+   "date": "2026-08-10T19:24:40+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
@@ -177,16 +195,6 @@
    "desc": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting doc",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg",
    "date": "2026-08-10T13:19:58+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
-   "link": "https://therecord.media/china-hackers-ransomware-microsoft",
-   "desc": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
-   "image": "",
-   "date": "2026-08-10T13:15:00+00:00",
-   "iocs": "iocs/753c34fb35be.txt",
-   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -501,14 +509,6 @@
    "desc": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
    "image": "",
    "date": "2026-08-06T22:48:22+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-   "desc": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
-   "image": "",
-   "date": "2026-08-06T22:37:17+00:00"
   },
   {
    "source": "Unit 42",

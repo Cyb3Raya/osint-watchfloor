@@ -1,0 +1,12 @@
+IOC EXTRACTION - FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure
+Source: https://therecord.media/ransomware-south-korea-fbi-gunra
+Extracted: 2026-08-10 19:40:28 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2024-55591
+CVE-2025-24472
