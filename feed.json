@@ -1,9 +1,59 @@
 {
- "generated": "2026-08-10T11:49:54.884507+00:00",
+ "generated": "2026-08-10T13:15:20.904400+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+   "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+   "desc": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post &#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad appeare",
+   "image": "",
+   "date": "2026-08-10T12:59:34+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Member of The Com sent to prison for blackmail, sextortion",
+   "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+   "desc": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. ",
+   "image": "",
+   "date": "2026-08-10T12:56:28+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
+   "link": "https://therecord.media/new-zealand-russian-hackers-sanctions",
+   "desc": "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
+   "image": "",
+   "date": "2026-08-10T12:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+   "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+   "desc": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attac",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s1600/passkeys.jpg",
+   "date": "2026-08-10T12:25:04+00:00",
+   "iocs": "iocs/cdcb04f053b5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "LexisNexis shuts down services after suspicious activity on servers",
+   "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+   "desc": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+   "image": "",
+   "date": "2026-08-10T12:11:52+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+   "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+   "desc": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg",
+   "date": "2026-08-10T11:52:16+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Valve notifies Steam hardware customers of a data breach",
@@ -19,6 +69,16 @@
    "desc": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-10T11:44:26+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+   "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+   "desc": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, I",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg",
+   "date": "2026-08-10T11:33:41+00:00",
+   "iocs": "iocs/8cd19c7c9cd4.txt",
+   "ioc_count": 3
   },
   {
    "source": "SecurityWeek",
@@ -267,14 +327,6 @@
    "date": "2026-08-07T15:48:20+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
-   "link": "https://therecord.media/irregular-ai-security-company-incidents",
-   "desc": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
-   "image": "",
-   "date": "2026-08-07T15:00:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
    "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
@@ -319,16 +371,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-   "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-   "desc": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 200",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg",
-   "date": "2026-08-07T11:10:33+00:00",
-   "iocs": "iocs/897a98755e75.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SecurityWeek",
    "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
    "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
@@ -337,34 +379,6 @@
    "date": "2026-08-07T11:06:01+00:00",
    "iocs": "iocs/7c6beb5d2ba8.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-   "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-   "desc": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose m",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg",
-   "date": "2026-08-07T10:58:38+00:00",
-   "iocs": "iocs/db7fd783f4de.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-   "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-   "desc": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to ide",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg",
-   "date": "2026-08-07T10:38:27+00:00",
-   "iocs": "iocs/e7fa1f5e0b02.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
-   "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
-   "desc": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities. The post Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix appeared ",
-   "image": "",
-   "date": "2026-08-07T10:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -509,22 +523,6 @@
    "desc": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the",
    "image": "",
    "date": "2026-08-06T17:00:56+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Meta AI model hacked a company during misconfigured cyber test",
-   "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-   "desc": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that ",
-   "image": "",
-   "date": "2026-08-06T16:11:39+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-   "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-   "desc": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI",
-   "image": "",
-   "date": "2026-08-06T14:02:12+00:00"
   },
   {
    "source": "Google GTIG",

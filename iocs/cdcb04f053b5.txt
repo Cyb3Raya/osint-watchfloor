@@ -1,0 +1,11 @@
+IOC EXTRACTION - New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA
+Source: https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html
+Extracted: 2026-08-10 13:15:05 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-34348

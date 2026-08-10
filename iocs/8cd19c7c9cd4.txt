@@ -1,0 +1,16 @@
+IOC EXTRACTION - TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore
+Source: https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html
+Extracted: 2026-08-10 13:15:07 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-3502
+
+Domains (2)
+----------------------------------------
+mirrors[.]ustc[.]edu[.]cn
+sina[.]com
