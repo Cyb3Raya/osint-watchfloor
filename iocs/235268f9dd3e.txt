@@ -1,0 +1,52 @@
+IOC EXTRACTION - The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
+Source: https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
+Extracted: 2026-08-10 22:18:10 UTC
+Total indicators: 33
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+193[.]221[.]200[.]219
+
+Domains (3)
+----------------------------------------
+download[.]sftp-api-group-wechat[.]com
+update-launcher[.]xyz
+update[.]constant-path[.]xyz
+
+URLs (23)
+----------------------------------------
+hxxp://sekirolegion[.]duckdns[.]org/api/endpoint[.]php
+hxxps://api[.]noderpc[.]xyz/rpc-polygon-pos/public
+hxxps://api[.]zan[.]top/polygon-amoy
+hxxps://cdnjsdelivr[.]beer/
+hxxps://endpoints[.]omniatech[.]io/v1/polygon-zkevm/testnet/public
+hxxps://gateway[.]tenderly[.]co/public/polygon
+hxxps://gateway[.]tenderly[.]co/public/polygon-mumbai
+hxxps://polygon-amoy[.]gateway[.]tenderly[.]co
+hxxps://polygon-amoy[.]therpc[.]io
+hxxps://polygon-mainnet[.]g[.]alchemy[.]com/v2/demo
+hxxps://polygon-mumbai-bor-rpc[.]publicnode[.]com
+hxxps://polygon-mumbai[.]g[.]alchemy[.]com/v2/demo
+hxxps://polygon-mumbai[.]gateway[.]tenderly[.]co
+hxxps://polygon-pokt[.]nodies[.]app/
+hxxps://polygon-zkevm-mainnet[.]public[.]blastapi[.]io
+hxxps://polygon-zkevm[.]drpc[.]org
+hxxps://polygon[.]rpc[.]hypersync[.]xyz/
+hxxps://polygontestapi[.]terminet[.]io/rpc
+hxxps://public[.]stackup[.]sh/api/v1/node/polygon-mainnet
+hxxps://public[.]stackup[.]sh/api/v1/node/polygon-mumbai
+hxxps://rpc[.]polygon-zkevm[.]gateway[.]fm
+hxxps://rpc[.]polygonsupernet[.]public[.]arianee[.]net
+hxxps://rpc[.]poolz[.]finance/polygon
+
+SHA256 (6)
+----------------------------------------
+1505eda3da68e2ff9919b55a31018bd30a991236f041aee835f3bc4e430ce505
+4e24bbd0fabac6c3efcec943046afbfd332b2c0108a13becfda23a0e26f9ff5f
+5bfb25b8255b61e5ffdf6804451534bcfa9f1dfd225e6c8cdcefb5f50d846898
+81bb80d9c5a97dc41b65f6248c131963c91346eb4fb672836b3d53ae67564d9f
+ea1b6ff3a0c1a749b9f09d66789973321d63d8896b48f7345193bdad512950a2
+f2a326cff405299e4ebdfaac955c52fc7e496544eaa0921ecad4816cb3ae3a27

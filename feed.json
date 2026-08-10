@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-10T21:24:48.431904+00:00",
+ "generated": "2026-08-10T22:18:15.073549+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
+   "link": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
+   "desc": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution. The post The Permanent Threat: Analyzing Aeternum’s Blockchain-Bas",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/04_Malware_Category_1920x900-4.jpg",
+   "date": "2026-08-10T22:00:02+00:00",
+   "iocs": "iocs/235268f9dd3e.txt",
+   "ioc_count": 33
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
+   "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
+   "desc": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-10T21:54:22+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Multistate Water System Attacks Widen, Iran Suspected",
+   "link": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
+   "desc": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-10T21:34:38+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
@@ -655,22 +681,6 @@
    "desc": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7e0cf3695ec46a69/6a73b8d82ab3843852e5758c/robot_browsing-sorbetto-Getty-2150544898.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-05T22:18:25+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "CSS: The Hidden Threat Lurking in Your Inbox",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
-   "desc": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteab809ef662786f0/6a72695ca3f8037e14ce6b0b/email1800_alubalish_GettyImages-184320446.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-05T19:47:55+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
-   "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
-   "desc": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-05T19:08:36+00:00"
   },
   {
    "source": "Socket",
@@ -1327,16 +1337,6 @@
    "desc": "Datadog Security Labs identified multiple coordinated campaigns abusing the GitHub API to systematically enumerate organizations, repositories, users, and software development activity at scale. The activity primarily re",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-08T00:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
-   "link": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
-   "desc": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination. The post Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders a",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/01_Malware_Category_1920x900-2.jpg",
-   "date": "2026-07-07T22:00:21+00:00",
-   "iocs": "iocs/d673bb868534.txt",
-   "ioc_count": 113
   },
   {
    "source": "Google GTIG",
