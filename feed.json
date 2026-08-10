@@ -1,9 +1,69 @@
 {
- "generated": "2026-08-10T13:15:20.904400+00:00",
+ "generated": "2026-08-10T14:33:34.324442+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
+   "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
+   "desc": "The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure. The post Stealthium Targets Security Blind Spots in AI Accelerators",
+   "image": "",
+   "date": "2026-08-10T14:19:36+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
+   "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
+   "desc": "Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition. The post Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-10T14:07:48+00:00",
+   "iocs": "iocs/4a1b6117d30c.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+   "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+   "desc": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains ",
+   "image": "",
+   "date": "2026-08-10T14:01:11+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Sexual Exploitation Actors Stealing and Leaking Explicit Content",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260810",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-10T14:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "British ‘Com’ member who abused more than 100 girls worldwide jailed for two years",
+   "link": "https://therecord.media/british-com-member-abuse-jailed-two-years",
+   "desc": "Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.",
+   "image": "",
+   "date": "2026-08-10T13:46:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+   "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+   "desc": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting doc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg",
+   "date": "2026-08-10T13:19:58+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
+   "link": "https://therecord.media/china-hackers-ransomware-microsoft",
+   "desc": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
+   "image": "",
+   "date": "2026-08-10T13:15:00+00:00",
+   "iocs": "iocs/753c34fb35be.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
@@ -295,22 +355,6 @@
    "date": "2026-08-07T18:14:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
-   "link": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
-   "desc": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
-   "image": "",
-   "date": "2026-08-07T16:58:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Military device manufacturer discloses cyber incident to SEC",
-   "link": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
-   "desc": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
-   "image": "",
-   "date": "2026-08-07T16:52:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI-Generated Patches Fail Half the Time",
    "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
@@ -325,14 +369,6 @@
    "desc": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
    "image": "",
    "date": "2026-08-07T15:48:20+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
-   "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
-   "desc": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple B",
-   "image": "",
-   "date": "2026-08-07T14:26:42+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -359,26 +395,6 @@
    "date": "2026-08-07T12:56:23+00:00",
    "iocs": "iocs/38709a9cedbf.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Growing Up The Hard Way",
-   "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-   "desc": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand tha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg",
-   "date": "2026-08-07T11:55:26+00:00",
-   "iocs": "iocs/b31d99cb8265.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
-   "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
-   "desc": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-07T11:06:01+00:00",
-   "iocs": "iocs/7c6beb5d2ba8.txt",
-   "ioc_count": 6
   },
   {
    "source": "SANS ISC",
@@ -497,14 +513,6 @@
    "date": "2026-08-06T18:14:19+00:00",
    "iocs": "iocs/453404a975a8.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-   "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-   "desc": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-   "image": "",
-   "date": "2026-08-06T18:03:45+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1411,14 +1419,6 @@
    "date": "2026-06-18T17:37:58+00:00",
    "iocs": "iocs/7c4f2c9bb4d9.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "Cyber Criminals Redirecting Users to Fraudulent Websites with Malicious Traffic Distribution Systems",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260618",
-   "desc": "",
-   "image": "",
-   "date": "2026-06-18T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",

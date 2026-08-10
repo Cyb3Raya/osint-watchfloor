@@ -1,0 +1,11 @@
+IOC EXTRACTION - China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns
+Source: https://therecord.media/china-hackers-ransomware-microsoft
+Extracted: 2026-08-10 14:33:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-18577

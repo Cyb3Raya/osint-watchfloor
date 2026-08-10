@@ -1,0 +1,15 @@
+IOC EXTRACTION - Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC
+Source: https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/
+Extracted: 2026-08-10 14:33:26 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-20337
+CVE-2026-20338
+CVE-2026-20339
+CVE-2026-20345
+CVE-2026-20348
