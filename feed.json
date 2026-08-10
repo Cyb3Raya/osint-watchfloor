@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-10T05:49:01.280303+00:00",
+ "generated": "2026-08-10T07:47:15.498244+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+   "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+   "desc": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg",
+   "date": "2026-08-10T05:50:03+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
@@ -319,16 +327,6 @@
    "date": "2026-08-07T09:09:54+00:00",
    "iocs": "iocs/2280a505042b.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-   "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-   "desc": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg",
-   "date": "2026-08-07T08:52:11+00:00",
-   "iocs": "iocs/2749aa1817e2.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
