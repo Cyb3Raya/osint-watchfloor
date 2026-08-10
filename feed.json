@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-10T09:25:41.629468+00:00",
+ "generated": "2026-08-10T10:46:20.172836+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+   "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+   "desc": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-10T10:01:52+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+   "image": "",
+   "date": "2026-08-10T09:49:37+00:00",
+   "iocs": "iocs/3df9f34363e7.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+   "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+   "desc": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-10T09:31:51+00:00",
+   "iocs": "iocs/0e88f54c8568.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
@@ -345,22 +373,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SecurityWeek",
-   "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
-   "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-   "desc": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-07T07:22:05+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-   "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-   "desc": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-07T06:56:56+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Free Business Plan Upgrades for Open Source Maintainers",
    "link": "https://socket.dev/blog/free-business-plan-upgrades-for-open-source?utm_medium=feed",
@@ -587,14 +599,6 @@
    "desc": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7e0cf3695ec46a69/6a73b8d82ab3843852e5758c/robot_browsing-sorbetto-Getty-2150544898.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-05T22:18:25+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-   "desc": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. ",
-   "image": "",
-   "date": "2026-08-05T21:53:26+00:00"
   },
   {
    "source": "Dark Reading",
