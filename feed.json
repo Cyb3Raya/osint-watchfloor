@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-10T10:46:20.172836+00:00",
+ "generated": "2026-08-10T11:49:54.884507+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Valve notifies Steam hardware customers of a data breach",
+   "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+   "desc": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+   "image": "",
+   "date": "2026-08-10T11:47:55+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
+   "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+   "desc": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-10T11:44:26+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+   "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+   "desc": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances. The post Metabase Patches Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-10T11:03:55+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
@@ -343,26 +367,6 @@
    "date": "2026-08-07T10:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
-   "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
-   "desc": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 4) appeared first on Securi",
-   "image": "",
-   "date": "2026-08-07T09:24:22+00:00",
-   "iocs": "iocs/9ac2a587d751.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Microsoft, Apple Release Fresh Security Updates",
-   "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-   "desc": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on Security",
-   "image": "",
-   "date": "2026-08-07T09:09:54+00:00",
-   "iocs": "iocs/2280a505042b.txt",
-   "ioc_count": 8
-  },
-  {
    "source": "SANS ISC",
    "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
    "link": "https://isc.sans.edu/diary/rss/33226",
@@ -583,14 +587,6 @@
    "desc": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63af621e575150fc/6a735a66494066273df9c027/aibrowsers-SaksitSangtong-Getty-2259378669.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-05T23:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-   "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-   "desc": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-   "image": "",
-   "date": "2026-08-05T23:00:50+00:00"
   },
   {
    "source": "Dark Reading",
