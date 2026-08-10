@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-10T07:47:15.498244+00:00",
+ "generated": "2026-08-10T09:25:41.629468+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
+   "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
+   "desc": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-10T08:55:44+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+   "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+   "desc": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg",
+   "date": "2026-08-10T07:38:23+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
@@ -291,16 +307,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-   "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-   "desc": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg",
-   "date": "2026-08-07T10:09:54+00:00",
-   "iocs": "iocs/862642bee841.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SecurityWeek",
    "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
    "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
@@ -495,14 +501,6 @@
    "desc": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that ",
    "image": "",
    "date": "2026-08-06T16:11:39+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Snowflake Hacker Pleads Guilty in US Court",
-   "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-   "desc": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-06T14:56:31+00:00"
   },
   {
    "source": "BleepingComputer",
