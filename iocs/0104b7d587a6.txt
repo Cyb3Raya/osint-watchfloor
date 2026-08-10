@@ -1,0 +1,12 @@
+IOC EXTRACTION - The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists
+Source: https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists
+Extracted: 2026-08-10 18:31:20 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2024-0012
+CVE-2024-9474

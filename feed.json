@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-10T17:33:46.442022+00:00",
+ "generated": "2026-08-10T18:31:25.756310+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
+   "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
+   "desc": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c385a6bd389354a/6a7a1578f0b097d1e3a7b7d0/patch_update_-Olemedia-getty-1368998829.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-10T17:56:34+00:00",
+   "iocs": "iocs/0104b7d587a6.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+   "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+   "desc": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+   "image": "",
+   "date": "2026-08-10T17:42:00+00:00",
+   "iocs": "iocs/d38595acce95.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+   "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+   "desc": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg",
+   "date": "2026-08-10T17:29:17+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
@@ -13,6 +41,16 @@
    "date": "2026-08-10T17:09:20+00:00",
    "iocs": "iocs/27d7e83c1bbb.txt",
    "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+   "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+   "desc": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg",
+   "date": "2026-08-10T16:38:37+00:00",
+   "iocs": "iocs/4c624f6c9bd5.txt",
+   "ioc_count": 10
   },
   {
    "source": "Dark Reading",
@@ -183,14 +221,6 @@
    "desc": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
    "image": "",
    "date": "2026-08-10T12:11:52+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-   "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-   "desc": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg",
-   "date": "2026-08-10T11:52:16+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -399,16 +429,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-   "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-   "desc": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
-   "date": "2026-08-07T18:16:13+00:00",
-   "iocs": "iocs/37859bd4cd5d.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Dark Reading",
    "title": "AI-Generated Patches Fail Half the Time",
    "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
@@ -523,14 +543,6 @@
    "desc": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a01e6b265bc8c2/6a74e71b469e8f1b3353e662/sandbox-diczman-GettyImages-2237058218.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-06T20:38:51+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-   "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-   "desc": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
-   "image": "",
-   "date": "2026-08-06T20:07:24+00:00"
   },
   {
    "source": "Aikido",
@@ -683,14 +695,6 @@
    "desc": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup",
    "image": "",
    "date": "2026-08-05T17:56:15+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Angola's Largest Telco Breached Hours Before IPO",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
-   "desc": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc562507d832ba51c/6a72581b9aeba22476b547f2/SIM-cards-with-Angola-flag-Novikov_Aleksey-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-05T08:00:00+00:00"
   },
   {
    "source": "Aikido",

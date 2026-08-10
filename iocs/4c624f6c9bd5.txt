@@ -1,0 +1,20 @@
+IOC EXTRACTION - China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
+Source: https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
+Extracted: 2026-08-10 18:31:17 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2023-37679
+CVE-2023-43208
+CVE-2023-48788
+CVE-2024-1708
+CVE-2024-1709
+CVE-2024-27198
+CVE-2024-27199
+CVE-2025-10035
+CVE-2026-18556
+CVE-2026-18577
