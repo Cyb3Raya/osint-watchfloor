@@ -1,11 +1,17 @@
 {
- "generated": "2026-08-10T02:01:52.549396+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-10T04:10:08.623382+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "SANS ISC"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
+   "link": "https://isc.sans.edu/diary/rss/33228",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-10T02:00:03+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
@@ -317,6 +323,16 @@
    "ioc_count": 1
   },
   {
+   "source": "SANS ISC",
+   "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
+   "link": "https://isc.sans.edu/diary/rss/33226",
+   "desc": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historizatio",
+   "image": "",
+   "date": "2026-08-07T07:22:28+00:00",
+   "iocs": "iocs/1d8978e624b3.txt",
+   "ioc_count": 4
+  },
+  {
    "source": "SecurityWeek",
    "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
    "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
@@ -339,6 +355,14 @@
    "desc": "Open source maintainers are under more pressure than ever. We're raising our open source program from the Team plan to the Business plan, free.",
    "image": "",
    "date": "2026-08-07T06:49:17+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
+   "link": "https://isc.sans.edu/diary/rss/33224",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-07T02:00:02+00:00"
   },
   {
    "source": "Wiz Threats",
@@ -519,6 +543,24 @@
    "date": "2026-08-06T03:50:54+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33222",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-06T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink &#x5b;Guest Diary&#x5d;, (Thu, Aug 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33220",
+   "desc": "&#x5b;This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+   "image": "",
+   "date": "2026-08-06T00:15:40+00:00",
+   "iocs": "iocs/cedf61ae0cca.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "Dark Reading",
    "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
    "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
@@ -599,6 +641,14 @@
    "date": "2026-08-05T17:59:00+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33218",
+   "desc": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup",
+   "image": "",
+   "date": "2026-08-05T17:56:15+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Angola's Largest Telco Breached Hours Before IPO",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
@@ -613,6 +663,14 @@
    "desc": "Continuous AI pentesting for teams that can't use the cloud. The Aikido Machine keeps models, code, and results entirely inside your network. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a72d6a5ef1bb7f853aa2384_Feature_Aikido-Machine-Launch_16x9.jpg",
    "date": "2026-08-05T07:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33216",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-05T02:00:02+00:00"
   },
   {
    "source": "Socket",
@@ -667,6 +725,16 @@
    "ioc_count": 19
   },
   {
+   "source": "SANS ISC",
+   "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
+   "link": "https://isc.sans.edu/diary/rss/33214",
+   "desc": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with diagnostic tools:&#xd;",
+   "image": "",
+   "date": "2026-08-04T12:46:19+00:00",
+   "iocs": "iocs/18ff0fd24d57.txt",
+   "ioc_count": 4
+  },
+  {
    "source": "Aikido",
    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
    "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
@@ -705,6 +773,14 @@
    "date": "2026-08-04T07:00:00+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
+   "link": "https://isc.sans.edu/diary/rss/33212",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-04T02:00:03+00:00"
+  },
+  {
    "source": "Wiz Threats",
    "title": "keyv and cacheable npm Package Hijacked in Supply Chain Attack (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/keyv-and-cacheable-npm-package-hijacked-in-supply-chain-attack",
@@ -727,6 +803,14 @@
    "desc": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless ",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-08-03T10:00:35+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+   "link": "https://isc.sans.edu/diary/rss/33210",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-03T02:00:02+00:00"
   },
   {
    "source": "Socket",
