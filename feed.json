@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-10T04:10:08.623382+00:00",
+ "generated": "2026-08-10T05:49:01.280303+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+   "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+   "desc": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on Se",
+   "image": "",
+   "date": "2026-08-10T04:44:32+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
@@ -515,14 +523,6 @@
    "date": "2026-08-06T14:00:00+00:00",
    "iocs": "iocs/7b5a120ec555.txt",
    "ioc_count": 76
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
-   "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
-   "desc": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appea",
-   "image": "",
-   "date": "2026-08-06T12:54:09+00:00"
   },
   {
    "source": "Unit 42",
