@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-10T20:24:05.865987+00:00",
+ "generated": "2026-08-10T21:24:48.431904+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+   "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+   "desc": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts.",
+   "image": "",
+   "date": "2026-08-10T21:12:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
+   "desc": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac5b6cbe22b97997/6a7a3b465e4958876dc35113/blast_radius-George_Peters-GettyImages-1339899824_(1).jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-10T21:02:23+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
@@ -503,14 +519,6 @@
    "date": "2026-08-07T00:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-   "desc": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
-   "image": "",
-   "date": "2026-08-06T22:48:22+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "ChainDrop: Inside a Self-Propagating npm Worm",
    "link": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
@@ -671,14 +679,6 @@
    "desc": "During a UK cyber test, a Mythos 5 agent used sockpuppets, social engineering, and prompt injection to try to get a maintainer to merge malware.",
    "image": "",
    "date": "2026-08-05T18:17:11+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
-   "desc": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9abdeefc15f542ea/6a7355e3a1a11b1319173fcc/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-08-05T18:03:31+00:00"
   },
   {
    "source": "Aikido",
