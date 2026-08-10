@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-10T16:29:49.423495+00:00",
+ "generated": "2026-08-10T17:33:46.442022+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+   "desc": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a18f6dd4914a8aa/6a762c446b2f1a1a02c909f7/broken_phone-miljko-GettyImages-2232965251.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-10T17:09:20+00:00",
+   "iocs": "iocs/27d7e83c1bbb.txt",
+   "ioc_count": 6
+  },
   {
    "source": "Dark Reading",
    "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
@@ -51,6 +61,16 @@
    "desc": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelli",
    "image": "",
    "date": "2026-08-10T15:21:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+   "desc": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg",
+   "date": "2026-08-10T15:00:29+00:00",
+   "iocs": "iocs/ab9fcef0eed7.txt",
+   "ioc_count": 46
   },
   {
    "source": "BleepingComputer",
@@ -421,16 +441,6 @@
    "date": "2026-08-07T13:34:40+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-   "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-   "desc": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAXYZlxtz4bLTF4gNuVpVMMykRZpDR7IKjIFSR7jhL6CBKSsE1PZ7aIRpSGE57XGGb69NbrYV7wMJLjsRG_lP4SJzyvNZ0nUj9SHArph87e8bWBHKUsOGy1-9rymiMesSAcvUFrPP2Xrf_EuUXiOmKJC2MeBYFRcXmgxKhAv5UBcRzV0ku-_DLEONVLQuV/s1600/word.jpg",
-   "date": "2026-08-07T12:56:23+00:00",
-   "iocs": "iocs/38709a9cedbf.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
    "link": "https://isc.sans.edu/diary/rss/33226",
@@ -705,14 +715,6 @@
    "desc": "Socket is now in the AWS Security Hub Extended plan. Adopt it through AWS, apply committed spend, and block malicious open source packages.",
    "image": "",
    "date": "2026-08-04T18:56:11+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
-   "desc": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b501fd239cea948/6a7205c2f2df87f4451c6c0b/Playbook(1800)_Ivelin_Radkov_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-08-04T18:37:35+00:00"
   },
   {
    "source": "Unit 42",

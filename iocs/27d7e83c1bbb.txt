@@ -1,0 +1,16 @@
+IOC EXTRACTION - Coruna, DarkSword iOS Exploits Proliferate Globally
+Source: https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally
+Extracted: 2026-08-10 17:33:40 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2025-14174
+CVE-2025-31277
+CVE-2025-43510
+CVE-2025-43520
+CVE-2025-43529
+CVE-2026-20700
