@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-10T14:33:34.324442+00:00",
+ "generated": "2026-08-10T15:35:35.896283+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
+   "link": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
+   "desc": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelli",
+   "image": "",
+   "date": "2026-08-10T15:21:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+   "desc": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+   "image": "",
+   "date": "2026-08-10T14:34:32+00:00",
+   "iocs": "iocs/1b13f7171cfd.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
+   "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
+   "desc": "The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold. The post OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns appeared f",
+   "image": "",
+   "date": "2026-08-10T14:33:36+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
@@ -227,14 +253,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
-   "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
-   "desc": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterp",
-   "image": "",
-   "date": "2026-08-08T11:30:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
    "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
@@ -345,14 +363,6 @@
    "date": "2026-08-07T18:16:13+00:00",
    "iocs": "iocs/37859bd4cd5d.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "RF The Record",
-   "title": "US cyber ambassador nominee Cassady confirmed in Senate",
-   "link": "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
-   "desc": "NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.",
-   "image": "",
-   "date": "2026-08-07T18:14:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -503,16 +513,6 @@
    "desc": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-06T19:00:11+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Swiss government SharePoint breach compromised 200 accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-   "desc": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
-   "image": "",
-   "date": "2026-08-06T18:14:19+00:00",
-   "iocs": "iocs/453404a975a8.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",

@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs
+Source: https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/
+Extracted: 2026-08-10 15:35:26 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-40602
+CVE-2026-15409
+CVE-2026-15410
