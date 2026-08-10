@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-10T23:01:17.810067+00:00",
+ "generated": "2026-08-10T23:54:20.471432+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers breached a small Polish energy plant via private APN last year",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+   "desc": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+   "image": "",
+   "date": "2026-08-10T23:07:21+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
@@ -501,14 +509,6 @@
    "desc": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocu",
    "image": "",
    "date": "2026-08-07T14:00:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "North Carolina Ports confirms cyberattack disrupting operations",
-   "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-   "desc": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
-   "image": "",
-   "date": "2026-08-07T13:34:40+00:00"
   },
   {
    "source": "SANS ISC",
