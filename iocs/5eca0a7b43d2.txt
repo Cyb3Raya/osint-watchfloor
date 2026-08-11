@@ -1,0 +1,11 @@
+IOC EXTRACTION - DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt
+Source: https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html
+Extracted: 2026-08-11 18:10:43 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+138[.]226[.]236[.]51

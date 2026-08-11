@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-11T17:16:25.537067+00:00",
+ "generated": "2026-08-11T18:10:54.170886+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+   "desc": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-08-11T18:08:50+00:00",
+   "iocs": "iocs/5a84ed3ef08a.txt",
+   "ioc_count": 421
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
+   "link": "https://isc.sans.edu/diary/rss/33236",
+   "desc": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container ta",
+   "image": "",
+   "date": "2026-08-11T17:54:49+00:00",
+   "iocs": "iocs/5b4351d43032.txt",
+   "ioc_count": 418
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+   "desc": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+   "image": "",
+   "date": "2026-08-11T17:38:42+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
@@ -13,6 +41,26 @@
    "date": "2026-08-11T16:50:19+00:00",
    "iocs": "iocs/434fc5cac482.txt",
    "ioc_count": 7
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+   "desc": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg",
+   "date": "2026-08-11T16:47:44+00:00",
+   "iocs": "iocs/83f9b708b132.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+   "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+   "desc": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg",
+   "date": "2026-08-11T16:35:27+00:00",
+   "iocs": "iocs/5eca0a7b43d2.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -471,42 +519,6 @@
    "date": "2026-08-10T13:19:58+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Member of The Com sent to prison for blackmail, sextortion",
-   "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-   "desc": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. ",
-   "image": "",
-   "date": "2026-08-10T12:56:28+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-   "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-   "desc": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmfqNoa09hdS94VkCzlDhqshyphenhyphenLXM3mo93MtChM8pXBFJxCEh6iP7mlU-wcwnWZGROVidduvOqpGfWajbLA5PaTrH7tibyCqcvmlnS-b4c0yBcGZJ7eJLPPXxoutiEEt_rqGlPf4pSFUjWfmuuME7kegCwQam0Kf7VivC9nAUjKIvxYeBETap8ElXjck5R/s1600/intraid.jpg",
-   "date": "2026-08-10T12:25:04+00:00",
-   "iocs": "iocs/cdcb04f053b5.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "LexisNexis shuts down services after suspicious activity on servers",
-   "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-   "desc": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
-   "image": "",
-   "date": "2026-08-10T12:11:52+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-   "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-   "desc": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, I",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg",
-   "date": "2026-08-10T11:33:41+00:00",
-   "iocs": "iocs/8cd19c7c9cd4.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
    "link": "https://isc.sans.edu/diary/rss/33228",
@@ -777,16 +789,6 @@
    "date": "2026-08-04T12:50:53+00:00",
    "iocs": "iocs/42f878a67581.txt",
    "ioc_count": 19
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
-   "link": "https://isc.sans.edu/diary/rss/33214",
-   "desc": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t noticed before. All of these URLs appear to be associated with diagnostic tools:&#xd;",
-   "image": "",
-   "date": "2026-08-04T12:46:19+00:00",
-   "iocs": "iocs/18ff0fd24d57.txt",
-   "ioc_count": 4
   },
   {
    "source": "Aikido",

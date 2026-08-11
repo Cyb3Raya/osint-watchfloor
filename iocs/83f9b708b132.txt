@@ -1,0 +1,12 @@
+IOC EXTRACTION - Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE
+Source: https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html
+Extracted: 2026-08-11 18:10:42 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-55040
+CVE-2026-63520
