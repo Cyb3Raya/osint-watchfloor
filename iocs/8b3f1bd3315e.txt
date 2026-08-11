@@ -1,0 +1,12 @@
+IOC EXTRACTION - Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks
+Source: https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html
+Extracted: 2026-08-11 11:09:03 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2024-5559
+CVE-2025-24472

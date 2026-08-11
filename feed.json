@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-11T10:14:41.598795+00:00",
+ "generated": "2026-08-11T11:09:11.628415+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+   "desc": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
+   "image": "",
+   "date": "2026-08-11T11:03:01+00:00",
+   "iocs": "iocs/65e45d867032.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+   "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+   "desc": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s1600/pnp.gif",
+   "date": "2026-08-11T10:48:26+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+   "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+   "desc": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can wo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg",
+   "date": "2026-08-11T10:24:00+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
@@ -39,6 +65,16 @@
    "desc": "OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI. The post OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-11T09:45:05+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+   "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+   "desc": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include heal",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg",
+   "date": "2026-08-11T09:16:24+00:00",
+   "iocs": "iocs/8b3f1bd3315e.txt",
+   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -459,36 +495,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-   "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-   "desc": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), wh",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s1600/metabase.jpg",
-   "date": "2026-08-08T06:58:31+00:00",
-   "iocs": "iocs/ecc4777c9ae8.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-   "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-   "desc": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1600/nc.jpg",
-   "date": "2026-08-08T06:57:43+00:00",
-   "iocs": "iocs/62e6df9d879f.txt",
-   "ioc_count": 13
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-   "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following report",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg",
-   "date": "2026-08-08T06:52:16+00:00",
-   "iocs": "iocs/10b04d43afc8.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Unit 42",
    "title": "Inside the Modern SOC: The Identity Front Door",
    "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
@@ -519,14 +525,6 @@
    "desc": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51cfa43c126c431d/6a75005453cbbc62a56894c9/patches-in-denim-nnattalli-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-07T16:47:43+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-   "desc": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-   "image": "",
-   "date": "2026-08-07T15:48:20+00:00"
   },
   {
    "source": "SANS ISC",
