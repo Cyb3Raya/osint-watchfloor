@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development
+Source: https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html
+Extracted: 2026-08-11 15:00:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-15903

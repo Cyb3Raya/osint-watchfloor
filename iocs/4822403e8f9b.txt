@@ -1,0 +1,14 @@
+IOC EXTRACTION - SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities
+Source: https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/
+Extracted: 2026-08-11 15:00:54 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-34265
+CVE-2026-44758
+CVE-2026-44772
+CVE-2026-58231
