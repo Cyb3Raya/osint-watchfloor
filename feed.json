@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-11T16:13:43.914138+00:00",
+ "generated": "2026-08-11T17:16:25.537067+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
+   "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
+   "desc": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-11T16:50:19+00:00",
+   "iocs": "iocs/434fc5cac482.txt",
+   "ioc_count": 7
+  },
   {
    "source": "BleepingComputer",
    "title": "Wesco confirms security incident after ExfilSquad claims data theft",
@@ -435,14 +445,6 @@
    "date": "2026-08-10T14:34:32+00:00",
    "iocs": "iocs/1b13f7171cfd.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
-   "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
-   "desc": "The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold. The post OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns appeared f",
-   "image": "",
-   "date": "2026-08-10T14:33:36+00:00"
   },
   {
    "source": "BleepingComputer",
