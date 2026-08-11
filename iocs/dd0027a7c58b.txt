@@ -1,0 +1,14 @@
+IOC EXTRACTION - Zoom Patches Zero-Click Code Execution Vulnerability
+Source: https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/
+Extracted: 2026-08-11 16:13:37 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-53413
+CVE-2026-53414
+CVE-2026-53415
+CVE-2026-53416
