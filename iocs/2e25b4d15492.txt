@@ -1,0 +1,57 @@
+IOC EXTRACTION - Kimwolf v7: An Evolution of the Kimwolf Botnet
+Source: https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
+Extracted: 2026-08-11 10:14:35 UTC
+Total indicators: 29
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2016-5195
+
+IPv4 (6)
+----------------------------------------
+212[.]193[.]31[.]102
+212[.]193[.]31[.]119
+212[.]193[.]31[.]122
+212[.]193[.]31[.]158
+212[.]193[.]31[.]92
+23[.]94[.]221[.]104
+
+Domains (3)
+----------------------------------------
+avax[.]rpcuniverse[.]com
+eth[.]rpcuniverse[.]com
+rpcuniverse[.]com
+
+URLs (5)
+----------------------------------------
+hxxps://0xrpc[.]io/eth
+hxxps://eth-protect[.]rpc[.]blxrbdn[.]com
+hxxps://eth[.]llamarpc[.]com
+hxxps://eth[.]merkle[.]io
+hxxps://ethereum-rpc[.]publicnode[.]com
+
+SHA256 (9)
+----------------------------------------
+2ec2e85b0358e0c681cb5067489a9086ec97dbbf7e3c952dd9cd496b319d5af5
+345222bca004595977f971d76900b0c65fd9bf9d91c50cd0c5bf5a93f1ad9e49
+406647de09a0ffa279756b4ccb344b1b76a333320c5b50fd367901fa006cf0ff
+421111a57b0a4224c052fa4108d90429d579974b5b5111ed2e58516ba09422ca
+8242443dfcec66e3fe04cbfa2fbd211ad34065ee07aa93813d792a437caab212
+9470c68f9b6fe5f90d61891b95623afd7b4298815b0f95e25610e1c09008dc24
+951c94809aa6c7ab587125f9d4df30fa6a49ee0cbba76a4b7ceedaaa0e5dcd36
+f07821e313c16cbbd82def45094a22c8d474164051bdbc7648d6869e012014b4
+f3e8a55a2a3ea7c7b6676e90f4f49a2c55b13065b68ee50c51cc35fe2b5c3237
+
+SHA1 (1)
+----------------------------------------
+2a1d96f1b066877812587ac94f45f82dfff5f5f9
+
+MD5 (4)
+----------------------------------------
+036bcb62be72c4663b9564955f93b05f
+33faca1e0090f6b12eff703daf4606e4
+76554ad09897ac723a850eaf8c525efa
+d759364844d78a728505fb0485c3adbc

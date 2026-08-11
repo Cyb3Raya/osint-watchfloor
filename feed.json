@@ -1,11 +1,45 @@
 {
- "generated": "2026-08-11T09:01:06.164049+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-11T10:14:41.598795+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+   "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
+   "desc": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_Malware_Category_1920x900-3.jpg",
+   "date": "2026-08-11T10:00:16+00:00",
+   "iocs": "iocs/2e25b4d15492.txt",
+   "ioc_count": 29
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
+   "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
+   "desc": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did. The post Hacker Conversations: Marcus Hutchins and the Journey From the Gray",
+   "image": "",
+   "date": "2026-08-11T10:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
+   "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+   "desc": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
+   "image": "",
+   "date": "2026-08-11T09:47:06+00:00",
+   "iocs": "iocs/78717ca6ff86.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber",
+   "link": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
+   "desc": "OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI. The post OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-11T09:45:05+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
@@ -93,6 +127,16 @@
    "date": "2026-08-10T21:02:23+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
+   "link": "https://therecord.media/ransomware-south-korea-fbi-gunra",
+   "desc": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.",
+   "image": "",
+   "date": "2026-08-10T19:30:00+00:00",
+   "iocs": "iocs/318e8811c831.txt",
+   "ioc_count": 2
+  },
+  {
    "source": "BleepingComputer",
    "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
    "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
@@ -173,6 +217,30 @@
    "date": "2026-08-10T15:59:27+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Poland uncovers second heat plant cyberattack that went hidden for months",
+   "link": "https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden",
+   "desc": "The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.",
+   "image": "",
+   "date": "2026-08-10T15:52:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Senate Democrats introduce bill to distribute $300 million annually to shore up water system cybersecurity",
+   "link": "https://therecord.media/senate-water-cybersecurity-legislation",
+   "desc": "Two Democratic senators introduced legislation that would allocate $300 million each year to fund cybersecurity improvements for the water and wastewater sector.",
+   "image": "",
+   "date": "2026-08-10T15:45:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
+   "link": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
+   "desc": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelli",
+   "image": "",
+   "date": "2026-08-10T15:21:00+00:00"
+  },
+  {
    "source": "The Hacker News",
    "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
@@ -233,6 +301,14 @@
    "desc": "",
    "image": "",
    "date": "2026-08-10T14:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "British ‘Com’ member who abused more than 100 girls worldwide jailed for two years",
+   "link": "https://therecord.media/british-com-member-abuse-jailed-two-years",
+   "desc": "Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.",
+   "image": "",
+   "date": "2026-08-10T13:46:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -327,24 +403,6 @@
    "date": "2026-08-10T09:49:37+00:00",
    "iocs": "iocs/3df9f34363e7.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
-   "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-   "desc": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-10T09:31:51+00:00",
-   "iocs": "iocs/0e88f54c8568.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
-   "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-   "desc": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-10T08:55:44+00:00"
   },
   {
    "source": "The Hacker News",
@@ -469,14 +527,6 @@
    "desc": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
    "image": "",
    "date": "2026-08-07T15:48:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
-   "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-   "desc": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocu",
-   "image": "",
-   "date": "2026-08-07T14:00:10+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1261,16 +1311,6 @@
    "desc": "A malicious version of the Jscrambler npm package, jscrambler@8.14.0, was published at 15:12 UTC on 11 July 2026. The compromised release executed a dropper via an npm preinstall hook that detected the host operating sys",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-11T00:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
-   "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
-   "desc": "Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here. The post No Manners Here: The Ruthless Rise of The Gentlemen Ransomware appeared first on Uni",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/05_Opinion_Overview_1920x900.jpg",
-   "date": "2026-07-10T22:00:39+00:00",
-   "iocs": "iocs/5ef75c565476.txt",
-   "ioc_count": 5
   },
   {
    "source": "Wiz Threats",
