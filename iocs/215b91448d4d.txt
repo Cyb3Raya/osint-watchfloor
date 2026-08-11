@@ -1,0 +1,13 @@
+IOC EXTRACTION - Microsoft Plugs Nearly 400 Security Holes
+Source: https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/
+Extracted: 2026-08-11 22:23:04 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-62832
+CVE-2026-68820
+CVE-2026-72971
