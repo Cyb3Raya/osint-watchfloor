@@ -1,0 +1,12 @@
+IOC EXTRACTION - Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine
+Source: https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html
+Extracted: 2026-08-11 07:42:12 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2023-32349
+CVE-2023-32350

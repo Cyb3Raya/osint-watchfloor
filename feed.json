@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-11T06:08:54.940866+00:00",
+ "generated": "2026-08-11T07:42:21.112745+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+   "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+   "desc": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg",
+   "date": "2026-08-11T06:55:45+00:00",
+   "iocs": "iocs/21ad1a2bf2fd.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
+   "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+   "desc": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it. The post Mozilla Issues New Firefox GPG Key Following Exposure appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-11T06:16:01+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+   "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+   "desc": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
+   "date": "2026-08-11T05:48:44+00:00",
+   "iocs": "iocs/39f20a787ade.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
@@ -375,14 +403,6 @@
    "date": "2026-08-10T05:50:03+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-   "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-   "desc": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on Se",
-   "image": "",
-   "date": "2026-08-10T04:44:32+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
    "link": "https://isc.sans.edu/diary/rss/33228",
@@ -473,26 +493,6 @@
    "desc": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
    "image": "",
    "date": "2026-08-07T19:30:41+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-   "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-   "desc": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg",
-   "date": "2026-08-07T18:48:17+00:00",
-   "iocs": "iocs/7f2f0040ed3d.txt",
-   "ioc_count": 11
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-   "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-   "desc": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg",
-   "date": "2026-08-07T18:29:08+00:00",
-   "iocs": "iocs/e7092c00880a.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
