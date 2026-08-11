@@ -1,0 +1,13 @@
+IOC EXTRACTION - A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices
+Source: https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html
+Extracted: 2026-08-11 13:47:33 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2021-31698
+CVE-2025-48618
+CVE-2026-57550

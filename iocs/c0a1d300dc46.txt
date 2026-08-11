@@ -1,0 +1,11 @@
+IOC EXTRACTION - Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo
+Source: https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html
+Extracted: 2026-08-11 13:47:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA1 (1)
+----------------------------------------
+14f26682d0916cdd81e37b6d61b7b526d98f0353
