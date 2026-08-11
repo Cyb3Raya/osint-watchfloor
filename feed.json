@@ -1,9 +1,53 @@
 {
- "generated": "2026-08-11T18:10:54.170886+00:00",
+ "generated": "2026-08-11T19:29:58.116586+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
+   "link": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
+   "desc": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
+   "image": "",
+   "date": "2026-08-11T19:15:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+   "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+   "desc": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-08-11T18:46:07+00:00",
+   "iocs": "iocs/93c7e955aa53.txt",
+   "ioc_count": 13
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+   "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+   "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg",
+   "date": "2026-08-11T18:36:47+00:00",
+   "iocs": "iocs/cf109a85f8e0.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+   "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+   "desc": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+   "image": "",
+   "date": "2026-08-11T18:34:23+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+   "desc": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+   "image": "",
+   "date": "2026-08-11T18:26:03+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
@@ -301,14 +345,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
-   "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
-   "desc": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it. The post Mozilla Issues New Firefox GPG Key Following Exposure appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-11T06:16:01+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
@@ -467,14 +503,6 @@
    "date": "2026-08-10T15:59:27+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Poland uncovers second heat plant cyberattack that went hidden for months",
-   "link": "https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden",
-   "desc": "The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.",
-   "image": "",
-   "date": "2026-08-10T15:52:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
@@ -485,38 +513,12 @@
    "ioc_count": 46
   },
   {
-   "source": "BleepingComputer",
-   "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-   "desc": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
-   "image": "",
-   "date": "2026-08-10T14:34:32+00:00",
-   "iocs": "iocs/1b13f7171cfd.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-   "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-   "desc": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains ",
-   "image": "",
-   "date": "2026-08-10T14:01:11+00:00"
-  },
-  {
    "source": "IC3 PSA",
    "title": "Sexual Exploitation Actors Stealing and Leaking Explicit Content",
    "link": "https://www.ic3.gov/PSA/2026/PSA260810",
    "desc": "",
    "image": "",
    "date": "2026-08-10T14:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-   "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-   "desc": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting doc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg",
-   "date": "2026-08-10T13:19:58+00:00"
   },
   {
    "source": "SANS ISC",

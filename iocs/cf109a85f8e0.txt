@@ -1,0 +1,12 @@
+IOC EXTRACTION - Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands
+Source: https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html
+Extracted: 2026-08-11 19:29:47 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+soprasteria-bg[.]com
+sourceforge[.]net
