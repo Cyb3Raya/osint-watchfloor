@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-11T20:22:10.798291+00:00",
+ "generated": "2026-08-11T21:27:39.805734+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+   "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+   "desc": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+   "image": "",
+   "date": "2026-08-11T21:07:24+00:00",
+   "iocs": "iocs/4cc0270f88d8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+   "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+   "desc": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacke",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
+   "date": "2026-08-11T20:10:55+00:00",
+   "iocs": "iocs/36069f37dfa6.txt",
+   "ioc_count": 7
+  },
   {
    "source": "RF The Record",
    "title": "NSA installs DHS lawyer as new general counsel",
@@ -23,12 +43,30 @@
    "ioc_count": 2
   },
   {
+   "source": "The Hacker News",
+   "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+   "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+   "desc": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
+   "date": "2026-08-11T19:36:37+00:00"
+  },
+  {
    "source": "RF The Record",
    "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
    "link": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
    "desc": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
    "image": "",
    "date": "2026-08-11T19:15:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+   "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+   "desc": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg",
+   "date": "2026-08-11T19:08:47+00:00",
+   "iocs": "iocs/be56bbf2c6cc.txt",
+   "ioc_count": 3
   },
   {
    "source": "SecurityWeek",
@@ -431,14 +469,6 @@
    "date": "2026-08-10T21:02:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-   "desc": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-   "image": "",
-   "date": "2026-08-10T19:24:40+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
    "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
@@ -449,14 +479,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-   "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-   "desc": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg",
-   "date": "2026-08-10T17:29:17+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
    "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
@@ -465,16 +487,6 @@
    "date": "2026-08-10T17:09:20+00:00",
    "iocs": "iocs/27d7e83c1bbb.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-   "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-   "desc": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg",
-   "date": "2026-08-10T16:38:37+00:00",
-   "iocs": "iocs/4c624f6c9bd5.txt",
-   "ioc_count": 10
   },
   {
    "source": "Dark Reading",
@@ -499,16 +511,6 @@
    "desc": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce9752dae28ee42d/6a79f6588b45c2da860963c6/GettyImages-2208642630.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-10T15:59:27+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-   "desc": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg",
-   "date": "2026-08-10T15:00:29+00:00",
-   "iocs": "iocs/ab9fcef0eed7.txt",
-   "ioc_count": 46
   },
   {
    "source": "IC3 PSA",
