@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-11T11:09:11.628415+00:00",
+ "generated": "2026-08-11T12:01:23.188138+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+   "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
+   "desc": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data. The post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities appeared firs",
+   "image": "",
+   "date": "2026-08-11T11:15:15+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
@@ -421,14 +429,6 @@
    "desc": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances. The post Metabase Patches Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-10T11:03:55+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
-   "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-   "desc": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-10T10:01:52+00:00"
   },
   {
    "source": "BleepingComputer",
