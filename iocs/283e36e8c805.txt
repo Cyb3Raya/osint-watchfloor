@@ -1,0 +1,12 @@
+IOC EXTRACTION - Fresh Windows Zero-Day Exploited in North Korean Cyberattacks
+Source: https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/
+Extracted: 2026-08-12 09:45:19 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-49113
+CVE-2026-68820

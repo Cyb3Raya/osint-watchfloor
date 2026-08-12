@@ -1,0 +1,15 @@
+IOC EXTRACTION - Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations
+Source: https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html
+Extracted: 2026-08-12 09:45:16 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-33634
+
+Domains (1)
+----------------------------------------
+models[.]litellm[.]cloud

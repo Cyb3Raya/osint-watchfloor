@@ -1,9 +1,21 @@
 {
- "generated": "2026-08-12T08:20:37.965004+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-12T09:45:31.838147+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
+   "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
+   "desc": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-12T08:45:53+00:00",
+   "iocs": "iocs/283e36e8c805.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
@@ -13,6 +25,16 @@
    "date": "2026-08-12T08:14:46+00:00",
    "iocs": "iocs/64bf0a8d3e57.txt",
    "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+   "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+   "desc": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg",
+   "date": "2026-08-12T08:04:52+00:00",
+   "iocs": "iocs/ef7a70b327b6.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -167,14 +189,6 @@
    "ioc_count": 7
   },
   {
-   "source": "RF The Record",
-   "title": "NSA installs DHS lawyer as new general counsel",
-   "link": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
-   "desc": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.",
-   "image": "",
-   "date": "2026-08-11T20:00:09+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
@@ -191,14 +205,6 @@
    "desc": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
    "date": "2026-08-11T19:36:37+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
-   "link": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-   "desc": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
-   "image": "",
-   "date": "2026-08-11T19:15:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -323,14 +329,6 @@
    "ioc_count": 4
   },
   {
-   "source": "RF The Record",
-   "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-   "link": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-   "desc": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.",
-   "image": "",
-   "date": "2026-08-11T15:43:45+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
    "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
@@ -347,14 +345,6 @@
    "date": "2026-08-11T14:14:32+00:00",
    "iocs": "iocs/4822403e8f9b.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
-   "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
-   "desc": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers. The post US Water Systems Get Cyber Boost From New Senate Bill and &#8216;Water Watch Center&#8217;",
-   "image": "",
-   "date": "2026-08-11T14:03:32+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -389,22 +379,6 @@
    "desc": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
    "image": "",
    "date": "2026-08-11T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Local governments in four states dealing with cyberattacks that have shut down services",
-   "link": "https://therecord.media/cyberattacks-ransomware-local-governments",
-   "desc": "Municipalities in California, Oklahoma, Wisconsin and Texas are all recovering from disruptive cyberattacks that have affected government operations.",
-   "image": "",
-   "date": "2026-08-11T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Kids’ online safety bill faces dim prospects of passage this session despite progress",
-   "link": "https://therecord.media/kids-online-safety-act-congress",
-   "desc": "Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session.",
-   "image": "",
-   "date": "2026-08-11T12:15:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -461,14 +435,6 @@
    "desc": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machin",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s1600/pnp.gif",
    "date": "2026-08-11T10:48:26+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-   "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-   "desc": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can wo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg",
-   "date": "2026-08-11T10:24:00+00:00"
   },
   {
    "source": "Unit 42",
