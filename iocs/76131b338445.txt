@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access
+Source: https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html
+Extracted: 2026-08-12 11:02:05 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-59309
+CVE-2026-59310
