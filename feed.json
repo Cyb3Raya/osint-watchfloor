@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-12T21:25:40.999520+00:00",
+ "generated": "2026-08-12T22:23:12.641143+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Android malware combo takes out loans and relays victims' credit cards",
+   "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+   "desc": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+   "image": "",
+   "date": "2026-08-12T22:22:57+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+   "desc": "The &quot;City-Forum&quot; campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-12T21:08:54+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
@@ -491,14 +507,6 @@
    "date": "2026-08-11T18:34:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-   "desc": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-   "image": "",
-   "date": "2026-08-11T18:26:03+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
    "link": "https://isc.sans.edu/diary/rss/33236",
@@ -697,14 +705,6 @@
    "desc": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773d06d488d0bafb/67ae0378f9958cc7415de40e/Cybercrime_(1800)_wsf_AL_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-06T21:42:50+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
-   "desc": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e864537fec413db/6a74f1f43413ca898c4c0341/Jailbreak-tiero-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-06T20:39:30+00:00"
   },
   {
    "source": "Aikido",
