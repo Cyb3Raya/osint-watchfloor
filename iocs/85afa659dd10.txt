@@ -1,0 +1,14 @@
+IOC EXTRACTION - SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform
+Source: https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/
+Extracted: 2026-08-12 08:20:32 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-66145
+CVE-2026-66147
+CVE-2026-66149
+CVE-2026-66150

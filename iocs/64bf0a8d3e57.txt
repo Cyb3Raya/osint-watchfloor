@@ -1,0 +1,13 @@
+IOC EXTRACTION - Ivanti EPM Update Patches Remotely Exploitable Flaws
+Source: https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/
+Extracted: 2026-08-12 08:20:30 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-18125
+CVE-2026-18127
+CVE-2026-18129

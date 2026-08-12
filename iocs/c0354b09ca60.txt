@@ -1,0 +1,15 @@
+IOC EXTRACTION - SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code
+Source: https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html
+Extracted: 2026-08-12 08:20:26 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-34265
+CVE-2026-44758
+CVE-2026-44772
+CVE-2026-5823
+CVE-2026-58231

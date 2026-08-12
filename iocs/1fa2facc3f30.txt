@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS
+Source: https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html
+Extracted: 2026-08-12 08:20:28 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-20349
