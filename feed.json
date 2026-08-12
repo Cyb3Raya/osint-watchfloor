@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-12T18:11:40.425662+00:00",
+ "generated": "2026-08-12T19:31:23.344309+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+   "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+   "desc": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+   "image": "",
+   "date": "2026-08-12T18:54:57+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
@@ -499,14 +507,6 @@
    "date": "2026-08-11T17:54:49+00:00",
    "iocs": "iocs/5b4351d43032.txt",
    "ioc_count": 418
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-   "desc": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-   "image": "",
-   "date": "2026-08-11T17:38:42+00:00"
   },
   {
    "source": "The Hacker News",
