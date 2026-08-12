@@ -1,0 +1,69 @@
+IOC EXTRACTION - 737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection
+Source: https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed
+Extracted: 2026-08-12 00:41:18 UTC
+Total indicators: 53
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (27)
+----------------------------------------
+103[.]35[.]189[.]225
+103[.]35[.]191[.]173
+130[.]17[.]1[.]19
+138[.]124[.]244[.]206
+147[.]45[.]60[.]241
+147[.]45[.]60[.]252
+158[.]160[.]228[.]178
+178[.]130[.]47[.]129
+178[.]130[.]47[.]43
+178[.]130[.]47[.]44
+178[.]130[.]47[.]50
+185[.]252[.]215[.]97
+185[.]252[.]215[.]98
+194[.]150[.]220[.]163
+212[.]192[.]14[.]75
+45[.]89[.]110[.]227
+5[.]180[.]30[.]122
+5[.]180[.]30[.]15
+78[.]153[.]155[.]112
+80[.]92[.]204[.]33
+80[.]92[.]204[.]47
+80[.]92[.]206[.]84
+81[.]90[.]31[.]73
+86[.]104[.]74[.]110
+94[.]131[.]118[.]237
+94[.]131[.]118[.]39
+95[.]163[.]244[.]138
+
+Domains (25)
+----------------------------------------
+app[.]getmyxa[.]com
+app[.]myxavpn[.]com
+app[.]myxavpn[.]pro
+getmyxa[.]com
+git[.]myxavpn[.]com
+gusenvpn[.]online
+internetprvpn[.]ru
+monitoring[.]myxavpn[.]com
+myxavpn[.]com
+myxavpn[.]online
+myxavpn[.]pro
+myxavpn[.]site
+myxavpn[.]tech
+ns1[.]reg[.]ru
+ns2[.]reg[.]ru
+osavpn[.]su
+salega[.]ru
+spidervpn[.]online
+tarakanvpn[.]online
+usachvpn[.]su
+vpn-myxa[.]ru
+vpnmyxa[.]site
+xray[.]myxavpn[.]com
+zhuknet[.]online
+zhukvpn[.]online
+
+SHA256 (1)
+----------------------------------------
+1dea4975f7aaba71bf7821fcf62deca470ef5e21f45c947b103ddeb836ef9b81
