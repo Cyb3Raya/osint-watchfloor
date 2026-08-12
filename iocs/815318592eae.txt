@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hackers exploit critical Adobe Commerce flaw to hijack customer accounts
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/
+Extracted: 2026-08-12 21:25:34 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-48411
+CVE-2026-48412
+CVE-2026-48413
+CVE-2026-48414
+CVE-2026-48415
+CVE-2026-48416
+CVE-2026-71362
