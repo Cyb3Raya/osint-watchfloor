@@ -1,0 +1,18 @@
+IOC EXTRACTION - Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws
+Source: https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html
+Extracted: 2026-08-12 12:02:40 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-27302
+CVE-2026-48273
+CVE-2026-48362
+CVE-2026-48381
+CVE-2026-48449
+CVE-2026-71362
+CVE-2026-71384
+CVE-2026-71398
