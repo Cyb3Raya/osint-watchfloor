@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cisco Patches Firewall Zero-Day Exploited for DoS Attacks
+Source: https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/
+Extracted: 2026-08-12 05:17:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-20349

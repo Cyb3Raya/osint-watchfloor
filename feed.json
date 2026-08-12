@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-12T03:24:04.115042+00:00",
+ "generated": "2026-08-12T05:17:36.059611+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+   "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+   "desc": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices. The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-12T05:10:47+00:00",
+   "iocs": "iocs/fb25ddb82172.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
@@ -445,14 +455,6 @@
    "date": "2026-08-11T09:47:06+00:00",
    "iocs": "iocs/78717ca6ff86.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber",
-   "link": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
-   "desc": "OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI. The post OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-11T09:45:05+00:00"
   },
   {
    "source": "The Hacker News",
