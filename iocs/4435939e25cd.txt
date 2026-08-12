@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign
+Source: https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug
+Extracted: 2026-08-12 13:53:05 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-68820

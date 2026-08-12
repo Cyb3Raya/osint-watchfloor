@@ -1,0 +1,12 @@
+IOC EXTRACTION - Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery
+Source: https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai
+Extracted: 2026-08-12 13:53:04 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-62832
+CVE-2026-68820

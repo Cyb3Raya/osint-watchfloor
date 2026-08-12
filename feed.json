@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T12:02:49.148241+00:00",
+ "generated": "2026-08-12T13:53:07.884910+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,92 @@
    "desc": "SAST, Deep PR Review, AI Code Analysis, and AI Pentest each catch different vulnerabilities at different stages. Here's when to use each, and why. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7c43f49d01a73a639b849d_AI-code-analysis-vs-AI-pentesting-vs-traditional-SAST_Feature.png",
    "date": "2026-08-12T13:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mindgard Raises $30 Million to Protect AI Systems",
+   "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
+   "desc": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams. The post Mindgard Raises $30 Million to Protect AI Systems appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-12T13:24:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "WhatsApp Unveils New Scam Alert Feature",
+   "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+   "desc": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system. The post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-12T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
+   "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+   "desc": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNo",
+   "image": "",
+   "date": "2026-08-12T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Three intrusions at UK criminal records office went undetected for two years",
+   "link": "https://therecord.media/uk-criminal-records-office-acro-data-breaches",
+   "desc": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.",
+   "image": "",
+   "date": "2026-08-12T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+   "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+   "desc": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-12T12:41:03+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery",
+   "link": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
+   "desc": "This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.",
+   "image": "",
+   "date": "2026-08-12T12:38:00+00:00",
+   "iocs": "iocs/31a5be72e247.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+   "desc": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+   "image": "",
+   "date": "2026-08-12T12:25:37+00:00",
+   "iocs": "iocs/b9caa044f7f1.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign",
+   "link": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
+   "desc": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.",
+   "image": "",
+   "date": "2026-08-12T12:06:00+00:00",
+   "iocs": "iocs/4435939e25cd.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+   "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+   "desc": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg",
+   "date": "2026-08-12T11:47:38+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+   "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+   "desc": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg",
+   "date": "2026-08-12T11:41:34+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -153,16 +239,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
-   "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
-   "desc": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices. The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T05:10:47+00:00",
-   "iocs": "iocs/fb25ddb82172.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
    "link": "https://isc.sans.edu/diary/rss/33238",
@@ -301,16 +377,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
-   "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
-   "desc": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-08-11T18:46:07+00:00",
-   "iocs": "iocs/93c7e955aa53.txt",
-   "ioc_count": 13
-  },
-  {
    "source": "The Hacker News",
    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
    "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
@@ -365,16 +431,6 @@
    "date": "2026-08-11T17:38:42+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-   "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-   "desc": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-11T16:50:19+00:00",
-   "iocs": "iocs/434fc5cac482.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "The Hacker News",
    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
    "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
@@ -401,14 +457,6 @@
    "desc": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
    "image": "",
    "date": "2026-08-11T15:59:35+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-   "link": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-   "desc": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.",
-   "image": "",
-   "date": "2026-08-11T15:43:45+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -443,52 +491,6 @@
    "desc": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
    "image": "",
    "date": "2026-08-11T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Local governments in four states dealing with cyberattacks that have shut down services",
-   "link": "https://therecord.media/cyberattacks-ransomware-local-governments",
-   "desc": "Municipalities in California, Oklahoma, Wisconsin and Texas are all recovering from disruptive cyberattacks that have affected government operations.",
-   "image": "",
-   "date": "2026-08-11T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Kids’ online safety bill faces dim prospects of passage this session despite progress",
-   "link": "https://therecord.media/kids-online-safety-act-congress",
-   "desc": "Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session.",
-   "image": "",
-   "date": "2026-08-11T12:15:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-   "desc": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
-   "image": "",
-   "date": "2026-08-11T12:12:16+00:00",
-   "iocs": "iocs/4bfb2490760d.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-   "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-   "desc": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg",
-   "date": "2026-08-11T12:05:03+00:00",
-   "iocs": "iocs/c2a228c2f259.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-   "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-   "desc": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is ho",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg",
-   "date": "2026-08-11T12:04:51+00:00",
-   "iocs": "iocs/c0a1d300dc46.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -765,14 +767,6 @@
    "date": "2026-08-06T00:15:40+00:00",
    "iocs": "iocs/cedf61ae0cca.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-   "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-   "desc": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d5bbb76a9a7ed2b/6a73baa39adea75f0c6c4181/fraud-RapidEye-Getty-155132055.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-05T23:35:28+00:00"
   },
   {
    "source": "Socket",

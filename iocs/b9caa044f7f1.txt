@@ -1,0 +1,12 @@
+IOC EXTRACTION - Hackers leverage new Microsoft SharePoint exploit in attacks
+Source: https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/
+Extracted: 2026-08-12 13:52:49 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-45659
+CVE-2026-55040
