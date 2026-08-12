@@ -1,0 +1,18 @@
+IOC EXTRACTION - Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
+Source: https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
+Extracted: 2026-08-12 18:11:31 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-49113
+CVE-2026-68820
+
+Domains (3)
+----------------------------------------
+enveil[.]online
+envell[.]xyz
+uxtramine[.]org

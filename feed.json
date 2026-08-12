@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-12T17:17:27.907350+00:00",
+ "generated": "2026-08-12T18:11:40.425662+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+   "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+   "desc": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg",
+   "date": "2026-08-12T17:39:27+00:00",
+   "iocs": "iocs/3fd53cb513b8.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
+   "link": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
+   "desc": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
+   "image": "",
+   "date": "2026-08-12T17:28:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
+   "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+   "desc": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb5edf0a88cbf30a/65fca59bf356d6040a45b27b/collab-Aleksei_Gorodenkov-alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-12T16:28:04+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
@@ -419,14 +445,6 @@
    "date": "2026-08-11T19:36:37+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
-   "link": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-   "desc": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
-   "image": "",
-   "date": "2026-08-11T19:15:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
    "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
@@ -499,16 +517,6 @@
    "date": "2026-08-11T16:47:44+00:00",
    "iocs": "iocs/83f9b708b132.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-   "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-   "desc": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg",
-   "date": "2026-08-11T16:35:27+00:00",
-   "iocs": "iocs/5eca0a7b43d2.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -697,14 +705,6 @@
    "desc": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e864537fec413db/6a74f1f43413ca898c4c0341/Jailbreak-tiero-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-06T20:39:30+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
-   "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
-   "desc": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a01e6b265bc8c2/6a74e71b469e8f1b3353e662/sandbox-diczman-GettyImages-2237058218.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-06T20:38:51+00:00"
   },
   {
    "source": "Aikido",
