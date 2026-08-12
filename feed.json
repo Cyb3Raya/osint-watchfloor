@@ -1,9 +1,59 @@
 {
- "generated": "2026-08-12T13:53:07.884910+00:00",
+ "generated": "2026-08-12T15:00:00.233552+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
+   "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
+   "desc": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-12T14:47:01+00:00",
+   "iocs": "iocs/11be2fbf8bdc.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
+   "link": "https://isc.sans.edu/diary/rss/33240",
+   "desc": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5f&#x3b;history\"",
+   "image": "",
+   "date": "2026-08-12T14:21:10+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FBI: Hackers target online accounts to steal nude photos",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+   "desc": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+   "image": "",
+   "date": "2026-08-12T14:15:09+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+   "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+   "desc": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg",
+   "date": "2026-08-12T14:09:50+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+   "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+   "desc": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness ch",
+   "image": "",
+   "date": "2026-08-12T14:01:11+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+   "desc": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba3b338ea83088a3/6a7b96d08c0da329167a21fa/colombia-flag-digital-muhammadtoqeer-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-12T14:00:00+00:00"
+  },
   {
    "source": "Aikido",
    "title": "Finding vulnerabilities at every stage: what to run, and when",
@@ -207,16 +257,6 @@
    "date": "2026-08-12T07:31:40+00:00",
    "iocs": "iocs/c0354b09ca60.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
-   "link": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
-   "desc": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data. The post SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform appeared first on Se",
-   "image": "",
-   "date": "2026-08-12T07:31:11+00:00",
-   "iocs": "iocs/85afa659dd10.txt",
-   "ioc_count": 4
   },
   {
    "source": "The Hacker News",
@@ -467,32 +507,6 @@
    "date": "2026-08-11T13:20:28+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-   "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-   "desc": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce ",
-   "image": "",
-   "date": "2026-08-11T13:15:24+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-   "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-   "desc": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to impr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg",
-   "date": "2026-08-11T13:11:23+00:00",
-   "iocs": "iocs/989bd22c0030.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-   "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-   "desc": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-   "image": "",
-   "date": "2026-08-11T13:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
    "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
@@ -697,14 +711,6 @@
    "date": "2026-08-06T19:26:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
-   "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-   "desc": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-06T19:00:11+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Why metaphor may dictate your security strategy",
    "link": "https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/",
@@ -783,14 +789,6 @@
    "desc": "Three summer disclosures documented AI agents attacking real organizations with no human intent in the chain. Incident response has no box for this yet. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a737a3832193854d8fbce62_Next-threat-actor-may-not-know-it-is-a-threat-actor_16x9.jpg",
    "date": "2026-08-05T17:59:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
-   "link": "https://isc.sans.edu/diary/rss/33218",
-   "desc": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup",
-   "image": "",
-   "date": "2026-08-05T17:56:15+00:00"
   },
   {
    "source": "Aikido",
