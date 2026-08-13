@@ -1,0 +1,11 @@
+IOC EXTRACTION - When read-only mounts in Docker Sandboxes become writable
+Source: https://www.aikido.dev/blog/read-only-mounts-docker-sandboxes-writable
+Extracted: 2026-08-13 18:12:09 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-18171
