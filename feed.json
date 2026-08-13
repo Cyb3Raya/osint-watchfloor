@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-13T18:12:11.932399+00:00",
+ "generated": "2026-08-13T19:30:08.669926+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers breach govt webmail while running parallel crypto fraud",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
+   "desc": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
+   "image": "",
+   "date": "2026-08-13T18:15:19+00:00"
+  },
   {
    "source": "Cisco Talos",
    "title": "Curiouser and Curiouser",
@@ -48,16 +56,6 @@
    "image": "",
    "date": "2026-08-13T16:40:23+00:00",
    "iocs": "iocs/a4f4d669c4c8.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "When read-only mounts in Docker Sandboxes become writable",
-   "link": "https://www.aikido.dev/blog/read-only-mounts-docker-sandboxes-writable",
-   "desc": "CVE-2026-18171 is a read-only mount bypass in Docker Sandboxes, where a second VirtioFS path let sandboxed code write to files marked read-only. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7ded945ac3e8ae061e8cdb_docker_Feature.jpg",
-   "date": "2026-08-13T16:21:00+00:00",
-   "iocs": "iocs/ad3583fb8c0d.txt",
    "ioc_count": 1
   },
   {
@@ -371,14 +369,6 @@
    "desc": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg",
    "date": "2026-08-12T14:09:50+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-   "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-   "desc": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness ch",
-   "image": "",
-   "date": "2026-08-12T14:01:11+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1153,6 +1143,16 @@
    "desc": "Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/BH2026_social_generic.jpg",
    "date": "2026-07-23T10:00:14+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Finding eight high-severity vulnerabilities in NodeBB in six hours",
+   "link": "https://www.aikido.dev/blog/eight-high-severity-vulnerabilities-nodebb",
+   "desc": "Eight high-severity NodeBB vulnerabilities, found by our AI Pentest in six hours. Full technical breakdown of the XSS chains, auth bypasses, and post hijacking. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a55786ecee46df1759dbe9c_Feature_Finding-eight-high-severity-vulns-in-NodeBB_16x9.jpg",
+   "date": "2026-07-22T21:44:00+00:00",
+   "iocs": "iocs/b1446d13eb7c.txt",
+   "ioc_count": 32
   },
   {
    "source": "Krebs on Security",
