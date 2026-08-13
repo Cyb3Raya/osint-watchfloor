@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-13T11:13:36.384520+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-13T12:03:42.728092+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "SANS ISC"
+ ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "WhatsApp rolls out new feature that flags potential scam messages",
+   "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+   "desc": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+   "image": "",
+   "date": "2026-08-13T11:50:22+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Venture Firm Team8 Secures Additional $365 Million",
+   "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
+   "desc": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-13T11:42:48+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
@@ -77,24 +95,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-   "link": "https://isc.sans.edu/diary/rss/33244",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-13T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33242",
-   "desc": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how it",
-   "image": "",
-   "date": "2026-08-13T01:26:53+00:00",
-   "iocs": "iocs/be579ec8a4a0.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "BleepingComputer",
    "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
    "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
@@ -156,9 +156,9 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
+   "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-   "desc": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+   "desc": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb5edf0a88cbf30a/65fca59bf356d6040a45b27b/collab-Aleksei_Gorodenkov-alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-12T16:28:04+00:00"
   },
@@ -191,14 +191,6 @@
    "date": "2026-08-12T14:47:01+00:00",
    "iocs": "iocs/11be2fbf8bdc.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33240",
-   "desc": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5f&#x3b;history\"",
-   "image": "",
-   "date": "2026-08-12T14:21:10+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -353,14 +345,6 @@
    "ioc_count": 8
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-   "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-   "desc": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution. The post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined ap",
-   "image": "",
-   "date": "2026-08-12T10:55:04+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
@@ -419,14 +403,6 @@
    "date": "2026-08-12T06:15:58+00:00",
    "iocs": "iocs/1fa2facc3f30.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33238",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-12T02:00:03+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -523,16 +499,6 @@
    "date": "2026-08-11T20:00:09+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-   "desc": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-   "image": "",
-   "date": "2026-08-11T19:45:31+00:00",
-   "iocs": "iocs/b566b358a523.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
    "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
@@ -561,16 +527,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SANS ISC",
-   "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33236",
-   "desc": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container ta",
-   "image": "",
-   "date": "2026-08-11T17:54:49+00:00",
-   "iocs": "iocs/5b4351d43032.txt",
-   "ioc_count": 418
-  },
-  {
    "source": "Unit 42",
    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
    "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
@@ -579,14 +535,6 @@
    "date": "2026-08-11T10:00:16+00:00",
    "iocs": "iocs/2e25b4d15492.txt",
    "ioc_count": 29
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33232",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-11T02:00:03+00:00"
   },
   {
    "source": "Unit 42",
@@ -651,14 +599,6 @@
    "date": "2026-08-10T16:25:22+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33230",
-   "desc": "Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developers. These APIs will eith",
-   "image": "",
-   "date": "2026-08-10T16:24:45+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Sherlock Holmes Was the 'OG' Social Engineer",
    "link": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
@@ -675,14 +615,6 @@
    "date": "2026-08-10T14:00:00+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33228",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-10T02:00:03+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Inside the Modern SOC: The Identity Front Door",
    "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
@@ -691,30 +623,12 @@
    "date": "2026-08-07T23:00:01+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
-   "link": "https://isc.sans.edu/diary/rss/33226",
-   "desc": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historizatio",
-   "image": "",
-   "date": "2026-08-07T07:22:28+00:00",
-   "iocs": "iocs/1d8978e624b3.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Socket",
    "title": "Free Business Plan Upgrades for Open Source Maintainers",
    "link": "https://socket.dev/blog/free-business-plan-upgrades-for-open-source?utm_medium=feed",
    "desc": "Open source maintainers are under more pressure than ever. We're raising our open source program from the Team plan to the Business plan, free.",
    "image": "",
    "date": "2026-08-07T06:49:17+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
-   "link": "https://isc.sans.edu/diary/rss/33224",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-07T02:00:02+00:00"
   },
   {
    "source": "Wiz Threats",
