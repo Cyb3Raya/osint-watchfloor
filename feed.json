@@ -1,11 +1,25 @@
 {
- "generated": "2026-08-13T15:00:58.377705+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-13T16:13:17.275265+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
+   "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
+   "desc": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
+   "image": "",
+   "date": "2026-08-13T15:52:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+   "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+   "desc": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
+   "image": "",
+   "date": "2026-08-13T15:13:19+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
@@ -33,12 +47,28 @@
    "date": "2026-08-13T14:00:10+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
+   "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
+   "desc": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
+   "image": "",
+   "date": "2026-08-13T13:37:32+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "White House taps security firms for offensive hack-back operations",
    "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
    "desc": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cyber",
    "image": "",
    "date": "2026-08-13T13:30:53+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Trump taps cyber firms to go on offensive against criminals",
+   "link": "https://therecord.media/trump-cyber-crime-offensive",
+   "desc": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.",
+   "image": "",
+   "date": "2026-08-13T13:30:00+00:00"
   },
   {
    "source": "Aikido",
@@ -57,6 +87,14 @@
    "date": "2026-08-13T12:53:56+00:00",
    "iocs": "iocs/893d6bc1b9dd.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Germany moves to give spy agencies hacking and sabotage powers",
+   "link": "https://therecord.media/germany-spy-agency-powers",
+   "desc": "Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul o",
+   "image": "",
+   "date": "2026-08-13T12:45:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -215,6 +253,14 @@
    "date": "2026-08-12T17:39:27+00:00",
    "iocs": "iocs/3fd53cb513b8.txt",
    "ioc_count": 5
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
+   "link": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
+   "desc": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
+   "image": "",
+   "date": "2026-08-12T17:28:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -431,14 +477,6 @@
    "date": "2026-08-12T02:00:03+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-   "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-   "desc": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
-   "image": "",
-   "date": "2026-08-12T01:15:55+00:00"
-  },
-  {
    "source": "Socket",
    "title": "737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection",
    "link": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
@@ -462,7 +500,7 @@
    "source": "Dark Reading",
    "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
    "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-   "desc": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+   "desc": "The most concerning bug in the batch is CVE-2026-62878 (CVSS: 9.8), a remote code execution (RCE) vulnerability in Windows DNS Server that requires no user interaction.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff4a30148731b710/6a7b8cee356eb8abac637ca4/patch_tomeqs_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-11T21:42:34+00:00",
    "iocs": "iocs/a0b8784b0aa5.txt",
