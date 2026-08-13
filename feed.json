@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-13T05:21:37.194707+00:00",
+ "generated": "2026-08-13T07:01:55.893744+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+   "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+   "desc": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-13T07:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+   "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+   "desc": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg",
+   "date": "2026-08-13T06:09:48+00:00",
+   "iocs": "iocs/3c5ef5fa5324.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
@@ -535,16 +553,6 @@
    "ioc_count": 418
   },
   {
-   "source": "The Hacker News",
-   "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-   "desc": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg",
-   "date": "2026-08-11T16:47:44+00:00",
-   "iocs": "iocs/83f9b708b132.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Unit 42",
    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
    "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
@@ -715,14 +723,6 @@
    "date": "2026-08-06T22:26:39+00:00",
    "iocs": "iocs/89cee2888f3f.txt",
    "ioc_count": 11
-  },
-  {
-   "source": "Dark Reading",
-   "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
-   "desc": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773d06d488d0bafb/67ae0378f9958cc7415de40e/Cybercrime_(1800)_wsf_AL_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-06T21:42:50+00:00"
   },
   {
    "source": "Aikido",
