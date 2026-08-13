@@ -1,0 +1,11 @@
+IOC EXTRACTION - Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’
+Source: https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/
+Extracted: 2026-08-13 08:46:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50656

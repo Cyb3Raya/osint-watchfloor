@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-13T07:01:55.893744+00:00",
+ "generated": "2026-08-13T08:47:04.277289+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+   "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+   "desc": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217; appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-13T08:38:03+00:00",
+   "iocs": "iocs/5688fda416b0.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Dark Reading",
    "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
@@ -363,14 +373,6 @@
    "date": "2026-08-12T08:04:52+00:00",
    "iocs": "iocs/ef7a70b327b6.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-   "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
-   "desc": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T07:51:55+00:00"
   },
   {
    "source": "The Hacker News",
