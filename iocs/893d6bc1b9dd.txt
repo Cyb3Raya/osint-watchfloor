@@ -1,0 +1,11 @@
+IOC EXTRACTION - WordPress 7.0.4 Patches Remote Code Execution Vulnerability
+Source: https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/
+Extracted: 2026-08-13 13:52:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65640
