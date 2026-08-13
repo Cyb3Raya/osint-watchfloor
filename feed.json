@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-13T00:42:10.683764+00:00",
+ "generated": "2026-08-13T03:27:38.481416+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+   "link": "https://isc.sans.edu/diary/rss/33244",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-13T02:00:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+   "link": "https://isc.sans.edu/diary/rss/33242",
+   "desc": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how it",
+   "image": "",
+   "date": "2026-08-13T01:26:53+00:00",
+   "iocs": "iocs/be579ec8a4a0.txt",
+   "ioc_count": 3
+  },
   {
    "source": "BleepingComputer",
    "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
@@ -759,24 +777,6 @@
    "desc": "The supply chain control that delays freshly published gems now covers lockfile generation and gem vendoring in Ruby projects.",
    "image": "",
    "date": "2026-08-06T03:50:54+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
-   "link": "https://isc.sans.edu/diary/rss/33222",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-06T02:00:02+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink &#x5b;Guest Diary&#x5d;, (Thu, Aug 6th)",
-   "link": "https://isc.sans.edu/diary/rss/33220",
-   "desc": "&#x5b;This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-08-06T00:15:40+00:00",
-   "iocs": "iocs/cedf61ae0cca.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
