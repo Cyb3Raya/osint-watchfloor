@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-13T20:18:01.772809+00:00",
+ "generated": "2026-08-13T21:09:04.602265+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+   "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+   "desc": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+   "image": "",
+   "date": "2026-08-13T20:47:02+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers breach govt webmail while running parallel crypto fraud",
@@ -353,14 +361,6 @@
    "desc": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5f&#x3b;history\"",
    "image": "",
    "date": "2026-08-12T14:21:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "FBI: Hackers target online accounts to steal nude photos",
-   "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-   "desc": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
-   "image": "",
-   "date": "2026-08-12T14:15:09+00:00"
   },
   {
    "source": "The Hacker News",
