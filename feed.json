@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-13T16:13:17.275265+00:00",
+ "generated": "2026-08-13T17:17:07.827419+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Flock tightens privacy controls amid scandals over officer abuse",
+   "link": "https://therecord.media/flock-safety-audit-assistance-police-departments",
+   "desc": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.",
+   "image": "",
+   "date": "2026-08-13T16:47:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+   "desc": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+   "image": "",
+   "date": "2026-08-13T16:40:23+00:00",
+   "iocs": "iocs/a4f4d669c4c8.txt",
+   "ioc_count": 1
+  },
   {
    "source": "RF The Record",
    "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
@@ -255,14 +273,6 @@
    "ioc_count": 5
   },
   {
-   "source": "RF The Record",
-   "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
-   "link": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
-   "desc": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
-   "image": "",
-   "date": "2026-08-12T17:28:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
@@ -407,16 +417,6 @@
    "date": "2026-08-12T11:13:03+00:00",
    "iocs": "iocs/ee8b70611ea8.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-   "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-   "desc": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-   "image": "",
-   "date": "2026-08-12T10:15:22+00:00",
-   "iocs": "iocs/dd69fa666db7.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",

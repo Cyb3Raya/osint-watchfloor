@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical VMware vCenter RCE flaw exploited for reverse SSH access
+Source: https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/
+Extracted: 2026-08-13 17:17:00 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-59310
