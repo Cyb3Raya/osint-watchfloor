@@ -1,0 +1,14 @@
+IOC EXTRACTION - Fortinet Patches Authentication Flaws in FortiWeb and FortiManager
+Source: https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/
+Extracted: 2026-08-13 11:13:30 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-26035
+CVE-2026-49975
+CVE-2026-70465
+CVE-2026-70468

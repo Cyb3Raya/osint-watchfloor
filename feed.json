@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-13T10:10:34.851489+00:00",
+ "generated": "2026-08-13T11:13:36.384520+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+   "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+   "desc": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first o",
+   "image": "",
+   "date": "2026-08-13T10:40:57+00:00",
+   "iocs": "iocs/3b060413c35a.txt",
+   "ioc_count": 4
+  },
   {
    "source": "Cisco Talos",
    "title": "Dissecting the JWR phishing framework",
@@ -359,14 +369,6 @@
    "date": "2026-08-12T10:15:22+00:00",
    "iocs": "iocs/dd69fa666db7.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-   "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-   "desc": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T09:55:45+00:00"
   },
   {
    "source": "The Hacker News",
