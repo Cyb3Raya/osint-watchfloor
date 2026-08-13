@@ -1,9 +1,43 @@
 {
- "generated": "2026-08-13T08:47:04.277289+00:00",
+ "generated": "2026-08-13T10:10:34.851489+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Cisco Talos",
+   "title": "Dissecting the JWR phishing framework",
+   "link": "https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/",
+   "desc": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_spotlight.jpg",
+   "date": "2026-08-13T10:00:35+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
+   "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+   "desc": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt893479ef58bbf0b0/6a7b71ae9cb490661e220bfd/Jewel_bug-suksaeng-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-13T10:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
+   "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
+   "desc": "Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements. The post White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs a",
+   "image": "",
+   "date": "2026-08-13T09:53:04+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
+   "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+   "desc": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-13T09:06:40+00:00",
+   "iocs": "iocs/c234084d7230.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
@@ -345,26 +379,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-   "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-   "desc": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T08:45:53+00:00",
-   "iocs": "iocs/283e36e8c805.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-   "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-   "desc": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T08:14:46+00:00",
-   "iocs": "iocs/64bf0a8d3e57.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
    "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
@@ -673,14 +687,6 @@
    "desc": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond. The post Inside the Modern SOC: The Identity Front Door appeared first on Unit 42.",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/04_Listicle_Overview_1920x900.jpg",
    "date": "2026-08-07T23:00:01+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI-Generated Patches Fail Half the Time",
-   "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-   "desc": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51cfa43c126c431d/6a75005453cbbc62a56894c9/patches-in-denim-nnattalli-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-07T16:47:43+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1299,14 +1305,6 @@
    "date": "2026-07-14T19:22:42+00:00",
    "iocs": "iocs/b49a657379e3.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "[Video] Where protection starts: Cisco Talos Intelligence Integrations",
-   "link": "https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/",
-   "desc": "Every day, defenders make high-consequence decisions with incomplete information. Learn how Cisco Talos Intelligence Integrations help reduce uncertainty by turning the latest threat intelligence into proactive protectio",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/Talos_integrations_header-2.jpg",
-   "date": "2026-07-14T10:47:18+00:00"
   },
   {
    "source": "Wiz Threats",
