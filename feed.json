@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-13T21:09:04.602265+00:00",
+ "generated": "2026-08-13T22:06:32.279894+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+   "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+   "desc": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
+   "image": "",
+   "date": "2026-08-13T21:12:47+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
@@ -11,6 +19,14 @@
    "desc": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
    "image": "",
    "date": "2026-08-13T20:47:02+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
+   "desc": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-13T20:45:17+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -333,16 +349,6 @@
    "date": "2026-08-12T16:05:12+00:00",
    "iocs": "iocs/72e2cac84654.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-   "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-   "desc": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-   "image": "",
-   "date": "2026-08-12T15:38:08+00:00",
-   "iocs": "iocs/dbb7a181965b.txt",
-   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -671,14 +677,6 @@
    "desc": "Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developers. These APIs will eith",
    "image": "",
    "date": "2026-08-10T16:24:45+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Sherlock Holmes Was the 'OG' Social Engineer",
-   "link": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
-   "desc": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce9752dae28ee42d/6a79f6588b45c2da860963c6/GettyImages-2208642630.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T15:59:27+00:00"
   },
   {
    "source": "IC3 PSA",
