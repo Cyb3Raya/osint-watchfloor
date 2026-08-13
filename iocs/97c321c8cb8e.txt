@@ -1,0 +1,11 @@
+IOC EXTRACTION - Adobe Commerce Bug Targeted Immediately After Disclosure
+Source: https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/
+Extracted: 2026-08-13 15:00:44 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-71362

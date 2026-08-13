@@ -1,16 +1,36 @@
 {
- "generated": "2026-08-13T13:52:47.393575+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-13T15:00:58.377705+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
   {
-   "source": "RF The Record",
-   "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
-   "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
-   "desc": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
+   "source": "SecurityWeek",
+   "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
+   "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
+   "desc": "Significant cybersecurity M&#038;A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm. The post Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026 appeared first on Secu",
    "image": "",
-   "date": "2026-08-13T13:37:32+00:00"
+   "date": "2026-08-13T14:41:44+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+   "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
+   "desc": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-13T14:17:44+00:00",
+   "iocs": "iocs/97c321c8cb8e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+   "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+   "desc": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of select",
+   "image": "",
+   "date": "2026-08-13T14:00:10+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -21,12 +41,12 @@
    "date": "2026-08-13T13:30:53+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Trump taps cyber firms to go on offensive against criminals",
-   "link": "https://therecord.media/trump-cyber-crime-offensive",
-   "desc": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.",
-   "image": "",
-   "date": "2026-08-13T13:30:00+00:00"
+   "source": "Aikido",
+   "title": "From Hugging Face to Fable: this summer shows AI control matters more than trust",
+   "link": "https://www.aikido.dev/blog/why-you-need-your-own-ai-security-infrastructure",
+   "desc": "An autonomous AI breach at Hugging Face and Anthropic's Fable suspension show the same thing: trusting a vendor isn't the same as being in control Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7dcf0d65bd135ed47e2ab2_From-Hugging-Face-to-Fable-control-your-AI_Feature%20(2).png",
+   "date": "2026-08-13T13:05:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -37,14 +57,6 @@
    "date": "2026-08-13T12:53:56+00:00",
    "iocs": "iocs/893d6bc1b9dd.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Germany moves to give spy agencies hacking and sabotage powers",
-   "link": "https://therecord.media/germany-spy-agency-powers",
-   "desc": "Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul o",
-   "image": "",
-   "date": "2026-08-13T12:45:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -205,14 +217,6 @@
    "ioc_count": 5
   },
   {
-   "source": "RF The Record",
-   "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
-   "link": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
-   "desc": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
-   "image": "",
-   "date": "2026-08-12T17:28:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
@@ -305,30 +309,6 @@
    "desc": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams. The post Mindgard Raises $30 Million to Protect AI Systems appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-12T13:24:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "WhatsApp Unveils New Scam Alert Feature",
-   "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
-   "desc": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system. The post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
-   "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
-   "desc": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNo",
-   "image": "",
-   "date": "2026-08-12T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Three intrusions at UK criminal records office went undetected for two years",
-   "link": "https://therecord.media/uk-criminal-records-office-acro-data-breaches",
-   "desc": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.",
-   "image": "",
-   "date": "2026-08-12T13:00:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -477,14 +457,6 @@
    "date": "2026-08-11T22:21:02+00:00",
    "iocs": "iocs/5820ca4abc68.txt",
    "ioc_count": 94
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-   "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-   "desc": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-   "image": "",
-   "date": "2026-08-11T22:15:22+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1133,16 +1105,6 @@
    "date": "2026-07-22T21:44:00+00:00",
    "iocs": "iocs/b1446d13eb7c.txt",
    "ioc_count": 32
-  },
-  {
-   "source": "Aikido",
-   "title": "SQL injection isn't dead",
-   "link": "https://www.aikido.dev/blog/sql-injection-isnt-dead",
-   "desc": "The fix for SQL injection is decades old and still works. So why did WordPress core just need an emergency patch for one? The data, and how to defend against it. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5fed7ca539131b55e16a87_SQL-injection-isnt-dead_16x9%20feature.jpg",
-   "date": "2026-07-22T15:03:00+00:00",
-   "iocs": "iocs/8f26eb6920a6.txt",
-   "ioc_count": 1
   },
   {
    "source": "Krebs on Security",
