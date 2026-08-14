@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-14T20:00:15.232880+00:00",
+ "generated": "2026-08-14T20:39:03.954149+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
+   "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
+   "desc": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges.",
+   "image": "",
+   "date": "2026-08-14T20:31:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Mission-Driven Security: Inside a Global Bank's Defense",
@@ -341,14 +349,6 @@
    "desc": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
    "image": "",
    "date": "2026-08-13T13:37:32+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Trump taps cyber firms to go on offensive against criminals",
-   "link": "https://therecord.media/trump-cyber-crime-offensive",
-   "desc": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.",
-   "image": "",
-   "date": "2026-08-13T13:30:00+00:00"
   },
   {
    "source": "Aikido",
