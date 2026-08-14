@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-14T16:09:04.569674+00:00",
+ "generated": "2026-08-14T17:15:32.453263+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+   "desc": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-14T15:58:50+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top unified security tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-unified-security-tools",
+   "desc": "Compare the top unified security tools of 2026: Aikido, Cortex Cloud, Wiz, Checkmarx, Snyk, and Orca, across coverage, correlation, governance, and cost. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-14T15:53:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
@@ -50,7 +66,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+   "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
    "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
    "desc": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale",
@@ -679,16 +695,6 @@
    "date": "2026-08-10T21:02:23+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
-   "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-   "desc": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c385a6bd389354a/6a7a1578f0b097d1e3a7b7d0/patch_update_-Olemedia-getty-1368998829.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T17:56:34+00:00",
-   "iocs": "iocs/0104b7d587a6.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
    "link": "https://isc.sans.edu/diary/rss/33230",
@@ -1141,16 +1147,6 @@
    "desc": "Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/BH2026_social_generic.jpg",
    "date": "2026-07-23T10:00:14+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Finding eight high-severity vulnerabilities in NodeBB in six hours",
-   "link": "https://www.aikido.dev/blog/eight-high-severity-vulnerabilities-nodebb",
-   "desc": "Eight high-severity NodeBB vulnerabilities, found by our AI Pentest in six hours. Full technical breakdown of the XSS chains, auth bypasses, and post hijacking. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a55786ecee46df1759dbe9c_Feature_Finding-eight-high-severity-vulns-in-NodeBB_16x9.jpg",
-   "date": "2026-07-22T21:44:00+00:00",
-   "iocs": "iocs/b1446d13eb7c.txt",
-   "ioc_count": 32
   },
   {
    "source": "Krebs on Security",
