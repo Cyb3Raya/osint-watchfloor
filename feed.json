@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-14T10:38:02.358253+00:00",
+ "generated": "2026-08-14T11:27:53.638077+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+   "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+   "desc": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first o",
+   "image": "",
+   "date": "2026-08-14T11:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "RingCentral data breach exposed info of 1.6 million accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+   "desc": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+   "image": "",
+   "date": "2026-08-14T10:52:05+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
@@ -265,16 +281,6 @@
    "date": "2026-08-13T11:42:48+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-   "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-   "desc": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first o",
-   "image": "",
-   "date": "2026-08-13T10:40:57+00:00",
-   "iocs": "iocs/3b060413c35a.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Cisco Talos",
    "title": "Dissecting the JWR phishing framework",
    "link": "https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/",
@@ -349,16 +355,6 @@
    "desc": "The &quot;City-Forum&quot; campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-12T21:08:54+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-   "desc": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
-   "image": "",
-   "date": "2026-08-12T20:54:59+00:00",
-   "iocs": "iocs/815318592eae.txt",
-   "ioc_count": 7
   },
   {
    "source": "The Hacker News",
