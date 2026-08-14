@@ -1,9 +1,45 @@
 {
- "generated": "2026-08-14T11:27:53.638077+00:00",
+ "generated": "2026-08-14T12:27:57.373934+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+   "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+   "desc": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Oth",
+   "image": "",
+   "date": "2026-08-14T11:57:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Shell investigates 'potential incident' after Clop data theft claims",
+   "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+   "desc": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+   "image": "",
+   "date": "2026-08-14T11:55:45+00:00",
+   "iocs": "iocs/ba32a4944ff6.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+   "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+   "desc": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-14T11:35:23+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Who’s Tracking You? Use This New Service to Find Out",
+   "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+   "desc": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily pa",
+   "image": "",
+   "date": "2026-08-14T11:24:35+00:00",
+   "iocs": "iocs/669791ec854c.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
@@ -247,16 +283,6 @@
    "date": "2026-08-13T13:05:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-   "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-   "desc": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-13T12:53:56+00:00",
-   "iocs": "iocs/893d6bc1b9dd.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "RF The Record",
    "title": "Germany moves to give spy agencies hacking and sabotage powers",
    "link": "https://therecord.media/germany-spy-agency-powers",
@@ -271,14 +297,6 @@
    "desc": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
    "image": "",
    "date": "2026-08-13T11:50:22+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Venture Firm Team8 Secures Additional $365 Million",
-   "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-   "desc": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-13T11:42:48+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -339,14 +357,6 @@
    "desc": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
    "image": "",
    "date": "2026-08-12T23:07:23+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Android malware combo takes out loans and relays victims' credit cards",
-   "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-   "desc": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
-   "image": "",
-   "date": "2026-08-12T22:22:57+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1423,16 +1433,6 @@
    "desc": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Great",
    "image": "",
    "date": "2026-06-23T16:12:49+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-   "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-   "desc": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. Thi",
-   "image": "",
-   "date": "2026-06-18T17:37:58+00:00",
-   "iocs": "iocs/7c4f2c9bb4d9.txt",
-   "ioc_count": 4
   },
   {
    "source": "Wiz Threats",

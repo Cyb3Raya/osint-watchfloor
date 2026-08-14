@@ -1,0 +1,11 @@
+IOC EXTRACTION - Shell investigates 'potential incident' after Clop data theft claims
+Source: https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/
+Extracted: 2026-08-14 12:27:47 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-12569
