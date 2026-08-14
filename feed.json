@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-14T22:57:15.096693+00:00",
+ "generated": "2026-08-14T23:28:47.710380+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "How Anthropic plans to watermark Claude's AI-generated text",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+   "desc": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+   "image": "",
+   "date": "2026-08-14T23:24:17+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
@@ -315,14 +323,6 @@
    "desc": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
    "image": "",
    "date": "2026-08-13T15:52:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-   "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-   "desc": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
-   "image": "",
-   "date": "2026-08-13T15:13:19+00:00"
   },
   {
    "source": "SecurityWeek",
