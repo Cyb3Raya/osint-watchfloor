@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-14T14:00:53.754341+00:00",
+ "generated": "2026-08-14T15:10:18.763085+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+   "desc": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+   "image": "",
+   "date": "2026-08-14T14:59:55+00:00",
+   "iocs": "iocs/f3d1727276b9.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+   "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+   "desc": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the",
+   "image": "",
+   "date": "2026-08-14T14:00:10+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "What Boards Need to Know About Tech Risk",
@@ -293,14 +311,6 @@
    "date": "2026-08-13T13:37:32+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "White House taps security firms for offensive hack-back operations",
-   "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-   "desc": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cyber",
-   "image": "",
-   "date": "2026-08-13T13:30:53+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Trump taps cyber firms to go on offensive against criminals",
    "link": "https://therecord.media/trump-cyber-crime-offensive",
@@ -315,14 +325,6 @@
    "desc": "An autonomous AI breach at Hugging Face and Anthropic's Fable suspension show the same thing: trusting a vendor isn't the same as being in control Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7dcf0d65bd135ed47e2ab2_From-Hugging-Face-to-Fable-control-your-AI_Feature%20(2).png",
    "date": "2026-08-13T13:05:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "WhatsApp rolls out new feature that flags potential scam messages",
-   "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-   "desc": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
-   "image": "",
-   "date": "2026-08-13T11:50:22+00:00"
   },
   {
    "source": "Cisco Talos",
