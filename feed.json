@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-14T19:18:24.415276+00:00",
+ "generated": "2026-08-14T20:00:15.232880+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Mission-Driven Security: Inside a Global Bank's Defense",
+   "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
+   "desc": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both d",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-14T19:24:18+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
@@ -14,7 +22,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Amid AI-Driven Bug Tsunami, NIST Looks to … AI",
+   "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
    "desc": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
@@ -685,14 +693,6 @@
    "desc": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-10T21:54:22+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Multistate Water System Attacks Widen, Iran Suspected",
-   "link": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
-   "desc": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T21:34:38+00:00"
   },
   {
    "source": "SANS ISC",
