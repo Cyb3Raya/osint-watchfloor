@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-14T08:18:42.854660+00:00",
+ "generated": "2026-08-14T09:30:48.795829+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+   "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+   "desc": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first ",
+   "image": "",
+   "date": "2026-08-14T09:20:28+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Data analyst sent to prison for stealing data, extorting employer",
+   "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+   "desc": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
+   "image": "",
+   "date": "2026-08-14T08:27:18+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
@@ -275,16 +291,6 @@
    "date": "2026-08-13T09:53:04+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
-   "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
-   "desc": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-13T09:06:40+00:00",
-   "iocs": "iocs/c234084d7230.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
    "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
@@ -353,14 +359,6 @@
    "date": "2026-08-12T20:54:59+00:00",
    "iocs": "iocs/815318592eae.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
-   "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-   "desc": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
-   "image": "",
-   "date": "2026-08-12T18:54:57+00:00"
   },
   {
    "source": "The Hacker News",
