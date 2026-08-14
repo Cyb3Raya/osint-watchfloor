@@ -1,0 +1,11 @@
+IOC EXTRACTION - AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions
+Source: https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/
+Extracted: 2026-08-14 06:47:50 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2020-9771

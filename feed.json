@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-14T05:09:35.596162+00:00",
+ "generated": "2026-08-14T06:47:57.153405+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+   "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+   "desc": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared fir",
+   "image": "",
+   "date": "2026-08-14T06:41:43+00:00",
+   "iocs": "iocs/cdcfdf45252c.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
@@ -97,6 +107,14 @@
    "date": "2026-08-13T16:40:23+00:00",
    "iocs": "iocs/a4f4d669c4c8.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "White House Authorizes Private Companies to Conduct Offensive Cyber Operations",
+   "link": "https://socket.dev/blog/private-sector-offensive-cyber-operations?utm_medium=feed",
+   "desc": "A new federal program will let vetted U.S. cybersecurity firms help investigate and disrupt foreign cybercrime groups under government direction.",
+   "image": "",
+   "date": "2026-08-13T16:13:54+00:00"
   },
   {
    "source": "RF The Record",
@@ -397,14 +415,6 @@
    "desc": "SAST, Deep PR Review, AI Code Analysis, and AI Pentest each catch different vulnerabilities at different stages. Here's when to use each, and why. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7c43f49d01a73a639b849d_AI-code-analysis-vs-AI-pentesting-vs-traditional-SAST_Feature.png",
    "date": "2026-08-12T13:30:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Mindgard Raises $30 Million to Protect AI Systems",
-   "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
-   "desc": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams. The post Mindgard Raises $30 Million to Protect AI Systems appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-12T13:24:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1051,16 +1061,6 @@
    "date": "2026-07-28T20:23:55+00:00",
    "iocs": "iocs/28f5d9d9e155.txt",
    "ioc_count": 15
-  },
-  {
-   "source": "Socket",
-   "title": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-   "link": "https://socket.dev/blog/joyfill-npm-beta-releases-compromised?utm_medium=feed",
-   "desc": "Two Joyfill npm beta releases contain an import-time implant that uses blockchain transactions to retrieve a remote-access trojan.",
-   "image": "",
-   "date": "2026-07-28T14:34:42+00:00",
-   "iocs": "iocs/075835da826d.txt",
-   "ioc_count": 24
   },
   {
    "source": "Cisco Talos",
