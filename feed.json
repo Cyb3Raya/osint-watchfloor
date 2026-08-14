@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14T18:09:47.943477+00:00",
+ "generated": "2026-08-14T19:18:24.415276+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'",
    "image": "",
    "date": "2026-08-14T18:04:26+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Amid AI-Driven Bug Tsunami, NIST Looks to … AI",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+   "desc": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-14T17:32:46+00:00"
   },
   {
    "source": "Dark Reading",
@@ -685,14 +693,6 @@
    "desc": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-10T21:34:38+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
-   "desc": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac5b6cbe22b97997/6a7a3b465e4958876dc35113/blast_radius-George_Peters-GettyImages-1339899824_(1).jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T21:02:23+00:00"
   },
   {
    "source": "SANS ISC",
