@@ -1,9 +1,43 @@
 {
- "generated": "2026-08-14T12:27:57.373934+00:00",
+ "generated": "2026-08-14T14:00:53.754341+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "What Boards Need to Know About Tech Risk",
+   "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+   "desc": "Why do so many boards underestimate technology risk until it becomes a crisis?",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21c605763d0c60ea/6a7e01ffe9f4a6e313766046/boardroom-FangXiaNuo-Getty-618946910.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-14T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+   "desc": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+   "image": "",
+   "date": "2026-08-14T13:45:18+00:00",
+   "iocs": "iocs/99dadd313b8c.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "RF The Record",
+   "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+   "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+   "desc": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.",
+   "image": "",
+   "date": "2026-08-14T13:14:15+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+   "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+   "desc": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-14T12:17:21+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
@@ -283,14 +317,6 @@
    "date": "2026-08-13T13:05:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Germany moves to give spy agencies hacking and sabotage powers",
-   "link": "https://therecord.media/germany-spy-agency-powers",
-   "desc": "Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul o",
-   "image": "",
-   "date": "2026-08-13T12:45:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "WhatsApp rolls out new feature that flags potential scam messages",
    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
@@ -349,14 +375,6 @@
    "date": "2026-08-13T01:26:53+00:00",
    "iocs": "iocs/be579ec8a4a0.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-   "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-   "desc": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
-   "image": "",
-   "date": "2026-08-12T23:07:23+00:00"
   },
   {
    "source": "Dark Reading",
@@ -667,24 +685,6 @@
    "date": "2026-08-10T17:56:34+00:00",
    "iocs": "iocs/0104b7d587a6.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-   "desc": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a18f6dd4914a8aa/6a762c446b2f1a1a02c909f7/broken_phone-miljko-GettyImages-2232965251.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T17:09:20+00:00",
-   "iocs": "iocs/27d7e83c1bbb.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
-   "link": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
-   "desc": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf20421ffbc03318/6a79e8f5c41e200038a8f839/cyberlaw-AlexanderSikov-Getty-2188923710.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T16:25:22+00:00"
   },
   {
    "source": "SANS ISC",
