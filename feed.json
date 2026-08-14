@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-14T09:30:48.795829+00:00",
+ "generated": "2026-08-14T10:38:02.358253+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+   "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+   "desc": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-14T10:24:03+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
@@ -281,14 +289,6 @@
    "desc": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt893479ef58bbf0b0/6a7b71ae9cb490661e220bfd/Jewel_bug-suksaeng-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-13T10:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
-   "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
-   "desc": "Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements. The post White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs a",
-   "image": "",
-   "date": "2026-08-13T09:53:04+00:00"
   },
   {
    "source": "Dark Reading",
