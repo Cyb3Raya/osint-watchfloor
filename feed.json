@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-14T00:01:55.258465+00:00",
+ "generated": "2026-08-14T03:02:28.591194+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33246",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-14T02:00:03+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+   "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+   "desc": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
+   "image": "",
+   "date": "2026-08-14T01:19:12+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
@@ -339,16 +355,6 @@
    "desc": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb5edf0a88cbf30a/65fca59bf356d6040a45b27b/collab-Aleksei_Gorodenkov-alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-12T16:28:04+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-   "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-   "desc": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
-   "image": "",
-   "date": "2026-08-12T16:05:12+00:00",
-   "iocs": "iocs/72e2cac84654.txt",
-   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -719,14 +725,6 @@
    "desc": "Open source maintainers are under more pressure than ever. We're raising our open source program from the Team plan to the Business plan, free.",
    "image": "",
    "date": "2026-08-07T06:49:17+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
-   "link": "https://isc.sans.edu/diary/rss/33224",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-07T02:00:02+00:00"
   },
   {
    "source": "Wiz Threats",
