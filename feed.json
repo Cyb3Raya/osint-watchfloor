@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-14T17:15:32.453263+00:00",
+ "generated": "2026-08-14T18:09:47.943477+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+   "desc": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'",
+   "image": "",
+   "date": "2026-08-14T18:04:26+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
@@ -309,14 +317,6 @@
    "date": "2026-08-13T14:17:44+00:00",
    "iocs": "iocs/97c321c8cb8e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-   "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-   "desc": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of select",
-   "image": "",
-   "date": "2026-08-13T14:00:10+00:00"
   },
   {
    "source": "RF The Record",
