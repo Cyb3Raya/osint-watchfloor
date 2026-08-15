@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-15T13:57:04.002241+00:00",
+ "generated": "2026-08-15T14:30:34.337710+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+   "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+   "desc": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+   "image": "",
+   "date": "2026-08-15T14:14:38+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "How Anthropic plans to watermark Claude's AI-generated text",
@@ -313,16 +321,6 @@
    "desc": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.",
    "image": "",
    "date": "2026-08-13T16:47:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-   "desc": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
-   "image": "",
-   "date": "2026-08-13T16:40:23+00:00",
-   "iocs": "iocs/a4f4d669c4c8.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
