@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14T23:57:55.089809+00:00",
+ "generated": "2026-08-15T01:43:42.687161+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
    "image": "",
    "date": "2026-08-14T23:24:17+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top enterprise SCA tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-enterprise-sca-tools",
+   "desc": "Compare enterprise SCA tools for 2026: Aikido, Sonatype, Snyk, Endor Labs, Checkmarx, Black Duck, and Veracode on intelligence, remediation, and compliance. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-14T20:38:00+00:00"
   },
   {
    "source": "RF The Record",
@@ -43,6 +51,14 @@
    "desc": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-14T17:32:46+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top enterprise DAST tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-enterprise-dast-tools",
+   "desc": "Compare the top enterprise DAST tools of 2026 on authenticated coverage, API discovery, exploit validation, governance, compliance, and AI pentesting Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-14T17:01:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1095,14 +1111,6 @@
    "date": "2026-07-24T14:00:00+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "Top Acunetix alternatives for automated vulnerability scanning",
-   "link": "https://www.aikido.dev/blog/acunetix-alternatives",
-   "desc": "Exploring Acunetix alternatives? Its DAST covers rule-based checks but can't reason about business logic or produce audit-grade pentests. Five options that go further. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-07-24T13:51:00+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Don’t swing at everything",
    "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
@@ -1111,14 +1119,6 @@
    "date": "2026-07-23T18:00:46+00:00",
    "iocs": "iocs/c2feb9ad65c5.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "Aikido",
-   "title": "Better generic secrets detection starts with finding non-secrets",
-   "link": "https://www.aikido.dev/blog/better-generic-secrets-detection-non-secrets",
-   "desc": "Some API keys are meant to be public. Betterleaks now removes them from generic secret findings, dropping thousands of false positives per scan. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a62409892989a1bf59fabbe_secrets-scanning-part-2_16x9_keys.jpg",
-   "date": "2026-07-23T16:11:00+00:00"
   },
   {
    "source": "Unit 42",
