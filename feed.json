@@ -1,10 +1,8 @@
 {
- "generated": "2026-08-15T07:58:04.207545+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-15T08:38:47.869928+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
@@ -21,6 +19,14 @@
    "desc": "Compare enterprise SCA tools for 2026: Aikido, Sonatype, Snyk, Endor Labs, Checkmarx, Black Duck, and Veracode on intelligence, remediation, and compliance. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-14T20:38:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
+   "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
+   "desc": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges.",
+   "image": "",
+   "date": "2026-08-14T20:31:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -105,6 +111,14 @@
    "date": "2026-08-14T13:45:18+00:00",
    "iocs": "iocs/99dadd313b8c.txt",
    "ioc_count": 4
+  },
+  {
+   "source": "RF The Record",
+   "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+   "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+   "desc": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.",
+   "image": "",
+   "date": "2026-08-14T13:14:15+00:00"
   },
   {
    "source": "Dark Reading",
@@ -293,6 +307,14 @@
    "date": "2026-08-13T17:33:28+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Flock tightens privacy controls amid scandals over officer abuse",
+   "link": "https://therecord.media/flock-safety-audit-assistance-police-departments",
+   "desc": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.",
+   "image": "",
+   "date": "2026-08-13T16:47:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
@@ -311,6 +333,14 @@
    "date": "2026-08-13T16:13:54+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
+   "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
+   "desc": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
+   "image": "",
+   "date": "2026-08-13T15:52:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
@@ -327,6 +357,14 @@
    "date": "2026-08-13T14:17:44+00:00",
    "iocs": "iocs/97c321c8cb8e.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
+   "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
+   "desc": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
+   "image": "",
+   "date": "2026-08-13T13:37:32+00:00"
   },
   {
    "source": "Aikido",
