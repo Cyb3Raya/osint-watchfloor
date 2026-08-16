@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-16T21:25:20.405396+00:00",
+ "generated": "2026-08-16T21:54:35.670682+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
+   "link": "https://isc.sans.edu/diary/rss/33248",
+   "desc": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.&#xd;",
+   "image": "",
+   "date": "2026-08-16T21:31:48+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
@@ -737,16 +745,6 @@
    "desc": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond. The post Inside the Modern SOC: The Identity Front Door appeared first on Unit 42.",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/04_Listicle_Overview_1920x900.jpg",
    "date": "2026-08-07T23:00:01+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Linux Shell Forensic: Let&#x3f;s Dive Into Atuin&#x21;, (Fri, Aug 7th)",
-   "link": "https://isc.sans.edu/diary/rss/33226",
-   "desc": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historizatio",
-   "image": "",
-   "date": "2026-08-07T07:22:28+00:00",
-   "iocs": "iocs/1d8978e624b3.txt",
-   "ioc_count": 4
   },
   {
    "source": "Socket",
