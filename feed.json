@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-16T22:24:08.379849+00:00",
+ "generated": "2026-08-16T22:55:46.726509+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+   "desc": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
+   "image": "",
+   "date": "2026-08-16T22:28:57+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
@@ -301,14 +309,6 @@
    "desc": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-13T20:45:17+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers breach govt webmail while running parallel crypto fraud",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-   "desc": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-   "image": "",
-   "date": "2026-08-13T18:15:19+00:00"
   },
   {
    "source": "Cisco Talos",
