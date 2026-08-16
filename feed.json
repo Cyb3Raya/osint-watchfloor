@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-16T23:23:24.204210+00:00",
+ "generated": "2026-08-16T23:54:06.648725+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+   "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+   "desc": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be sellin",
+   "image": "",
+   "date": "2026-08-16T23:47:06+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
@@ -293,14 +301,6 @@
    "desc": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
    "image": "",
    "date": "2026-08-13T21:12:47+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-   "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-   "desc": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-   "image": "",
-   "date": "2026-08-13T20:47:02+00:00"
   },
   {
    "source": "Dark Reading",
