@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-17T21:44:30.473586+00:00",
+ "generated": "2026-08-17T22:27:28.417219+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+   "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+   "desc": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-17T21:37:23+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -671,14 +679,6 @@
    "desc": "SAST, Deep PR Review, AI Code Analysis, and AI Pentest each catch different vulnerabilities at different stages. Here's when to use each, and why. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7c43f49d01a73a639b849d_AI-code-analysis-vs-AI-pentesting-vs-traditional-SAST_Feature.png",
    "date": "2026-08-12T13:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
-   "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-   "desc": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-12T12:41:03+00:00"
   },
   {
    "source": "SANS ISC",
