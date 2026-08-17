@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-17T13:47:15.589517+00:00",
+ "generated": "2026-08-17T14:31:02.128971+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+   "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+   "desc": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastru",
+   "image": "",
+   "date": "2026-08-17T14:00:10+00:00",
+   "iocs": "iocs/c7510fc0ce5f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "680,000 Impacted by French Tax Authority Data Breach",
+   "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+   "desc": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-17T13:53:55+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+   "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+   "desc": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading fart",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg",
+   "date": "2026-08-17T13:23:51+00:00",
+   "iocs": "iocs/74a4bb0aafac.txt",
+   "ioc_count": 32
+  },
   {
    "source": "BleepingComputer",
    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
@@ -393,16 +421,6 @@
    "date": "2026-08-14T11:57:51+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Shell investigates 'potential incident' after Clop data theft claims",
-   "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-   "desc": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-   "image": "",
-   "date": "2026-08-14T11:55:45+00:00",
-   "iocs": "iocs/ba32a4944ff6.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "SecurityWeek",
    "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
    "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
@@ -453,14 +471,6 @@
    "date": "2026-08-14T10:44:34+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-   "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-   "desc": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-14T10:24:03+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
    "link": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
@@ -493,16 +503,6 @@
    "desc": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-13T20:45:17+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-   "link": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-   "desc": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source pl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHrFMdn5ekgZuyeE4m-ez0biA_lSQ3abNCs7s0YNhWXi-MvjTNhJBgQtjTw_j9zNfDNtp0DtDC6wH9lJcD7obhh9ujkfuk6E0FiX9qH3njE5mcNrtyaxWR3E2RO1ROmlx4B4YbjBtby_P9FXXpl-Be9voGWxC7PbkyVpBrk1zB3KanenH2jVRf_Uv48s4/s1600/geo.jpg",
-   "date": "2026-08-13T18:45:12+00:00",
-   "iocs": "iocs/92db34388e89.txt",
-   "ioc_count": 3
   },
   {
    "source": "Cisco Talos",

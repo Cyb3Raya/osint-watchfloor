@@ -1,0 +1,11 @@
+IOC EXTRACTION - Certighost and the Privilege Hiding in Your Certificate Authority
+Source: https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/
+Extracted: 2026-08-17 14:30:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-54121
