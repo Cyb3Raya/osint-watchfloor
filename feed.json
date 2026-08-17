@@ -1,11 +1,27 @@
 {
- "generated": "2026-08-17T19:57:10.697272+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-17T20:35:25.612820+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+   "link": "https://isc.sans.edu/diary/rss/33254",
+   "desc": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerabi",
+   "image": "",
+   "date": "2026-08-17T20:26:39+00:00",
+   "iocs": "iocs/d66b2e35f3f3.txt",
+   "ioc_count": 108
+  },
+  {
+   "source": "RF The Record",
+   "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+   "link": "https://therecord.media/financial-info-leak-debt-consolidator",
+   "desc": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.",
+   "image": "",
+   "date": "2026-08-17T20:05:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
@@ -57,6 +73,30 @@
    "date": "2026-08-17T17:41:06+00:00",
    "iocs": "iocs/788b4d9b4fc1.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
+   "link": "https://therecord.media/safepal-crypto-hardware-breach",
+   "desc": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
+   "image": "",
+   "date": "2026-08-17T17:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
+   "link": "https://therecord.media/irregular-ai-hacking-model-blog",
+   "desc": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves",
+   "image": "",
+   "date": "2026-08-17T16:15:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
+   "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+   "desc": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu",
+   "image": "",
+   "date": "2026-08-17T16:01:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -119,6 +159,14 @@
    "desc": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
    "image": "",
    "date": "2026-08-17T12:33:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
+   "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
+   "desc": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure.",
+   "image": "",
+   "date": "2026-08-17T12:30:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -689,14 +737,6 @@
    "date": "2026-08-11T10:00:16+00:00",
    "iocs": "iocs/2e25b4d15492.txt",
    "ioc_count": 29
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33232",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-11T02:00:03+00:00"
   },
   {
    "source": "Unit 42",
