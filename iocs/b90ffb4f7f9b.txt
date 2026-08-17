@@ -1,0 +1,14 @@
+IOC EXTRACTION - Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner
+Source: https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html
+Extracted: 2026-08-17 10:51:42 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-43760
+CVE-2026-43777
+CVE-2026-43779
+CVE-2026-65400

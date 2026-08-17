@@ -1,0 +1,19 @@
+IOC EXTRACTION - New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure
+Source: https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html
+Extracted: 2026-08-17 10:51:55 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2024-6387
+
+IPv4 (1)
+----------------------------------------
+46[.]30[.]188[.]13
+
+Domains (1)
+----------------------------------------
+nic-support[.]site

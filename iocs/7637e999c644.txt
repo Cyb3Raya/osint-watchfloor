@@ -1,0 +1,32 @@
+IOC EXTRACTION - Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies
+Source: https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html
+Extracted: 2026-08-17 10:51:39 UTC
+Total indicators: 19
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (18)
+----------------------------------------
+CVE-2007-3010
+CVE-2016-6277
+CVE-2018-14558
+CVE-2019-14931
+CVE-2020-10987
+CVE-2021-36260
+CVE-2021-46422
+CVE-2022-26134
+CVE-2022-29464
+CVE-2022-30525
+CVE-2022-37055
+CVE-2023-1389
+CVE-2024-10914
+CVE-2024-29269
+CVE-2024-4577
+CVE-2025-10123
+CVE-2025-1974
+CVE-2025-55583
+
+IPv4 (1)
+----------------------------------------
+91[.]92[.]40[.]118

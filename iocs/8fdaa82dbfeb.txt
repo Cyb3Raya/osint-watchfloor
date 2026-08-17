@@ -1,0 +1,11 @@
+IOC EXTRACTION - China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud
+Source: https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html
+Extracted: 2026-08-17 10:51:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+microsoft-flash[.]com

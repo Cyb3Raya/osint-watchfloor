@@ -1,0 +1,14 @@
+IOC EXTRACTION - Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth
+Source: https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html
+Extracted: 2026-08-17 10:51:46 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+MD5 (4)
+----------------------------------------
+2d7c8780e97409770a9d4f31c66c9d63
+9460e150e1981d5c165043520c5c12fe
+9717f005c5fb98e08d2ad983d88f94ee
+f518d8e5fe70d9090f6280c68a95998f

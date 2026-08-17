@@ -1,0 +1,20 @@
+IOC EXTRACTION - Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware
+Source: https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html
+Extracted: 2026-08-17 10:51:40 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-59309
+CVE-2026-59310
+
+IPv4 (5)
+----------------------------------------
+146[.]59[.]252[.]178
+185[.]144[.]28[.]120
+192[.]255[.]141[.]13
+5[.]34[.]176[.]100
+5[.]34[.]177[.]38

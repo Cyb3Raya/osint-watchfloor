@@ -1,0 +1,12 @@
+IOC EXTRACTION - SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch
+Source: https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html
+Extracted: 2026-08-17 10:51:41 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-31324
+CVE-2026-58231
