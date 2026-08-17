@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
+Source: https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html
+Extracted: 2026-08-17 21:44:22 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-19478
+CVE-2026-19650

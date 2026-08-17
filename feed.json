@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-17T21:00:41.855387+00:00",
+ "generated": "2026-08-17T21:44:30.473586+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+   "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+   "desc": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
+   "date": "2026-08-17T21:03:04+00:00",
+   "iocs": "iocs/7ed54789e434.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SANS ISC",
    "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
@@ -13,6 +23,14 @@
    "date": "2026-08-17T20:26:39+00:00",
    "iocs": "iocs/d66b2e35f3f3.txt",
    "ioc_count": 108
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+   "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+   "desc": "Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-17T20:26:34+00:00"
   },
   {
    "source": "RF The Record",
@@ -531,14 +549,6 @@
    "date": "2026-08-14T11:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
-   "link": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
-   "desc": "Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credent",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg_fCSow6T3Wo-vpD0YGw6I-3-9B4BmxQvPW4XX5NjGqYkEd929vj1fiXMD5ebscmBPVViIEhlkfg0zmJ9ftMUtLbwIolt1uXcmnnWYlHiFxNQhRa1_4lvnEOXGT6uBwrPbJkZiMBF0mmu3EeAvzu6dnj1hnak63Fb1nL5Owdv4cdWU3ymWoBRho7Vo5w/s1600/ctm.jpg",
-   "date": "2026-08-14T10:57:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
    "link": "https://isc.sans.edu/diary/rss/33246",
@@ -697,16 +707,6 @@
    "date": "2026-08-11T22:21:02+00:00",
    "iocs": "iocs/5820ca4abc68.txt",
    "ioc_count": 94
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
-   "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-   "desc": "The most concerning bug in the batch is CVE-2026-62878 (CVSS: 9.8), a remote code execution (RCE) vulnerability in Windows DNS Server that requires no user interaction.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff4a30148731b710/6a7b8cee356eb8abac637ca4/patch_tomeqs_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-11T21:42:34+00:00",
-   "iocs": "iocs/a0b8784b0aa5.txt",
-   "ioc_count": 8
   },
   {
    "source": "Krebs on Security",
