@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure
+Source: https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/
+Extracted: 2026-08-17 08:22:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2019-0344
+CVE-2026-58231
