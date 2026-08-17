@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-17T14:31:02.128971+00:00",
+ "generated": "2026-08-17T14:58:28.714065+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft confirms GitHub is down worldwide",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+   "desc": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+   "image": "",
+   "date": "2026-08-17T14:47:08+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+   "link": "https://isc.sans.edu/diary/rss/33252",
+   "desc": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted p",
+   "image": "",
+   "date": "2026-08-17T14:33:58+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
@@ -377,16 +393,6 @@
    "date": "2026-08-14T14:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-   "desc": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-   "image": "",
-   "date": "2026-08-14T13:45:18+00:00",
-   "iocs": "iocs/99dadd313b8c.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "RF The Record",
    "title": "France investigates tax authority breach after hacker claims 600,000 victims",
    "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
@@ -739,14 +745,6 @@
    "desc": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-10T21:54:22+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Scans for Solana (Surfpool&#x3f;) Endpoints, (Mon, Aug 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33230",
-   "desc": "Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developers. These APIs will eith",
-   "image": "",
-   "date": "2026-08-10T16:24:45+00:00"
   },
   {
    "source": "IC3 PSA",
