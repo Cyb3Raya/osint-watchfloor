@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-17T06:04:37.852492+00:00",
+ "generated": "2026-08-17T07:27:03.213214+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+   "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+   "desc": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on Security",
+   "image": "",
+   "date": "2026-08-17T06:51:08+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
@@ -367,16 +375,6 @@
    "desc": "Significant cybersecurity M&#038;A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm. The post Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026 appeared first on Secu",
    "image": "",
    "date": "2026-08-13T14:41:44+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
-   "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
-   "desc": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-13T14:17:44+00:00",
-   "iocs": "iocs/97c321c8cb8e.txt",
-   "ioc_count": 1
   },
   {
    "source": "RF The Record",
