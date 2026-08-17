@@ -1,0 +1,12 @@
+IOC EXTRACTION - Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads
+Source: https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html
+Extracted: 2026-08-17 19:30:17 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-15748
+CVE-2026-15826

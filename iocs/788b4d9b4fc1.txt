@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic
+Source: https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html
+Extracted: 2026-08-17 19:30:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+studiotikva[.]com
