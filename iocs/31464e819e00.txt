@@ -1,0 +1,23 @@
+IOC EXTRACTION - Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS
+Source: https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos
+Extracted: 2026-08-17 16:36:24 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2007-3010
+CVE-2016-6277
+CVE-2018-14558
+CVE-2019-14931
+CVE-2020-10987
+
+IPv4 (1)
+----------------------------------------
+91[.]92[.]40[.]118
+
+Domains (1)
+----------------------------------------
+wget[.]sh

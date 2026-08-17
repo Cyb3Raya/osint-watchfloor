@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-17T15:57:23.711455+00:00",
+ "generated": "2026-08-17T16:36:31.825826+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
+   "link": "https://therecord.media/irregular-ai-hacking-model-blog",
+   "desc": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves",
+   "image": "",
+   "date": "2026-08-17T16:15:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
+   "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+   "desc": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu",
+   "image": "",
+   "date": "2026-08-17T16:01:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+   "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+   "desc": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-17T15:44:34+00:00",
+   "iocs": "iocs/31464e819e00.txt",
+   "ioc_count": 7
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft confirms GitHub is down worldwide",
@@ -521,28 +547,12 @@
    "ioc_count": 5
   },
   {
-   "source": "RF The Record",
-   "title": "Flock tightens privacy controls amid scandals over officer abuse",
-   "link": "https://therecord.media/flock-safety-audit-assistance-police-departments",
-   "desc": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.",
-   "image": "",
-   "date": "2026-08-13T16:47:00+00:00"
-  },
-  {
    "source": "Socket",
    "title": "White House Authorizes Private Companies to Conduct Offensive Cyber Operations",
    "link": "https://socket.dev/blog/private-sector-offensive-cyber-operations?utm_medium=feed",
    "desc": "A new federal program will let vetted U.S. cybersecurity firms help investigate and disrupt foreign cybercrime groups under government direction.",
    "image": "",
    "date": "2026-08-13T16:13:54+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
-   "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
-   "desc": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
-   "image": "",
-   "date": "2026-08-13T15:52:00+00:00"
   },
   {
    "source": "Aikido",
@@ -737,14 +747,6 @@
    "date": "2026-08-10T22:00:02+00:00",
    "iocs": "iocs/235268f9dd3e.txt",
    "ioc_count": 33
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
-   "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
-   "desc": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-10T21:54:22+00:00"
   },
   {
    "source": "IC3 PSA",
