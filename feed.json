@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-17T19:30:27.728017+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-17T19:57:10.697272+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+   "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+   "desc": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+   "image": "",
+   "date": "2026-08-17T19:35:01+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+   "desc": "World-class threat modeler Adam Shostack shared he was &quot;blown away&quot; by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &quot;lightweight yet still usab",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-17T19:22:56+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Pokémon Center data breach exposes customer info, cancels some orders",
@@ -39,30 +57,6 @@
    "date": "2026-08-17T17:41:06+00:00",
    "iocs": "iocs/788b4d9b4fc1.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
-   "link": "https://therecord.media/safepal-crypto-hardware-breach",
-   "desc": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
-   "image": "",
-   "date": "2026-08-17T17:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
-   "link": "https://therecord.media/irregular-ai-hacking-model-blog",
-   "desc": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves",
-   "image": "",
-   "date": "2026-08-17T16:15:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
-   "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
-   "desc": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu",
-   "image": "",
-   "date": "2026-08-17T16:01:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -125,14 +119,6 @@
    "desc": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
    "image": "",
    "date": "2026-08-17T12:33:11+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
-   "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
-   "desc": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure.",
-   "image": "",
-   "date": "2026-08-17T12:30:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -363,14 +349,6 @@
    "date": "2026-08-14T20:38:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
-   "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
-   "desc": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges.",
-   "image": "",
-   "date": "2026-08-14T20:31:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Mission-Driven Security: Inside a Global Bank's Defense",
    "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
@@ -435,16 +413,6 @@
    "desc": "Compare the top unified security tools of 2026: Aikido, Cortex Cloud, Wiz, Checkmarx, Snyk, and Orca, across coverage, correlation, governance, and cost. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-14T15:53:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-   "desc": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-   "image": "",
-   "date": "2026-08-14T14:59:55+00:00",
-   "iocs": "iocs/f3d1727276b9.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -701,16 +669,6 @@
    "date": "2026-08-11T21:28:35+00:00",
    "iocs": "iocs/215b91448d4d.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
-   "desc": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-11T21:16:25+00:00",
-   "iocs": "iocs/5556828abfad.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
