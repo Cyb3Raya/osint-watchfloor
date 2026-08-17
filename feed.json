@@ -1,9 +1,43 @@
 {
- "generated": "2026-08-17T11:57:16.322161+00:00",
+ "generated": "2026-08-17T12:58:50.763540+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+   "desc": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+   "image": "",
+   "date": "2026-08-17T12:33:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
+   "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
+   "desc": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure.",
+   "image": "",
+   "date": "2026-08-17T12:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+   "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+   "desc": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on Secu",
+   "image": "",
+   "date": "2026-08-17T12:11:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "How MCP Servers Can Expose Enterprise Secrets",
+   "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+   "desc": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png",
+   "date": "2026-08-17T11:58:00+00:00",
+   "iocs": "iocs/5ab36643acff.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Philips and GE investigating Clop ransomware data theft claims",
@@ -21,6 +55,16 @@
    "desc": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-17T11:09:57+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+   "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+   "desc": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg",
+   "date": "2026-08-17T10:52:34+00:00",
+   "iocs": "iocs/797946889533.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -401,14 +445,6 @@
    "date": "2026-08-14T10:57:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "RingCentral data breach exposed info of 1.6 million accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-   "desc": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-   "image": "",
-   "date": "2026-08-14T10:52:05+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
    "link": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
@@ -431,14 +467,6 @@
    "desc": "A new White House memo signed by U.S. President Donald Trump has instructed the National Coordination Center (NCC) to establish a program that would allow private sector companies to take advantage of their \"innovative c",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSdrf8axt7XPd3F2_owXsMWjBqWxQ_PPUN9qqsmsi3wFBIO5FVPr0M3bC76Sgmx9tMxf9AQwLEffgX39-wYX9PO2fQUlI9Xu7m95fiVckPv80ubtndLLR_H0fDPq4aNXOx5Ug2us0G2iGowlsmL9lyRXtFQb5OjyL3Ju5BFtH3pyQN1Z11R3tntTH57nI/s1600/memo.jpg",
    "date": "2026-08-14T09:38:56+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-   "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-   "desc": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first ",
-   "image": "",
-   "date": "2026-08-14T09:20:28+00:00"
   },
   {
    "source": "The Hacker News",
@@ -477,16 +505,6 @@
    "ioc_count": 3
   },
   {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-   "link": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-   "desc": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breaches, scams, and new at",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZSPrbeVOhfz52pccm_PbosfzvUlARZ8YoAhLmLd28aHQJ0Nw4T-TeYS2gCgc4bQaNS_c7sFfSFY-tQdGZDD4Uajt1hFhjPzl-XZVyoM72eC5vYStjyfuKwis_vDgrvUgTK7MUJx0kkEHwBJxmIuqp6qkPB-km81UXl6ycj1u9uIORUrVXtYz9L5-Julh/s1600/td.jpg",
-   "date": "2026-08-13T18:17:10+00:00",
-   "iocs": "iocs/fb164264aae8.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Cisco Talos",
    "title": "Curiouser and Curiouser",
    "link": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
@@ -519,24 +537,6 @@
    "desc": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
    "image": "",
    "date": "2026-08-13T15:52:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
-   "link": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
-   "desc": "Afghan telecom providers and South Asian critical infrastructure organizations have emerged as the target of a new ongoing campaign that delivers a previously undocumented backdoor called PATCHCORD. According to Acronis ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN1h6yVKjJz0W6b8QMy2lmsHgFoVD9MGmbvZs4XRnHXDPcMJw8SDNNgHSnAnDTRCvXD5VyMFl1XtMFqU3uZiKdmtW-1Voos4cqw_JuUiE8mTWy44FFgKQMPvgX-8qzIbNUkk8XMC2l7mU9RyhMIaRI7k1yyDI2SW9o4U8MxfzHNX8xkijzygYkenrWeCOs/s1600/telecom.jpg",
-   "date": "2026-08-13T15:00:29+00:00",
-   "iocs": "iocs/e478dc003259.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "RF The Record",
-   "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
-   "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
-   "desc": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
-   "image": "",
-   "date": "2026-08-13T13:37:32+00:00"
   },
   {
    "source": "Aikido",

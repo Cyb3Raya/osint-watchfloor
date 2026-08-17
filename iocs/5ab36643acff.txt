@@ -1,0 +1,11 @@
+IOC EXTRACTION - How MCP Servers Can Expose Enterprise Secrets
+Source: https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html
+Extracted: 2026-08-17 12:58:39 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-6514

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access
+Source: https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html
+Extracted: 2026-08-17 12:58:40 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2022-20210
+CVE-2025-31718
