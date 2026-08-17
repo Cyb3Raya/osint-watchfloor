@@ -1,0 +1,11 @@
+IOC EXTRACTION - Recent macOS Screen Sharing Vulnerability Exploited in Attacks
+Source: https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/
+Extracted: 2026-08-17 09:22:21 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65400

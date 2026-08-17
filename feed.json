@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-17T08:23:01.801553+00:00",
+ "generated": "2026-08-17T09:22:25.725203+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+   "desc": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+   "image": "",
+   "date": "2026-08-17T09:05:33+00:00",
+   "iocs": "iocs/9da7db7cc2a6.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
+   "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+   "desc": "Threat actors gained root access to the vulnerable systems and deployed a Monero miner. The post Recent macOS Screen Sharing Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-17T08:47:38+00:00",
+   "iocs": "iocs/cb007e6bc04e.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
@@ -311,16 +331,6 @@
    "date": "2026-08-14T07:01:56+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-   "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-   "desc": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared fir",
-   "image": "",
-   "date": "2026-08-14T06:41:43+00:00",
-   "iocs": "iocs/cdcfdf45252c.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
    "link": "https://isc.sans.edu/diary/rss/33246",
@@ -335,14 +345,6 @@
    "desc": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
    "image": "",
    "date": "2026-08-14T01:19:12+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-   "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-   "desc": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-   "image": "",
-   "date": "2026-08-13T21:12:47+00:00"
   },
   {
    "source": "Dark Reading",
