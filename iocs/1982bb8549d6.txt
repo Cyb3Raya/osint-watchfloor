@@ -1,0 +1,11 @@
+IOC EXTRACTION - Philips and GE investigating Clop ransomware data theft claims
+Source: https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/
+Extracted: 2026-08-17 11:28:43 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-12569
