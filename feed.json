@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T17:01:30.272881+00:00",
+ "generated": "2026-08-17T17:49:11.731486+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -304,7 +304,7 @@
    "source": "The Hacker News",
    "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
    "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-   "desc": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in ques",
+   "desc": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in q",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg",
    "date": "2026-08-15T07:24:04+00:00",
    "iocs": "iocs/b90ffb4f7f9b.txt",
