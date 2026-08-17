@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T04:45:30.496007+00:00",
+ "generated": "2026-08-17T05:37:09.864173+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -35,6 +35,14 @@
    "desc": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.&#xd;",
    "image": "",
    "date": "2026-08-16T21:31:48+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "How AI Agents Expand the Software Supply Chain Attack Surface",
+   "link": "https://socket.dev/blog/ai-agents-supply-chain-attack-surface?utm_medium=feed",
+   "desc": "In his AI Council 2026 talk, Feross Aboukhadijeh covers recent package compromises, vulnerability discovery, and a more automated security model.",
+   "image": "",
+   "date": "2026-08-16T21:04:44+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -1069,16 +1077,6 @@
    "desc": "Compare the top SAST tools of 2026 across detection depth, noise, remediation, and enterprise fit Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-07-29T13:28:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers",
-   "link": "https://socket.dev/blog/npm-rat-targets-alibaba?utm_medium=feed",
-   "desc": "Benign-looking npm packages split malicious functionality across a dependency chain that deploys a cross-platform RAT targeting Alibaba developers.",
-   "image": "",
-   "date": "2026-07-28T20:23:55+00:00",
-   "iocs": "iocs/28f5d9d9e155.txt",
-   "ioc_count": 15
   },
   {
    "source": "Cisco Talos",
