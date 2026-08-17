@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-17T16:36:31.825826+00:00",
+ "generated": "2026-08-17T17:01:30.272881+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
+   "link": "https://therecord.media/safepal-crypto-hardware-breach",
+   "desc": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
+   "image": "",
+   "date": "2026-08-17T17:00:00+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
@@ -417,14 +425,6 @@
    "desc": "Why do so many boards underestimate technology risk until it becomes a crisis?",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21c605763d0c60ea/6a7e01ffe9f4a6e313766046/boardroom-FangXiaNuo-Getty-618946910.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-14T14:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "France investigates tax authority breach after hacker claims 600,000 victims",
-   "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
-   "desc": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.",
-   "image": "",
-   "date": "2026-08-14T13:14:15+00:00"
   },
   {
    "source": "The Hacker News",
