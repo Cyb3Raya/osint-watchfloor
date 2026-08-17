@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-17T09:22:25.725203+00:00",
+ "generated": "2026-08-17T10:14:23.870709+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "French tax authority data breach affects 678,000 individuals",
+   "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+   "desc": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+   "image": "",
+   "date": "2026-08-17T10:09:48+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "40,000 Impacted by SafePal Data Breach",
+   "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+   "desc": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-17T09:37:06+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
@@ -323,28 +339,12 @@
    "date": "2026-08-14T08:16:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-   "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-   "desc": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-14T07:01:56+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
    "link": "https://isc.sans.edu/diary/rss/33246",
    "desc": "",
    "image": "",
    "date": "2026-08-14T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-   "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-   "desc": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-   "image": "",
-   "date": "2026-08-14T01:19:12+00:00"
   },
   {
    "source": "Dark Reading",
