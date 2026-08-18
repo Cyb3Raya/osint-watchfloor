@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T06:48:50.136752+00:00",
+ "generated": "2026-08-18T07:40:03.800642+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,16 @@
    "desc": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared",
    "image": "",
    "date": "2026-08-18T06:46:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+   "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg",
+   "date": "2026-08-18T06:34:20+00:00",
+   "iocs": "iocs/c8f5936ef6e3.txt",
+   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -555,14 +565,6 @@
    "date": "2026-08-14T11:24:35+00:00",
    "iocs": "iocs/669791ec854c.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-   "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-   "desc": "Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxmoJtQxCw_JRBCIc5vQ8KP7fDvEliYGDzRe4RRTwH_vydH3_bliXj-rfs_e5j3YD6EPrvVKtSlI_IUIA5EoxajlFgyLPhLtjiYZjwotvmIHvLuvf_bIhfUuGJ-Sgxx0Wjhl7UigBQko3hYNb44Z4PT6fRSXFEVdPZIzMjLe7uge8CWthwqzErdqpheA/s1600/chrome.jpg",
-   "date": "2026-08-14T11:07:45+00:00"
   },
   {
    "source": "SANS ISC",
