@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical GitLab Zero-Click Flaw Poses Mitigation Challenges
+Source: https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges
+Extracted: 2026-08-18 21:55:58 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-19478
+CVE-2026-19650

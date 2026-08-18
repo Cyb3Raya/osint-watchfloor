@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-18T21:31:32.239622+00:00",
+ "generated": "2026-08-18T21:56:04.347599+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
+   "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
+   "desc": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T21:25:58+00:00",
+   "iocs": "iocs/c81f051852d3.txt",
+   "ioc_count": 2
+  },
   {
    "source": "Dark Reading",
    "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture",
@@ -146,18 +156,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
    "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -665,14 +675,6 @@
    "desc": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_spotlight.jpg",
    "date": "2026-08-13T10:00:35+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
-   "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
-   "desc": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt893479ef58bbf0b0/6a7b71ae9cb490661e220bfd/Jewel_bug-suksaeng-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-13T10:00:00+00:00"
   },
   {
    "source": "SANS ISC",
