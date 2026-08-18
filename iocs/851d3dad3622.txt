@@ -1,0 +1,11 @@
+IOC EXTRACTION - Clop created custom web shell for Windchill data theft attacks
+Source: https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/
+Extracted: 2026-08-18 17:59:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-12569
