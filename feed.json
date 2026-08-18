@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-18T07:40:03.800642+00:00",
+ "generated": "2026-08-18T08:15:34.411437+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+   "desc": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+   "image": "",
+   "date": "2026-08-18T08:12:08+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
@@ -465,14 +473,6 @@
    "date": "2026-08-14T18:48:46+00:00",
    "iocs": "iocs/ffc565ec11c5.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-   "desc": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'",
-   "image": "",
-   "date": "2026-08-14T18:04:26+00:00"
   },
   {
    "source": "Dark Reading",
