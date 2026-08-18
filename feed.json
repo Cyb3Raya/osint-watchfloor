@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-18T19:55:03.826039+00:00",
+ "generated": "2026-08-18T20:27:39.841615+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+   "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+   "desc": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensor",
+   "image": "",
+   "date": "2026-08-18T20:14:58+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
+   "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
+   "desc": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Upd",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900-1.jpg",
+   "date": "2026-08-18T19:05:33+00:00",
+   "iocs": "iocs/01da362d0548.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
+   "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
+   "desc": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T18:32:01+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
@@ -491,14 +517,6 @@
    "date": "2026-08-17T02:00:02+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-   "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-   "desc": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be sellin",
-   "image": "",
-   "date": "2026-08-16T23:47:06+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
    "link": "https://isc.sans.edu/diary/rss/33248",
@@ -671,14 +689,6 @@
    "date": "2026-08-13T01:26:53+00:00",
    "iocs": "iocs/be579ec8a4a0.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
-   "desc": "The &quot;City-Forum&quot; campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-12T21:08:54+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1275,16 +1285,6 @@
    "date": "2026-07-15T14:00:00+00:00",
    "iocs": "iocs/e9ca52746d18.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Unit 42",
-   "title": "TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development",
-   "link": "https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/",
-   "desc": "TuxBot v3 Evolution, an IoT botnet framework built with LLMs. Read our analysis of its cross-compiled binaries, C2 architecture and bugs. The post TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development a",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-1-scaled.jpeg",
-   "date": "2026-07-15T10:00:54+00:00",
-   "iocs": "iocs/6eac967cdb31.txt",
-   "ioc_count": 82
   },
   {
    "source": "Krebs on Security",
