@@ -1,0 +1,12 @@
+IOC EXTRACTION - GitLab Patches Critical Code Injection Vulnerability
+Source: https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/
+Extracted: 2026-08-18 08:57:23 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-19478
+CVE-2026-19650

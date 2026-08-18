@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-18T08:15:34.411437+00:00",
+ "generated": "2026-08-18T08:57:28.271577+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "GitLab Patches Critical Code Injection Vulnerability",
+   "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+   "desc": "The security defect allows unauthenticated attackers to modify or delete user data and public projects. The post GitLab Patches Critical Code Injection Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-18T08:51:07+00:00",
+   "iocs": "iocs/54b8d561cfda.txt",
+   "ioc_count": 2
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
@@ -547,14 +557,6 @@
    "desc": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Oth",
    "image": "",
    "date": "2026-08-14T11:57:51+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
-   "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-   "desc": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-14T11:35:23+00:00"
   },
   {
    "source": "Krebs on Security",
