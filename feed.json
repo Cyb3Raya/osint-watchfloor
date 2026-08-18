@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-18T11:00:01.005937+00:00",
+ "generated": "2026-08-18T11:34:55.188579+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft tests faster Windows File Explorer, new context menu",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+   "desc": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+   "image": "",
+   "date": "2026-08-18T11:14:28+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw",
@@ -91,6 +99,14 @@
    "desc": "",
    "image": "",
    "date": "2026-08-18T02:00:03+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukrainian software developer faces 12 years in Swiss ransomware trial",
+   "link": "https://therecord.media/ukrainian-software-developer-court-switzerland",
+   "desc": "The unnamed 52-year-old is accused of attacking Swiss train manufacturer Stadler Rail alongside other enterprises as part of an international ransomware operation.",
+   "image": "",
+   "date": "2026-08-17T23:00:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -275,14 +291,6 @@
    "date": "2026-08-17T12:33:11+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
-   "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
-   "desc": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure.",
-   "image": "",
-   "date": "2026-08-17T12:30:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
    "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
@@ -449,14 +457,6 @@
    "desc": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
    "image": "",
    "date": "2026-08-16T17:29:52+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-   "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-   "desc": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-   "image": "",
-   "date": "2026-08-16T15:07:44+00:00"
   },
   {
    "source": "The Hacker News",
