@@ -1,0 +1,11 @@
+IOC EXTRACTION - 'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture
+Source: https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture
+Extracted: 2026-08-18 20:57:52 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-24301

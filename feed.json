@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-18T20:27:39.841615+00:00",
+ "generated": "2026-08-18T20:57:58.821124+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
+   "desc": "Researchers discovered a &quot;meta-hacking&quot; technique that can manipulate the AI service into revealing its own security weaknesses.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T20:17:24+00:00",
+   "iocs": "iocs/cd21e9704a97.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Comcast turns your Xfinity WiFi into a home motion detector",
@@ -663,14 +673,6 @@
    "desc": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt893479ef58bbf0b0/6a7b71ae9cb490661e220bfd/Jewel_bug-suksaeng-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-13T10:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-   "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-   "desc": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-13T07:00:00+00:00"
   },
   {
    "source": "SANS ISC",
