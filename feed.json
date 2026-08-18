@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-18T05:49:28.296474+00:00",
+ "generated": "2026-08-18T06:48:50.136752+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
+   "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
+   "desc": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared",
+   "image": "",
+   "date": "2026-08-18T06:46:22+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
@@ -555,14 +563,6 @@
    "desc": "Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxmoJtQxCw_JRBCIc5vQ8KP7fDvEliYGDzRe4RRTwH_vydH3_bliXj-rfs_e5j3YD6EPrvVKtSlI_IUIA5EoxajlFgyLPhLtjiYZjwotvmIHvLuvf_bIhfUuGJ-Sgxx0Wjhl7UigBQko3hYNb44Z4PT6fRSXFEVdPZIzMjLe7uge8CWthwqzErdqpheA/s1600/chrome.jpg",
    "date": "2026-08-14T11:07:45+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
-   "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
-   "desc": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first o",
-   "image": "",
-   "date": "2026-08-14T11:00:00+00:00"
   },
   {
    "source": "SANS ISC",
