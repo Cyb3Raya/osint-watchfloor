@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-18T17:59:29.891115+00:00",
+ "generated": "2026-08-18T18:51:28.768677+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
+   "link": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
+   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA pr",
+   "image": "",
+   "date": "2026-08-18T18:05:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+   "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+   "desc": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg",
+   "date": "2026-08-18T17:47:22+00:00",
+   "iocs": "iocs/3db875d507ea.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+   "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+   "desc": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
+   "date": "2026-08-18T17:44:05+00:00",
+   "iocs": "iocs/c960f83a4e1f.txt",
+   "ioc_count": 4
+  },
   {
    "source": "BleepingComputer",
    "title": "Clop created custom web shell for Windchill data theft attacks",
@@ -13,6 +41,14 @@
    "date": "2026-08-18T17:29:51+00:00",
    "iocs": "iocs/851d3dad3622.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+   "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+   "desc": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg",
+   "date": "2026-08-18T16:58:16+00:00"
   },
   {
    "source": "RF The Record",
@@ -74,18 +110,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
    "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -287,14 +323,6 @@
    "date": "2026-08-17T20:26:34+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
-   "link": "https://therecord.media/financial-info-leak-debt-consolidator",
-   "desc": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.",
-   "image": "",
-   "date": "2026-08-17T20:05:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
    "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
@@ -304,9 +332,9 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B",
+   "title": "Hugging Face Breach Raises Big Questions About AI Security Controls",
    "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-   "desc": "The security expert talks with the Dark Reading News Desk about why he &quot;blown away&quot; by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs.",
+   "desc": "Adam Shostack, president of Shostack &amp; Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was &quot;blown away&quot; by OpenAI's revelations rega",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-17T19:22:56+00:00"
   },
@@ -429,32 +457,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-   "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-   "desc": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg",
-   "date": "2026-08-17T10:52:34+00:00",
-   "iocs": "iocs/797946889533.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "BleepingComputer",
    "title": "French tax authority data breach affects 678,000 individuals",
    "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
    "desc": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
    "image": "",
    "date": "2026-08-17T10:09:48+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-   "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-   "desc": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg",
-   "date": "2026-08-17T09:29:55+00:00",
-   "iocs": "iocs/7637e999c644.txt",
-   "ioc_count": 19
   },
   {
    "source": "BleepingComputer",
@@ -465,16 +473,6 @@
    "date": "2026-08-17T09:05:33+00:00",
    "iocs": "iocs/9da7db7cc2a6.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-   "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-   "desc": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg",
-   "date": "2026-08-17T07:36:19+00:00",
-   "iocs": "iocs/f632e57bed8c.txt",
-   "ioc_count": 7
   },
   {
    "source": "Socket",

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
+Source: https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html
+Extracted: 2026-08-18 18:51:18 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-24299
+CVE-2026-24301

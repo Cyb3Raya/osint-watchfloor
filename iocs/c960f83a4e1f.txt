@@ -1,0 +1,14 @@
+IOC EXTRACTION - Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
+Source: https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html
+Extracted: 2026-08-18 18:51:19 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2023-33831
+CVE-2026-25895
+CVE-2026-25939
+CVE-2026-64849
