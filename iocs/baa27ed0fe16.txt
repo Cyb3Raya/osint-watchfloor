@@ -1,0 +1,11 @@
+IOC EXTRACTION - 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets
+Source: https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html
+Extracted: 2026-08-18 11:58:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+api[.]ipify[.]org

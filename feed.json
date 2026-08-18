@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-18T11:34:55.188579+00:00",
+ "generated": "2026-08-18T11:58:45.413658+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+   "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+   "desc": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
+   "date": "2026-08-18T11:40:06+00:00",
+   "iocs": "iocs/baa27ed0fe16.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+   "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+   "desc": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security pla",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif",
+   "date": "2026-08-18T11:30:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft tests faster Windows File Explorer, new context menu",
@@ -495,30 +513,12 @@
    "date": "2026-08-14T19:24:18+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-   "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-   "desc": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmsCR51S8-S9Y9cCidbhsmyNlysPzNGZkLuFNY8GHiq3mwnVKOcB1hUq_Q7Oz2j6nH61si-eaqq4xouwv2_JsEzEU6eYS2-bL3-dXBwweGAK-3QnhfKZi8MANcdtpg9VTsqaCrB3Jog3FVUQFV9wtkiQkB6sSVyMclXHwxBXPFjHput_haLnTmH03kq6E/s1600/domains.jpg",
-   "date": "2026-08-14T18:48:46+00:00",
-   "iocs": "iocs/ffc565ec11c5.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "Dark Reading",
    "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
    "desc": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-14T17:32:46+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "IAM Compliance Requirements and Best Practices",
-   "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-   "desc": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains wh",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtCfpJQBf2uorUk8jQiK_Cpzh2QLElku5-T5DS6dLc9iV3XA5w1fsd7F9aiCv1gMYri3jEogBTuyYaiSzgdBhvDxWSN_1X1Q-AZkr3u5QBBvzzvZ_F7mpQdqxy-mXsXC_YuPpikK6nHTLhRy8cwpccEKb3ScMiQ8bGLYw5-NMf8kOcEVCYefsCUgu8LEU/s1600/ORCHID.jpg",
-   "date": "2026-08-14T17:19:49+00:00"
   },
   {
    "source": "Aikido",
