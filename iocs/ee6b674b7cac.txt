@@ -1,0 +1,11 @@
+IOC EXTRACTION - 300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw
+Source: https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/
+Extracted: 2026-08-18 10:59:56 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-15748

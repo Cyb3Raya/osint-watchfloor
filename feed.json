@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-18T10:31:54.603032+00:00",
+ "generated": "2026-08-18T11:00:01.005937+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw",
+   "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
+   "desc": "Tracked as CVE-2026-15748, the arbitrary file upload bug allows unauthenticated attackers to upload executable files. The post 300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw appeared first",
+   "image": "",
+   "date": "2026-08-18T10:48:23+00:00",
+   "iocs": "iocs/ee6b674b7cac.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [.",
+   "image": "",
+   "date": "2026-08-18T10:32:16+00:00",
+   "iocs": "iocs/8d518de522f4.txt",
+   "ioc_count": 2
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
@@ -375,14 +395,6 @@
    "ioc_count": 7
   },
   {
-   "source": "SecurityWeek",
-   "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
-   "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-   "desc": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on Security",
-   "image": "",
-   "date": "2026-08-17T06:51:08+00:00"
-  },
-  {
    "source": "Socket",
    "title": "NIST Proposes AI-Enabled NVD Overhaul After Cutting Routine CVE Enrichment",
    "link": "https://socket.dev/blog/nist-nvd-ai-automation?utm_medium=feed",
@@ -445,14 +457,6 @@
    "desc": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
    "image": "",
    "date": "2026-08-16T15:07:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-   "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-   "desc": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-   "image": "",
-   "date": "2026-08-15T14:14:38+00:00"
   },
   {
    "source": "The Hacker News",
