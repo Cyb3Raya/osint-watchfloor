@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-18T14:00:15.976216+00:00",
+ "generated": "2026-08-18T14:45:23.461719+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
+   "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+   "desc": "With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm. The post CISO Conversations: Nico Waisman – From Self-Ta",
+   "image": "",
+   "date": "2026-08-18T14:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Your Controls Block Known Attacks. What About the Behavior?",
+   "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+   "desc": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav",
+   "image": "",
+   "date": "2026-08-18T14:01:11+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
+   "desc": "Written by: Alex Tselevich, Michael Maturi Introduction Adversarial misuse of AI has increased the risk of data theft and extortion events, because when proprietary source code is exposed, defenders must scramble to iden",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Sequential_vulnerability_discover.max-1000x1000.png",
+   "date": "2026-08-18T14:00:00+00:00",
+   "iocs": "iocs/4a5b883aab25.txt",
+   "ioc_count": 2
+  },
   {
    "source": "Dark Reading",
    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
@@ -393,14 +419,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
-   "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
-   "desc": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-17T11:09:57+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
    "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
@@ -495,14 +513,6 @@
    "desc": "In his AI Council 2026 talk, Feross Aboukhadijeh covers recent package compromises, vulnerability discovery, and a more automated security model.",
    "image": "",
    "date": "2026-08-16T21:04:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-   "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-   "desc": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
-   "image": "",
-   "date": "2026-08-16T17:29:52+00:00"
   },
   {
    "source": "Aikido",
@@ -1477,14 +1487,6 @@
    "date": "2026-05-25T14:00:00+00:00",
    "iocs": "iocs/90d790d6335d.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Google GTIG",
-   "title": "2 PhaaS 2 Furious: The Evolution of Chinese-Language Phishing Services",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
-   "desc": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/phaas-fig1.max-1000x1000.png",
-   "date": "2026-05-25T14:00:00+00:00"
   }
  ]
 }

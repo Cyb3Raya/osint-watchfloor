@@ -1,0 +1,12 @@
+IOC EXTRACTION - Staying Ahead of Adversarial AI Through Agentic Source Code Review
+Source: https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/
+Extracted: 2026-08-18 14:45:20 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-13242
+CVE-2026-55803
