@@ -1,9 +1,41 @@
 {
- "generated": "2026-08-18T11:58:45.413658+00:00",
+ "generated": "2026-08-18T13:02:02.115359+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
+   "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
+   "desc": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores. The post AI-Driven Vulnerability ",
+   "image": "",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Xpander Raises $7.5 Million for AI Management and Governance",
+   "link": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
+   "desc": "Xpander’s platform uses a universal agent harness that executes AI agents as portable workloads and securely renders interfaces on demand. The post Xpander Raises $7.5 Million for AI Management and Governance appeared fi",
+   "image": "",
+   "date": "2026-08-18T12:29:08+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Fortinet Acquires AI Security Company Virtue AI",
+   "link": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
+   "desc": "Fortinet will use Virtue AI technology to enhance its AI security portfolio, including for AI models, applications, and agentic systems. The post Fortinet Acquires AI Security Company Virtue AI appeared first on Security",
+   "image": "",
+   "date": "2026-08-18T12:06:21+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
@@ -180,9 +212,9 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
+   "title": "Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B",
    "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-   "desc": "World-class threat modeler Adam Shostack shared he was &quot;blown away&quot; by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &quot;lightweight yet still usab",
+   "desc": "The security expert talks with the Dark Reading News Desk about why he &quot;blown away&quot; by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-17T19:22:56+00:00"
   },
@@ -363,14 +395,6 @@
    "date": "2026-08-17T10:09:48+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "40,000 Impacted by SafePal Data Breach",
-   "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
-   "desc": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-17T09:37:06+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
    "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
@@ -388,26 +412,6 @@
    "image": "",
    "date": "2026-08-17T09:05:33+00:00",
    "iocs": "iocs/9da7db7cc2a6.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
-   "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
-   "desc": "Threat actors gained root access to the vulnerable systems and deployed a Monero miner. The post Recent macOS Screen Sharing Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-17T08:47:38+00:00",
-   "iocs": "iocs/cb007e6bc04e.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
-   "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
-   "desc": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared fir",
-   "image": "",
-   "date": "2026-08-17T08:13:07+00:00",
-   "iocs": "iocs/c49ba4469c44.txt",
    "ioc_count": 2
   },
   {
@@ -677,14 +681,6 @@
    "desc": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5f&#x3b;history\"",
    "image": "",
    "date": "2026-08-12T14:21:10+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
-   "desc": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba3b338ea83088a3/6a7b96d08c0da329167a21fa/colombia-flag-digital-muhammadtoqeer-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-12T14:00:00+00:00"
   },
   {
    "source": "Aikido",
