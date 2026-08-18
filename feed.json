@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-18T14:45:23.461719+00:00",
+ "generated": "2026-08-18T15:34:19.437154+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
+   "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+   "desc": "Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. The post Webinar Today: Rethinking Cyber Defense for AI-Sp",
+   "image": "",
+   "date": "2026-08-18T15:03:30+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
+   "link": "https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians",
+   "desc": "The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.",
+   "image": "",
+   "date": "2026-08-18T14:45:00+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
@@ -32,18 +48,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
    "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -321,14 +337,6 @@
    "date": "2026-08-17T16:15:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
-   "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
-   "desc": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu",
-   "image": "",
-   "date": "2026-08-17T16:01:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
    "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
@@ -389,14 +397,6 @@
    "desc": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
    "image": "",
    "date": "2026-08-17T12:33:11+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
-   "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
-   "desc": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on Secu",
-   "image": "",
-   "date": "2026-08-17T12:11:00+00:00"
   },
   {
    "source": "The Hacker News",
