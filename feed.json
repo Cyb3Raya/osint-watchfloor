@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-18T01:37:54.207124+00:00",
+ "generated": "2026-08-18T02:41:19.287256+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
+   "link": "https://isc.sans.edu/diary/rss/33256",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-18T02:00:03+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
@@ -717,16 +725,6 @@
    "date": "2026-08-11T21:28:35+00:00",
    "iocs": "iocs/215b91448d4d.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33236",
-   "desc": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container ta",
-   "image": "",
-   "date": "2026-08-11T17:54:49+00:00",
-   "iocs": "iocs/5b4351d43032.txt",
-   "ioc_count": 418
   },
   {
    "source": "Unit 42",
