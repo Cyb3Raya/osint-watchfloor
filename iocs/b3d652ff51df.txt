@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P
+Source: https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html
+Extracted: 2026-08-19 14:01:09 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2021-33044
+CVE-2021-33045
+CVE-2024-39943
+CVE-2025-31702

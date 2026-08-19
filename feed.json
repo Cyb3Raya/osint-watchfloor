@@ -1,9 +1,41 @@
 {
- "generated": "2026-08-19T13:02:41.200998+00:00",
+ "generated": "2026-08-19T14:01:22.685825+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+   "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+   "desc": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA",
+   "image": "",
+   "date": "2026-08-19T14:00:10+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
+   "link": "https://therecord.media/latvia-cyberattack-vehicle-data",
+   "desc": "Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.",
+   "image": "",
+   "date": "2026-08-19T13:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
+   "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
+   "desc": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon &#82",
+   "image": "",
+   "date": "2026-08-19T13:36:17+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+   "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+   "desc": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg",
+   "date": "2026-08-19T13:12:17+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
@@ -31,12 +63,30 @@
    "date": "2026-08-19T12:00:00+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+   "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+   "desc": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass fl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg",
+   "date": "2026-08-19T11:34:28+00:00",
+   "iocs": "iocs/b3d652ff51df.txt",
+   "ioc_count": 4
+  },
+  {
    "source": "SecurityWeek",
    "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
    "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
    "desc": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityW",
    "image": "",
    "date": "2026-08-19T11:30:33+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+   "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+   "desc": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg",
+   "date": "2026-08-19T11:30:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -295,14 +345,6 @@
    "date": "2026-08-18T15:03:30+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
-   "link": "https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians",
-   "desc": "The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.",
-   "image": "",
-   "date": "2026-08-18T14:45:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
    "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
@@ -342,14 +384,6 @@
    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
    "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
-   "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
-   "desc": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores. The post AI-Driven Vulnerability ",
-   "image": "",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -429,16 +463,6 @@
    "date": "2026-08-18T08:12:08+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-   "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg",
-   "date": "2026-08-18T06:34:20+00:00",
-   "iocs": "iocs/c8f5936ef6e3.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
    "link": "https://isc.sans.edu/diary/rss/33256",
@@ -453,16 +477,6 @@
    "desc": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-17T21:37:23+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-   "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-   "desc": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
-   "date": "2026-08-17T21:03:04+00:00",
-   "iocs": "iocs/7ed54789e434.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -507,14 +521,6 @@
    "date": "2026-08-17T19:12:39+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-   "desc": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
-   "date": "2026-08-17T18:44:17+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
    "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
@@ -539,16 +545,6 @@
    "desc": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted p",
    "image": "",
    "date": "2026-08-17T14:33:58+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-   "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-   "desc": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastru",
-   "image": "",
-   "date": "2026-08-17T14:00:10+00:00",
-   "iocs": "iocs/c7510fc0ce5f.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
