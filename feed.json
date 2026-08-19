@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-19T16:51:17.830428+00:00",
+ "generated": "2026-08-19T17:29:26.672252+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
+   "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+   "desc": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T16:58:23+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
@@ -249,14 +257,14 @@
    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
    "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
    "desc": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a4148f110e1cfe1/6a85e47e0d336431ba15fdc0/gitlab_bella1105_shutterstock-REVISED_FOR_16X9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T21:25:58+00:00",
    "iocs": "iocs/c81f051852d3.txt",
    "ioc_count": 2
   },
   {
    "source": "Dark Reading",
-   "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture",
+   "title": "'CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture",
    "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
    "desc": "Researchers discovered a &quot;meta-hacking&quot; technique that can manipulate the AI service into revealing its own security weaknesses.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale",
@@ -641,14 +649,6 @@
    "desc": "Why do so many boards underestimate technology risk until it becomes a crisis?",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21c605763d0c60ea/6a7e01ffe9f4a6e313766046/boardroom-FangXiaNuo-Getty-618946910.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-14T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
-   "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-   "desc": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-14T12:17:21+00:00"
   },
   {
    "source": "Krebs on Security",
