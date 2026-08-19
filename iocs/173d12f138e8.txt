@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign
+Source: https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/
+Extracted: 2026-08-19 11:27:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-12569
