@@ -1,0 +1,13 @@
+IOC EXTRACTION - Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data
+Source: https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html
+Extracted: 2026-08-19 09:36:42 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2021-27101
+CVE-2023-34362
+CVE-2026-12569

@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-19T08:40:44.294733+00:00",
+ "generated": "2026-08-19T09:36:50.369157+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
+   "link": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
+   "desc": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on Secu",
+   "image": "",
+   "date": "2026-08-19T09:14:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+   "desc": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+   "image": "",
+   "date": "2026-08-19T09:10:20+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
@@ -27,6 +43,26 @@
    "desc": "The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact. The post CareCloud Data Breach Impact Grows to 3.7 Million Individuals appeared first on Secu",
    "image": "",
    "date": "2026-08-19T06:56:43+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+   "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+   "desc": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg",
+   "date": "2026-08-19T06:01:53+00:00",
+   "iocs": "iocs/c0cb35055ffe.txt",
+   "ioc_count": 31
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+   "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+   "desc": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) softw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg",
+   "date": "2026-08-19T05:39:25+00:00",
+   "iocs": "iocs/0a363bcfbc5d.txt",
+   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -196,18 +232,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
    "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -319,16 +355,6 @@
    "desc": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg",
    "date": "2026-08-18T09:10:45+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "GitLab Patches Critical Code Injection Vulnerability",
-   "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
-   "desc": "The security defect allows unauthenticated attackers to modify or delete user data and public projects. The post GitLab Patches Critical Code Injection Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-18T08:51:07+00:00",
-   "iocs": "iocs/54b8d561cfda.txt",
-   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -489,32 +515,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-   "desc": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading fart",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg",
-   "date": "2026-08-17T13:23:51+00:00",
-   "iocs": "iocs/74a4bb0aafac.txt",
-   "ioc_count": 32
-  },
-  {
    "source": "BleepingComputer",
    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
    "desc": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
    "image": "",
    "date": "2026-08-17T12:33:11+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "How MCP Servers Can Expose Enterprise Secrets",
-   "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-   "desc": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png",
-   "date": "2026-08-17T11:58:00+00:00",
-   "iocs": "iocs/5ab36643acff.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -525,14 +531,6 @@
    "date": "2026-08-17T11:25:02+00:00",
    "iocs": "iocs/1982bb8549d6.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "French tax authority data breach affects 678,000 individuals",
-   "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-   "desc": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-   "image": "",
-   "date": "2026-08-17T10:09:48+00:00"
   },
   {
    "source": "Socket",
