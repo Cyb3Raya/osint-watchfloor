@@ -1,0 +1,31 @@
+IOC EXTRACTION - Yet another RCE in Gogs, but it's fixed this time!
+Source: https://www.aikido.dev/blog/fixed-rce-gogs-cve-2026-52813
+Extracted: 2026-08-19 13:02:39 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-52810
+CVE-2026-52813
+
+IPv4 (1)
+----------------------------------------
+4[.]245[.]3[.]4
+
+Domains (2)
+----------------------------------------
+ctx[.]log[.]info
+gogs[.]io
+
+URLs (3)
+----------------------------------------
+hxxp://4[.]245[.]3[.]4:13000/api/v1/repos/[.][.]/[.][.]/gogs/data/tmp/local-r/1/traversal/contents/dummy4
+hxxps://developer@gogs[.]local
+hxxps://gogs[.]local
+
+Emails (1)
+----------------------------------------
+developer@gogs.local
