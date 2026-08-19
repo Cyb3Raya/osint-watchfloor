@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-18T23:56:04.976279+00:00",
+ "generated": "2026-08-19T01:36:03.599129+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+   "desc": "In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T01:00:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
@@ -633,14 +641,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-14T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-   "desc": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-13T20:45:17+00:00"
   },
   {
    "source": "Cisco Talos",
