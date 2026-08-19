@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-19T14:01:22.685825+00:00",
+ "generated": "2026-08-19T14:56:39.337030+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
+   "link": "https://isc.sans.edu/diary/rss/33260",
+   "desc": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is ",
+   "image": "",
+   "date": "2026-08-19T14:24:58+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
@@ -711,14 +719,6 @@
    "date": "2026-08-13T01:26:53+00:00",
    "iocs": "iocs/be579ec8a4a0.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33240",
-   "desc": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5f&#x3b;history\"",
-   "image": "",
-   "date": "2026-08-12T14:21:10+00:00"
   },
   {
    "source": "Aikido",
