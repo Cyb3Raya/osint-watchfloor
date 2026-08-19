@@ -1,0 +1,10 @@
+IOC EXTRACTION - Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second
+Source: https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html
+Extracted: 2026-08-19 19:56:47 UTC
+Total indicators: 0
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+No indicators found in the article text.
+(IoCs may live in a linked vendor report, not the article.)

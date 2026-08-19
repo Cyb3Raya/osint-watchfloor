@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-19T19:28:19.970910+00:00",
+ "generated": "2026-08-19T19:56:58.046073+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+   "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+   "desc": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
+   "date": "2026-08-19T19:02:40+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Electronic health record company CareCloud says 3.7 million people affected by breach",
@@ -23,6 +31,14 @@
    "ioc_count": 4
   },
   {
+   "source": "The Hacker News",
+   "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+   "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+   "desc": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg",
+   "date": "2026-08-19T18:06:44+00:00"
+  },
+  {
    "source": "RF The Record",
    "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
    "link": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
@@ -37,6 +53,16 @@
    "desc": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
    "image": "",
    "date": "2026-08-19T17:50:01+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "77 Firefox Extensions Linked to Crypto Wallet and Credential Theft",
+   "link": "https://socket.dev/blog/firefox-crypto-wallet-theft?utm_medium=feed",
+   "desc": "Socket uncovered 77 linked Firefox extensions, including 40 that steal wallet secrets or credentials and 37 deceptive sports-score shells.",
+   "image": "",
+   "date": "2026-08-19T17:43:36+00:00",
+   "iocs": "iocs/0fce33c1f6aa.txt",
+   "ioc_count": 122
   },
   {
    "source": "Dark Reading",
@@ -315,6 +341,14 @@
    "date": "2026-08-18T20:14:58+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
+   "desc": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10b947e86b169479/6a8494d01fc1525118764111/rich_mogull_becky_bracken_news_desk.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T19:09:51+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
    "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
@@ -414,18 +448,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
    "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -453,16 +487,6 @@
    "date": "2026-08-18T11:30:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-   "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-   "desc": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
-   "date": "2026-08-18T11:20:00+00:00",
-   "iocs": "iocs/baa27ed0fe16.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft tests faster Windows File Explorer, new context menu",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
@@ -487,14 +511,6 @@
    "desc": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
    "image": "",
    "date": "2026-08-18T09:24:49+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-   "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-   "desc": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg",
-   "date": "2026-08-18T09:10:45+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -643,14 +659,6 @@
    "desc": "Compare the top unified security tools of 2026: Aikido, Cortex Cloud, Wiz, Checkmarx, Snyk, and Orca, across coverage, correlation, governance, and cost. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-14T15:53:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "What Boards Need to Know About Tech Risk",
-   "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
-   "desc": "Why do so many boards underestimate technology risk until it becomes a crisis?",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21c605763d0c60ea/6a7e01ffe9f4a6e313766046/boardroom-FangXiaNuo-Getty-618946910.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-14T14:00:00+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -989,14 +997,6 @@
    "desc": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless ",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-08-03T10:00:35+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Claude Breached 3 Companies and Uploaded Malware to PyPI During Anthropic's Security Tests",
-   "link": "https://socket.dev/blog/anthropic-claude-pypi-malware?utm_medium=feed",
-   "desc": "A misconfiguration gave three Anthropic models internet access, and one, believing it was in a simulation, shipped a credential-stealing package to PyPI.",
-   "image": "",
-   "date": "2026-07-31T21:48:15+00:00"
   },
   {
    "source": "Aikido",
