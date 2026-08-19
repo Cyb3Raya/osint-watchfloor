@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical RCE flaw in Windows IKE Extension now actively exploited
+Source: https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/
+Extracted: 2026-08-19 10:50:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-33824

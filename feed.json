@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-19T10:02:57.437328+00:00",
+ "generated": "2026-08-19T10:50:10.439187+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
+   "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+   "desc": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-08-19T10:37:31+00:00",
+   "iocs": "iocs/199268630ade.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions compo",
+   "image": "",
+   "date": "2026-08-19T10:12:24+00:00",
+   "iocs": "iocs/3fe1d408edde.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Cisco Talos",
    "title": "Describing attacks with crime script analysis",
@@ -349,14 +369,6 @@
    "date": "2026-08-18T09:24:49+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
-   "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
-   "desc": "Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform. The post Heights Finance Data Breach Impacts at Least 1.2 Million Individuals appeared first ",
-   "image": "",
-   "date": "2026-08-18T09:18:34+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
    "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
@@ -529,16 +541,6 @@
    "desc": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
    "image": "",
    "date": "2026-08-17T12:33:11+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Philips and GE investigating Clop ransomware data theft claims",
-   "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-   "desc": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-   "image": "",
-   "date": "2026-08-17T11:25:02+00:00",
-   "iocs": "iocs/1982bb8549d6.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
