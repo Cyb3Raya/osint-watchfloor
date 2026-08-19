@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hackers compromise 14,500 Dahua web cameras in 35-day campaign
+Source: https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/
+Extracted: 2026-08-19 18:46:16 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2021-33044
+CVE-2021-33045
+CVE-2024-39943
+CVE-2025-31702
