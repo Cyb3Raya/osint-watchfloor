@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-19T17:29:26.672252+00:00",
+ "generated": "2026-08-19T17:57:29.279451+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+   "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+   "desc": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+   "image": "",
+   "date": "2026-08-19T17:50:01+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
@@ -396,18 +404,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
    "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -535,14 +543,6 @@
    "desc": "Adam Shostack, president of Shostack &amp; Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was &quot;blown away&quot; by OpenAI's revelations rega",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-17T19:22:56+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-   "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-   "desc": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logi",
-   "image": "",
-   "date": "2026-08-17T19:12:39+00:00"
   },
   {
    "source": "Dark Reading",
