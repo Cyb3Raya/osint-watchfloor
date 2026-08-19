@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-19T11:27:47.477138+00:00",
+ "generated": "2026-08-19T11:58:36.424118+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
+   "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
+   "desc": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityW",
+   "image": "",
+   "date": "2026-08-19T11:30:33+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
@@ -341,14 +349,6 @@
    "desc": "Xpander’s platform uses a universal agent harness that executes AI agents as portable workloads and securely renders interfaces on demand. The post Xpander Raises $7.5 Million for AI Management and Governance appeared fi",
    "image": "",
    "date": "2026-08-18T12:29:08+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Fortinet Acquires AI Security Company Virtue AI",
-   "link": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
-   "desc": "Fortinet will use Virtue AI technology to enhance its AI security portfolio, including for AI models, applications, and agentic systems. The post Fortinet Acquires AI Security Company Virtue AI appeared first on Security",
-   "image": "",
-   "date": "2026-08-18T12:06:21+00:00"
   },
   {
    "source": "The Hacker News",
