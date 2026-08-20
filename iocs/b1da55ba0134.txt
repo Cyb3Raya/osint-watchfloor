@@ -1,0 +1,12 @@
+IOC EXTRACTION - Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code
+Source: https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html
+Extracted: 2026-08-20 06:50:49 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-32475
+CVE-2026-65640
