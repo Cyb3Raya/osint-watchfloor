@@ -1,9 +1,37 @@
 {
- "generated": "2026-08-20T11:29:45.236177+00:00",
+ "generated": "2026-08-20T11:59:18.546688+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33264",
+   "desc": "Microsoft Graph is a newer API that is meant to replace several others.&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; OK, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s at version 2.3.9, ",
+   "image": "",
+   "date": "2026-08-20T11:47:54+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
+   "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
+   "desc": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-20T11:46:04+00:00",
+   "iocs": "iocs/d693b2312509.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "Aikido",
+   "title": "Two popular Rust crates arrayref and append-only-vec compromised in Supply Chain Attack",
+   "link": "https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack",
+   "desc": "A supply chain attack compromised two popular Rust crates, arrayref and append-only-vec, injecting a dependency on the malicious proc-macro1 package that downloads and executes a remote payload at build time. Category: V",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a86ebcbc0909eb3e7b3af4e_two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack-thumnail.jpg",
+   "date": "2026-08-20T11:30:00+00:00",
+   "iocs": "iocs/8a3967e00ff0.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SecurityWeek",
    "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
@@ -278,7 +306,7 @@
    "source": "Dark Reading",
    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
    "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-   "desc": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+   "desc": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-19T16:58:23+00:00"
   },
@@ -416,16 +444,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg",
    "date": "2026-08-19T11:01:48+00:00",
    "iocs": "iocs/d18e92ac17a1.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-   "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-   "desc": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-08-19T10:37:31+00:00",
-   "iocs": "iocs/199268630ade.txt",
    "ioc_count": 4
   },
   {
@@ -765,14 +783,6 @@
    "desc": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_spotlight.jpg",
    "date": "2026-08-13T10:00:35+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-   "link": "https://isc.sans.edu/diary/rss/33244",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-13T02:00:03+00:00"
   },
   {
    "source": "Aikido",
@@ -1139,14 +1149,6 @@
    "desc": "Amy looks back at the incredible journeys that brought past guests to the world of threat intelligence.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/humans_of_talos.jpg",
    "date": "2026-07-30T10:00:08+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Four incident-response decisions from the Hugging Face breach",
-   "link": "https://www.aikido.dev/blog/hugging-face-open-ai-breach-takeaways",
-   "desc": "Recon, stolen credentials, hidden C2, and rebuild-or-patch. Four Hugging Face breach decisions that show whether you can catch an attack in progress. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6a903f7f8a426f3dff5040_Feature_Just-alert-on-real-issues-HF-breach_16x9.jpg",
-   "date": "2026-07-29T21:37:00+00:00"
   },
   {
    "source": "Cisco Talos",

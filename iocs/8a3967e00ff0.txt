@@ -1,0 +1,19 @@
+IOC EXTRACTION - Two popular Rust crates arrayref and append-only-vec compromised in Supply Chain Attack
+Source: https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack
+Extracted: 2026-08-20 11:59:16 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-52813
+
+IPv4 (1)
+----------------------------------------
+23[.]254[.]165[.]112
+
+URLs (1)
+----------------------------------------
+hxxps://23[.]254[.]165[.]112:9089/
