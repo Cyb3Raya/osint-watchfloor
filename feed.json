@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-19T23:56:36.959464+00:00",
+ "generated": "2026-08-20T01:40:01.126436+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "AI pentesting evaluation checklist: What to look for in an AI pentesting vendor",
+   "link": "https://www.aikido.dev/blog/ai-pentesting-vendor-checklist",
+   "desc": "A checklist for scoring AI pentesting vendors on validation, code access, scope control, and reliability, plus the red flags that separate a real platform from a strong demo. Category: Aikido",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a85d2ffee10d2571e84bf6f_The-Buyers-Guide-to-AI%20Pentesting_Feature.png",
+   "date": "2026-08-20T01:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+   "desc": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+   "image": "",
+   "date": "2026-08-20T00:20:55+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
@@ -480,18 +496,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
    "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -517,14 +533,6 @@
    "desc": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security pla",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif",
    "date": "2026-08-18T11:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft tests faster Windows File Explorer, new context menu",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-   "desc": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-   "image": "",
-   "date": "2026-08-18T11:14:28+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1101,14 +1109,6 @@
    "desc": "Recon, stolen credentials, hidden C2, and rebuild-or-patch. Four Hugging Face breach decisions that show whether you can catch an attack in progress. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6a903f7f8a426f3dff5040_Feature_Just-alert-on-real-issues-HF-breach_16x9.jpg",
    "date": "2026-07-29T21:37:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top SAST tools 2026",
-   "link": "https://www.aikido.dev/blog/top-sast-tools",
-   "desc": "Compare the top SAST tools of 2026 across detection depth, noise, remediation, and enterprise fit Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-07-29T13:28:00+00:00"
   },
   {
    "source": "Cisco Talos",
