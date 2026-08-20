@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-20T17:06:01.459114+00:00",
+ "generated": "2026-08-20T17:50:09.385848+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "N-able Bug Exposes Password Vault Master Keys",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+   "desc": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T17:39:24+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Senators press TikTok over withholding of safety features for some users",
+   "link": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
+   "desc": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\"",
+   "image": "",
+   "date": "2026-08-20T17:33:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+   "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+   "desc": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg",
+   "date": "2026-08-20T16:59:44+00:00"
+  },
   {
    "source": "Socket",
    "title": "Popular Rust Crates Compromised in Build-Time Supply Chain Attack",
@@ -523,14 +547,6 @@
    "date": "2026-08-19T13:45:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-   "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-   "desc": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg",
-   "date": "2026-08-19T13:12:17+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
    "link": "https://therecord.media/iran-cyberattacks-us-doj",
@@ -619,14 +635,6 @@
    "date": "2026-08-18T18:32:01+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
-   "link": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA pr",
-   "image": "",
-   "date": "2026-08-18T18:05:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
@@ -685,14 +693,6 @@
    "desc": "Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-17T20:26:34+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Hugging Face Breach Raises Big Questions About AI Security Controls",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-   "desc": "Adam Shostack, president of Shostack &amp; Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was &quot;blown away&quot; by OpenAI's revelations rega",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
-   "date": "2026-08-17T19:22:56+00:00"
   },
   {
    "source": "SANS ISC",
