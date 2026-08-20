@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T21:47:59.771795+00:00",
+ "generated": "2026-08-20T22:30:32.451713+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Socket Now Protects the Firefox Extension Ecosystem",
+   "link": "https://socket.dev/blog/firefox-extension-security?utm_medium=feed",
+   "desc": "Socket is bringing experimental protection to Firefox, scanning 97,000+ extensions in Mozilla's official directory for malware and risky updates.",
+   "image": "",
+   "date": "2026-08-20T21:31:22+00:00"
   },
   {
    "source": "Dark Reading",
@@ -991,14 +999,6 @@
    "desc": "Continuous AI pentesting for teams that can't use the cloud. The Aikido Machine keeps models, code, and results entirely inside your network. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a72d6a5ef1bb7f853aa2384_Feature_Aikido-Machine-Launch_16x9.jpg",
    "date": "2026-08-05T07:00:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "AWS Security Hub Adds Socket for Supply Chain Security",
-   "link": "https://socket.dev/blog/aws-security-hub-socket?utm_medium=feed",
-   "desc": "Socket is now in the AWS Security Hub Extended plan. Adopt it through AWS, apply committed spend, and block malicious open source packages.",
-   "image": "",
-   "date": "2026-08-04T18:56:11+00:00"
   },
   {
    "source": "Unit 42",
