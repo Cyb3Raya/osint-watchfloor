@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-20T01:40:01.126436+00:00",
+ "generated": "2026-08-20T02:43:12.058972+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33262",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-20T02:00:03+00:00"
+  },
   {
    "source": "Aikido",
    "title": "AI pentesting evaluation checklist: What to look for in an AI pentesting vendor",
@@ -725,16 +733,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-13T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33242",
-   "desc": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how it",
-   "image": "",
-   "date": "2026-08-13T01:26:53+00:00",
-   "iocs": "iocs/be579ec8a4a0.txt",
-   "ioc_count": 3
   },
   {
    "source": "Aikido",
