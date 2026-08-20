@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-20T06:50:57.034919+00:00",
+ "generated": "2026-08-20T07:43:14.349206+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
+   "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
+   "desc": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on Security",
+   "image": "",
+   "date": "2026-08-20T07:02:02+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft says August Windows updates may cause gaming issues",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+   "desc": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
+   "image": "",
+   "date": "2026-08-20T06:51:03+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
@@ -485,22 +501,6 @@
    "desc": "Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. The post Webinar Today: Rethinking Cyber Defense for AI-Sp",
    "image": "",
    "date": "2026-08-18T15:03:30+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
-   "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
-   "desc": "With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm. The post CISO Conversations: Nico Waisman – From Self-Ta",
-   "image": "",
-   "date": "2026-08-18T14:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Your Controls Block Known Attacks. What About the Behavior?",
-   "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-   "desc": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav",
-   "image": "",
-   "date": "2026-08-18T14:01:11+00:00"
   },
   {
    "source": "Google GTIG",
