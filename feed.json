@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T19:34:02.726228+00:00",
+ "generated": "2026-08-20T20:00:19.520091+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,22 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+   "link": "https://therecord.media/china-cyber-espionage-central-asia",
+   "desc": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+   "image": "",
+   "date": "2026-08-20T19:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+   "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+   "desc": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest &quot;hack back&quot; strategy.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt873948c65f62f170/6a874b480989859872d1eb89/Delta_Vegas-Janice_Chen-GettyImages-2269887409.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T19:11:15+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -577,14 +593,6 @@
    "date": "2026-08-19T13:45:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
-   "link": "https://therecord.media/iran-cyberattacks-us-doj",
-   "desc": "The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.",
-   "image": "",
-   "date": "2026-08-19T12:15:00+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Yet another RCE in Gogs, but it's fixed this time!",
    "link": "https://www.aikido.dev/blog/fixed-rce-gogs-cve-2026-52813",
@@ -673,14 +681,6 @@
    "date": "2026-08-18T14:00:00+00:00",
    "iocs": "iocs/4a5b883aab25.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
   },
   {
    "source": "Dark Reading",
