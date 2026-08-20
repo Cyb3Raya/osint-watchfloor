@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T15:42:52.016676+00:00",
+ "generated": "2026-08-20T16:38:23.705013+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -31,6 +31,14 @@
    "date": "2026-08-20T14:39:48+00:00",
    "iocs": "iocs/541e0309d10b.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+   "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+   "desc": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controll",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg",
+   "date": "2026-08-20T14:36:27+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -529,16 +537,6 @@
    "date": "2026-08-19T12:08:00+00:00",
    "iocs": "iocs/6eafe563b522.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-   "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-   "desc": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass fl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg",
-   "date": "2026-08-19T11:34:28+00:00",
-   "iocs": "iocs/b3d652ff51df.txt",
-   "ioc_count": 4
   },
   {
    "source": "Cisco Talos",
