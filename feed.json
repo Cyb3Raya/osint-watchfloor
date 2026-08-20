@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-20T17:50:09.385848+00:00",
+ "generated": "2026-08-20T18:42:43.699609+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Cisco Talos",
+   "title": "Is Cyber missing the Marque?",
+   "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
+   "desc": "In this week's newsletter, new author Mick Baccio introduces himself and explores the operational and security implications of the new White House memorandum regarding private sector participation in government-authorize",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_source-2.jpg",
+   "date": "2026-08-20T18:00:18+00:00",
+   "iocs": "iocs/7ade312d5cee.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+   "desc": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+   "image": "",
+   "date": "2026-08-20T17:53:52+00:00",
+   "iocs": "iocs/000b292e537a.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Dark Reading",
    "title": "N-able Bug Exposes Password Vault Master Keys",
@@ -19,6 +39,14 @@
    "desc": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\"",
    "image": "",
    "date": "2026-08-20T17:33:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+   "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+   "desc": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T17:32:51+00:00"
   },
   {
    "source": "The Hacker News",
@@ -531,14 +559,6 @@
    "date": "2026-08-19T14:24:58+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-   "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-   "desc": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA",
-   "image": "",
-   "date": "2026-08-19T14:00:10+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
    "link": "https://therecord.media/latvia-cyberattack-vehicle-data",
@@ -685,14 +705,6 @@
    "date": "2026-08-17T20:26:39+00:00",
    "iocs": "iocs/d66b2e35f3f3.txt",
    "ioc_count": 108
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
-   "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
-   "desc": "Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-17T20:26:34+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1203,14 +1215,6 @@
    "date": "2026-07-23T10:00:38+00:00",
    "iocs": "iocs/678e715aba62.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Preview: Cisco Talos at Black Hat USA 2026",
-   "link": "https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/",
-   "desc": "Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/BH2026_social_generic.jpg",
-   "date": "2026-07-23T10:00:14+00:00"
   },
   {
    "source": "Krebs on Security",
