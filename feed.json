@@ -1,9 +1,45 @@
 {
- "generated": "2026-08-20T14:03:38.591003+00:00",
+ "generated": "2026-08-20T14:59:13.013388+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+   "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+   "desc": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-20T14:50:49+00:00",
+   "iocs": "iocs/6ccb28bfaeed.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+   "desc": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+   "image": "",
+   "date": "2026-08-20T14:39:48+00:00",
+   "iocs": "iocs/541e0309d10b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
+   "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+   "desc": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-20T14:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "How MSPs can catch phishing attacks email filters miss",
+   "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+   "desc": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attack",
+   "image": "",
+   "date": "2026-08-20T14:01:11+00:00"
+  },
   {
    "source": "Google GTIG",
    "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
@@ -15,12 +51,40 @@
    "ioc_count": 23
   },
   {
+   "source": "The Hacker News",
+   "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+   "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+   "desc": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg",
+   "date": "2026-08-20T13:48:24+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+   "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+   "desc": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg",
+   "date": "2026-08-20T13:35:13+00:00",
+   "iocs": "iocs/88c8957eed48.txt",
+   "ioc_count": 3
+  },
+  {
    "source": "Dark Reading",
    "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
    "desc": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T13:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+   "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+   "desc": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CV",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg",
+   "date": "2026-08-20T13:24:28+00:00",
+   "iocs": "iocs/572e047ecd00.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -251,14 +315,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-   "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-   "desc": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on Security",
-   "image": "",
-   "date": "2026-08-20T07:02:02+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft says August Windows updates may cause gaming issues",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
@@ -275,6 +331,14 @@
    "date": "2026-08-20T06:04:34+00:00",
    "iocs": "iocs/b1da55ba0134.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+   "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T04:15:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -441,14 +505,6 @@
    "date": "2026-08-19T13:45:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
-   "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-   "desc": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon &#82",
-   "image": "",
-   "date": "2026-08-19T13:36:17+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
@@ -483,50 +539,6 @@
    "date": "2026-08-19T11:34:28+00:00",
    "iocs": "iocs/b3d652ff51df.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-   "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-   "desc": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg",
-   "date": "2026-08-19T11:30:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-   "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-   "desc": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screens",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg",
-   "date": "2026-08-19T11:25:28+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes known issue causing Windows Defender crashes",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-   "desc": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
-   "image": "",
-   "date": "2026-08-19T11:14:28+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-   "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shor",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg",
-   "date": "2026-08-19T11:01:48+00:00",
-   "iocs": "iocs/d18e92ac17a1.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions compo",
-   "image": "",
-   "date": "2026-08-19T10:12:24+00:00",
-   "iocs": "iocs/3fe1d408edde.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
@@ -673,16 +685,6 @@
    "desc": "Adam Shostack, president of Shostack &amp; Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was &quot;blown away&quot; by OpenAI's revelations rega",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-17T19:22:56+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
-   "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
-   "desc": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-17T15:44:34+00:00",
-   "iocs": "iocs/31464e819e00.txt",
-   "ioc_count": 7
   },
   {
    "source": "SANS ISC",

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Target Zimbra Servers in Active Exploitation Campaign
+Source: https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/
+Extracted: 2026-08-20 14:59:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-73570

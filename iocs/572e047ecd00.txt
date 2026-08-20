@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution
+Source: https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html
+Extracted: 2026-08-20 14:58:59 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-66376
+CVE-2026-73570
