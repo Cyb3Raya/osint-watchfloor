@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-20T16:38:23.705013+00:00",
+ "generated": "2026-08-20T17:06:01.459114+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Socket",
+   "title": "Popular Rust Crates Compromised in Build-Time Supply Chain Attack",
+   "link": "https://socket.dev/blog/popular-rust-crates-compromised?utm_medium=feed",
+   "desc": "Three compromised Rust crates pulled in a malicious dependency that downloaded and executed cross-platform malware during Cargo builds.",
+   "image": "",
+   "date": "2026-08-20T15:54:37+00:00",
+   "iocs": "iocs/5a0e3ae69e19.txt",
+   "ioc_count": 21
+  },
   {
    "source": "Dark Reading",
    "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
@@ -1015,16 +1025,6 @@
    "date": "2026-08-04T10:37:00+00:00",
    "iocs": "iocs/1c015336aa68.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "Socket",
-   "title": "Popular npm Packages in the keyv and Cacheable Namespaces Compromised in Active Supply Chain Attack",
-   "link": "https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain?utm_medium=feed",
-   "desc": "Popular npm packages keyv and cacheable compromised.",
-   "image": "",
-   "date": "2026-08-04T10:36:00+00:00",
-   "iocs": "iocs/541eac1c7fc4.txt",
-   "ioc_count": 9
   },
   {
    "source": "Cisco Talos",
