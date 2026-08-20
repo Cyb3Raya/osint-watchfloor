@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical GitLab Flaw Exploited Shortly After Disclosure
+Source: https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/
+Extracted: 2026-08-20 08:41:45 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-19478

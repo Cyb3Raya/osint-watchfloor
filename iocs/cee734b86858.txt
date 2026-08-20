@@ -1,0 +1,12 @@
+IOC EXTRACTION - Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler
+Source: https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/
+Extracted: 2026-08-20 08:41:44 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-19489
+CVE-2026-19490
