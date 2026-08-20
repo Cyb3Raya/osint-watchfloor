@@ -1,0 +1,16 @@
+IOC EXTRACTION - UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities
+Source: https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/
+Extracted: 2026-08-20 10:04:59 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2019-16098
+CVE-2021-21551
+
+Domains (1)
+----------------------------------------
+vn[.]xyz

@@ -1,0 +1,30 @@
+IOC EXTRACTION - UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations
+Source: https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/
+Extracted: 2026-08-20 10:05:00 UTC
+Total indicators: 14
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (11)
+----------------------------------------
+CVE-2010-3904
+CVE-2015-3246
+CVE-2015-5287
+CVE-2019-18935
+CVE-2021-23758
+CVE-2021-29441
+CVE-2021-29442
+CVE-2021-3156
+CVE-2022-0847
+CVE-2022-0995
+CVE-2022-27925
+
+IPv4 (1)
+----------------------------------------
+139[.]180[.]197[.]150
+
+URLs (2)
+----------------------------------------
+hxxps://adminapi[.]tippusoni[.]in/4/dll[.]zip
+hxxps://adminapi[.]tippusoni[.]in/4/user[.]txt

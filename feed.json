@@ -1,9 +1,57 @@
 {
- "generated": "2026-08-20T09:37:24.491562+00:00",
+ "generated": "2026-08-20T10:05:07.299485+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New Manic Android malware can exfiltrate data through nearby devices",
+   "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+   "desc": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+   "image": "",
+   "date": "2026-08-20T10:02:02+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities",
+   "link": "https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/",
+   "desc": "The newly identified SPECTRE implant represents an evolution in commodity intrusion tooling, integrating cross-platform C2 operations, process injection, credential theft, anti-analysis protections, and kernel-level endp",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/Fig-0-.jpg",
+   "date": "2026-08-20T10:00:50+00:00",
+   "iocs": "iocs/ec53dedce37e.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations",
+   "link": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/",
+   "desc": "Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147, that targets a wide range of vulnerable web servers. This is an overview of the campaign, examining the countries affected, potential impa",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/Fig-0.jpg",
+   "date": "2026-08-20T10:00:32+00:00",
+   "iocs": "iocs/e09feb72add9.txt",
+   "ioc_count": 14
+  },
+  {
+   "source": "Unit 42",
+   "title": "Identity Abuse Through Trusted Communication Channels",
+   "link": "https://unit42.paloaltonetworks.com/communication-channel-identity-risks/",
+   "desc": "Unit 42 details how attackers exploit enterprise collaboration tools for identity phishing and credential theft. Discover key defense strategies. The post Identity Abuse Through Trusted Communication Channels appeared fi",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_Malware_Category_1920x900-2.jpg",
+   "date": "2026-08-20T10:00:25+00:00",
+   "iocs": "iocs/43d319c9aabf.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+   "desc": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
+   "image": "",
+   "date": "2026-08-20T09:46:54+00:00",
+   "iocs": "iocs/3a6e3831490d.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
@@ -427,14 +475,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-   "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-   "desc": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensor",
-   "image": "",
-   "date": "2026-08-18T20:14:58+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
    "link": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
@@ -489,16 +529,6 @@
    "ioc_count": 4
   },
   {
-   "source": "BleepingComputer",
-   "title": "Clop created custom web shell for Windchill data theft attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-   "desc": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal fil",
-   "image": "",
-   "date": "2026-08-18T17:29:51+00:00",
-   "iocs": "iocs/851d3dad3622.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
    "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
@@ -518,18 +548,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
    "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
@@ -1231,30 +1261,12 @@
    "date": "2026-07-16T23:00:59+00:00"
   },
   {
-   "source": "Cisco Talos",
-   "title": "Begun, the Patch Wars have",
-   "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
-   "desc": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-1.jpg",
-   "date": "2026-07-16T18:00:50+00:00",
-   "iocs": "iocs/90c5e8b91901.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Google GTIG",
    "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
    "desc": "Written by: Jules Czarniak Introduction As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week before a patch even e",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Demystifying_AI_image1.max-1000x1000.png",
    "date": "2026-07-16T14:00:00+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "The Hunter's Paradox: Is it time to embrace automated threat hunting?",
-   "link": "https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/",
-   "desc": "Humans can no longer keep up with the volume and velocity of security data on their own, but AI can't be fully trusted. David discusses the merits of both and muses on what the future might look like.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/on_the_radar.jpg",
-   "date": "2026-07-16T10:00:07+00:00"
   },
   {
    "source": "Wiz Threats",
@@ -1265,16 +1277,6 @@
    "date": "2026-07-16T00:00:00+00:00",
    "iocs": "iocs/fa8d79d27a82.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Unit 42",
-   "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
-   "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
-   "desc": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg",
-   "date": "2026-07-15T23:00:33+00:00",
-   "iocs": "iocs/bbb6da0dea02.txt",
-   "ioc_count": 41
   },
   {
    "source": "Google GTIG",

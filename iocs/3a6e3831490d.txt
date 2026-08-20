@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Zimbra RCE flaw now actively exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/
+Extracted: 2026-08-20 10:04:57 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-73570
