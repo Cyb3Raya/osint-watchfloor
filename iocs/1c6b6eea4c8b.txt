@@ -1,0 +1,14 @@
+IOC EXTRACTION - Citrix urges admins to patch new NetScaler flaws as soon as possible
+Source: https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/
+Extracted: 2026-08-20 13:05:04 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-19489
+CVE-2026-19490
+CVE-2026-3055
+CVE-2026-4368

@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T11:59:18.546688+00:00",
+ "generated": "2026-08-20T13:05:14.142786+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -10,7 +10,35 @@
    "link": "https://isc.sans.edu/diary/rss/33264",
    "desc": "Microsoft Graph is a newer API that is meant to replace several others.&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; OK, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s at version 2.3.9, ",
    "image": "",
-   "date": "2026-08-20T11:47:54+00:00"
+   "date": "2026-08-20T12:45:32+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
+   "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+   "desc": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityW",
+   "image": "",
+   "date": "2026-08-20T12:24:53+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+   "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+   "desc": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+   "image": "",
+   "date": "2026-08-20T12:14:38+00:00",
+   "iocs": "iocs/1c6b6eea4c8b.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
+   "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+   "desc": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-08-20T12:05:55+00:00",
+   "iocs": "iocs/b437cbcc9c57.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -395,14 +423,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SecurityWeek",
-   "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-   "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-   "desc": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityW",
-   "image": "",
-   "date": "2026-08-19T11:30:33+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
    "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
@@ -425,16 +445,6 @@
    "desc": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
    "image": "",
    "date": "2026-08-19T11:14:28+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
-   "link": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
-   "desc": "The cybercrime gang has listed major companies such as Shell, Philips, Fiserv, Zebra, Mindray, and Largan Precision. The post Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign appeared first on Securi",
-   "image": "",
-   "date": "2026-08-19T11:07:21+00:00",
-   "iocs": "iocs/173d12f138e8.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -463,14 +473,6 @@
    "desc": "Martin explores how using crime script analysis to describe an attack with everyday language makes the situation accessible to non-technical audiences and identify points where the crime can be disrupted.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar.jpg",
    "date": "2026-08-19T10:00:52+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-   "desc": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-   "image": "",
-   "date": "2026-08-19T09:10:20+00:00"
   },
   {
    "source": "The Hacker News",

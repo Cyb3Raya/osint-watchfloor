@@ -1,0 +1,11 @@
+IOC EXTRACTION - MLflow Vulnerability Exploited for Cloud Credential Theft
+Source: https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/
+Extracted: 2026-08-20 13:05:09 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-64849
