@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-20T14:59:13.013388+00:00",
+ "generated": "2026-08-20T15:42:52.016676+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+   "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T14:59:22+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
@@ -331,14 +339,6 @@
    "date": "2026-08-20T06:04:34+00:00",
    "iocs": "iocs/b1da55ba0134.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-   "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T04:15:00+00:00"
   },
   {
    "source": "SANS ISC",
