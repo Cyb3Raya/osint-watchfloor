@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-20T18:42:43.699609+00:00",
+ "generated": "2026-08-20T19:34:02.726228+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Calling on Cyber Pros to Help Defend City Hall",
+   "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+   "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T14:00:00+00:00"
+  },
   {
    "source": "Cisco Talos",
    "title": "Is Cyber missing the Marque?",
@@ -47,6 +55,16 @@
    "desc": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T17:32:51+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+   "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+   "desc": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png",
+   "date": "2026-08-20T17:23:48+00:00",
+   "iocs": "iocs/50bcfcb6813f.txt",
+   "ioc_count": 4
   },
   {
    "source": "The Hacker News",
@@ -501,14 +519,6 @@
    "ioc_count": 4
   },
   {
-   "source": "The Hacker News",
-   "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-   "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-   "desc": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg",
-   "date": "2026-08-19T18:06:44+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
    "link": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
@@ -687,14 +697,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-18T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
-   "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
-   "desc": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-17T21:37:23+00:00"
   },
   {
    "source": "SANS ISC",
