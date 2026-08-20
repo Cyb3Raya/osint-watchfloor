@@ -1,0 +1,15 @@
+IOC EXTRACTION - NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands
+Source: https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html
+Extracted: 2026-08-20 11:29:32 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2024-35058
+CVE-2026-47731
+CVE-2026-60112
+CVE-2026-71214
+CVE-2026-71289

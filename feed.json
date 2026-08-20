@@ -1,9 +1,45 @@
 {
- "generated": "2026-08-20T10:51:42.065092+00:00",
+ "generated": "2026-08-20T11:29:45.236177+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
+   "link": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
+   "desc": "Atalanta's Argo product is now being used to prove the resilience of Viasat’s satellite communications network. The post AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking appeared f",
+   "image": "",
+   "date": "2026-08-20T11:08:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+   "image": "",
+   "date": "2026-08-20T11:06:14+00:00",
+   "iocs": "iocs/e9af320d90c5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+   "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+   "desc": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s1600/nasa.jpg",
+   "date": "2026-08-20T11:05:11+00:00",
+   "iocs": "iocs/0d465eec6315.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+   "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+   "desc": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg",
+   "date": "2026-08-20T10:38:28+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
@@ -59,6 +95,14 @@
    "date": "2026-08-20T09:46:54+00:00",
    "iocs": "iocs/3a6e3831490d.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+   "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+   "desc": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the ex",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5ySurVDL2oPvG7l78G22fbZEDplybrP5KX79GCEuhHybqkIgDGWDY_iHNfSLhKMt4sxn51CF33lRNwyjQy-l4Zajbkl9qUFxsjHEIoVsFhWBcGoHavMzOnmbWAI-8VHreBmZhuoCPs_N5KAKLFccr-bFLhzvJq12bvhvp5upRSkZulRN4tUDUTkfTRqo/s1600/firefox.png",
+   "date": "2026-08-20T08:42:03+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -161,6 +205,14 @@
    "desc": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
    "image": "",
    "date": "2026-08-19T20:07:12+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Agentic AI Presents New Insider Threat Model for Orgs",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
+   "desc": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0c2b7a8187293ac/6a837f44db552afa32e2f029/katie_mo_and_Rob_Wright.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T19:54:43+00:00"
   },
   {
    "source": "The Hacker News",
@@ -395,28 +447,12 @@
    "date": "2026-08-19T10:00:52+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
-   "link": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-   "desc": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on Secu",
-   "image": "",
-   "date": "2026-08-19T09:14:51+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
    "desc": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
    "image": "",
    "date": "2026-08-19T09:10:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-   "desc": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
-   "image": "",
-   "date": "2026-08-19T08:00:48+00:00"
   },
   {
    "source": "The Hacker News",
@@ -529,14 +565,6 @@
    "ioc_count": 4
   },
   {
-   "source": "The Hacker News",
-   "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-   "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-   "desc": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg",
-   "date": "2026-08-18T16:58:16+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
@@ -548,14 +576,6 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
    "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -563,20 +583,12 @@
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-   "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-   "desc": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg",
-   "date": "2026-08-18T12:38:36+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-   "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-   "desc": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg",
-   "date": "2026-08-18T12:38:20+00:00"
+   "source": "Dark Reading",
+   "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+   "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+   "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -685,14 +697,6 @@
    "desc": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both d",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-14T19:24:18+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-   "desc": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-14T17:32:46+00:00"
   },
   {
    "source": "Aikido",

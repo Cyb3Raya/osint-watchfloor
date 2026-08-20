@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA warns of hackers exploiting critical MLflow vulnerability
+Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/
+Extracted: 2026-08-20 11:29:35 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-64849
