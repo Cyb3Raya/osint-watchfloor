@@ -1,0 +1,11 @@
+IOC EXTRACTION - CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification
+Source: https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html
+Extracted: 2026-08-20 14:03:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-14456

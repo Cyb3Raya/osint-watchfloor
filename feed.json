@@ -1,9 +1,45 @@
 {
- "generated": "2026-08-20T13:05:14.142786+00:00",
+ "generated": "2026-08-20T14:03:38.591003+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Google GTIG",
+   "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/",
+   "desc": "Written by: Gabby Roncone, Wesley Shields Overview Google Threat Intelligence Group (GTIG) is tracking three distinct suspected Russian cyber espionage threat clusters abusing legitimate authentication flows to target in",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Changed_text_in_new_lure_document.max-1000x1000.png",
+   "date": "2026-08-20T14:00:00+00:00",
+   "iocs": "iocs/e466cd90008a.txt",
+   "ioc_count": 23
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+   "desc": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T13:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
+   "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
+   "desc": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks. The post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-20T13:16:35+00:00",
+   "iocs": "iocs/7c35278befa7.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33266",
+   "desc": "Building on the last diary on Using MS Graph and Powershell, let&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s look at \"Risky\" logins.&#xd;",
+   "image": "",
+   "date": "2026-08-20T13:09:50+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
@@ -41,6 +77,14 @@
    "ioc_count": 1
   },
   {
+   "source": "The Hacker News",
+   "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+   "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+   "desc": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) ter",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg",
+   "date": "2026-08-20T12:01:24+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
    "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
@@ -51,6 +95,24 @@
    "ioc_count": 10
   },
   {
+   "source": "The Hacker News",
+   "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+   "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+   "desc": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp; The incident began when a Meta employee p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0UN7paSPEt1BbP-tObzJmXd5LHvNrZpta_hHK2pwYGVsYyZt2FQO20Ld8uePEO35Hg9MUqHRoA3tvbxXf9Wdh2D8IgHIt9M56YTvveuPUILhMZ_drcaBL6ILCPzZmAwryt6cqjNvh4A0NUIPIBS6tpJCHJz6R5Lu42t06EyJ56wnlATWOg5UC-5JlBA/s1600/tines.jpg",
+   "date": "2026-08-20T11:45:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+   "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+   "desc": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFisNx669R67D6R9VnkWr_DIhB1VjYqDPrXqKAoeCz0YxbSngLxB15XYLtuKb00YSEE0rxQEfop5v7JIr2SMVOErIM2r_GZqA6q1FDNl_wBeAaukVoAse6l0kXv35dJRTQjT8R0DhS9ihwYUXNd9cFuqYM3GS0o28NyIBAgliuQR8XhKQqhixFcjdZpo/s1600/cdn-boost.jpg",
+   "date": "2026-08-20T11:39:35+00:00",
+   "iocs": "iocs/6740d03ebc5e.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "Aikido",
    "title": "Two popular Rust crates arrayref and append-only-vec compromised in Supply Chain Attack",
    "link": "https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack",
@@ -59,6 +121,14 @@
    "date": "2026-08-20T11:30:00+00:00",
    "iocs": "iocs/8a3967e00ff0.txt",
    "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+   "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+   "desc": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fint",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg",
+   "date": "2026-08-20T11:26:08+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -405,14 +475,6 @@
    "ioc_count": 9
   },
   {
-   "source": "SecurityWeek",
-   "title": "Prevalent AI Raises $22 Million to Expand Data Fabric Platform",
-   "link": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
-   "desc": "The previously bootstrapped company helps organizations securely and reliably operate AI agents at scale. The post Prevalent AI Raises $22 Million to Expand Data Fabric Platform appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-19T12:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
    "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
@@ -473,26 +535,6 @@
    "desc": "Martin explores how using crime script analysis to describe an attack with everyday language makes the situation accessible to non-technical audiences and identify points where the crime can be disrupted.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar.jpg",
    "date": "2026-08-19T10:00:52+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-   "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-   "desc": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg",
-   "date": "2026-08-19T06:01:53+00:00",
-   "iocs": "iocs/c0cb35055ffe.txt",
-   "ioc_count": 31
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-   "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-   "desc": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) softw",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg",
-   "date": "2026-08-19T05:39:25+00:00",
-   "iocs": "iocs/0a363bcfbc5d.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -563,26 +605,6 @@
    "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA pr",
    "image": "",
    "date": "2026-08-18T18:05:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-   "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-   "desc": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg",
-   "date": "2026-08-18T17:47:22+00:00",
-   "iocs": "iocs/3db875d507ea.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-   "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-   "desc": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
-   "date": "2026-08-18T17:44:05+00:00",
-   "iocs": "iocs/c960f83a4e1f.txt",
-   "ioc_count": 4
   },
   {
    "source": "Google GTIG",
@@ -711,14 +733,6 @@
    "date": "2026-08-14T20:38:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-   "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-   "desc": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both d",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-14T19:24:18+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top enterprise DAST tools in 2026",
    "link": "https://www.aikido.dev/blog/top-enterprise-dast-tools",
@@ -743,14 +757,6 @@
    "date": "2026-08-14T11:24:35+00:00",
    "iocs": "iocs/669791ec854c.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
-   "link": "https://isc.sans.edu/diary/rss/33246",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-14T02:00:03+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1487,16 +1493,6 @@
    "date": "2026-06-05T14:00:00+00:00",
    "iocs": "iocs/aa977c30763e.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
-   "desc": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learn",
-   "image": "",
-   "date": "2026-05-25T14:00:00+00:00",
-   "iocs": "iocs/90d790d6335d.txt",
-   "ioc_count": 2
   }
  ]
 }

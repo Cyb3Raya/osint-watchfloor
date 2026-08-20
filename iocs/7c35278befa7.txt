@@ -1,0 +1,12 @@
+IOC EXTRACTION - Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia
+Source: https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/
+Extracted: 2026-08-20 14:03:31 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2021-33044
+CVE-2021-33045
