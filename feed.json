@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T20:00:19.520091+00:00",
+ "generated": "2026-08-20T20:39:30.849376+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+   "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+   "desc": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg",
+   "date": "2026-08-20T19:59:19+00:00"
   },
   {
    "source": "RF The Record",
@@ -507,14 +515,6 @@
    "desc": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0c2b7a8187293ac/6a837f44db552afa32e2f029/katie_mo_and_Rob_Wright.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-19T19:54:43+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-   "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-   "desc": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
-   "date": "2026-08-19T19:02:40+00:00"
   },
   {
    "source": "RF The Record",
