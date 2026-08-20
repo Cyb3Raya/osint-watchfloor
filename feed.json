@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-20T10:05:07.299485+00:00",
+ "generated": "2026-08-20T10:51:42.065092+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
+   "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
+   "desc": "The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. The post OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Trainin",
+   "image": "",
+   "date": "2026-08-20T10:36:14+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "New Manic Android malware can exfiltrate data through nearby devices",
@@ -403,14 +411,6 @@
    "date": "2026-08-19T09:10:20+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-   "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-   "desc": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-19T08:19:09+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
@@ -548,18 +548,18 @@
   },
   {
    "source": "Dark Reading",
-   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T13:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
    "desc": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-18T13:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+   "desc": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-18T13:00:00+00:00"
   },
   {
