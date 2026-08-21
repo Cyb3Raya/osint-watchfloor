@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T07:12:13.579875+00:00",
+ "generated": "2026-08-21T08:01:12.222999+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,16 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+   "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+   "desc": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-21T07:25:50+00:00",
+   "iocs": "iocs/be976adb7e03.txt",
+   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -473,16 +483,6 @@
    "date": "2026-08-20T08:33:25+00:00",
    "iocs": "iocs/cee734b86858.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
-   "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
-   "desc": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data. The post Critical GitLab Flaw Exploited Shortly After Disclosure appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-20T07:48:24+00:00",
-   "iocs": "iocs/e5821c833a2f.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",

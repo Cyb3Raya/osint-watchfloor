@@ -1,0 +1,12 @@
+IOC EXTRACTION - CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities
+Source: https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/
+Extracted: 2026-08-21 08:01:05 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-72529
+CVE-2026-72530
