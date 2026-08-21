@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T06:02:46.852371+00:00",
+ "generated": "2026-08-21T07:12:13.579875+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,16 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+   "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+   "desc": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg",
+   "date": "2026-08-21T06:06:11+00:00",
+   "iocs": "iocs/630ad3fed036.txt",
+   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -453,14 +463,6 @@
    "date": "2026-08-20T09:46:54+00:00",
    "iocs": "iocs/3a6e3831490d.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-   "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-   "desc": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the ex",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5ySurVDL2oPvG7l78G22fbZEDplybrP5KX79GCEuhHybqkIgDGWDY_iHNfSLhKMt4sxn51CF33lRNwyjQy-l4Zajbkl9qUFxsjHEIoVsFhWBcGoHavMzOnmbWAI-8VHreBmZhuoCPs_N5KAKLFccr-bFLhzvJq12bvhvp5upRSkZulRN4tUDUTkfTRqo/s1600/firefox.png",
-   "date": "2026-08-20T08:42:03+00:00"
   },
   {
    "source": "SecurityWeek",
