@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T09:02:12.406123+00:00",
+ "generated": "2026-08-21T09:54:58.984988+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,22 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
+   "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+   "desc": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-21T09:23:18+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "We burned 11.7bn tokens to find the best cyber AI model",
+   "link": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+   "desc": "We tested 10 AI models on 32 fresh CVEs. DeepSeek V4 Pro found 28, and three cheap runs beat one pass of Opus 5 or Grok on total coverage. Category: Technical",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a88162a229a038f7585ed27_august%20benchmarks%20main.png",
+   "date": "2026-08-21T09:06:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -409,14 +425,6 @@
    "desc": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fint",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg",
    "date": "2026-08-20T11:26:08+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
-   "link": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
-   "desc": "Atalanta's Argo product is now being used to prove the resilience of Viasat’s satellite communications network. The post AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking appeared f",
-   "image": "",
-   "date": "2026-08-20T11:08:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -1093,14 +1101,6 @@
    "date": "2026-07-31T16:10:00+00:00",
    "iocs": "iocs/5d1f09c17ba1.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Aikido",
-   "title": "Top Astra Security alternatives for automated pentesting in 2026",
-   "link": "https://www.aikido.dev/blog/astra-alternatives",
-   "desc": "Compare Astra Security alternatives for AI pentesting in 2026 on depth, white-box testing, compliance output, and platform breadth Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-07-31T14:25:00+00:00"
   },
   {
    "source": "Unit 42",
