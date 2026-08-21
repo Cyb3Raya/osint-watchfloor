@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T11:01:43.125521+00:00",
+ "generated": "2026-08-21T11:46:59.141452+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,16 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+   "desc": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+   "image": "",
+   "date": "2026-08-21T11:04:10+00:00",
+   "iocs": "iocs/4afb6e3d2eca.txt",
+   "ioc_count": 6
   },
   {
    "source": "BleepingComputer",
@@ -29,6 +39,16 @@
    "date": "2026-08-21T10:10:42+00:00",
    "iocs": "iocs/c28837178a42.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+   "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+   "desc": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crossw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg",
+   "date": "2026-08-21T10:03:11+00:00",
+   "iocs": "iocs/51c8d451f6eb.txt",
+   "ioc_count": 10
   },
   {
    "source": "SecurityWeek",
@@ -455,16 +475,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-   "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-   "desc": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s1600/nasa.jpg",
-   "date": "2026-08-20T11:05:11+00:00",
-   "iocs": "iocs/0d465eec6315.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "BleepingComputer",
    "title": "New Manic Android malware can exfiltrate data through nearby devices",
    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
@@ -591,16 +601,6 @@
    "desc": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s electro",
    "image": "",
    "date": "2026-08-19T18:10:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-   "desc": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-   "image": "",
-   "date": "2026-08-19T18:09:13+00:00",
-   "iocs": "iocs/90794440e1d1.txt",
-   "ioc_count": 4
   },
   {
    "source": "RF The Record",

@@ -1,0 +1,16 @@
+IOC EXTRACTION - Microsoft warns of max severity Entra ID flaw exploited in attacks
+Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/
+Extracted: 2026-08-21 11:46:51 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2025-55241
+CVE-2026-65770
+CVE-2026-65801
+CVE-2026-65816
+CVE-2026-69555
+CVE-2026-69836

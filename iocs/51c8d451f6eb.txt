@@ -1,0 +1,20 @@
+IOC EXTRACTION - Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0
+Source: https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html
+Extracted: 2026-08-21 11:46:50 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2026-20030
+CVE-2026-20231
+CVE-2026-20315
+CVE-2026-20317
+CVE-2026-20318
+CVE-2026-20319
+CVE-2026-20349
+CVE-2026-20357
+CVE-2026-20358
+CVE-2026-20359
