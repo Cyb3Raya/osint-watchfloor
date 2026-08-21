@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T11:46:59.141452+00:00",
+ "generated": "2026-08-21T12:53:26.708689+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,32 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+   "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+   "desc": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-21T12:26:07+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [..",
+   "image": "",
+   "date": "2026-08-21T12:25:33+00:00",
+   "iocs": "iocs/7cc11dd0cff0.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Wazuh and AI For Enhanced SOC Workflows",
+   "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+   "desc": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
+   "date": "2026-08-21T11:21:39+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -76,9 +102,9 @@
   },
   {
    "source": "SecurityWeek",
-   "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+   "title": "Microsoft Patches Exploited Entra ID Vulnerability",
    "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-   "desc": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek.",
+   "desc": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on Securit",
    "image": "",
    "date": "2026-08-21T08:12:19+00:00",
    "iocs": "iocs/881dd1c96ee4.txt",
@@ -419,16 +445,6 @@
    "date": "2026-08-20T12:01:24+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-   "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-   "desc": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-20T11:46:04+00:00",
-   "iocs": "iocs/d693b2312509.txt",
-   "ioc_count": 10
-  },
-  {
    "source": "The Hacker News",
    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
    "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
@@ -448,21 +464,13 @@
   },
   {
    "source": "Aikido",
-   "title": "Two popular Rust crates arrayref and append-only-vec compromised in Supply Chain Attack",
+   "title": "Popular Rust crates arrayref, append-only-vec, and internment compromised in Supply Chain Attack",
    "link": "https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack",
-   "desc": "A supply chain attack compromised two popular Rust crates, arrayref and append-only-vec, injecting a dependency on the malicious proc-macro1 package that downloads and executes a remote payload at build time. Category: V",
+   "desc": "A supply chain attack compromised popular Rust crates, arrayref, append-only-vec, and internment, injecting a dependency on the malicious proc-macro1 package that downloads and executes a remote payload at build time. Ca",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a86ebcbc0909eb3e7b3af4e_two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack-thumnail.jpg",
    "date": "2026-08-20T11:30:00+00:00",
    "iocs": "iocs/8a3967e00ff0.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-   "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-   "desc": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fint",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg",
-   "date": "2026-08-20T11:26:08+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -577,14 +585,6 @@
    "desc": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-19T20:32:09+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-   "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-   "desc": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
-   "image": "",
-   "date": "2026-08-19T20:07:12+00:00"
   },
   {
    "source": "Dark Reading",

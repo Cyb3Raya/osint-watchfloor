@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA orders feds to patch actively exploited TrueConf Server flaws
+Source: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/
+Extracted: 2026-08-21 12:53:15 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-3502
+CVE-2026-72529
+CVE-2026-72530
