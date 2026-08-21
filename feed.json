@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-21T19:42:15.506555+00:00",
+ "generated": "2026-08-21T20:28:50.455223+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+   "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+   "desc": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
+   "image": "",
+   "date": "2026-08-21T19:56:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
@@ -383,18 +391,10 @@
    "date": "2026-08-20T17:39:24+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Senators press TikTok over withholding of safety features for some users",
-   "link": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
-   "desc": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\"",
-   "image": "",
-   "date": "2026-08-20T17:33:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
    "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-   "desc": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+   "desc": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T17:32:51+00:00"
   },
