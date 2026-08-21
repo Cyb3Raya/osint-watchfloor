@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-21T14:38:08.581478+00:00",
+ "generated": "2026-08-21T15:14:34.661639+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+   "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+   "desc": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable ",
+   "image": "",
+   "date": "2026-08-21T15:11:16+00:00",
+   "iocs": "iocs/a4a8e831095d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
+   "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
+   "desc": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party ",
+   "image": "",
+   "date": "2026-08-21T15:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+   "desc": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+   "image": "",
+   "date": "2026-08-21T14:54:49+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
@@ -431,16 +457,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-   "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-   "desc": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks. The post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-20T13:16:35+00:00",
-   "iocs": "iocs/7c35278befa7.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
    "link": "https://isc.sans.edu/diary/rss/33266",
@@ -585,14 +601,6 @@
    "date": "2026-08-20T01:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-   "desc": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-   "image": "",
-   "date": "2026-08-20T00:20:55+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
    "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
@@ -615,14 +623,6 @@
    "desc": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s electro",
    "image": "",
    "date": "2026-08-19T18:10:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
-   "link": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
-   "desc": "The National Security Agency (NSA), FBI and other federal agencies said the campaign is targeting Siemens S7 Series PLCs and was being fueled by “AI-assisted development” alongside exploitation of known vulnerabilities.",
-   "image": "",
-   "date": "2026-08-19T17:58:00+00:00"
   },
   {
    "source": "Socket",
