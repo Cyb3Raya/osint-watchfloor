@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T05:35:08.886829+00:00",
+ "generated": "2026-08-21T06:02:46.852371+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -130,7 +130,7 @@
   },
   {
    "source": "The Hacker News",
-   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
    "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
    "desc": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to c",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png",
