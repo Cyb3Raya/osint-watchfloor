@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-21T17:05:39.951532+00:00",
+ "generated": "2026-08-21T17:50:01.098449+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+   "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+   "desc": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T17:36:53+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
@@ -705,14 +713,6 @@
    "date": "2026-08-18T20:17:24+00:00",
    "iocs": "iocs/cd21e9704a97.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
-   "desc": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10b947e86b169479/6a8494d01fc1525118764111/rich_mogull_becky_bracken_news_desk.png?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T19:09:51+00:00"
   },
   {
    "source": "Unit 42",
