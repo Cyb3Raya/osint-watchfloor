@@ -1,0 +1,11 @@
+IOC EXTRACTION - SickKids data breach exposes employee and job applicant info
+Source: https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/
+Extracted: 2026-08-21 10:33:27 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2023-34362

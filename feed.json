@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T09:54:58.984988+00:00",
+ "generated": "2026-08-21T10:33:35.971368+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,16 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "SickKids data breach exposes employee and job applicant info",
+   "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+   "desc": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinic",
+   "image": "",
+   "date": "2026-08-21T10:10:42+00:00",
+   "iocs": "iocs/c28837178a42.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -619,14 +629,6 @@
    "date": "2026-08-19T16:58:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-   "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-   "desc": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
-   "image": "",
-   "date": "2026-08-19T15:56:09+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
    "link": "https://isc.sans.edu/diary/rss/33260",
@@ -838,7 +840,7 @@
    "source": "Aikido",
    "title": "Finding vulnerabilities at every stage: what to run, and when",
    "link": "https://www.aikido.dev/blog/which-security-tool-do-you-need",
-   "desc": "SAST, Deep PR Review, AI Code Analysis, and AI Pentest each catch different vulnerabilities at different stages. Here's when to use each, and why. Category: Product & Company Updates",
+   "desc": "SAST, Deep PR Review, Code Security Audit and AI Pentest each catch different vulnerabilities at different stages. Here's when to use each, and why Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7c43f49d01a73a639b849d_AI-code-analysis-vs-AI-pentesting-vs-traditional-SAST_Feature.png",
    "date": "2026-08-12T13:30:00+00:00"
   },
