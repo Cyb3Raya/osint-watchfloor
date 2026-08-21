@@ -1,16 +1,48 @@
 {
- "generated": "2026-08-21T13:48:49.479544+00:00",
+ "generated": "2026-08-21T14:38:08.581478+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
+   "source": "SecurityWeek",
+   "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+   "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+   "desc": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails ",
+   "image": "",
+   "date": "2026-08-21T14:34:05+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+   "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+   "desc": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain A",
+   "image": "",
+   "date": "2026-08-21T14:22:06+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+   "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+   "desc": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlati",
+   "image": "",
+   "date": "2026-08-21T14:00:10+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Calling on Cyber Pros to Help Defend City Hall",
-   "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
+   "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
+   "desc": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's ",
+   "image": "",
+   "date": "2026-08-21T13:55:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -425,14 +457,6 @@
    "date": "2026-08-20T12:45:32+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-   "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-   "desc": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityW",
-   "image": "",
-   "date": "2026-08-20T12:24:53+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
@@ -441,16 +465,6 @@
    "date": "2026-08-20T12:14:38+00:00",
    "iocs": "iocs/1c6b6eea4c8b.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-   "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-   "desc": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-08-20T12:05:55+00:00",
-   "iocs": "iocs/b437cbcc9c57.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -579,14 +593,6 @@
    "date": "2026-08-20T00:20:55+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-   "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-   "desc": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete s",
-   "image": "",
-   "date": "2026-08-19T20:59:58+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
    "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
@@ -643,14 +649,6 @@
    "desc": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is ",
    "image": "",
    "date": "2026-08-19T14:24:58+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
-   "link": "https://therecord.media/latvia-cyberattack-vehicle-data",
-   "desc": "Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.",
-   "image": "",
-   "date": "2026-08-19T13:45:00+00:00"
   },
   {
    "source": "Aikido",
