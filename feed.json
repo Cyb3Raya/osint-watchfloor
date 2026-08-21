@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T08:01:12.222999+00:00",
+ "generated": "2026-08-21T09:02:12.406123+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -14,6 +14,24 @@
   },
   {
    "source": "SecurityWeek",
+   "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
+   "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
+   "desc": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base. The post Contractors&#8217; CMMC Confidence Rises as Ability to Prove It Falls Behind appear",
+   "image": "",
+   "date": "2026-08-21T08:41:06+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+   "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+   "desc": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-21T08:12:19+00:00",
+   "iocs": "iocs/881dd1c96ee4.txt",
+   "ioc_count": 15
+  },
+  {
+   "source": "SecurityWeek",
    "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
    "desc": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek.",
@@ -21,6 +39,16 @@
    "date": "2026-08-21T07:25:50+00:00",
    "iocs": "iocs/be976adb7e03.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+   "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+   "desc": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code inj",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg",
+   "date": "2026-08-21T07:04:25+00:00",
+   "iocs": "iocs/7850fb529146.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -411,22 +439,6 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-   "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-   "desc": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg",
-   "date": "2026-08-20T10:38:28+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
-   "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
-   "desc": "The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. The post OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Trainin",
-   "image": "",
-   "date": "2026-08-20T10:36:14+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New Manic Android malware can exfiltrate data through nearby devices",
    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
@@ -473,16 +485,6 @@
    "date": "2026-08-20T09:46:54+00:00",
    "iocs": "iocs/3a6e3831490d.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
-   "link": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
-   "desc": "Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction. The post Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler appeared first on Securit",
-   "image": "",
-   "date": "2026-08-20T08:33:25+00:00",
-   "iocs": "iocs/cee734b86858.txt",
-   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",

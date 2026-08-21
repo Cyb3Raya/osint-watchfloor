@@ -1,0 +1,25 @@
+IOC EXTRACTION - Microsoft Rolls Out 22 Fresh Security Patches
+Source: https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/
+Extracted: 2026-08-21 09:02:07 UTC
+Total indicators: 15
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (15)
+----------------------------------------
+CVE-2026-24301
+CVE-2026-62834
+CVE-2026-63509
+CVE-2026-65770
+CVE-2026-65801
+CVE-2026-65816
+CVE-2026-66309
+CVE-2026-68782
+CVE-2026-68789
+CVE-2026-69400
+CVE-2026-69414
+CVE-2026-69502
+CVE-2026-69555
+CVE-2026-69836
+CVE-2026-69851
