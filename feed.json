@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T20:28:50.455223+00:00",
+ "generated": "2026-08-21T20:58:23.302614+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
    "image": "",
    "date": "2026-08-21T19:56:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+   "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+   "desc": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg",
+   "date": "2026-08-21T18:53:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -541,14 +549,6 @@
    "date": "2026-08-20T12:14:38+00:00",
    "iocs": "iocs/1c6b6eea4c8b.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-   "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-   "desc": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) ter",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg",
-   "date": "2026-08-20T12:01:24+00:00"
   },
   {
    "source": "Aikido",
