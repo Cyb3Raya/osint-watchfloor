@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T02:48:44.047151+00:00",
+ "generated": "2026-08-21T03:52:23.412569+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33272",
+   "desc": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling t",
+   "image": "",
+   "date": "2026-08-21T02:47:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -729,14 +737,6 @@
    "date": "2026-08-17T20:26:39+00:00",
    "iocs": "iocs/d66b2e35f3f3.txt",
    "ioc_count": 108
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33252",
-   "desc": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted p",
-   "image": "",
-   "date": "2026-08-17T14:33:58+00:00"
   },
   {
    "source": "Socket",
