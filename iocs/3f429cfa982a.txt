@@ -1,0 +1,11 @@
+IOC EXTRACTION - Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain
+Source: https://unit42.paloaltonetworks.com/sdlc-supply-chain/
+Extracted: 2026-08-21 23:31:21 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2024-3094

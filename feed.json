@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-21T22:58:07.576320+00:00",
+ "generated": "2026-08-21T23:31:25.824479+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+   "link": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
+   "desc": "Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls The post Connecting the Dots: Securing the Overlooked Corners of the S",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/09_Myth-Busting_Category_1505x922.jpg",
+   "date": "2026-08-21T23:00:21+00:00",
+   "iocs": "iocs/3f429cfa982a.txt",
+   "ioc_count": 1
+  },
   {
    "source": "RF The Record",
    "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
@@ -1273,14 +1283,6 @@
    "desc": "NadMesh uses a centralized controller to coordinate scanning across large IP ranges and attempts exploitation using more than 20 supported attack vectors. The malware targets exposed services such as Docker APIs, Kuberne",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-17T00:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report",
-   "link": "https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/",
-   "desc": "Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report. The post AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Repo",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Opinion_Category_1505x922-1.jpg",
-   "date": "2026-07-16T23:00:59+00:00"
   },
   {
    "source": "Google GTIG",
