@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T01:27:04.252050+00:00",
+ "generated": "2026-08-21T02:48:44.047151+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,22 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33270",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-21T02:00:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33268",
+   "desc": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise.&#xd;",
+   "image": "",
+   "date": "2026-08-21T01:49:18+00:00"
   },
   {
    "source": "Socket",
@@ -729,22 +745,6 @@
    "desc": "NIST disclosed an unreleased AI tool called V-etalon and opened a broad inquiry into NVD modernization after years of automation plans produced no public enrichment system.",
    "image": "",
    "date": "2026-08-17T05:47:51+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33250",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-17T02:00:02+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
-   "link": "https://isc.sans.edu/diary/rss/33248",
-   "desc": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.&#xd;",
-   "image": "",
-   "date": "2026-08-16T21:31:48+00:00"
   },
   {
    "source": "Socket",
