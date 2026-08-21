@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot
+Source: https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html
+Extracted: 2026-08-21 16:37:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2021-24092

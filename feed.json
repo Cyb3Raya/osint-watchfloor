@@ -1,9 +1,53 @@
 {
- "generated": "2026-08-21T15:52:24.673480+00:00",
+ "generated": "2026-08-21T16:37:58.678636+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+   "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+   "desc": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Direc",
+   "image": "",
+   "date": "2026-08-21T16:27:52+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "U.S. Bank says breach claims related to fourth-party incident",
+   "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
+   "desc": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
+   "image": "",
+   "date": "2026-08-21T16:16:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+   "desc": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+   "image": "",
+   "date": "2026-08-21T15:55:15+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+   "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+   "desc": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg",
+   "date": "2026-08-21T15:52:10+00:00",
+   "iocs": "iocs/befbe5399e80.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+   "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+   "desc": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
+   "date": "2026-08-21T15:41:44+00:00",
+   "iocs": "iocs/a068075960f8.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
@@ -395,14 +439,6 @@
    "date": "2026-08-20T14:36:27+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
-   "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-   "desc": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-20T14:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "How MSPs can catch phishing attacks email filters miss",
    "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
@@ -491,24 +527,6 @@
    "date": "2026-08-20T12:01:24+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-   "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-   "desc": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp; The incident began when a Meta employee p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0UN7paSPEt1BbP-tObzJmXd5LHvNrZpta_hHK2pwYGVsYyZt2FQO20Ld8uePEO35Hg9MUqHRoA3tvbxXf9Wdh2D8IgHIt9M56YTvveuPUILhMZ_drcaBL6ILCPzZmAwryt6cqjNvh4A0NUIPIBS6tpJCHJz6R5Lu42t06EyJ56wnlATWOg5UC-5JlBA/s1600/tines.jpg",
-   "date": "2026-08-20T11:45:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-   "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-   "desc": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFisNx669R67D6R9VnkWr_DIhB1VjYqDPrXqKAoeCz0YxbSngLxB15XYLtuKb00YSEE0rxQEfop5v7JIr2SMVOErIM2r_GZqA6q1FDNl_wBeAaukVoAse6l0kXv35dJRTQjT8R0DhS9ihwYUXNd9cFuqYM3GS0o28NyIBAgliuQR8XhKQqhixFcjdZpo/s1600/cdn-boost.jpg",
-   "date": "2026-08-20T11:39:35+00:00",
-   "iocs": "iocs/6740d03ebc5e.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "Popular Rust crates arrayref, append-only-vec, and internment compromised in Supply Chain Attack",
    "link": "https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack",
@@ -577,14 +595,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft says August Windows updates may cause gaming issues",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-   "desc": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-   "image": "",
-   "date": "2026-08-20T06:51:03+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
    "link": "https://isc.sans.edu/diary/rss/33262",
@@ -615,14 +625,6 @@
    "desc": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0c2b7a8187293ac/6a837f44db552afa32e2f029/katie_mo_and_Rob_Wright.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-19T19:54:43+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Electronic health record company CareCloud says 3.7 million people affected by breach",
-   "link": "https://therecord.media/electronic-health-record-company-carecloud-data-breach",
-   "desc": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s electro",
-   "image": "",
-   "date": "2026-08-19T18:10:00+00:00"
   },
   {
    "source": "Socket",
