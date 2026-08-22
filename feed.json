@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T06:44:09.855884+00:00",
+ "generated": "2026-08-22T07:34:10.287715+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -236,7 +236,7 @@
   },
   {
    "source": "BleepingComputer",
-   "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+   "title": "Microsoft patches max severity code execution, privilege escalation flaws",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
    "desc": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
    "image": "",
