@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-22T12:46:54.654215+00:00",
+ "generated": "2026-08-22T13:33:44.177764+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+   "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+   "desc": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict ",
+   "image": "",
+   "date": "2026-08-22T13:00:09+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
@@ -605,14 +613,6 @@
    "date": "2026-08-20T11:06:14+00:00",
    "iocs": "iocs/e9af320d90c5.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Manic Android malware can exfiltrate data through nearby devices",
-   "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-   "desc": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-   "image": "",
-   "date": "2026-08-20T10:02:02+00:00"
   },
   {
    "source": "Cisco Talos",
