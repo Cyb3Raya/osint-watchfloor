@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T23:57:33.052137+00:00",
+ "generated": "2026-08-22T01:42:48.582399+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -15,12 +15,30 @@
    "ioc_count": 1
   },
   {
+   "source": "Aikido",
+   "title": "Top image hardening tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-image-hardening-tools",
+   "desc": "Image hardening tools compared for 2026: Aikido, Chainguard, Docker, RapidFort, Echo, Minimus, and Wiz Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-21T20:42:00+00:00",
+   "iocs": "iocs/71367a31bab4.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "RF The Record",
    "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
    "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
    "desc": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
    "image": "",
    "date": "2026-08-21T19:56:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Best enterprise AI pentesting tools for application security in 2026",
+   "link": "https://www.aikido.dev/blog/top-enterprise-ai-pentesting-tools",
+   "desc": "Compare the top enterprise AI pentesting tools of 2026: Aikido, XBOW, NodeZero, Pentera, Hadrian, and Cobalt. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-21T19:05:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -163,6 +181,16 @@
    "desc": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's ",
    "image": "",
    "date": "2026-08-21T13:55:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "What is CVE remediation in 2026?",
+   "link": "https://www.aikido.dev/blog/cve-remediation",
+   "desc": "CVE remediation is fixing known flaws in the software you run. Why upgrading often fails, what remediation actually involves, and how backporting fixes it. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-21T13:43:00+00:00",
+   "iocs": "iocs/f4b898c8ef36.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -1051,16 +1079,6 @@
    "ioc_count": 19
   },
   {
-   "source": "Aikido",
-   "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-   "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-   "desc": "Mini Shai-Hulud malware was injected into keyv and eight related npm packages on August 4, 2026 after an attacker compromised the maintainer's GitHub account Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a71ca295c3e4e22563f3fbc_OG-Image_ShaiHulud-Default_16x9.png",
-   "date": "2026-08-04T10:37:00+00:00",
-   "iocs": "iocs/1c015336aa68.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "Cisco Talos",
    "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
    "link": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/",
@@ -1093,24 +1111,6 @@
    "desc": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless ",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-08-03T10:00:35+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top enterprise SAST tools 2026",
-   "link": "https://www.aikido.dev/blog/top-enterprise-sast-tools",
-   "desc": "Comparing the best enterprise SAST tools on noise reduction, AI remediation, governance, compliance, and cost Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-07-31T20:05:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
-   "link": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
-   "desc": "Anthropic disclosed an agent that pushed real malware to PyPI. We think we found the package, and every mistake in it points back to the AI. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cccd1b81bb68c62ed2bf1_Feature_Just-alert-on-real-issues-HF-breach_16x9.jpg",
-   "date": "2026-07-31T16:10:00+00:00",
-   "iocs": "iocs/5d1f09c17ba1.txt",
-   "ioc_count": 2
   },
   {
    "source": "Unit 42",
