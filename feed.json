@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-22T07:58:52.555611+00:00",
+ "generated": "2026-08-22T08:40:24.839058+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+   "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+   "desc": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared fir",
+   "image": "",
+   "date": "2026-08-22T08:30:00+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
@@ -479,16 +487,6 @@
    "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T14:59:22+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-   "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-   "desc": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-20T14:50:49+00:00",
-   "iocs": "iocs/6ccb28bfaeed.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
