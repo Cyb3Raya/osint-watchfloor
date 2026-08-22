@@ -1,0 +1,11 @@
+IOC EXTRACTION - TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit
+Source: https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html
+Extracted: 2026-08-22 15:27:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
