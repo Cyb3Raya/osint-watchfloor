@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers infect Android car head units with proxy botnet malware
+Source: https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/
+Extracted: 2026-08-22 14:29:00 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+cardoor[.]cn

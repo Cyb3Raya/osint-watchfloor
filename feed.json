@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-22T13:56:50.444065+00:00",
+ "generated": "2026-08-22T14:29:07.316594+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers infect Android car head units with proxy botnet malware",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+   "desc": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+   "image": "",
+   "date": "2026-08-22T14:14:24+00:00",
+   "iocs": "iocs/6966acdf0cc3.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
@@ -603,16 +613,6 @@
    "date": "2026-08-20T11:30:00+00:00",
    "iocs": "iocs/8a3967e00ff0.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-   "image": "",
-   "date": "2026-08-20T11:06:14+00:00",
-   "iocs": "iocs/e9af320d90c5.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
