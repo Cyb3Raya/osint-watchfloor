@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-23T13:58:12.437004+00:00",
+ "generated": "2026-08-23T14:32:04.698399+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+   "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+   "desc": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+   "image": "",
+   "date": "2026-08-23T14:23:46+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -609,16 +617,6 @@
    "desc": "Microsoft Graph is a newer API that is meant to replace several others.&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; OK, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s at version 2.3.9, ",
    "image": "",
    "date": "2026-08-20T12:45:32+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-   "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-   "desc": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-   "image": "",
-   "date": "2026-08-20T12:14:38+00:00",
-   "iocs": "iocs/1c6b6eea4c8b.txt",
-   "ioc_count": 4
   },
   {
    "source": "Aikido",
