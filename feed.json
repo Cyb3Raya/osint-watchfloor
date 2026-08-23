@@ -1,10 +1,8 @@
 {
- "generated": "2026-08-23T16:30:35.324382+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-23T16:59:09.161089+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "Dark Reading"
- ],
+ "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
@@ -71,6 +69,14 @@
    "ioc_count": 1
   },
   {
+   "source": "Dark Reading",
+   "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+   "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+   "desc": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T20:24:42+00:00"
+  },
+  {
    "source": "RF The Record",
    "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
    "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
@@ -109,6 +115,14 @@
    "desc": "Socket’s PHP and Composer support is now in Beta for all customers, with PHP reachability analysis generally available.",
    "image": "",
    "date": "2026-08-21T17:54:18+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+   "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+   "desc": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T17:36:53+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -205,6 +219,14 @@
    "date": "2026-08-21T14:00:10+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "Calling on Cyber Pros to Help Defend City Hall",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+   "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
    "source": "RF The Record",
    "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
    "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
@@ -229,6 +251,22 @@
    "desc": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
    "image": "",
    "date": "2026-08-21T13:39:35+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "OpenAI Adds Controls That Should've Been There Already",
+   "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+   "desc": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T13:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
+   "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+   "desc": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T13:10:33+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -391,6 +429,14 @@
    "date": "2026-08-20T21:31:22+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+   "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+   "desc": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T20:42:18+00:00"
+  },
+  {
    "source": "The Hacker News",
    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
    "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
@@ -415,6 +461,14 @@
    "date": "2026-08-20T19:30:00+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+   "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+   "desc": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest &quot;hack back&quot; strategy.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt873948c65f62f170/6a874b480989859872d1eb89/Delta_Vegas-Janice_Chen-GettyImages-2269887409.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T19:11:15+00:00"
+  },
+  {
    "source": "Cisco Talos",
    "title": "Is Cyber missing the Marque?",
    "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
@@ -433,6 +487,22 @@
    "date": "2026-08-20T17:53:52+00:00",
    "iocs": "iocs/000b292e537a.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "N-able Bug Exposes Password Vault Master Keys",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+   "desc": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T17:39:24+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+   "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+   "desc": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T17:32:51+00:00"
   },
   {
    "source": "The Hacker News",
@@ -461,6 +531,14 @@
    "date": "2026-08-20T15:54:37+00:00",
    "iocs": "iocs/5a0e3ae69e19.txt",
    "ioc_count": 21
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+   "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T14:59:22+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -515,6 +593,14 @@
    "date": "2026-08-20T13:35:13+00:00",
    "iocs": "iocs/88c8957eed48.txt",
    "ioc_count": 3
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+   "desc": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-20T13:30:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -589,6 +675,22 @@
    "date": "2026-08-20T01:00:00+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+   "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+   "desc": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T20:32:09+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Agentic AI Presents New Insider Threat Model for Orgs",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
+   "desc": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0c2b7a8187293ac/6a837f44db552afa32e2f029/katie_mo_and_Rob_Wright.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T19:54:43+00:00"
+  },
+  {
    "source": "Socket",
    "title": "77 Firefox Extensions Linked to Crypto Wallet and Credential Theft",
    "link": "https://socket.dev/blog/firefox-crypto-wallet-theft?utm_medium=feed",
@@ -597,6 +699,14 @@
    "date": "2026-08-19T17:43:36+00:00",
    "iocs": "iocs/0fce33c1f6aa.txt",
    "ioc_count": 122
+  },
+  {
+   "source": "Dark Reading",
+   "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
+   "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+   "desc": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T16:58:23+00:00"
   },
   {
    "source": "SANS ISC",
@@ -631,6 +741,14 @@
    "desc": "",
    "image": "",
    "date": "2026-08-19T02:00:03+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+   "desc": "In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-19T01:00:00+00:00"
   },
   {
    "source": "Unit 42",
