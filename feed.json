@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T10:32:15.180340+00:00",
+ "generated": "2026-08-23T10:57:06.928701+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -59,6 +59,14 @@
    "date": "2026-08-21T20:42:00+00:00",
    "iocs": "iocs/71367a31bab4.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+   "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+   "desc": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T20:24:42+00:00"
   },
   {
    "source": "RF The Record",
@@ -743,16 +751,6 @@
    "desc": "In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-19T01:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-   "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-   "desc": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a4148f110e1cfe1/6a85e47e0d336431ba15fdc0/gitlab_bella1105_shutterstock-REVISED_FOR_16X9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-18T21:25:58+00:00",
-   "iocs": "iocs/c81f051852d3.txt",
-   "ioc_count": 2
   },
   {
    "source": "Unit 42",
