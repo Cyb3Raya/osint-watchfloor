@@ -1,0 +1,15 @@
+IOC EXTRACTION - Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor
+Source: https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html
+Extracted: 2026-08-24 13:07:18 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+IPv4 (1)
+----------------------------------------
+104[.]64[.]211[.]22

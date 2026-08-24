@@ -1,0 +1,13 @@
+IOC EXTRACTION - Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account
+Source: https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html
+Extracted: 2026-08-24 13:07:17 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-15571
+CVE-2026-18963
+CVE-2026-58231

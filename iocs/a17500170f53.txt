@@ -1,0 +1,11 @@
+IOC EXTRACTION - Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt
+Source: https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html
+Extracted: 2026-08-24 13:07:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

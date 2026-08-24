@@ -1,0 +1,11 @@
+IOC EXTRACTION - The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk
+Source: https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html
+Extracted: 2026-08-24 13:07:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
