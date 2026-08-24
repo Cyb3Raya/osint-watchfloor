@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-24T10:07:40.490354+00:00",
+ "generated": "2026-08-24T10:56:58.913834+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+   "image": "",
+   "date": "2026-08-24T10:45:12+00:00",
+   "iocs": "iocs/e14279b772b4.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Personal Information Exposed in Apollo Global Data Breach",
+   "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+   "desc": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-24T10:08:42+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Rethinking Application Security for the AI Era",
@@ -343,14 +361,6 @@
    "date": "2026-08-21T13:10:33+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-   "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-   "desc": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-21T12:26:07+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
@@ -372,7 +382,7 @@
    "source": "BleepingComputer",
    "title": "Microsoft patches max severity code execution, privilege escalation flaws",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-   "desc": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+   "desc": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
    "image": "",
    "date": "2026-08-21T11:04:10+00:00",
    "iocs": "iocs/4afb6e3d2eca.txt",
@@ -577,16 +587,6 @@
    "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T14:59:22+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-   "desc": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-   "image": "",
-   "date": "2026-08-20T14:39:48+00:00",
-   "iocs": "iocs/541e0309d10b.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
