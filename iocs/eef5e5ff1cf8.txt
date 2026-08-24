@@ -1,0 +1,22 @@
+IOC EXTRACTION - WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords
+Source: https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html
+Extracted: 2026-08-24 14:06:25 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+Domains (4)
+----------------------------------------
+abogadosrosarinos[.]com
+aptisweb[.]com
+avene-hebergement[.]com
+https-xhamster[.]com
+
+URLs (1)
+----------------------------------------
+hxxps://filereserve[.]blob[.]core[.]windows[.]net/vgnghuyk/331/331[.]msi

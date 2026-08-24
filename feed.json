@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-24T13:07:30.644873+00:00",
+ "generated": "2026-08-24T14:06:35.457005+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Teams now lets admins block external bots from meetings",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+   "desc": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+   "image": "",
+   "date": "2026-08-24T14:00:19+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "South Korean startup platform breach exposes key management failures",
+   "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+   "desc": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept s",
+   "image": "",
+   "date": "2026-08-24T14:00:10+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
+   "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
+   "desc": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Pro",
+   "image": "",
+   "date": "2026-08-24T14:00:00+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
@@ -19,6 +43,16 @@
    "desc": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
    "image": "",
    "date": "2026-08-24T12:40:21+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+   "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+   "desc": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg",
+   "date": "2026-08-24T12:35:36+00:00",
+   "iocs": "iocs/eef5e5ff1cf8.txt",
+   "ioc_count": 6
   },
   {
    "source": "RF The Record",
@@ -307,14 +341,6 @@
    "date": "2026-08-21T17:36:53+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
-   "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
-   "desc": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Direc",
-   "image": "",
-   "date": "2026-08-21T16:27:52+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "U.S. Bank says breach claims related to fourth-party incident",
    "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
@@ -453,24 +479,6 @@
    "ioc_count": 6
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-   "desc": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-   "image": "",
-   "date": "2026-08-21T11:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "SickKids data breach exposes employee and job applicant info",
-   "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-   "desc": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinic",
-   "image": "",
-   "date": "2026-08-21T10:10:42+00:00",
-   "iocs": "iocs/c28837178a42.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
    "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -555,14 +563,6 @@
    "desc": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
    "date": "2026-08-20T20:22:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-   "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-   "desc": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg",
-   "date": "2026-08-20T19:59:19+00:00"
   },
   {
    "source": "Dark Reading",
