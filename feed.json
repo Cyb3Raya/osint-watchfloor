@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-24T10:56:58.913834+00:00",
+ "generated": "2026-08-24T11:36:16.158147+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+   "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+   "desc": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appea",
+   "image": "",
+   "date": "2026-08-24T10:59:30+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
@@ -293,14 +301,6 @@
    "desc": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails ",
    "image": "",
    "date": "2026-08-21T14:34:05+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-   "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-   "desc": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain A",
-   "image": "",
-   "date": "2026-08-21T14:22:06+00:00"
   },
   {
    "source": "BleepingComputer",
