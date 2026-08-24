@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-24T21:03:48.549951+00:00",
+ "generated": "2026-08-24T21:48:14.186392+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+   "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+   "desc": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network ",
+   "image": "",
+   "date": "2026-08-24T21:14:30+00:00",
+   "iocs": "iocs/7bfe97eb7dc8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+   "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+   "desc": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T20:51:27+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "New Zealand to pursue social media ban for children under 16",
@@ -461,14 +479,6 @@
    "date": "2026-08-21T14:54:49+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-   "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-   "desc": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlati",
-   "image": "",
-   "date": "2026-08-21T14:00:10+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Calling on Cyber Pros to Help Defend City Hall",
    "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
@@ -729,14 +739,6 @@
    "desc": "A checklist for scoring AI pentesting vendors on validation, code access, scope control, and reliability, plus the red flags that separate a real platform from a strong demo. Category: Aikido",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a85d2ffee10d2571e84bf6f_The-Buyers-Guide-to-AI%20Pentesting_Feature.png",
    "date": "2026-08-20T01:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-   "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-   "desc": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-19T20:32:09+00:00"
   },
   {
    "source": "Socket",
