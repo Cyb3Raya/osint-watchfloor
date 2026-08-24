@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-24T17:33:26.867100+00:00",
+ "generated": "2026-08-24T18:02:43.610699+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "TikTok reaches $400M settlement with US over COPPA violations",
+   "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+   "desc": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+   "image": "",
+   "date": "2026-08-24T17:56:24+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
+   "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
+   "desc": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-24T17:38:21+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
@@ -299,14 +315,6 @@
    "date": "2026-08-22T13:00:09+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-   "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-   "desc": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared fir",
-   "image": "",
-   "date": "2026-08-22T08:30:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
    "link": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
@@ -491,16 +499,6 @@
    "desc": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T13:10:33+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [..",
-   "image": "",
-   "date": "2026-08-21T12:25:33+00:00",
-   "iocs": "iocs/7cc11dd0cff0.txt",
-   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
