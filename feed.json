@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-24T21:48:14.186392+00:00",
+ "generated": "2026-08-24T22:29:38.858875+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+   "desc": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa2c2aaf0a60b49e/6a8caeb8c3ca75471601b401/zimbra_OpturaDesign_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T21:46:55+00:00",
+   "iocs": "iocs/2f328a1ca976.txt",
+   "ioc_count": 3
+  },
   {
    "source": "BleepingComputer",
    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
@@ -659,14 +669,6 @@
    "date": "2026-08-20T14:00:00+00:00",
    "iocs": "iocs/e466cd90008a.txt",
    "ioc_count": 23
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-   "desc": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T13:30:00+00:00"
   },
   {
    "source": "SANS ISC",

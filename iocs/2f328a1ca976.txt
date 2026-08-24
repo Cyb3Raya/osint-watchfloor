@@ -1,0 +1,13 @@
+IOC EXTRACTION - Exploited Zimbra Flaw Highlights Shrinking Window to Patch
+Source: https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch
+Extracted: 2026-08-24 22:29:26 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-66376
+CVE-2026-73570
+CVE-2026-73750
