@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-24T01:27:26.606948+00:00",
+ "generated": "2026-08-24T02:49:26.828622+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+   "link": "https://isc.sans.edu/diary/rss/33276",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-24T02:00:03+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
@@ -777,16 +785,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-18T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33254",
-   "desc": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerabi",
-   "image": "",
-   "date": "2026-08-17T20:26:39+00:00",
-   "iocs": "iocs/d66b2e35f3f3.txt",
-   "ioc_count": 108
   },
   {
    "source": "Socket",
