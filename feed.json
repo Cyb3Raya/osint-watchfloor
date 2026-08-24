@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T15:59:20.487566+00:00",
+ "generated": "2026-08-24T16:49:06.723606+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -27,6 +27,16 @@
    "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltec599fd3e340da17/672a6e76869e46c421881734/panda_Oneinchpunch_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:34:59+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+   "desc": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg",
+   "date": "2026-08-24T14:32:10+00:00",
+   "iocs": "iocs/ec147778d981.txt",
+   "ioc_count": 68
   },
   {
    "source": "BleepingComputer",
@@ -569,14 +579,6 @@
    "desc": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T20:42:18+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-   "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-   "desc": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
-   "date": "2026-08-20T20:22:35+00:00"
   },
   {
    "source": "Dark Reading",
