@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-24T14:06:35.457005+00:00",
+ "generated": "2026-08-24T15:04:49.639138+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+   "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+   "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltec599fd3e340da17/672a6e76869e46c421881734/panda_Oneinchpunch_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T14:34:59+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft Teams now lets admins block external bots from meetings",
@@ -446,7 +454,7 @@
    "source": "Dark Reading",
    "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
    "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-   "desc": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+   "desc": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T13:10:33+00:00"
   },
@@ -773,14 +781,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-19T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
-   "desc": "In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-19T01:00:00+00:00"
   },
   {
    "source": "Unit 42",
