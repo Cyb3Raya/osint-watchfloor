@@ -1,0 +1,12 @@
+IOC EXTRACTION - Hackers target WordPress sites in miniOrange auth bypass attacks
+Source: https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/
+Extracted: 2026-08-24 19:48:23 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-15981
+CVE-2026-61979

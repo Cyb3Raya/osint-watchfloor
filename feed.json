@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-24T19:05:02.598217+00:00",
+ "generated": "2026-08-24T19:48:30.799803+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+   "desc": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [",
+   "image": "",
+   "date": "2026-08-24T19:26:32+00:00",
+   "iocs": "iocs/ab19b111baf2.txt",
+   "ioc_count": 2
+  },
   {
    "source": "RF The Record",
    "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
@@ -475,14 +485,6 @@
    "date": "2026-08-21T13:43:00+00:00",
    "iocs": "iocs/f4b898c8ef36.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-   "desc": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-   "image": "",
-   "date": "2026-08-21T13:39:35+00:00"
   },
   {
    "source": "Dark Reading",
