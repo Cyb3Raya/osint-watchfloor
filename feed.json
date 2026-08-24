@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-24T18:02:43.610699+00:00",
+ "generated": "2026-08-24T19:05:02.598217+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
+   "link": "https://therecord.media/cyber-scam-indian-arrested",
+   "desc": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers.",
+   "image": "",
+   "date": "2026-08-24T18:30:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "TikTok reaches $400M settlement with US over COPPA violations",
@@ -41,7 +49,7 @@
    "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
    "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
    "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c0a0e222b2ec398/6a8c7dec4c478cd0c5efa1e1/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1dbd4251686aed8/6a8c90973725ccfa2c8aef7d/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:34:59+00:00"
   },
   {
@@ -457,14 +465,6 @@
    "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T14:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
-   "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
-   "desc": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's ",
-   "image": "",
-   "date": "2026-08-21T13:55:00+00:00"
   },
   {
    "source": "Aikido",
