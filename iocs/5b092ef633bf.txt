@@ -1,0 +1,28 @@
+IOC EXTRACTION - Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning
+Source: https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html
+Extracted: 2026-08-24 23:29:56 UTC
+Total indicators: 15
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+Domains (14)
+----------------------------------------
+22qq-client[.]com
+cheatlib[.]xyz
+glazed-client[.]com
+glazedclient[.]com
+kryptonclient[.]org
+kryptonclientcrack[.]lovable[.]app
+meteorclient[.]com
+meteorclients[.]com
+nova-client[.]com
+radium-client[.]com
+radiumclient[.]com
+seedcrackerx[.]com
+seedcrackerx[.]github[.]io
+xenonclient[.]com
