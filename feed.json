@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-24T05:40:19.414509+00:00",
+ "generated": "2026-08-24T07:04:03.715417+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Socket",
+   "title": "Open VSX Unblocks Extension IDs Used in Malware Campaign",
+   "link": "https://socket.dev/blog/open-vsx-unblocks-malicious-extension-ids?utm_medium=feed",
+   "desc": "Open VSX has removed three extension IDs from its malicious-extension list as the legitimate publishers they impersonated move to claim the names for themselves.",
+   "image": "",
+   "date": "2026-08-24T05:48:31+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
@@ -1015,14 +1023,6 @@
    "date": "2026-08-06T10:00:49+00:00",
    "iocs": "iocs/60c9ce076603.txt",
    "ioc_count": 17
-  },
-  {
-   "source": "Socket",
-   "title": "Ruby's Bundler 4.0.18 Extends Cooldown to bundle lock and bundle cache",
-   "link": "https://socket.dev/blog/bundler-extends-cooldown-to-bundle-lock-and-bundle-cache?utm_medium=feed",
-   "desc": "The supply chain control that delays freshly published gems now covers lockfile generation and gem vendoring in Ruby projects.",
-   "image": "",
-   "date": "2026-08-06T03:50:54+00:00"
   },
   {
    "source": "Aikido",
