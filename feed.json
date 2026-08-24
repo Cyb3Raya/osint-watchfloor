@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T16:49:06.723606+00:00",
+ "generated": "2026-08-24T17:33:26.867100+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -22,10 +22,10 @@
   },
   {
    "source": "Dark Reading",
-   "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+   "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
    "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
    "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltec599fd3e340da17/672a6e76869e46c421881734/panda_Oneinchpunch_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c0a0e222b2ec398/6a8c7dec4c478cd0c5efa1e1/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:34:59+00:00"
   },
   {
@@ -53,6 +53,14 @@
    "desc": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept s",
    "image": "",
    "date": "2026-08-24T14:00:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+   "desc": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt198046baa5588c01/6a8893cf43e45d54ab5d69fd/gap-DNY59-Getty-1406960089.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T14:00:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -729,14 +737,6 @@
    "desc": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-19T20:32:09+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-   "desc": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0c2b7a8187293ac/6a837f44db552afa32e2f029/katie_mo_and_Rob_Wright.png?width=720&quality=80&disable=upscale",
-   "date": "2026-08-19T19:54:43+00:00"
   },
   {
    "source": "Socket",
