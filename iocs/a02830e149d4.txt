@@ -1,0 +1,32 @@
+IOC EXTRACTION - UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit
+Source: https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html
+Extracted: 2026-08-24 09:07:58 UTC
+Total indicators: 16
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (14)
+----------------------------------------
+CVE-2010-3904
+CVE-2015-3246
+CVE-2015-5287
+CVE-2019-16098
+CVE-2019-18935
+CVE-2021-21551
+CVE-2021-23758
+CVE-2021-29441
+CVE-2021-29442
+CVE-2021-3156
+CVE-2022-0847
+CVE-2022-0995
+CVE-2022-27925
+CVE-2026-58231
+
+IPv4 (1)
+----------------------------------------
+139[.]180[.]197[.]150
+
+Domains (1)
+----------------------------------------
+adminapi[.]tippusoni[.]in
