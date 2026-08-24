@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-24T22:29:38.858875+00:00",
+ "generated": "2026-08-24T22:59:32.964395+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+   "link": "https://therecord.media/iran-cyberattacks-us-uk",
+   "desc": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
+   "image": "",
+   "date": "2026-08-24T23:00:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
@@ -443,14 +451,6 @@
    "desc": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T17:36:53+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "U.S. Bank says breach claims related to fourth-party incident",
-   "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
-   "desc": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
-   "image": "",
-   "date": "2026-08-21T16:16:00+00:00"
   },
   {
    "source": "BleepingComputer",
