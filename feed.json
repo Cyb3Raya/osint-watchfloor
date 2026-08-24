@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-24T15:04:49.639138+00:00",
+ "generated": "2026-08-24T15:59:20.487566+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+   "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+   "desc": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+   "image": "",
+   "date": "2026-08-24T15:17:16+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+   "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+   "desc": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4791042d5aa25a17/6a88a5d2e27d718cb883bc1e/Sink-Des_Green-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T15:02:32+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
@@ -477,16 +493,6 @@
    "date": "2026-08-21T11:21:39+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-   "desc": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
-   "image": "",
-   "date": "2026-08-21T11:04:10+00:00",
-   "iocs": "iocs/4afb6e3d2eca.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "The Hacker News",
    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
    "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -739,14 +745,6 @@
    "date": "2026-08-19T17:43:36+00:00",
    "iocs": "iocs/0fce33c1f6aa.txt",
    "ioc_count": 122
-  },
-  {
-   "source": "Dark Reading",
-   "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
-   "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-   "desc": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-19T16:58:23+00:00"
   },
   {
    "source": "SANS ISC",
