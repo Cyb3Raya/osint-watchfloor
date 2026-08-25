@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA Warns of Exploited Oracle WebLogic Vulnerability
+Source: https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/
+Extracted: 2026-08-25 08:02:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-21962

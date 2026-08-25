@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-25T07:12:59.046167+00:00",
+ "generated": "2026-08-25T08:02:59.898848+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+   "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+   "desc": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-25T07:46:34+00:00",
+   "iocs": "iocs/3307be845e62.txt",
+   "ioc_count": 1
+  },
   {
    "source": "The Hacker News",
    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
@@ -343,14 +353,6 @@
    "desc": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t use real steganography:&#xd;",
    "image": "",
    "date": "2026-08-24T07:23:16+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
-   "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
-   "desc": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first o",
-   "image": "",
-   "date": "2026-08-24T07:18:58+00:00"
   },
   {
    "source": "Socket",
