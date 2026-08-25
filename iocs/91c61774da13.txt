@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access
+Source: https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html
+Extracted: 2026-08-25 09:55:00 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-15981
+CVE-2026-58231
+CVE-2026-61979
