@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T16:40:01.944981+00:00",
+ "generated": "2026-08-25T17:16:20.994050+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -315,7 +315,7 @@
    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
    "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
    "desc": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa2c2aaf0a60b49e/6a8caeb8c3ca75471601b401/zimbra_OpturaDesign_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88e15b7cfaeb36c5/6a8dc95f5ca78ee4c617b58a/zimbra_OpturaDesign_shutterstock_RESIZED_TO_16X9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T21:46:55+00:00",
    "iocs": "iocs/2f328a1ca976.txt",
    "ioc_count": 3
