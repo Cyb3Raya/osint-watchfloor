@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-25T15:45:09.448515+00:00",
+ "generated": "2026-08-25T16:40:01.944981+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
+   "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
+   "desc": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation. The post Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-08-25T16:23:45+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Massive DDoS attack disrupts Norway’s government digital services",
+   "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+   "desc": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+   "image": "",
+   "date": "2026-08-25T15:52:36+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
@@ -435,14 +451,6 @@
    "date": "2026-08-24T14:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
-   "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
-   "desc": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Pro",
-   "image": "",
-   "date": "2026-08-24T14:00:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft: August updates break printing, PDF export in WPF apps",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
@@ -497,14 +505,6 @@
    "date": "2026-08-24T10:45:12+00:00",
    "iocs": "iocs/e14279b772b4.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-   "desc": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
-   "image": "",
-   "date": "2026-08-24T09:42:05+00:00"
   },
   {
    "source": "SANS ISC",
