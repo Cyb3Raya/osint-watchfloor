@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-25T09:55:09.241821+00:00",
+ "generated": "2026-08-25T10:36:01.804408+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+   "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
+   "desc": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abus",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/AdobeStock_1270203474-2-1.png",
+   "date": "2026-08-25T10:00:57+00:00",
+   "iocs": "iocs/b08d58b5f870.txt",
+   "ioc_count": 12
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI",
+   "link": "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
+   "desc": "As frontier AI models become increasingly restrictive, security teams are facing a \"safety penalty\" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure t",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar-1.jpg",
+   "date": "2026-08-25T10:00:22+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+   "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+   "desc": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders appeared first",
+   "image": "",
+   "date": "2026-08-25T10:00:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
@@ -337,14 +363,6 @@
    "desc": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
    "image": "",
    "date": "2026-08-24T09:42:05+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
-   "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
-   "desc": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down",
-   "image": "",
-   "date": "2026-08-24T09:22:09+00:00"
   },
   {
    "source": "The Hacker News",
@@ -1217,16 +1235,6 @@
    "ioc_count": 19
   },
   {
-   "source": "Cisco Talos",
-   "title": "Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel",
-   "link": "https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/",
-   "desc": "The Chaos ransomware group uses new malware \"msaRAT\" that hijacks browsers. The malware doesn't communicate directly with C2 but connects through the browser. It enables arbitrary command execution while hiding the attac",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/newchaosrat.jpg",
-   "date": "2026-07-23T10:00:38+00:00",
-   "iocs": "iocs/678e715aba62.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Krebs on Security",
    "title": "LG to Ban Residential Proxies from Smart TV Apps",
    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -1261,16 +1269,6 @@
    "date": "2026-07-19T00:00:00+00:00",
    "iocs": "iocs/b10fb5494b57.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Unit 42",
-   "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
-   "link": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
-   "desc": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access. The post Three Steps to the Terminal: A Siemens ROX II Zero-Day Tri",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Vulnerabilities_1920x900.jpg",
-   "date": "2026-07-17T10:00:24+00:00",
-   "iocs": "iocs/ee74a81b3849.txt",
-   "ioc_count": 11
   },
   {
    "source": "Wiz Threats",
