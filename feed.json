@@ -1,17 +1,11 @@
 {
- "generated": "2026-08-25T05:34:24.303081+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-25T06:02:48.676147+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "SANS ISC"
+ ],
  "items": [
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33278",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-25T02:00:03+00:00"
-  },
   {
    "source": "RF The Record",
    "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
@@ -327,14 +321,6 @@
    "ioc_count": 16
   },
   {
-   "source": "SANS ISC",
-   "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33274",
-   "desc": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t use real steganography:&#xd;",
-   "image": "",
-   "date": "2026-08-24T07:23:16+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
    "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
@@ -349,14 +335,6 @@
    "desc": "Open VSX has removed three extension IDs from its malicious-extension list as the legitimate publishers they impersonated move to claim the names for themselves.",
    "image": "",
    "date": "2026-08-24T05:48:31+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33276",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-24T02:00:03+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -577,30 +555,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SANS ISC",
-   "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33272",
-   "desc": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling t",
-   "image": "",
-   "date": "2026-08-21T02:47:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33270",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-21T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33268",
-   "desc": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise.&#xd;",
-   "image": "",
-   "date": "2026-08-21T01:49:18+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Socket Now Protects the Firefox Extension Ecosystem",
    "link": "https://socket.dev/blog/firefox-extension-security?utm_medium=feed",
@@ -679,22 +633,6 @@
    "ioc_count": 23
   },
   {
-   "source": "SANS ISC",
-   "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33266",
-   "desc": "Building on the last diary on Using MS Graph and Powershell, let&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s look at \"Risky\" logins.&#xd;",
-   "image": "",
-   "date": "2026-08-20T13:09:50+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33264",
-   "desc": "Microsoft Graph is a newer API that is meant to replace several others.&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; OK, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s at version 2.3.9, ",
-   "image": "",
-   "date": "2026-08-20T12:45:32+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Popular Rust crates arrayref, append-only-vec, and internment compromised in Supply Chain Attack",
    "link": "https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack",
@@ -735,14 +673,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33262",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-20T02:00:03+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "AI pentesting evaluation checklist: What to look for in an AI pentesting vendor",
    "link": "https://www.aikido.dev/blog/ai-pentesting-vendor-checklist",
@@ -759,14 +689,6 @@
    "date": "2026-08-19T17:43:36+00:00",
    "iocs": "iocs/0fce33c1f6aa.txt",
    "ioc_count": 122
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
-   "link": "https://isc.sans.edu/diary/rss/33260",
-   "desc": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is ",
-   "image": "",
-   "date": "2026-08-19T14:24:58+00:00"
   },
   {
    "source": "Aikido",
