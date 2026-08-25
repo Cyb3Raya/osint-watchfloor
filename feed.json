@@ -1,9 +1,33 @@
 {
- "generated": "2026-08-25T20:00:02.616233+00:00",
+ "generated": "2026-08-25T20:39:10.668081+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "58 arrested in international cybercrime crackdown",
+   "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
+   "desc": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe.",
+   "image": "",
+   "date": "2026-08-25T20:33:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+   "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+   "desc": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+   "image": "",
+   "date": "2026-08-25T20:25:26+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+   "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+   "desc": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-25T19:50:16+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Employee benefits platform Paylogix says hackers stole financial and health data",
@@ -329,14 +353,6 @@
    "date": "2026-08-25T02:00:03+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
-   "link": "https://therecord.media/iran-cyberattacks-us-uk",
-   "desc": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
-   "image": "",
-   "date": "2026-08-24T23:00:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
    "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
@@ -503,16 +519,6 @@
    "desc": "Aikido AI Code Audit found 8 more vulnerabilities than Claude Security with Mythos at less than half the cost. How harness design drives coverage per dollar. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8c2fca493b8aa059fdca84_Claude-Security%27s_Feature.png",
    "date": "2026-08-24T11:38:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-   "image": "",
-   "date": "2026-08-24T10:45:12+00:00",
-   "iocs": "iocs/e14279b772b4.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -697,14 +703,6 @@
    "desc": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T17:39:24+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
-   "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-   "desc": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T17:32:51+00:00"
   },
   {
    "source": "Socket",
