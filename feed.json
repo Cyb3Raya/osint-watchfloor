@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-25T14:49:41.082477+00:00",
+ "generated": "2026-08-25T15:45:09.448515+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33280",
+   "desc": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service lis",
+   "image": "",
+   "date": "2026-08-25T15:03:33+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Is Cyber Facing an Affordability Crisis?",
+   "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+   "desc": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d6c1792a2093976/6a8daf2931dc781c97eef199/GettyImages-147695159.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-25T14:53:13+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
@@ -19,6 +35,16 @@
    "desc": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-25T14:11:59+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+   "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+   "desc": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaJs9yp_YLYc3dgsmzjU4_ma-6DC3KNpG4d3KhKtoIuhtpbYSnK0Wed5_8a0Jm6epc_RdLE9PVMO0FnkH7DFwRAI7lBZBXImFEu1emv-OarT-LPYE-QymTXPMkmDsYBXsz1TB3gASsiAEgZ4Jvt1YzQM3KHYpV0HMck686hTcXB7pn7uqLu2uTLVgPyE/s1600/nvidia.jpg",
+   "date": "2026-08-25T14:07:37+00:00",
+   "iocs": "iocs/363f9eed78ed.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -463,16 +489,6 @@
    "date": "2026-08-24T11:38:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-   "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-   "desc": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg",
-   "date": "2026-08-24T11:30:00+00:00",
-   "iocs": "iocs/88f21efe833b.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
@@ -693,14 +709,6 @@
    "ioc_count": 21
   },
   {
-   "source": "Dark Reading",
-   "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-   "desc": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T14:59:22+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/",
@@ -791,14 +799,6 @@
    "date": "2026-08-19T17:43:36+00:00",
    "iocs": "iocs/0fce33c1f6aa.txt",
    "ioc_count": 122
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
-   "link": "https://isc.sans.edu/diary/rss/33260",
-   "desc": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is ",
-   "image": "",
-   "date": "2026-08-19T14:24:58+00:00"
   },
   {
    "source": "Aikido",

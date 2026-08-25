@@ -1,0 +1,12 @@
+IOC EXTRACTION - A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
+Source: https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
+Extracted: 2026-08-25 15:45:01 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2024-28224
+CVE-2026-58231
