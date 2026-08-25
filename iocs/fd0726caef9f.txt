@@ -1,0 +1,12 @@
+IOC EXTRACTION - WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities
+Source: https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/
+Extracted: 2026-08-25 13:53:01 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-15981
+CVE-2026-61979

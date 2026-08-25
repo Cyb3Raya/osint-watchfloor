@@ -1,0 +1,11 @@
+IOC EXTRACTION - WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
+Source: https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html
+Extracted: 2026-08-25 13:52:55 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

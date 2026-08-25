@@ -1,0 +1,14 @@
+IOC EXTRACTION - Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode
+Source: https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html
+Extracted: 2026-08-25 13:52:56 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-39987
+CVE-2026-58231
+CVE-2026-67618
+CVE-2026-75149

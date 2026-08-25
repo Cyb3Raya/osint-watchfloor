@@ -1,9 +1,61 @@
 {
- "generated": "2026-08-25T12:52:46.692082+00:00",
+ "generated": "2026-08-25T13:53:09.350620+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+   "desc": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
+   "image": "",
+   "date": "2026-08-25T13:51:58+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+   "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
+   "desc": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on Secur",
+   "image": "",
+   "date": "2026-08-25T13:33:12+00:00",
+   "iocs": "iocs/fd0726caef9f.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+   "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+   "desc": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyjfLJEnp8xcmcz9iVBOKykdcxx36J8KgONSwImU9YSYuvWD_uzKDaGkJre9D_8P1XLdE8vPHqNyBUKOvjYPLJj_oZ1T-pfUxdOm-bZTtaz4LC2eVcuFloJTtEE7IWVnOaVJIEtFUoPKfOn9xeBASQG7e7X2-wA7P-hwGIzqP7G_-Ot2BOpj-OSO0tUBh/s1600/whatsapp.jpg",
+   "date": "2026-08-25T13:19:41+00:00",
+   "iocs": "iocs/2e3b78a4e6c2.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+   "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+   "desc": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+   "image": "",
+   "date": "2026-08-25T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
+   "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
+   "desc": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared fi",
+   "image": "",
+   "date": "2026-08-25T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
+   "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
+   "desc": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appea",
+   "image": "",
+   "date": "2026-08-25T12:57:59+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "UK government seeks powers to secretly block risky tech suppliers",
@@ -11,6 +63,16 @@
    "desc": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret.",
    "image": "",
    "date": "2026-08-25T12:45:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+   "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+   "desc": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg",
+   "date": "2026-08-25T12:43:51+00:00",
+   "iocs": "iocs/dd2b5b5f2275.txt",
+   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -357,16 +419,6 @@
    "ioc_count": 6
   },
   {
-   "source": "SecurityWeek",
-   "title": "91 Vulnerabilities Patched in Spring Application Framework",
-   "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
-   "desc": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-24T11:58:28+00:00",
-   "iocs": "iocs/6dfa7133a9d9.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
    "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
@@ -405,14 +457,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
-   "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
-   "desc": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appea",
-   "image": "",
-   "date": "2026-08-24T10:59:30+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
@@ -423,30 +467,12 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Personal Information Exposed in Apollo Global Data Breach",
-   "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
-   "desc": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-24T10:08:42+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
    "desc": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
    "image": "",
    "date": "2026-08-24T09:42:05+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-   "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-   "desc": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg",
-   "date": "2026-08-24T08:08:31+00:00",
-   "iocs": "iocs/a02830e149d4.txt",
-   "ioc_count": 16
   },
   {
    "source": "SANS ISC",
@@ -481,16 +507,6 @@
    "date": "2026-08-23T14:23:46+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-   "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-   "desc": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the sett",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg",
-   "date": "2026-08-22T14:32:41+00:00",
-   "iocs": "iocs/a0e4824b388d.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers infect Android car head units with proxy botnet malware",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
@@ -499,14 +515,6 @@
    "date": "2026-08-22T14:14:24+00:00",
    "iocs": "iocs/6966acdf0cc3.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-   "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-   "desc": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict ",
-   "image": "",
-   "date": "2026-08-22T13:00:09+00:00"
   },
   {
    "source": "Unit 42",
@@ -543,14 +551,6 @@
    "desc": "Compare the top enterprise AI pentesting tools of 2026: Aikido, XBOW, NodeZero, Pentera, Hadrian, and Cobalt. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-21T19:05:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-   "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-   "desc": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-   "image": "",
-   "date": "2026-08-21T18:01:30+00:00"
   },
   {
    "source": "Socket",
