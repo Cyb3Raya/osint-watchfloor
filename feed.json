@@ -1,9 +1,41 @@
 {
- "generated": "2026-08-25T13:53:09.350620+00:00",
+ "generated": "2026-08-25T14:49:41.082477+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+   "desc": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+   "image": "",
+   "date": "2026-08-25T14:44:16+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
+   "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
+   "desc": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-25T14:11:59+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+   "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+   "desc": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake wor",
+   "image": "",
+   "date": "2026-08-25T14:01:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukraine to give Britain access to battlefield data to train AI",
+   "link": "https://therecord.media/ukraine-uk-ai-drone-data",
+   "desc": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems.",
+   "image": "",
+   "date": "2026-08-25T14:00:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
@@ -283,14 +315,6 @@
    "ioc_count": 2
   },
   {
-   "source": "RF The Record",
-   "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
-   "link": "https://therecord.media/cyber-scam-indian-arrested",
-   "desc": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers.",
-   "image": "",
-   "date": "2026-08-24T18:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "TikTok reaches $400M settlement with US over COPPA violations",
    "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
@@ -393,14 +417,6 @@
    "date": "2026-08-24T14:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
-   "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
-   "desc": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation. The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated ",
-   "image": "",
-   "date": "2026-08-24T12:42:09+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft: August updates break printing, PDF export in WPF apps",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
@@ -497,24 +513,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-24T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-   "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-   "desc": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
-   "image": "",
-   "date": "2026-08-23T14:23:46+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers infect Android car head units with proxy botnet malware",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-   "desc": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
-   "image": "",
-   "date": "2026-08-22T14:14:24+00:00",
-   "iocs": "iocs/6966acdf0cc3.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
