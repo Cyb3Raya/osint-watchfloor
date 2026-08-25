@@ -1,0 +1,11 @@
+IOC EXTRACTION - U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
+Source: https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html
+Extracted: 2026-08-25 19:34:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
