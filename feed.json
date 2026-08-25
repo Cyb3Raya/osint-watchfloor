@@ -1,8 +1,10 @@
 {
- "generated": "2026-08-25T17:49:47.457532+00:00",
- "sources_ok": 14,
+ "generated": "2026-08-25T18:42:41.211921+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "SANS ISC"
+ ],
  "items": [
   {
    "source": "SecurityWeek",
@@ -19,14 +21,6 @@
    "desc": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
    "image": "",
    "date": "2026-08-25T15:52:36+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33280",
-   "desc": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service lis",
-   "image": "",
-   "date": "2026-08-25T15:03:33+00:00"
   },
   {
    "source": "Dark Reading",
@@ -295,14 +289,6 @@
    "ioc_count": 6
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33278",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-25T02:00:03+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
    "link": "https://therecord.media/iran-cyberattacks-us-uk",
@@ -314,7 +300,7 @@
    "source": "Dark Reading",
    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
    "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-   "desc": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+   "desc": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88e15b7cfaeb36c5/6a8dc95f5ca78ee4c617b58a/zimbra_OpturaDesign_shutterstock_RESIZED_TO_16X9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T21:46:55+00:00",
    "iocs": "iocs/2f328a1ca976.txt",
@@ -507,28 +493,12 @@
    "ioc_count": 1
   },
   {
-   "source": "SANS ISC",
-   "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33274",
-   "desc": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;t use real steganography:&#xd;",
-   "image": "",
-   "date": "2026-08-24T07:23:16+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Open VSX Unblocks Extension IDs Used in Malware Campaign",
    "link": "https://socket.dev/blog/open-vsx-unblocks-malicious-extension-ids?utm_medium=feed",
    "desc": "Open VSX has removed three extension IDs from its malicious-extension list as the legitimate publishers they impersonated move to claim the names for themselves.",
    "image": "",
    "date": "2026-08-24T05:48:31+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33276",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-24T02:00:03+00:00"
   },
   {
    "source": "Unit 42",
@@ -625,30 +595,6 @@
    "date": "2026-08-21T09:06:00+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33272",
-   "desc": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling t",
-   "image": "",
-   "date": "2026-08-21T02:47:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33270",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-21T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33268",
-   "desc": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise.&#xd;",
-   "image": "",
-   "date": "2026-08-21T01:49:18+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Socket Now Protects the Firefox Extension Ecosystem",
    "link": "https://socket.dev/blog/firefox-extension-security?utm_medium=feed",
@@ -719,22 +665,6 @@
    "ioc_count": 23
   },
   {
-   "source": "SANS ISC",
-   "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33266",
-   "desc": "Building on the last diary on Using MS Graph and Powershell, let&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s look at \"Risky\" logins.&#xd;",
-   "image": "",
-   "date": "2026-08-20T13:09:50+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33264",
-   "desc": "Microsoft Graph is a newer API that is meant to replace several others.&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b; OK, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s at version 2.3.9, ",
-   "image": "",
-   "date": "2026-08-20T12:45:32+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Popular Rust crates arrayref, append-only-vec, and internment compromised in Supply Chain Attack",
    "link": "https://www.aikido.dev/blog/two-popular-rust-crates-arrayref-and-append-only-vec-compromised-in-supply-chain-attack",
@@ -773,14 +703,6 @@
    "date": "2026-08-20T10:00:25+00:00",
    "iocs": "iocs/43d319c9aabf.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33262",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-20T02:00:03+00:00"
   },
   {
    "source": "Aikido",
