@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-25T21:03:19.136425+00:00",
+ "generated": "2026-08-25T21:48:13.570967+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+   "desc": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+   "image": "",
+   "date": "2026-08-25T21:39:01+00:00",
+   "iocs": "iocs/3edbe2a627d9.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Hidden Prompts Trick AI Into False Email Summaries",
+   "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+   "desc": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-25T21:08:55+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "58 arrested in international cybercrime crackdown",
@@ -485,14 +503,6 @@
    "date": "2026-08-24T14:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-   "desc": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
-   "image": "",
-   "date": "2026-08-24T12:40:21+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
    "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
@@ -695,14 +705,6 @@
    "date": "2026-08-20T18:00:18+00:00",
    "iocs": "iocs/7ade312d5cee.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Dark Reading",
-   "title": "N-able Bug Exposes Password Vault Master Keys",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-   "desc": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T17:39:24+00:00"
   },
   {
    "source": "Socket",

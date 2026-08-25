@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers abuse npm mirrors to host phishing redirect pages
+Source: https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/
+Extracted: 2026-08-25 21:48:05 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+login[.]microsofte[.]live
