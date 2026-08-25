@@ -1,0 +1,19 @@
+IOC EXTRACTION - Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data
+Source: https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html
+Extracted: 2026-08-25 07:12:51 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2017-10271
+CVE-2020-14882
+CVE-2020-2551
+CVE-2026-21962
+CVE-2026-58231
+
+IPv4 (1)
+----------------------------------------
+193[.]24[.]123[.]42
