@@ -1,0 +1,22 @@
+IOC EXTRACTION - E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands
+Source: https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html
+Extracted: 2026-08-25 12:52:34 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+IPv4 (4)
+----------------------------------------
+157[.]254[.]194[.]31
+167[.]148[.]41[.]164
+209[.]99[.]185[.]38
+69[.]48[.]228[.]126
+
+Domains (1)
+----------------------------------------
+cloudflare[.]milicare[.]in

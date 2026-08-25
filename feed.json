@@ -1,9 +1,55 @@
 {
- "generated": "2026-08-25T11:48:46.709804+00:00",
+ "generated": "2026-08-25T12:52:46.692082+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "UK government seeks powers to secretly block risky tech suppliers",
+   "link": "https://therecord.media/uk-technology-national-security",
+   "desc": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret.",
+   "image": "",
+   "date": "2026-08-25T12:45:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+   "desc": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+   "image": "",
+   "date": "2026-08-25T12:04:02+00:00",
+   "iocs": "iocs/2f69a5761f47.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Could OpenClaw have actually hacked that Australian gym? We decided to test it.",
+   "link": "https://www.aikido.dev/blog/australian-gym-hack-openclaw-test",
+   "desc": "We recreated the viral AI gym hack in a controlled environment. Running Opus 4.6 on OpenClaw, the model exploited the booking flaw in nine of ten runs. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8c35eeb58c4c4ca47664db_OpenClaw_Feature.jpg",
+   "date": "2026-08-25T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+   "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+   "desc": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg",
+   "date": "2026-08-25T11:56:15+00:00",
+   "iocs": "iocs/99cf59e09495.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+   "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+   "desc": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg",
+   "date": "2026-08-25T11:52:43+00:00",
+   "iocs": "iocs/56d9611be303.txt",
+   "ioc_count": 3
+  },
   {
    "source": "RF The Record",
    "title": "Large DDoS attack knocks Norwegian public services offline",
@@ -13,12 +59,32 @@
    "date": "2026-08-25T11:45:00+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+   "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+   "desc": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. Whi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg",
+   "date": "2026-08-25T11:33:44+00:00",
+   "iocs": "iocs/806c3e84fa62.txt",
+   "ioc_count": 6
+  },
+  {
    "source": "SecurityWeek",
    "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
    "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
    "desc": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-25T11:18:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+   "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+   "desc": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg",
+   "date": "2026-08-25T11:14:07+00:00",
+   "iocs": "iocs/8e54ac02ed0d.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -291,14 +357,6 @@
    "ioc_count": 6
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers infecting Android car systems to build proxy botnet",
-   "link": "https://therecord.media/android-botnet-china-hackers",
-   "desc": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet.",
-   "image": "",
-   "date": "2026-08-24T12:15:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "91 Vulnerabilities Patched in Spring Application Framework",
    "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
@@ -487,14 +545,6 @@
    "date": "2026-08-21T19:05:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-   "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-   "desc": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg",
-   "date": "2026-08-21T18:53:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
    "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
@@ -517,34 +567,6 @@
    "desc": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T17:36:53+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-   "desc": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-   "image": "",
-   "date": "2026-08-21T15:55:15+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-   "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-   "desc": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg",
-   "date": "2026-08-21T15:52:10+00:00",
-   "iocs": "iocs/befbe5399e80.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-   "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-   "desc": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
-   "date": "2026-08-21T15:41:44+00:00",
-   "iocs": "iocs/a068075960f8.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
@@ -579,14 +601,6 @@
    "desc": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T13:10:33+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Wazuh and AI For Enhanced SOC Workflows",
-   "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-   "desc": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
-   "date": "2026-08-21T11:21:39+00:00"
   },
   {
    "source": "Aikido",
@@ -1055,14 +1069,6 @@
    "date": "2026-08-06T10:00:49+00:00",
    "iocs": "iocs/60c9ce076603.txt",
    "ioc_count": 17
-  },
-  {
-   "source": "Aikido",
-   "title": "Who was behind the attack? Possibly nobody",
-   "link": "https://www.aikido.dev/blog/autonomous-agents-attacking-no-responsibility",
-   "desc": "Three summer disclosures documented AI agents attacking real organizations with no human intent in the chain. Incident response has no box for this yet. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a737a3832193854d8fbce62_Next-threat-actor-may-not-know-it-is-a-threat-actor_16x9.jpg",
-   "date": "2026-08-05T17:59:00+00:00"
   },
   {
    "source": "Unit 42",

@@ -1,0 +1,16 @@
+IOC EXTRACTION - 24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages
+Source: https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html
+Extracted: 2026-08-25 12:52:33 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+Domains (2)
+----------------------------------------
+api[.]keyval[.]org
+login[.]microsofte[.]live

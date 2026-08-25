@@ -1,0 +1,11 @@
+IOC EXTRACTION - Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows
+Source: https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html
+Extracted: 2026-08-25 12:52:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

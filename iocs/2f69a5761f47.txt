@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers breached over 270 Zimbra servers in ongoing attacks
+Source: https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/
+Extracted: 2026-08-25 12:52:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-73570
