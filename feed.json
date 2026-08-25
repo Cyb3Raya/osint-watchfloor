@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-25T21:48:13.570967+00:00",
+ "generated": "2026-08-25T22:30:32.456305+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "LACMA data breach last year exposed social security and medical data",
+   "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+   "desc": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+   "image": "",
+   "date": "2026-08-25T21:58:14+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers abuse npm mirrors to host phishing redirect pages",
@@ -485,14 +493,6 @@
    "desc": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
    "image": "",
    "date": "2026-08-24T14:00:19+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "South Korean startup platform breach exposes key management failures",
-   "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-   "desc": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept s",
-   "image": "",
-   "date": "2026-08-24T14:00:10+00:00"
   },
   {
    "source": "Dark Reading",
