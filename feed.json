@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-26T10:54:38.658719+00:00",
+ "generated": "2026-08-26T11:32:50.079894+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
+   "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
+   "desc": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on ",
+   "image": "",
+   "date": "2026-08-26T11:29:50+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+   "desc": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+   "image": "",
+   "date": "2026-08-26T11:07:48+00:00",
+   "iocs": "iocs/ea2647337858.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+   "link": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+   "desc": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Cr",
+   "image": "",
+   "date": "2026-08-26T11:00:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
@@ -409,14 +435,6 @@
    "ioc_count": 6
   },
   {
-   "source": "SecurityWeek",
-   "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
-   "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
-   "desc": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-25T11:18:22+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
    "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
@@ -451,14 +469,6 @@
    "desc": "As frontier AI models become increasingly restrictive, security teams are facing a \"safety penalty\" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure t",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar-1.jpg",
    "date": "2026-08-25T10:00:22+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
-   "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
-   "desc": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders appeared first",
-   "image": "",
-   "date": "2026-08-25T10:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -547,14 +557,6 @@
    "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1dbd4251686aed8/6a8c90973725ccfa2c8aef7d/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:34:59+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft Teams now lets admins block external bots from meetings",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-   "desc": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-   "image": "",
-   "date": "2026-08-24T14:00:19+00:00"
   },
   {
    "source": "Dark Reading",
