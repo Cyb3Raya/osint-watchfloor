@@ -1,9 +1,35 @@
 {
- "generated": "2026-08-26T13:27:42.086607+00:00",
+ "generated": "2026-08-26T14:24:12.106404+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+   "desc": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
+   "image": "",
+   "date": "2026-08-26T14:17:59+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Snowflake ends service-account passwords. Now comes the hard part",
+   "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+   "desc": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each accou",
+   "image": "",
+   "date": "2026-08-26T14:01:11+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+   "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+   "desc": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg",
+   "date": "2026-08-26T13:44:31+00:00",
+   "iocs": "iocs/26c52789df0b.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Ubiquiti patches three max severity security vulnerabilities",
@@ -13,6 +39,16 @@
    "date": "2026-08-26T13:17:54+00:00",
    "iocs": "iocs/1a063d0cbf27.txt",
    "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+   "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it describe",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg",
+   "date": "2026-08-26T13:07:02+00:00",
+   "iocs": "iocs/1c8cb498dea5.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -117,6 +153,14 @@
    "desc": "Selecting a model for your security operations center (SOC) and digital forensics and incident response (DFIR) tasks is important, but selecting the best one is more involved than you might think. Here's how to choose.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/tool_talk-1.jpg",
    "date": "2026-08-26T10:00:05+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Aikido launches agentic pentesting for Android apps",
+   "link": "https://www.aikido.dev/blog/aikido-launches-agentic-pentesting-for-android-apps",
+   "desc": "Aikido's agents pentest your Android app and its backend in a single whitebox assessment. You get reproducible findings, AutoFix, and retests for every issue. Category: Product & Company Updates",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8e8e3efce59414fbeac608_Aikido-launches-agentic-pentest-for-android_Feature.jpg",
+   "date": "2026-08-26T10:00:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -418,7 +462,7 @@
    "source": "RF The Record",
    "title": "UK government seeks powers to secretly block risky tech suppliers",
    "link": "https://therecord.media/uk-technology-national-security",
-   "desc": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret.",
+   "desc": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret.",
    "image": "",
    "date": "2026-08-25T12:45:00+00:00"
   },
@@ -461,32 +505,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-   "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-   "desc": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg",
-   "date": "2026-08-25T11:52:43+00:00",
-   "iocs": "iocs/56d9611be303.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "RF The Record",
    "title": "Large DDoS attack knocks Norwegian public services offline",
    "link": "https://therecord.media/norway-cyberattack-ddos-government",
    "desc": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.",
    "image": "",
    "date": "2026-08-25T11:45:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-   "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-   "desc": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. Whi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg",
-   "date": "2026-08-25T11:33:44+00:00",
-   "iocs": "iocs/806c3e84fa62.txt",
-   "ioc_count": 6
   },
   {
    "source": "BleepingComputer",
@@ -533,32 +557,12 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-   "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-   "desc": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network ",
-   "image": "",
-   "date": "2026-08-24T21:14:30+00:00",
-   "iocs": "iocs/7bfe97eb7dc8.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
    "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
    "desc": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T20:51:27+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-   "desc": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [",
-   "image": "",
-   "date": "2026-08-24T19:26:32+00:00",
-   "iocs": "iocs/ab19b111baf2.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
@@ -915,14 +919,6 @@
    "desc": "Compare the top enterprise DAST tools of 2026 on authenticated coverage, API discovery, exploit validation, governance, compliance, and AI pentesting Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-14T17:01:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top unified security tools in 2026",
-   "link": "https://www.aikido.dev/blog/top-unified-security-tools",
-   "desc": "Compare the top unified security tools of 2026: Aikido, Cortex Cloud, Wiz, Checkmarx, Snyk, and Orca, across coverage, correlation, governance, and cost. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-08-14T15:53:00+00:00"
   },
   {
    "source": "Krebs on Security",

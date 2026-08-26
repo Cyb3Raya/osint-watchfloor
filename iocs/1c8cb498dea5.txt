@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing
+Source: https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html
+Extracted: 2026-08-26 14:24:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
