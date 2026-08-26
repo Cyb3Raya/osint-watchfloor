@@ -1,0 +1,11 @@
+IOC EXTRACTION - Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine
+Source: https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html
+Extracted: 2026-08-26 12:00:47 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

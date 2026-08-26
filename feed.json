@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-26T11:32:50.079894+00:00",
+ "generated": "2026-08-26T12:00:56.653359+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+   "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+   "desc": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known patter",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg",
+   "date": "2026-08-26T11:36:49+00:00",
+   "iocs": "iocs/ca41f1613046.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
@@ -39,6 +49,14 @@
    "date": "2026-08-26T10:27:23+00:00",
    "iocs": "iocs/621ca1c7245a.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Software supply chain security requires decisions rather than defaults",
+   "link": "https://www.aikido.dev/blog/software-supply-chain-security-decisions-not-defaults",
+   "desc": "Most software runs on decisions nobody made. We talk about why gating, pinning, backporting, and SBOM upkeep only work if someone actually owns them. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8eaa621fcd06d148354f50_Decisions-not-defaults(2).png",
+   "date": "2026-08-26T10:15:00+00:00"
   },
   {
    "source": "Aikido",
@@ -469,16 +487,6 @@
    "desc": "As frontier AI models become increasingly restrictive, security teams are facing a \"safety penalty\" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure t",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar-1.jpg",
    "date": "2026-08-25T10:00:22+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-   "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-   "desc": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg",
-   "date": "2026-08-25T08:34:07+00:00",
-   "iocs": "iocs/91c61774da13.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -949,14 +957,6 @@
    "desc": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_spotlight.jpg",
    "date": "2026-08-13T10:00:35+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Finding vulnerabilities at every stage: what to run, and when",
-   "link": "https://www.aikido.dev/blog/which-security-tool-do-you-need",
-   "desc": "SAST, Deep PR Review, Code Security Audit and AI Pentest each catch different vulnerabilities at different stages. Here's when to use each, and why Category: Product & Company Updates",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7c43f49d01a73a639b849d_AI-code-analysis-vs-AI-pentesting-vs-traditional-SAST_Feature.png",
-   "date": "2026-08-12T13:30:00+00:00"
   },
   {
    "source": "Socket",
