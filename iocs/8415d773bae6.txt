@@ -1,0 +1,15 @@
+IOC EXTRACTION - Hackers target Microsoft SharePoint RCE chain with PoC exploit
+Source: https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/
+Extracted: 2026-08-26 16:04:25 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-32201
+CVE-2026-45659
+CVE-2026-55040
+CVE-2026-56164
+CVE-2026-63520
