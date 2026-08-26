@@ -1,0 +1,15 @@
+IOC EXTRACTION - Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes
+Source: https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html
+Extracted: 2026-08-26 07:12:49 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+Emails (1)
+----------------------------------------
+noreplyapple00000@gmail.com

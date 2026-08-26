@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload
+Source: https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html
+Extracted: 2026-08-26 07:12:48 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-58231
+CVE-2026-60004

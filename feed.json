@@ -1,9 +1,29 @@
 {
- "generated": "2026-08-26T06:04:34.099956+00:00",
+ "generated": "2026-08-26T07:13:01.819803+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+   "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg",
+   "date": "2026-08-26T06:27:07+00:00",
+   "iocs": "iocs/8ba2097a32df.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+   "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+   "desc": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Appl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg",
+   "date": "2026-08-26T05:47:28+00:00",
+   "iocs": "iocs/4de8e9117e9d.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "CISA Warns of Exploited Gitea Vulnerability",
@@ -511,26 +531,6 @@
    "desc": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt198046baa5588c01/6a8893cf43e45d54ab5d69fd/gap-DNY59-Getty-1406960089.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-   "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-   "desc": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg",
-   "date": "2026-08-24T12:35:36+00:00",
-   "iocs": "iocs/eef5e5ff1cf8.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-   "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-   "desc": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg",
-   "date": "2026-08-24T11:56:34+00:00",
-   "iocs": "iocs/ecccd44f47e0.txt",
-   "ioc_count": 3
   },
   {
    "source": "Aikido",
