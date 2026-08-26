@@ -1,9 +1,25 @@
 {
- "generated": "2026-08-26T07:13:01.819803+00:00",
+ "generated": "2026-08-26T08:03:51.776991+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
+   "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
+   "desc": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e25e9502faafe2a/6a8e005307463c203cf304be/nigeria-flag-sovereign-cloud-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T08:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Sensitive Information Exposed in Nutex Health Data Breach",
+   "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
+   "desc": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-26T07:41:50+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
@@ -389,16 +405,6 @@
    "date": "2026-08-25T08:30:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
-   "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
-   "desc": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-25T07:46:34+00:00",
-   "iocs": "iocs/3307be845e62.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
    "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
@@ -697,14 +703,6 @@
    "desc": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-20T20:42:18+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-   "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-   "desc": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest &quot;hack back&quot; strategy.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt873948c65f62f170/6a874b480989859872d1eb89/Delta_Vegas-Janice_Chen-GettyImages-2269887409.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T19:11:15+00:00"
   },
   {
    "source": "Cisco Talos",
