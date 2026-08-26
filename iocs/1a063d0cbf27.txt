@@ -1,0 +1,13 @@
+IOC EXTRACTION - Ubiquiti patches three max severity security vulnerabilities
+Source: https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/
+Extracted: 2026-08-26 13:27:28 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-77537
+CVE-2026-77550
+CVE-2026-77554

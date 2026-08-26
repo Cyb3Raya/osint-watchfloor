@@ -1,9 +1,45 @@
 {
- "generated": "2026-08-26T12:00:56.653359+00:00",
+ "generated": "2026-08-26T13:27:42.086607+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Ubiquiti patches three max severity security vulnerabilities",
+   "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+   "desc": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
+   "image": "",
+   "date": "2026-08-26T13:17:54+00:00",
+   "iocs": "iocs/1a063d0cbf27.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
+   "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
+   "desc": "Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-26T12:39:38+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+   "desc": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+   "image": "",
+   "date": "2026-08-26T12:06:28+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+   "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+   "desc": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg",
+   "date": "2026-08-26T11:55:00+00:00",
+   "iocs": "iocs/f601fe4cfa27.txt",
+   "ioc_count": 3
+  },
   {
    "source": "The Hacker News",
    "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
@@ -13,6 +49,14 @@
    "date": "2026-08-26T11:36:49+00:00",
    "iocs": "iocs/ca41f1613046.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+   "link": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
+   "desc": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96335316773d01f2/64f1723c4be8f94ae717439d/cookie_monster-dpa_picture_alliance-Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T11:33:40+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -98,7 +142,7 @@
    "source": "Dark Reading",
    "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
    "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
-   "desc": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+   "desc": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-26T08:30:00+00:00"
   },
@@ -130,7 +174,7 @@
   },
   {
    "source": "The Hacker News",
-   "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+   "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
    "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
    "desc": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs comm",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg",
@@ -222,7 +266,7 @@
    "source": "Dark Reading",
    "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
    "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-   "desc": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+   "desc": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
    "date": "2026-08-25T19:50:16+00:00"
   },
@@ -371,14 +415,6 @@
    "date": "2026-08-25T13:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-   "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-   "desc": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appea",
-   "image": "",
-   "date": "2026-08-25T12:57:59+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "UK government seeks powers to secretly block risky tech suppliers",
    "link": "https://therecord.media/uk-technology-national-security",
@@ -453,16 +489,6 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-   "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-   "desc": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg",
-   "date": "2026-08-25T11:14:07+00:00",
-   "iocs": "iocs/8e54ac02ed0d.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
@@ -535,22 +561,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "TikTok reaches $400M settlement with US over COPPA violations",
-   "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-   "desc": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-   "image": "",
-   "date": "2026-08-24T17:56:24+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-   "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-   "desc": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-   "image": "",
-   "date": "2026-08-24T15:17:16+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
    "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
@@ -570,17 +580,25 @@
    "source": "Dark Reading",
    "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
    "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-   "desc": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+   "desc": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt198046baa5588c01/6a8893cf43e45d54ab5d69fd/gap-DNY59-Getty-1406960089.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:00:00+00:00"
   },
   {
    "source": "Aikido",
-   "title": "How Aikido finds more vulnerabilities than Claude Security at half the cost",
+   "title": "How Aikido finds more vulnerabilities than Mythos at half the cost",
    "link": "https://www.aikido.dev/blog/aikido-finds-more-vulnerabilities-claude-security-mythos",
    "desc": "Aikido AI Code Audit found 8 more vulnerabilities than Claude Security with Mythos at less than half the cost. How harness design drives coverage per dollar. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8c2fca493b8aa059fdca84_Claude-Security%27s_Feature.png",
    "date": "2026-08-24T11:38:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Shai-Hulud was the best thing to happen to supply chain security",
+   "link": "https://www.aikido.dev/blog/shai-hulud-trusted-publishing",
+   "desc": "npm Trusted Publishing sat near-idle for two years. Then Shai-Hulud and 14 more supply chain attacks pushed adoption 3.4x. Charlie looks at the data behind it. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8ee1c9202eae656d23068c_Shai-hulud-best-thing-for-supply-chain_Feature.jpg",
+   "date": "2026-08-24T08:14:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -683,14 +701,6 @@
    "desc": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-21T13:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-   "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-   "desc": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-21T13:10:33+00:00"
   },
   {
    "source": "Aikido",
@@ -941,14 +951,6 @@
    "desc": "A new federal program will let vetted U.S. cybersecurity firms help investigate and disrupt foreign cybercrime groups under government direction.",
    "image": "",
    "date": "2026-08-13T16:13:54+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "From Hugging Face to Fable: this summer shows AI control matters more than trust",
-   "link": "https://www.aikido.dev/blog/why-you-need-your-own-ai-security-infrastructure",
-   "desc": "An autonomous AI breach at Hugging Face and Anthropic's Fable suspension show the same thing: trusting a vendor isn't the same as being in control Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7dcf0d65bd135ed47e2ab2_From-Hugging-Face-to-Fable-control-your-AI_Feature%20(2).png",
-   "date": "2026-08-13T13:05:00+00:00"
   },
   {
    "source": "Cisco Talos",
