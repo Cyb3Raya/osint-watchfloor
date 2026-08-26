@@ -1,9 +1,43 @@
 {
- "generated": "2026-08-26T20:12:22.885126+00:00",
+ "generated": "2026-08-26T23:44:37.115735+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+   "desc": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+   "image": "",
+   "date": "2026-08-26T21:33:20+00:00",
+   "iocs": "iocs/7917df953883.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+   "desc": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt47e8a731e9364c4c/6a8f4b1bd21c5bf1f56d2ce9/caracal_Szikorka_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T21:33:06+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
+   "link": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
+   "desc": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.",
+   "image": "",
+   "date": "2026-08-26T20:53:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Red Flags That Expose Fake North Korean IT Workers",
+   "link": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+   "desc": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt471900825b42f17b/6a8f3ea6171bd746c49ac049/red_flags-mozcann-GettyImages-184940696.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T19:21:24+00:00"
+  },
   {
    "source": "Socket",
    "title": "Socket for ClickUp Is Now Available",
@@ -419,14 +453,6 @@
    "date": "2026-08-25T21:08:55+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "58 arrested in international cybercrime crackdown",
-   "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
-   "desc": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe.",
-   "image": "",
-   "date": "2026-08-25T20:33:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
    "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
@@ -517,14 +543,6 @@
    "date": "2026-08-25T14:07:37+00:00",
    "iocs": "iocs/363f9eed78ed.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-   "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-   "desc": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake wor",
-   "image": "",
-   "date": "2026-08-25T14:01:11+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -705,22 +723,6 @@
    "desc": "Socket’s PHP and Composer support is now in Beta for all customers, with PHP reachability analysis generally available.",
    "image": "",
    "date": "2026-08-21T17:54:18+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
-   "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
-   "desc": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-21T17:36:53+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Calling on Cyber Pros to Help Defend City Hall",
-   "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
-   "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-21T14:00:00+00:00"
   },
   {
    "source": "Aikido",

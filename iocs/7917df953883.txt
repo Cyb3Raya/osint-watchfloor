@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Avada WordPress theme flaw enables zero-click RCE
+Source: https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/
+Extracted: 2026-08-26 23:44:27 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-18431
