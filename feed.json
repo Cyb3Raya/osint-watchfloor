@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-26T10:00:57.001745+00:00",
+ "generated": "2026-08-26T10:54:38.658719+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+   "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+   "desc": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only book",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg",
+   "date": "2026-08-26T10:27:23+00:00",
+   "iocs": "iocs/621ca1c7245a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Aikido Security achieves ISO 42001:2023 certification for AI governance",
+   "link": "https://www.aikido.dev/blog/aikido-iso-42001-certification",
+   "desc": "Aikido Security has achieved ISO 42001 certification, the global standard for AI governance, covering AI pentesting, Code Security Audit, and Deep PR Review. Category: Compliance",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8ebf100691fd1f88946ad0_ISO-42001-compliant_Feature.jpg",
+   "date": "2026-08-26T10:10:00+00:00"
+  },
   {
    "source": "Cisco Talos",
    "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC",
@@ -20,6 +38,16 @@
    "image": "",
    "date": "2026-08-26T09:50:34+00:00",
    "iocs": "iocs/1acda99a9b9d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+   "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+   "desc": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg",
+   "date": "2026-08-26T09:38:45+00:00",
+   "iocs": "iocs/b88f84fc0f9d.txt",
    "ioc_count": 1
   },
   {
@@ -443,16 +471,6 @@
    "ioc_count": 3
   },
   {
-   "source": "The Hacker News",
-   "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-   "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catal",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1600/oracle.jpg",
-   "date": "2026-08-25T06:12:35+00:00",
-   "iocs": "iocs/62298a83d4d4.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
    "link": "https://isc.sans.edu/diary/rss/33278",
@@ -505,16 +523,6 @@
    "desc": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
    "image": "",
    "date": "2026-08-24T17:56:24+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-   "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-   "desc": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg",
-   "date": "2026-08-24T17:41:30+00:00",
-   "iocs": "iocs/a17500170f53.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -1031,14 +1039,6 @@
    "date": "2026-08-06T22:26:39+00:00",
    "iocs": "iocs/89cee2888f3f.txt",
    "ioc_count": 11
-  },
-  {
-   "source": "Aikido",
-   "title": "What is AI harness engineering?",
-   "link": "https://www.aikido.dev/blog/what-is-ai-harness-engineering",
-   "desc": "Harness engineering is the code around an AI model that turns it into an agent. What a harness does, why it beats picking a model, and how to build one. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a74ea32af8af93ae4a6ebd1_What-is-a-harness_feature.jpg",
-   "date": "2026-08-06T19:26:00+00:00"
   },
   {
    "source": "Cisco Talos",

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests
+Source: https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html
+Extracted: 2026-08-26 10:54:29 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

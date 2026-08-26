@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation
+Source: https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html
+Extracted: 2026-08-26 10:54:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
