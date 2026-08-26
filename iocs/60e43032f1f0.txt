@@ -1,0 +1,19 @@
+IOC EXTRACTION - Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode
+Source: https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html
+Extracted: 2026-08-26 09:06:08 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+SHA256 (1)
+----------------------------------------
+d347170752a28e2b8c4b8b9f3cab2e3a6541ba11682c94498d26eb9002779d60
+
+MD5 (1)
+----------------------------------------
+2318327b29bb1c0e2d2b5f0211fc7fac

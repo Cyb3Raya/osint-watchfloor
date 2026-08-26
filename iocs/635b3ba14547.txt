@@ -1,0 +1,11 @@
+IOC EXTRACTION - INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown
+Source: https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html
+Extracted: 2026-08-26 09:06:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

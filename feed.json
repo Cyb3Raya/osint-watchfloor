@@ -1,9 +1,17 @@
 {
- "generated": "2026-08-26T08:03:51.776991+00:00",
+ "generated": "2026-08-26T09:06:16.208900+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
+   "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
+   "desc": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T08:30:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
@@ -13,12 +21,32 @@
    "date": "2026-08-26T08:00:00+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+   "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+   "desc": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six contine",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg",
+   "date": "2026-08-26T07:54:12+00:00",
+   "iocs": "iocs/635b3ba14547.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "SecurityWeek",
    "title": "Sensitive Information Exposed in Nutex Health Data Breach",
    "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
    "desc": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-08-26T07:41:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+   "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+   "desc": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs comm",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg",
+   "date": "2026-08-26T07:12:55+00:00",
+   "iocs": "iocs/60e43032f1f0.txt",
+   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
@@ -479,16 +507,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-   "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-   "desc": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM9ML6Oc83309fnrqC5YOyteVjfKTYCzrm3KoKbrmts4w0P7kQoBMu9btpIWFoYZePuTnU0TL7Olt7jVqdJylmuxwKcI0_NaKNuHxe0pQwi6W2mz7D-qS4WvW1da7E-QG2eEfNf-MbqmB3GR0psJTTT8RO-NtFnx9yVe8dlItdO2G0Dh4wXFNLs_WIqAHP/s1600/mine.jpg",
-   "date": "2026-08-24T17:41:11+00:00",
-   "iocs": "iocs/5b092ef633bf.txt",
-   "ioc_count": 15
-  },
-  {
    "source": "BleepingComputer",
    "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
    "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
@@ -511,16 +529,6 @@
    "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1dbd4251686aed8/6a8c90973725ccfa2c8aef7d/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-24T14:34:59+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-   "desc": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg",
-   "date": "2026-08-24T14:32:10+00:00",
-   "iocs": "iocs/ec147778d981.txt",
-   "ioc_count": 68
   },
   {
    "source": "BleepingComputer",
@@ -695,14 +703,6 @@
    "desc": "Socket is bringing experimental protection to Firefox, scanning 97,000+ extensions in Mozilla's official directory for malware and risky updates.",
    "image": "",
    "date": "2026-08-20T21:31:22+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
-   "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-   "desc": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-20T20:42:18+00:00"
   },
   {
    "source": "Cisco Talos",
