@@ -1,0 +1,15 @@
+IOC EXTRACTION - Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler
+Source: https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html
+Extracted: 2026-08-26 18:08:04 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+IPv4 (1)
+----------------------------------------
+172[.]86[.]98[.]113

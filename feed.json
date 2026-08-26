@@ -1,11 +1,35 @@
 {
- "generated": "2026-08-26T16:04:34.773905+00:00",
- "sources_ok": 13,
+ "generated": "2026-08-26T18:08:13.261877+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "Dark Reading"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+   "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+   "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive network",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg",
+   "date": "2026-08-26T16:42:03+00:00",
+   "iocs": "iocs/607917c11c83.txt",
+   "ioc_count": 21
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Meta agrees to $18 billion settlement over teen social media harms",
+   "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+   "desc": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compu",
+   "image": "",
+   "date": "2026-08-26T16:41:05+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
+   "link": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
+   "desc": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.",
+   "image": "",
+   "date": "2026-08-26T16:25:00+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)",
@@ -21,6 +45,26 @@
    "desc": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.",
    "image": "",
    "date": "2026-08-26T15:45:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top Minimus alternatives in 2026",
+   "link": "https://www.aikido.dev/blog/top-minimus-alternatives",
+   "desc": "Minimus is shutting down. Compare Aikido, Chainguard, Docker Hardened Images, RapidFort, and Echo, and pick a hardened-image replacement that won't lock you in again. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-26T15:42:00+00:00",
+   "iocs": "iocs/6b19e48db4a2.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+   "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+   "desc": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png",
+   "date": "2026-08-26T15:35:05+00:00",
+   "iocs": "iocs/58d51be06151.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -131,6 +175,14 @@
    "ioc_count": 1
   },
   {
+   "source": "Dark Reading",
+   "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+   "link": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
+   "desc": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt282e8f2cd221edf1/6a8f1cccca0617268e4c2e0a/cookie_monster-dpa_picture_alliance-Alamy_REVISED_FOR_16_X_9.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T11:33:40+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
    "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
@@ -219,6 +271,22 @@
    "ioc_count": 1
   },
   {
+   "source": "Dark Reading",
+   "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
+   "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
+   "desc": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T08:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
+   "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
+   "desc": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e25e9502faafe2a/6a8e005307463c203cf304be/nigeria-flag-sovereign-cloud-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-26T08:00:00+00:00"
+  },
+  {
    "source": "The Hacker News",
    "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
    "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
@@ -303,6 +371,14 @@
    "ioc_count": 1
   },
   {
+   "source": "Dark Reading",
+   "title": "Hidden Prompts Trick AI Into False Email Summaries",
+   "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+   "desc": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-25T21:08:55+00:00"
+  },
+  {
    "source": "RF The Record",
    "title": "58 arrested in international cybercrime crackdown",
    "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
@@ -317,6 +393,14 @@
    "desc": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
    "image": "",
    "date": "2026-08-25T20:25:26+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+   "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+   "desc": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
+   "date": "2026-08-25T19:50:16+00:00"
   },
   {
    "source": "RF The Record",
@@ -367,6 +451,14 @@
    "desc": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service lis",
    "image": "",
    "date": "2026-08-25T15:03:33+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Is Cyber Facing an Affordability Crisis?",
+   "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+   "desc": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d6c1792a2093976/6a8daf2931dc781c97eef199/GettyImages-147695159.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-25T14:53:13+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -439,48 +531,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-   "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-   "desc": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-   "image": "",
-   "date": "2026-08-25T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "UK government seeks powers to secretly block risky tech suppliers",
-   "link": "https://therecord.media/uk-technology-national-security",
-   "desc": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret.",
-   "image": "",
-   "date": "2026-08-25T12:45:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-   "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-   "desc": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg",
-   "date": "2026-08-25T12:43:51+00:00",
-   "iocs": "iocs/dd2b5b5f2275.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Aikido",
    "title": "Could OpenClaw have actually hacked that Australian gym? We decided to test it.",
    "link": "https://www.aikido.dev/blog/australian-gym-hack-openclaw-test",
    "desc": "We recreated the viral AI gym hack in a controlled environment. Running Opus 4.6 on OpenClaw, the model exploited the booking flaw in nine of ten runs. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8c35eeb58c4c4ca47664db_OpenClaw_Feature.jpg",
    "date": "2026-08-25T12:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-   "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-   "desc": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg",
-   "date": "2026-08-25T11:56:15+00:00",
-   "iocs": "iocs/99cf59e09495.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -507,6 +563,48 @@
    "desc": "",
    "image": "",
    "date": "2026-08-25T02:00:03+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+   "desc": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88e15b7cfaeb36c5/6a8dc95f5ca78ee4c617b58a/zimbra_OpturaDesign_shutterstock_RESIZED_TO_16X9.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T21:46:55+00:00",
+   "iocs": "iocs/2f328a1ca976.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+   "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+   "desc": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T20:51:27+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+   "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+   "desc": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4791042d5aa25a17/6a88a5d2e27d718cb883bc1e/Sink-Des_Green-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T15:02:32+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
+   "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+   "desc": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1dbd4251686aed8/6a8c90973725ccfa2c8aef7d/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T14:34:59+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+   "desc": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt198046baa5588c01/6a8893cf43e45d54ab5d69fd/gap-DNY59-Getty-1406960089.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-24T14:00:00+00:00"
   },
   {
    "source": "Aikido",
@@ -569,6 +667,14 @@
    "ioc_count": 1
   },
   {
+   "source": "Dark Reading",
+   "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+   "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+   "desc": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T20:24:42+00:00"
+  },
+  {
    "source": "Aikido",
    "title": "Best enterprise AI pentesting tools for application security in 2026",
    "link": "https://www.aikido.dev/blog/top-enterprise-ai-pentesting-tools",
@@ -585,6 +691,22 @@
    "date": "2026-08-21T17:54:18+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+   "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+   "desc": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T17:36:53+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Calling on Cyber Pros to Help Defend City Hall",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+   "desc": "Government agencies with smaller budgets need support — and here's how you can help.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T14:00:00+00:00"
+  },
+  {
    "source": "Aikido",
    "title": "What is CVE remediation in 2026?",
    "link": "https://www.aikido.dev/blog/cve-remediation",
@@ -593,6 +715,14 @@
    "date": "2026-08-21T13:43:00+00:00",
    "iocs": "iocs/f4b898c8ef36.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "OpenAI Adds Controls That Should've Been There Already",
+   "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+   "desc": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-21T13:30:00+00:00"
   },
   {
    "source": "Aikido",
@@ -791,14 +921,6 @@
    "desc": "Compare enterprise SCA tools for 2026: Aikido, Sonatype, Snyk, Endor Labs, Checkmarx, Black Duck, and Veracode on intelligence, remediation, and compliance. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-14T20:38:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top enterprise DAST tools in 2026",
-   "link": "https://www.aikido.dev/blog/top-enterprise-dast-tools",
-   "desc": "Compare the top enterprise DAST tools of 2026 on authenticated coverage, API discovery, exploit validation, governance, compliance, and AI pentesting Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-08-14T17:01:00+00:00"
   },
   {
    "source": "Krebs on Security",
