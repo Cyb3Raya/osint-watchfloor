@@ -1,0 +1,11 @@
+IOC EXTRACTION - Chrome 152 Patches Over 300 Vulnerabilities
+Source: https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/
+Extracted: 2026-08-26 10:00:49 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-79282

@@ -1,9 +1,27 @@
 {
- "generated": "2026-08-26T09:06:16.208900+00:00",
+ "generated": "2026-08-26T10:00:57.001745+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Cisco Talos",
+   "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC",
+   "link": "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
+   "desc": "Selecting a model for your security operations center (SOC) and digital forensics and incident response (DFIR) tasks is important, but selecting the best one is more involved than you might think. Here's how to choose.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/tool_talk-1.jpg",
+   "date": "2026-08-26T10:00:05+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chrome 152 Patches Over 300 Vulnerabilities",
+   "link": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
+   "desc": "Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities. The post Chrome 152 Patches Over 300 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-26T09:50:34+00:00",
+   "iocs": "iocs/1acda99a9b9d.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Dark Reading",
    "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
@@ -423,14 +441,6 @@
    "date": "2026-08-25T08:34:07+00:00",
    "iocs": "iocs/91c61774da13.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
-   "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
-   "desc": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China. The post Taiwan Charges 9 Over Illegal AI Server Exports to China, Including N",
-   "image": "",
-   "date": "2026-08-25T08:30:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -1217,16 +1227,6 @@
    "desc": "Update (July 30): A table listing the new names of select prominent threat actors was appended to this post. Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for ",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
    "date": "2026-07-24T14:00:00+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Don’t swing at everything",
-   "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
-   "desc": "Thorsten explores Q2 2026 stats, the artificial buffer zone of 2026, and why smart, prioritized patching is more critical than ever.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-2.jpg",
-   "date": "2026-07-23T18:00:46+00:00",
-   "iocs": "iocs/c2feb9ad65c5.txt",
-   "ioc_count": 7
   },
   {
    "source": "Unit 42",
