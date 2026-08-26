@@ -1,9 +1,19 @@
 {
- "generated": "2026-08-26T04:42:45.817695+00:00",
+ "generated": "2026-08-26T05:36:43.594728+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Warns of Exploited Gitea Vulnerability",
+   "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+   "desc": "CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1. The post CISA Warns of Exploited Gitea Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-08-26T05:17:28+00:00",
+   "iocs": "iocs/1fb16fb55a3e.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
@@ -451,14 +461,6 @@
    "date": "2026-08-24T17:41:11+00:00",
    "iocs": "iocs/5b092ef633bf.txt",
    "ioc_count": 15
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
-   "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
-   "desc": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-24T17:38:21+00:00"
   },
   {
    "source": "BleepingComputer",

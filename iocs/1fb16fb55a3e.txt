@@ -1,0 +1,12 @@
+IOC EXTRACTION - CISA Warns of Exploited Gitea Vulnerability
+Source: https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/
+Extracted: 2026-08-26 05:36:38 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20896
+CVE-2026-60004
