@@ -1,0 +1,12 @@
+IOC EXTRACTION - Recent Citrix NetScaler Vulnerability Exploited in the Wild
+Source: https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/
+Extracted: 2026-08-27 08:17:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-8451
+CVE-2026-8452
