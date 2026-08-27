@@ -1,0 +1,11 @@
+IOC EXTRACTION - What the Data Says About AI in Security Operations in 2026
+Source: https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html
+Extracted: 2026-08-27 19:09:04 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

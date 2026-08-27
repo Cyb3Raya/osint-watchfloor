@@ -1,0 +1,16 @@
+IOC EXTRACTION - Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers
+Source: https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html
+Extracted: 2026-08-27 19:09:00 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-10591
+CVE-2026-25725
+CVE-2026-35603
+CVE-2026-41613
+CVE-2026-58231
+CVE-2026-65105

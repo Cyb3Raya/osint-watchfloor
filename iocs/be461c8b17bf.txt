@@ -1,0 +1,17 @@
+IOC EXTRACTION - ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories
+Source: https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html
+Extracted: 2026-08-27 19:08:59 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-55040
+CVE-2026-58231
+CVE-2026-63520
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]96[.]13

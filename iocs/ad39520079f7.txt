@@ -1,0 +1,11 @@
+IOC EXTRACTION - PaperCut warns of NG, MF flaw exploited in zero-day attacks
+Source: https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/
+Extracted: 2026-08-27 19:09:09 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2023-27350

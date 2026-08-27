@@ -1,0 +1,16 @@
+IOC EXTRACTION - JavaScript obfuscation: From party trick to phishing kit
+Source: https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/
+Extracted: 2026-08-27 19:09:37 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+obfuscator[.]io
+
+URLs (2)
+----------------------------------------
+hxxps://example[.]com
+hxxps://example[.]com?password

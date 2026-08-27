@@ -1,0 +1,12 @@
+IOC EXTRACTION - Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools
+Source: https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html
+Extracted: 2026-08-27 19:09:05 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-36425
+CVE-2026-58231

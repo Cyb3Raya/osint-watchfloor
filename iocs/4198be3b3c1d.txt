@@ -1,0 +1,15 @@
+IOC EXTRACTION - CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday
+Source: https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/
+Extracted: 2026-08-27 19:09:19 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-19489
+CVE-2026-19490
+CVE-2026-3055
+CVE-2026-4368
+CVE-2026-8452

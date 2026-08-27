@@ -1,0 +1,11 @@
+IOC EXTRACTION - A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)
+Source: https://isc.sans.edu/diary/rss/33290
+Extracted: 2026-08-27 19:08:57 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://addresses[.]performs[.]vu/communications[.]html?good=[recipient_address
