@@ -1,9 +1,51 @@
 {
- "generated": "2026-08-27T19:09:51.747495+00:00",
+ "generated": "2026-08-28T03:36:52.997281+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33294",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-28T02:00:02+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+   "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+   "desc": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+   "image": "",
+   "date": "2026-08-27T21:38:53+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
+   "link": "https://therecord.media/trump-cyber-electricity-parts",
+   "desc": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the ",
+   "image": "",
+   "date": "2026-08-27T19:45:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Chinese Routers Sold Worldwide Contain Backdoors",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
+   "desc": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt330ea172d982d2e3/6a907cb7e135de47e5ed61e2/Router-Deagreez-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-27T19:31:45+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+   "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+   "desc": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg",
+   "date": "2026-08-27T18:36:19+00:00",
+   "iocs": "iocs/5ae4e5704828.txt",
+   "ioc_count": 2
+  },
   {
    "source": "Cisco Talos",
    "title": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
@@ -167,14 +209,6 @@
    "desc": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hour",
    "image": "",
    "date": "2026-08-27T12:16:24+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "DOJ firearms agency says hackers breached system containing investigation targets",
-   "link": "https://therecord.media/doj-atf-cyberattack-qilin-ransomware",
-   "desc": "The Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed it experienced a cyberattack on a system containing investigation information, as a prolific ransomware gang claimed to have carried out the breach.",
-   "image": "",
-   "date": "2026-08-27T12:15:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -503,16 +537,6 @@
    "date": "2026-08-26T15:19:21+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-   "desc": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-   "image": "",
-   "date": "2026-08-26T14:47:51+00:00",
-   "iocs": "iocs/8415d773bae6.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "The Hacker News",
    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
    "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
@@ -531,16 +555,6 @@
    "date": "2026-08-26T13:07:02+00:00",
    "iocs": "iocs/1c8cb498dea5.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-   "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-   "desc": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg",
-   "date": "2026-08-26T11:55:00+00:00",
-   "iocs": "iocs/f601fe4cfa27.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -699,14 +713,6 @@
    "date": "2026-08-24T20:51:27+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-   "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-   "desc": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4791042d5aa25a17/6a88a5d2e27d718cb883bc1e/Sink-Des_Green-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-24T15:02:32+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "How Aikido finds more vulnerabilities than Mythos at half the cost",
    "link": "https://www.aikido.dev/blog/aikido-finds-more-vulnerabilities-claude-security-mythos",
@@ -807,14 +813,6 @@
    "desc": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling t",
    "image": "",
    "date": "2026-08-21T02:47:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33270",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-21T02:00:03+00:00"
   },
   {
    "source": "Socket",

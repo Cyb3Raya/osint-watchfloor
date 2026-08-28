@@ -1,0 +1,12 @@
+IOC EXTRACTION - OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+Source: https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html
+Extracted: 2026-08-28 03:36:38 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-53362
+CVE-2026-58231
