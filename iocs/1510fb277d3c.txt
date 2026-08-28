@@ -1,0 +1,16 @@
+IOC EXTRACTION - Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL
+Source: https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html
+Extracted: 2026-08-28 15:39:55 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-18885
+CVE-2026-18886
+CVE-2026-58231
+CVE-2026-6875
+CVE-2026-6876
+CVE-2026-74820

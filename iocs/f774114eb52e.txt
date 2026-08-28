@@ -1,0 +1,12 @@
+IOC EXTRACTION - PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions
+Source: https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html
+Extracted: 2026-08-28 15:39:58 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2023-27350
+CVE-2026-58231

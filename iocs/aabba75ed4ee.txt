@@ -1,0 +1,12 @@
+IOC EXTRACTION - PaperCut Releases Emergency Patch for Exploited Zero-Day
+Source: https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/
+Extracted: 2026-08-28 15:40:17 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-81578
+CVE-2026-82078

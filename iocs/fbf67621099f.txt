@@ -1,0 +1,11 @@
+IOC EXTRACTION - 19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code
+Source: https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html
+Extracted: 2026-08-28 15:39:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

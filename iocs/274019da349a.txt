@@ -1,0 +1,15 @@
+IOC EXTRACTION - APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations
+Source: https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html
+Extracted: 2026-08-28 15:39:59 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231
+
+Domains (1)
+----------------------------------------
+webhook[.]site

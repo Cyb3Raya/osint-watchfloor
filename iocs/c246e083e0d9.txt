@@ -1,0 +1,12 @@
+IOC EXTRACTION - OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems
+Source: https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/
+Extracted: 2026-08-28 15:40:13 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-53362
+CVE-2026-66384

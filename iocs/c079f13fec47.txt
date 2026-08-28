@@ -1,0 +1,17 @@
+IOC EXTRACTION - Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server
+Source: https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html
+Extracted: 2026-08-28 15:39:57 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-41940
+CVE-2026-48172
+CVE-2026-54420
+CVE-2026-58047
+CVE-2026-58048
+CVE-2026-58231
+CVE-2026-65643

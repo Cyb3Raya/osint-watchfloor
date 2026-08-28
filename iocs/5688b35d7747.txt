@@ -1,0 +1,12 @@
+IOC EXTRACTION - Over 8,300 Gitea servers vulnerable to code execution attacks
+Source: https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/
+Extracted: 2026-08-28 15:40:02 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20896
+CVE-2026-60004

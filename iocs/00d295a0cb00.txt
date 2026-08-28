@@ -1,0 +1,29 @@
+IOC EXTRACTION - China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
+Source: https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html
+Extracted: 2026-08-28 15:39:56 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-58231
+CVE-2026-66747
+CVE-2026-74232
+CVE-2026-74233
+
+IPv4 (1)
+----------------------------------------
+47[.]107[.]224[.]89
+
+Domains (2)
+----------------------------------------
+www[.]ac-link[.]com
+www[.]findmyipaddr[.]com
+
+SHA256 (3)
+----------------------------------------
+7e2e036fec2fe7ab4bbd43978d9296563894c92a112f5ac2f39957f12108e245
+ae6c356f1f09260b859f84d994ef8423540a6c0bdf98510d86b85834283e4926
+b77811db4d218c65670a6c9a5b33c30ff81c6d779e15d658643138771178a818

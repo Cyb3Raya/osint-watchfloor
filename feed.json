@@ -1,9 +1,225 @@
 {
- "generated": "2026-08-28T03:36:52.997281+00:00",
+ "generated": "2026-08-28T15:40:26.218399+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
+   "link": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
+   "desc": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE S",
+   "image": "",
+   "date": "2026-08-28T15:35:34+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+   "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+   "desc": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capab",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg",
+   "date": "2026-08-28T15:27:26+00:00",
+   "iocs": "iocs/fbf67621099f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+   "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+   "desc": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligen",
+   "image": "",
+   "date": "2026-08-28T14:00:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "You Need Cyber Deception for OT",
+   "link": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
+   "desc": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt497112cb6290f58c/6a907362bec2b81057f31da2/deception-Moor_Studio-getty-2184657782.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-28T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
+   "link": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
+   "desc": "The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ. The post ATF Confirms Cyber Incident After Ransomware Group Claims Attack ",
+   "image": "",
+   "date": "2026-08-28T13:59:14+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Defining an AI Kill Switch Is Hard, But Necessary",
+   "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
+   "desc": "Proposed legislation could mandate that companies be able to &quot;throttle, suspend, or shut ... down&quot; AI agents, but how and when to do that remain open questions.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56383bd74ac17bbe/6a90a3f14885757c1a5662f0/AI-hand-security-Summit_Art_Creations-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-28T13:30:00+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Socket Now Protects the Microsoft Edge Extension Ecosystem",
+   "link": "https://socket.dev/blog/edge-extension-security?utm_medium=feed",
+   "desc": "Enterprise security teams can now detect malware, credential theft, suspicious network activity, and risky updates across Microsoft Edge extensions.",
+   "image": "",
+   "date": "2026-08-28T13:22:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
+   "desc": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e076a0c3ac1a94e/6a90582107463c489bf30d27/New_York_flooding-jcrosemann-GettyImages-115026197.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-28T13:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+   "desc": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+   "image": "",
+   "date": "2026-08-28T12:58:43+00:00",
+   "iocs": "iocs/5688b35d7747.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
+   "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
+   "desc": "CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents. The post OpenAI Agents Exploited Linux Kernel Flaw on Company&#8217;s Own Systems appeare",
+   "image": "",
+   "date": "2026-08-28T12:36:53+00:00",
+   "iocs": "iocs/c246e083e0d9.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+   "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+   "desc": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Loco",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqNVrCXSaUDXfrGPJkoRoXBPQW4qwhdYqm2SMVaunZNwBrQ4FbURK-gtVawzaje20fK_m9q2dKepfj-dxmkvfKL4se3ZQ1YAI3iogqCft1UjVadJa_uBoQxFuoBpWfx2Dh3S4-jQLa7c4E9OOyQfVAT5BVKVShPykiPWEuYcchIPHFC4e5GduyW4iBio/s1600/Humanoid.jpg",
+   "date": "2026-08-28T12:07:24+00:00",
+   "iocs": "iocs/6d2eb8511601.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+   "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+   "desc": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+   "image": "",
+   "date": "2026-08-28T11:46:57+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Key Reasons Why Identity Fabric Matters in 2026",
+   "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+   "desc": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated w",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtiQiqrq5S2ip1c5QHUZaJADW3_fskqNx6rhLXi2mGqOH5NGwuTwmFXPtqLpFKXDLVMtG-rZTTVlRh8ZVJON5DFBxdE7RwCN8_Fh0Y_mypooHEo4yZeYB-FoGinET6wHzTwgYWDMeZxVT9b-uCQSJ7bLEZdzRUglWWuOY5ItZyGC94Xo85iFck6FMmUmY/s1600/orchid-main.jpg",
+   "date": "2026-08-28T11:30:00+00:00",
+   "iocs": "iocs/a4c85ccc17b1.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+   "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+   "desc": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1600/servicenow.jpg",
+   "date": "2026-08-28T11:20:32+00:00",
+   "iocs": "iocs/1510fb277d3c.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
+   "link": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
+   "desc": "Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. The post Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge a",
+   "image": "",
+   "date": "2026-08-28T11:01:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+   "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+   "desc": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run comman",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg",
+   "date": "2026-08-28T10:58:29+00:00",
+   "iocs": "iocs/00d295a0cb00.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
+   "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
+   "desc": "New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks. The post Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, ",
+   "image": "",
+   "date": "2026-08-28T10:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ServiceNow warns of three max severity security vulnerabilities",
+   "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+   "desc": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
+   "image": "",
+   "date": "2026-08-28T10:29:42+00:00",
+   "iocs": "iocs/d78fd3b9a03a.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+   "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+   "desc": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKp2lGcxPfp8ymA88FIBXB0Bn9fcUSaU_UIl1pfAjDSC2usRwUE73vhQEeP6jar9U9k10yotgyYl_tIk6dQA-MFIr2bJ3LN_azGt9kDU6hpW448HgmBuJbc6TWSo1vfpmhoK0J3_5rhF6VIpWd7NYf0G1YSYHdqKubWgQwa1yU6KRAL-bnDGd8HmCmPk/s1600/cpanel-root.jpg",
+   "date": "2026-08-28T09:45:15+00:00",
+   "iocs": "iocs/c079f13fec47.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+   "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+   "desc": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
+   "image": "",
+   "date": "2026-08-28T09:10:13+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
+   "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
+   "desc": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations. The post PaperCut Releases Emergency Patch for Exploited Zero-Day appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-08-28T08:40:36+00:00",
+   "iocs": "iocs/aabba75ed4ee.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+   "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+   "desc": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s1600/papercut.jpg",
+   "date": "2026-08-28T08:25:36+00:00",
+   "iocs": "iocs/f774114eb52e.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+   "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+   "desc": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Reco",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjJnzm1UIfq8P7glIadtS8dGFvdsASot4sviMtZtFwpKL5B_2upZBcjMdYEBDcSnGmxpKP5LPUQ4XTpao-qCCbe6hQYF9qQBF7bhcPcZJkaz8KY9CCaKBRe-iu3ovbkZWjjtWEs_XJ9hl7D9ZRdKK9LqJynEh9XQ_7o8HZGi572pfnKyt3Yznk1QA311_/s1600/eu-meeting.jpg",
+   "date": "2026-08-28T08:20:59+00:00",
+   "iocs": "iocs/274019da349a.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
+   "link": "https://isc.sans.edu/diary/rss/33292",
+   "desc": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about the trend in 64bits VS. 3",
+   "image": "",
+   "date": "2026-08-28T07:04:13+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
@@ -273,14 +489,6 @@
    "date": "2026-08-27T11:16:01+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite",
-   "link": "https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/",
-   "desc": "SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader. The post CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite app",
-   "image": "",
-   "date": "2026-08-27T11:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Carhartt data breach exposes information of 12.9 million accounts",
    "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
@@ -297,24 +505,6 @@
    "date": "2026-08-27T11:04:15+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-   "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-   "desc": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg",
-   "date": "2026-08-27T11:00:57+00:00",
-   "iocs": "iocs/7259f0b8cf30.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cyberattack Causes Global Disruption at Boston Scientific",
-   "link": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
-   "desc": "The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders. The post Cyberattack Causes Global Disruption at Boston Scientific appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-27T10:18:27+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "JavaScript obfuscation: From party trick to phishing kit",
    "link": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
@@ -325,14 +515,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "The Future of AI-Driven Security Depends on Complete Data",
-   "link": "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/",
-   "desc": "For twenty-five years, \"data\" in security meant logs and events. But logs are a lossy representation of reality. The post The Future of AI-Driven Security Depends on Complete Data appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-27T10:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
    "link": "https://isc.sans.edu/diary/rss/33290",
@@ -340,16 +522,6 @@
    "image": "",
    "date": "2026-08-27T09:57:28+00:00",
    "iocs": "iocs/d9ef3991b5f6.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-   "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-   "desc": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg",
-   "date": "2026-08-27T09:33:38+00:00",
-   "iocs": "iocs/cb4f10f8a9c6.txt",
    "ioc_count": 1
   },
   {
@@ -363,76 +535,12 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
-   "link": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
-   "desc": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared",
-   "image": "",
-   "date": "2026-08-27T09:01:06+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ATF confirms “major incident” after recent Qilin breach claims",
-   "link": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-   "desc": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [",
-   "image": "",
-   "date": "2026-08-27T08:13:50+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-   "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-   "desc": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables de",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg",
-   "date": "2026-08-27T08:13:11+00:00",
-   "iocs": "iocs/1cf6d1f508fd.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-   "link": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-   "desc": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-08-27T08:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-   "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetSca",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOm0ydTRNpwfiKMNN7TGZyoellV9LHrcra7ES8hU8PvT6haNsS-QQ5IlystrzP1eq5jiIRfyykIZyB5JKrya5K4ryBRp9gKAmsoVW7OMis-YT4T6jnpbN11M8mUnPn-2yY-caG31-iXmDAhJ9CTbRg8r1UPWWqCob_S8St7McsKCM-4I36jD_xqE8D3BS/s1600/cisa-flaws.jpg",
-   "date": "2026-08-27T07:05:28+00:00",
-   "iocs": "iocs/038c6cd0b2ef.txt",
-   "ioc_count": 7
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
-   "link": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
-   "desc": "CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452. The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-27T04:39:19+00:00",
-   "iocs": "iocs/893b10a9b768.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
    "link": "https://isc.sans.edu/diary/rss/33286",
    "desc": "",
    "image": "",
    "date": "2026-08-27T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-   "desc": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-   "image": "",
-   "date": "2026-08-26T21:33:20+00:00",
-   "iocs": "iocs/7917df953883.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -467,38 +575,12 @@
    "date": "2026-08-26T19:11:06+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-   "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-   "desc": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
-   "image": "",
-   "date": "2026-08-26T18:48:24+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Android Malware Hijacks Update System for Car Head Units",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
    "desc": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc461573f3500ab14/6a8f24afbec2b8b5acf318e4/carheadunit-AndreyPopov-Getty-2241387705.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-26T17:33:45+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-   "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive network",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg",
-   "date": "2026-08-26T16:42:03+00:00",
-   "iocs": "iocs/607917c11c83.txt",
-   "ioc_count": 21
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Meta agrees to $18 billion settlement over teen social media harms",
-   "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-   "desc": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compu",
-   "image": "",
-   "date": "2026-08-26T16:41:05+00:00"
   },
   {
    "source": "SANS ISC",
@@ -516,44 +598,6 @@
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-26T15:42:00+00:00",
    "iocs": "iocs/6b19e48db4a2.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-   "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-   "desc": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png",
-   "date": "2026-08-26T15:35:05+00:00",
-   "iocs": "iocs/58d51be06151.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Boston Scientific says cyberattack disrupted operations globally",
-   "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-   "desc": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
-   "image": "",
-   "date": "2026-08-26T15:19:21+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-   "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-   "desc": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg",
-   "date": "2026-08-26T13:44:31+00:00",
-   "iocs": "iocs/26c52789df0b.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-   "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it describe",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg",
-   "date": "2026-08-26T13:07:02+00:00",
-   "iocs": "iocs/1c8cb498dea5.txt",
    "ioc_count": 1
   },
   {
@@ -653,14 +697,6 @@
    "date": "2026-08-25T15:03:33+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Is Cyber Facing an Affordability Crisis?",
-   "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-   "desc": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d6c1792a2093976/6a8daf2931dc781c97eef199/GettyImages-147695159.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-25T14:53:13+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Could OpenClaw have actually hacked that Australian gym? We decided to test it.",
    "link": "https://www.aikido.dev/blog/australian-gym-hack-openclaw-test",
@@ -693,24 +729,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-25T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-   "desc": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88e15b7cfaeb36c5/6a8dc95f5ca78ee4c617b58a/zimbra_OpturaDesign_shutterstock_RESIZED_TO_16X9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-24T21:46:55+00:00",
-   "iocs": "iocs/2f328a1ca976.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
-   "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
-   "desc": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-24T20:51:27+00:00"
   },
   {
    "source": "Aikido",
@@ -805,14 +823,6 @@
    "desc": "We tested 10 AI models on 32 fresh CVEs. DeepSeek V4 Pro found 28, and three cheap runs beat one pass of Opus 5 or Grok on total coverage. Category: Research",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a88162a229a038f7585ed27_august%20benchmarks%20main.png",
    "date": "2026-08-21T09:06:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Who Got Missed in the MFA Rollout&#x3f; More Powershell &#x2b; Graph &#x2b; Entra scripting&#x21;, (Fri, Aug 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33272",
-   "desc": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s left would be handy. Something quicker than scrolling t",
-   "image": "",
-   "date": "2026-08-21T02:47:00+00:00"
   },
   {
    "source": "Socket",
@@ -955,14 +965,6 @@
    "desc": "NIST disclosed an unreleased AI tool called V-etalon and opened a broad inquiry into NVD modernization after years of automation plans produced no public enrichment system.",
    "image": "",
    "date": "2026-08-17T05:47:51+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "How AI Agents Expand the Software Supply Chain Attack Surface",
-   "link": "https://socket.dev/blog/ai-agents-supply-chain-attack-surface?utm_medium=feed",
-   "desc": "In his AI Council 2026 talk, Feross Aboukhadijeh covers recent package compromises, vulnerability discovery, and a more automated security model.",
-   "image": "",
-   "date": "2026-08-16T21:04:44+00:00"
   },
   {
    "source": "Krebs on Security",
