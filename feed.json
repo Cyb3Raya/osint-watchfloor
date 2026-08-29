@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T13:12:12.367773+00:00",
+ "generated": "2026-08-29T17:12:38.940297+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Brave browser adds email aliases to help users evade tracking",
+   "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+   "desc": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+   "image": "",
+   "date": "2026-08-29T14:19:23+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -541,14 +549,6 @@
    "desc": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
    "image": "",
    "date": "2026-08-27T14:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-   "desc": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-   "image": "",
-   "date": "2026-08-27T13:31:13+00:00"
   },
   {
    "source": "RF The Record",
