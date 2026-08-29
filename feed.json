@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T07:10:44.466136+00:00",
+ "generated": "2026-08-29T13:12:12.367773+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hasbro Data Breach Exposed Employee Personal Information",
+   "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+   "desc": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWe",
+   "image": "",
+   "date": "2026-08-29T11:55:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -565,14 +573,6 @@
    "desc": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack ap",
    "image": "",
    "date": "2026-08-27T11:58:01+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-   "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-   "desc": "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities. The post Okta Shares Surge on Strong Earnings, Gro",
-   "image": "",
-   "date": "2026-08-27T11:53:10+00:00"
   },
   {
    "source": "Aikido",
