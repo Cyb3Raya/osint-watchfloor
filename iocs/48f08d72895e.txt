@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hundreds of OpenAI Agents Invaded Hugging Face Servers
+Source: https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers
+Extracted: 2026-08-29 00:07:48 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-66384

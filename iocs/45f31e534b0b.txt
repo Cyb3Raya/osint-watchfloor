@@ -1,0 +1,11 @@
+IOC EXTRACTION - Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers
+Source: https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html
+Extracted: 2026-08-29 00:07:39 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

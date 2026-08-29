@@ -1,0 +1,13 @@
+IOC EXTRACTION - PaperCut releases second emergency patch for exploited flaws
+Source: https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/
+Extracted: 2026-08-29 00:07:43 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2023-27350
+CVE-2026-81578
+CVE-2026-82078

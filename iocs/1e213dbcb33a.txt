@@ -1,0 +1,26 @@
+IOC EXTRACTION - Popular code generator for TanStack Query hit by supply chain worm
+Source: https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm
+Extracted: 2026-08-29 00:07:58 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-52813
+
+Domains (3)
+----------------------------------------
+registry[.]npmjs[.]org
+rubygems[.]org
+upload[.]pypi[.]org
+
+SHA256 (1)
+----------------------------------------
+8e5d1af68ca340ae0c6e8132cb00c686ec2d60502c1994d94ce353d1472ad5a3
+
+SHA1 (2)
+----------------------------------------
+365d4eb738d3146583431948d3ba6e27a32556be
+ec7876d6c917dad516ba69bbfafc948b834bf0ab

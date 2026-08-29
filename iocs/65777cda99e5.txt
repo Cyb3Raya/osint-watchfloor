@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable
+Source: https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html
+Extracted: 2026-08-29 00:07:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58231

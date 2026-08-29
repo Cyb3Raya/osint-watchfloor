@@ -1,0 +1,12 @@
+IOC EXTRACTION - Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network
+Source: https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html
+Extracted: 2026-08-29 00:07:36 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2020-1472
+CVE-2026-58231

@@ -1,0 +1,12 @@
+IOC EXTRACTION - PaperCut warns of hackers using printer management software flaw in attacks
+Source: https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities
+Extracted: 2026-08-29 00:07:57 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-81578
+CVE-2026-82078

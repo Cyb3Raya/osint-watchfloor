@@ -1,0 +1,32 @@
+IOC EXTRACTION - OpenAPI React Query Codegen Compromised in Mini Shai-Hulud npm Supply Chain Attack
+Source: https://socket.dev/blog/openapi-react-query-codegen-npm-compromise?utm_medium=feed
+Extracted: 2026-08-29 00:08:01 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+sysvinit-detect-fash[.]sh
+
+URLs (5)
+----------------------------------------
+hxxp://169[.]254[.]169[.]254/latest/api/token
+hxxp://169[.]254[.]170[.]2
+hxxps://login[.]microsoftonline[.]com/
+hxxps://metadata[.]google[.]internal/computeMetadata/v1/instance/service-accounts/default/token
+hxxps://vault/
+
+SHA256 (3)
+----------------------------------------
+59370c67b54a0ccaedd265e2356f04540b2fba1e1845300ef6de4d5437d99380
+b49afb7dba04cd99b357ce7c652c823a3707f28e130bd5c6645851a7adc030d6
+d3246926b20a8d021ed7de0ac8e9eee1dda986088f84ba18f31cb2042a121f5d
+
+SHA1 (4)
+----------------------------------------
+043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
+365d4eb738d3146583431948d3ba6e27a32556be
+ec7876d6c917dad516ba69bbfafc948b834bf0ab
+f548e57e544e1ff5a4c46bf1e1b8685f8e4a348a

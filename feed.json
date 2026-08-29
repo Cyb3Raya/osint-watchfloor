@@ -1,9 +1,185 @@
 {
- "generated": "2026-08-28T15:40:26.218399+00:00",
+ "generated": "2026-08-29T00:08:05.401409+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+   "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+   "desc": "",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaff0d27801ea21af/6a92220704334b0b8d8445e9/DR-Cloud-AI-VE-2026.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-12T16:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+   "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+   "desc": "",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+   "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+   "desc": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it",
+   "image": "",
+   "date": "2026-08-28T22:40:17+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
+   "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
+   "desc": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safe",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg",
+   "date": "2026-08-28T22:00:07+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+   "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+   "desc": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg",
+   "date": "2026-08-28T21:30:52+00:00",
+   "iocs": "iocs/2ac80c657999.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Aikido",
+   "title": "Popular code generator for TanStack Query hit by supply chain worm",
+   "link": "https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm",
+   "desc": "A supply chain worm was found hiding in @7nohe/openapi-react-query-codegen, a popular code generator for TanStack Query, stealing credentials and spreading itself to every package the victim maintains. Category: Vulnerab",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a91fd28bcc65d41050c8bef_wormy%20boi%20feature.jpg",
+   "date": "2026-08-28T21:25:00+00:00",
+   "iocs": "iocs/1e213dbcb33a.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "Socket",
+   "title": "OpenAPI React Query Codegen Compromised in Mini Shai-Hulud npm Supply Chain Attack",
+   "link": "https://socket.dev/blog/openapi-react-query-codegen-npm-compromise?utm_medium=feed",
+   "desc": "Ten malicious OpenAPI React Query Codegen versions were published to npm in the Mini Shai-Hulud attack, all with valid provenance.",
+   "image": "",
+   "date": "2026-08-28T20:49:35+00:00",
+   "iocs": "iocs/f17d853e67db.txt",
+   "ioc_count": 13
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+   "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+   "desc": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg",
+   "date": "2026-08-28T20:38:47+00:00",
+   "iocs": "iocs/65777cda99e5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Securing Docker images",
+   "link": "https://www.aikido.dev/blog/securing-docker-images",
+   "desc": "Most of a container's vulnerabilities come from the base image. How to harden Docker images, why hardening is ongoing, and how to patch the base you already run. Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-08-28T20:29:00+00:00",
+   "iocs": "iocs/aa9f3d63dc56.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+   "desc": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-28T20:19:22+00:00",
+   "iocs": "iocs/48f08d72895e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "PaperCut releases second emergency patch for exploited flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+   "desc": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fix",
+   "image": "",
+   "date": "2026-08-28T19:08:26+00:00",
+   "iocs": "iocs/4543ccb8e563.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Offensive Security Investments Surge as AI Threats Increase",
+   "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
+   "desc": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95f718d0e919dd49/6a91bb856ab06b3d40bc21f3/lanowitz.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-28T18:25:43+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+   "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+   "desc": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+   "image": "",
+   "date": "2026-08-28T18:18:55+00:00",
+   "iocs": "iocs/6f01060b6e11.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+   "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+   "desc": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulne",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg",
+   "date": "2026-08-28T17:12:15+00:00",
+   "iocs": "iocs/ba3feda904b0.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
+   "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
+   "desc": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
+   "image": "",
+   "date": "2026-08-28T16:36:47+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "PaperCut warns of hackers using printer management software flaw in attacks",
+   "link": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
+   "desc": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.",
+   "image": "",
+   "date": "2026-08-28T16:30:00+00:00",
+   "iocs": "iocs/fbc7dbb9f605.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+   "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+   "desc": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg",
+   "date": "2026-08-28T16:20:46+00:00",
+   "iocs": "iocs/45f31e534b0b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "When Autonomous Agents Escape: Why Socket Signed the Cyber Defense Open Letter",
+   "link": "https://socket.dev/blog/autonomous-agents-escape?utm_medium=feed",
+   "desc": "Socket joins more than 100 technology, cybersecurity, and financial organizations calling for a global surge in cyber defense.",
+   "image": "",
+   "date": "2026-08-28T16:02:57+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg",
+   "date": "2026-08-28T15:56:55+00:00",
+   "iocs": "iocs/9ef134c66a55.txt",
+   "ioc_count": 6
+  },
   {
    "source": "SecurityWeek",
    "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
@@ -48,7 +224,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Defining an AI Kill Switch Is Hard, But Necessary",
+   "title": "Defining an AI Kill Switch Is Hard, but Necessary",
    "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
    "desc": "Proposed legislation could mandate that companies be able to &quot;throttle, suspend, or shut ... down&quot; AI agents, but how and when to do that remain open questions.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56383bd74ac17bbe/6a90a3f14885757c1a5662f0/AI-hand-security-Summit_Art_Creations-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
@@ -327,16 +503,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-   "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-   "desc": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traf",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1600/threats.jpg",
-   "date": "2026-08-27T15:12:16+00:00",
-   "iocs": "iocs/be461c8b17bf.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "RF The Record",
    "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
    "link": "https://therecord.media/germany-cyberattacks-china-russia",
@@ -369,16 +535,6 @@
    "date": "2026-08-27T14:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-   "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-   "desc": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1600/kiro-amazon.jpg",
-   "date": "2026-08-27T13:39:56+00:00",
-   "iocs": "iocs/e2642e928051.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "BleepingComputer",
    "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
    "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
@@ -395,14 +551,6 @@
    "date": "2026-08-27T13:15:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Australia charges two men for TeamPCP supply-chain hacking spree",
-   "link": "https://therecord.media/australia-teampcp-hackers-arrested",
-   "desc": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year.",
-   "image": "",
-   "date": "2026-08-27T13:00:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
    "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
@@ -411,48 +559,12 @@
    "date": "2026-08-27T12:48:03+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-   "desc": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
-   "image": "",
-   "date": "2026-08-27T12:16:32+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Webinar: How Google Workspace breaches happen and what to do next",
-   "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-   "desc": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hour",
-   "image": "",
-   "date": "2026-08-27T12:16:24+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
    "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
    "desc": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack ap",
    "image": "",
    "date": "2026-08-27T11:58:01+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-   "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-   "desc": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg",
-   "date": "2026-08-27T11:56:30+00:00",
-   "iocs": "iocs/89ba8a41a1ee.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-   "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-   "desc": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Ze_JyLo4PQxJMbwu8Mn_aCoLWiD2dgbGmzOPcYcdrN8wunKZu2SZll2fiHcAOFoA0h9N5TYPOY_IvrPpGqTpnXdyd5bXHRtyHqb3t3junXDMotOAD43Y0jzA9wkCSjoOIo1knFjtTVRAeOSjpHqLzfMGceCcHYGb6cE1HD-Y5mtY9hyphenhyphenHT9PeUk3TV68/s1600/TeamPCP-arrest.gif",
-   "date": "2026-08-27T11:56:26+00:00",
-   "iocs": "iocs/2d87a31b8a90.txt",
-   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -471,30 +583,12 @@
    "date": "2026-08-27T11:40:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "What the Data Says About AI in Security Operations in 2026",
-   "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-   "desc": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbYBAkf_-8-lUShFafJ32AYAo_yzwmPmpMcUgd5i9SUaCA8V0t-66WEu2B5U8KLbJ1ie3T-IudVRd73Arprc2iNUqTweYzHN_POtzXr-nJICrNkK_R5dDKr3k5sklozyuO11Y9Av55Git8fvydO3HAAcwgT6sk2gvXzmH5qz-qTMuzQfAmu7EedWV9dE/s1600/pro.jpg",
-   "date": "2026-08-27T11:30:00+00:00",
-   "iocs": "iocs/85c672366038.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
    "desc": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66b18b75cdbfa7d7/6a8f19f65ca78e255c17b9b2/EU_messaging-simarik-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-08-27T11:16:01+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Carhartt data breach exposes information of 12.9 million accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-   "desc": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwn",
-   "image": "",
-   "date": "2026-08-27T11:10:04+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -523,16 +617,6 @@
    "date": "2026-08-27T09:57:28+00:00",
    "iocs": "iocs/d9ef3991b5f6.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-   "desc": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
-   "image": "",
-   "date": "2026-08-27T09:16:50+00:00",
-   "iocs": "iocs/4198be3b3c1d.txt",
-   "ioc_count": 5
   },
   {
    "source": "SANS ISC",
@@ -641,44 +725,12 @@
    "date": "2026-08-26T10:00:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
-   "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
-   "desc": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-26T08:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
-   "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
-   "desc": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e25e9502faafe2a/6a8e005307463c203cf304be/nigeria-flag-sovereign-cloud-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-26T08:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
    "link": "https://isc.sans.edu/diary/rss/33282",
    "desc": "",
    "image": "",
    "date": "2026-08-26T02:40:13+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Hidden Prompts Trick AI Into False Email Summaries",
-   "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
-   "desc": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-25T21:08:55+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
-   "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-   "desc": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
-   "date": "2026-08-25T19:50:16+00:00"
   },
   {
    "source": "Socket",
@@ -903,34 +955,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Aikido",
-   "title": "AI pentesting evaluation checklist: What to look for in an AI pentesting vendor",
-   "link": "https://www.aikido.dev/blog/ai-pentesting-vendor-checklist",
-   "desc": "A checklist for scoring AI pentesting vendors on validation, code access, scope control, and reliability, plus the red flags that separate a real platform from a strong demo. Category: Aikido",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a85d2ffee10d2571e84bf6f_The-Buyers-Guide-to-AI%20Pentesting_Feature.png",
-   "date": "2026-08-20T01:00:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "77 Firefox Extensions Linked to Crypto Wallet and Credential Theft",
-   "link": "https://socket.dev/blog/firefox-crypto-wallet-theft?utm_medium=feed",
-   "desc": "Socket uncovered 77 linked Firefox extensions, including 40 that steal wallet secrets or credentials and 37 deceptive sports-score shells.",
-   "image": "",
-   "date": "2026-08-19T17:43:36+00:00",
-   "iocs": "iocs/0fce33c1f6aa.txt",
-   "ioc_count": 122
-  },
-  {
-   "source": "Aikido",
-   "title": "Yet another RCE in Gogs, but it's fixed this time!",
-   "link": "https://www.aikido.dev/blog/fixed-rce-gogs-cve-2026-52813",
-   "desc": "CVE-2026-52813 | An Aikido pentesting agent flagged a path traversal in Gogs. We escalated it to full RCE and reported two more bugs, all fixed in 0.14.3. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a85a01ec78e396f74332dab_Gogs_Feature.jpg",
-   "date": "2026-08-19T12:08:00+00:00",
-   "iocs": "iocs/6eafe563b522.txt",
-   "ioc_count": 9
-  },
-  {
    "source": "Cisco Talos",
    "title": "Describing attacks with crime script analysis",
    "link": "https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/",
@@ -957,14 +981,6 @@
    "date": "2026-08-18T14:00:00+00:00",
    "iocs": "iocs/4a5b883aab25.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "NIST Proposes AI-Enabled NVD Overhaul After Cutting Routine CVE Enrichment",
-   "link": "https://socket.dev/blog/nist-nvd-ai-automation?utm_medium=feed",
-   "desc": "NIST disclosed an unreleased AI tool called V-etalon and opened a broad inquiry into NVD modernization after years of automation plans produced no public enrichment system.",
-   "image": "",
-   "date": "2026-08-17T05:47:51+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -1239,16 +1255,6 @@
    "desc": "Update (July 30): A table listing the new names of select prominent threat actors was appended to this post. Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for ",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
    "date": "2026-07-24T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Russian Global Webmail Espionage",
-   "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
-   "desc": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg",
-   "date": "2026-07-23T14:10:53+00:00",
-   "iocs": "iocs/5f2aac4bcb83.txt",
-   "ioc_count": 19
   },
   {
    "source": "Krebs on Security",

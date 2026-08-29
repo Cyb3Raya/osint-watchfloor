@@ -1,0 +1,19 @@
+IOC EXTRACTION - ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body
+Source: https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html
+Extracted: 2026-08-29 00:07:41 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2023-49105
+CVE-2024-28000
+CVE-2026-53362
+CVE-2026-58231
+CVE-2026-66384
+
+IPv4 (1)
+----------------------------------------
+31[.]58[.]209[.]241
