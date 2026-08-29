@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T19:48:32.178677+00:00",
+ "generated": "2026-08-29T22:29:20.931755+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,14 +19,6 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-29T19:48:29.386441+00:00"
   },
   {
    "source": "The Hacker News",
@@ -985,7 +977,7 @@
    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
    "desc": "Written by: Alex Tselevich, Michael Maturi Introduction Adversarial misuse of AI has increased the risk of data theft and extortion events, because when proprietary source code is exposed, defenders must scramble to iden",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Figure_1_Sequential_vulnerability_discovery_methodology.png",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Sequential_vulnerability_discover.max-1000x1000.png",
    "date": "2026-08-18T14:00:00+00:00",
    "iocs": "iocs/4a5b883aab25.txt",
    "ioc_count": 2
@@ -1243,7 +1235,7 @@
    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
    "desc": "Written by: Kelli Vanderlee, Stuart Carrera For years, the cybersecurity industry's understanding of software supply chain compromise has been anchored by a few watershed events, including Russian cyber espionage actor I",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/BattenDownYourPackages_1.png",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/BattenDownYourPackages_1.max-1000x1000.png",
    "date": "2026-07-30T14:00:00+00:00"
   },
   {
@@ -1261,7 +1253,7 @@
    "title": "Updated Cyber Threat Actor Naming System",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
    "desc": "Update (July 30): A table listing the new names of select prominent threat actors was appended to this post. Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for ",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/image_22.png",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
    "date": "2026-07-24T14:00:00+00:00"
   },
   {
@@ -1307,6 +1299,14 @@
    "desc": "NadMesh uses a centralized controller to coordinate scanning across large IP ranges and attempts exploitation using more than 20 supported attack vectors. The malware targets exposed services such as Docker APIs, Kuberne",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-17T00:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
+   "desc": "Written by: Jules Czarniak Introduction As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week before a patch even e",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Demystifying_AI_image1.max-1000x1000.png",
+   "date": "2026-07-16T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",
