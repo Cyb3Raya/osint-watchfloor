@@ -1,0 +1,15 @@
+IOC EXTRACTION - Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
+Source: https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html
+Extracted: 2026-08-29 19:48:25 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-18431
+CVE-2026-19598
+CVE-2026-19632
+CVE-2026-76581
+CVE-2026-82222
