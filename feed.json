@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T12:12:59.003278+00:00",
+ "generated": "2026-08-30T16:47:27.512010+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,30 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
+   "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
+   "desc": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initia",
+   "image": "",
+   "date": "2026-08-30T15:00:21+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+   "desc": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+   "image": "",
+   "date": "2026-08-30T14:30:25+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+   "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+   "desc": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
+   "image": "",
+   "date": "2026-08-30T14:17:44+00:00"
   },
   {
    "source": "The Hacker News",
@@ -499,24 +523,6 @@
    "date": "2026-08-27T17:25:09+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-   "desc": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-   "image": "",
-   "date": "2026-08-27T16:31:53+00:00",
-   "iocs": "iocs/ad39520079f7.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Manchester Airports Group says hackers stole travelers' data",
-   "link": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
-   "desc": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
-   "image": "",
-   "date": "2026-08-27T16:12:26+00:00"
-  },
-  {
    "source": "Socket",
    "title": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
    "link": "https://socket.dev/blog/chrome-edge-extension-wallet-drainer?utm_medium=feed",
@@ -549,14 +555,6 @@
    "desc": "The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns. The post Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear appeared first on Securit",
    "image": "",
    "date": "2026-08-27T14:17:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
-   "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-   "desc": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and h",
-   "image": "",
-   "date": "2026-08-27T14:00:10+00:00"
   },
   {
    "source": "RF The Record",
