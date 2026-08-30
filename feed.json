@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T22:29:20.931755+00:00",
+ "generated": "2026-08-30T00:41:26.789412+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+   "desc": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
+   "image": "",
+   "date": "2026-08-29T23:11:51+00:00"
   },
   {
    "source": "The Hacker News",
@@ -541,14 +549,6 @@
    "desc": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and h",
    "image": "",
    "date": "2026-08-27T14:00:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Android 17 adds ECH support to make web browsing harder to track",
-   "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-   "desc": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
-   "image": "",
-   "date": "2026-08-27T14:00:00+00:00"
   },
   {
    "source": "RF The Record",
