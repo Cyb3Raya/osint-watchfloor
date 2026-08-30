@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T06:20:21.311479+00:00",
+ "generated": "2026-08-30T12:12:59.003278+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,24 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+   "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+   "desc": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg",
+   "date": "2026-08-30T07:36:33+00:00",
+   "iocs": "iocs/e7fd30e89bca.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SANS ISC",
+   "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
+   "link": "https://isc.sans.edu/diary/rss/33288",
+   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
+   "image": "",
+   "date": "2026-08-30T07:14:49+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -463,16 +481,6 @@
    "date": "2026-08-27T19:31:45+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-   "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-   "desc": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg",
-   "date": "2026-08-27T18:36:19+00:00",
-   "iocs": "iocs/5ae4e5704828.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Cisco Talos",
    "title": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
    "link": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
@@ -813,14 +821,6 @@
    "desc": "Open VSX has removed three extension IDs from its malicious-extension list as the legitimate publishers they impersonated move to claim the names for themselves.",
    "image": "",
    "date": "2026-08-24T05:48:31+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33276",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-24T02:00:03+00:00"
   },
   {
    "source": "Unit 42",

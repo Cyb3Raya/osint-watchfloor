@@ -1,0 +1,13 @@
+IOC EXTRACTION - TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
+Source: https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html
+Extracted: 2026-08-30 12:12:47 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+bestsocialmedianewspapper[.]com
+gitnow[.]dev
+offlineupdater[.]com
