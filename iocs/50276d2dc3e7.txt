@@ -1,0 +1,18 @@
+IOC EXTRACTION - ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
+Source: https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html
+Extracted: 2026-08-31 14:04:52 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+meeting[.]tencent[.]com
+qnwallpaper[.]keansoft[.]cn
+
+MD5 (3)
+----------------------------------------
+07ddbbe2c71c45577a7a4fbcdba0df91
+8a626d844943da3456b044f38deae3a2
+c24e99f9437feacaa63766a3cde3fe3d

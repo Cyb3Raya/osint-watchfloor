@@ -1,0 +1,14 @@
+IOC EXTRACTION - ServiceNow Patches 3 Critical Code Injection Vulnerabilities
+Source: https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/
+Extracted: 2026-08-31 14:05:04 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-18885
+CVE-2026-18886
+CVE-2026-6876
+CVE-2026-74820

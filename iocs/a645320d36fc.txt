@@ -1,0 +1,17 @@
+IOC EXTRACTION - China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs
+Source: https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html
+Extracted: 2026-08-31 14:04:56 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA1 (7)
+----------------------------------------
+13f0c2a598e3aa63856c032a96b110aed963f0e8
+1682b652a15bde732489f22809b0b7594c228fd3
+36005f5e4398a1c62a2a9271eddfcc1b44b1ad00
+5ba1242050b5b447052b210788a5a25593d6987d
+955cd45a2f6f226a2fdf44b329af1c8dde90cb38
+b149fa3a34bd585e7a674a4fd9538437bd06f514
+be6b27f429324a4af05a310d8ec9635e37c68a94

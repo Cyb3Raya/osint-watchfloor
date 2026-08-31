@@ -1,0 +1,17 @@
+IOC EXTRACTION - DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims
+Source: https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html
+Extracted: 2026-08-31 14:04:57 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2019-11510
+
+Domains (3)
+----------------------------------------
+qt-proxy[.]org
+qt-team[.]com
+qtproxy[.]xyz

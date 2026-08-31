@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs
+Source: https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/
+Extracted: 2026-08-31 14:05:08 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-66066

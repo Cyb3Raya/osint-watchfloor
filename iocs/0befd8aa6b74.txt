@@ -1,0 +1,99 @@
+IOC EXTRACTION - Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams
+Source: https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
+Extracted: 2026-08-31 14:05:16 UTC
+Total indicators: 77
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (16)
+----------------------------------------
+136[.]0[.]20[.]6
+178[.]130[.]47[.]46
+185[.]155[.]99[.]161
+185[.]213[.]155[.]226
+185[.]234[.]67[.]53
+185[.]65[.]133[.]51
+185[.]65[.]134[.]209
+193[.]138[.]7[.]142
+193[.]32[.]248[.]251
+2[.]56[.]172[.]214
+45[.]182[.]189[.]80
+45[.]33[.]22[.]47
+45[.]8[.]157[.]185
+5[.]181[.]3[.]106
+80[.]66[.]72[.]215
+92[.]118[.]232[.]131
+
+Domains (42)
+----------------------------------------
+adevpsitplatformops[.]onmicrosoft[.]com
+appdeploymentservices[.]onmicrosoft[.]com
+applicationoperationsunit[.]onmicrosoft[.]com
+appopshelp[.]onmicrosoft[.]com
+appssupportsys[.]onmicrosoft[.]com
+apsitechsupportdesk[.]onmicrosoft[.]com
+apsitsupporthub[.]onmicrosoft[.]com
+apsscloudopsdesk[.]onmicrosoft[.]com
+apstechopsdeskdev[.]onmicrosoft[.]com
+cloudinfrastr[.]onmicrosoft[.]com
+devsitoperationhub[.]onmicrosoft[.]com
+enterpriseoperationsflo[.]onmicrosoft[.]com
+hapsinfrastructureops[.]onmicrosoft[.]com
+helpaphelpitinfraops[.]onmicrosoft[.]com
+helpitdevsupportops[.]onmicrosoft[.]com
+helpitsupportcore[.]onmicrosoft[.]com
+helpssupportcloudops[.]onmicrosoft[.]com
+idigitalserviceoperation[.]onmicrosoft[.]com
+infrastructureopsdesk[.]onmicrosoft[.]com
+infrastructureopsservice[.]onmicrosoft[.]com
+infratechopsdesk[.]onmicrosoft[.]com
+ioseccloudsupport[.]onmicrosoft[.]com
+itcoretechhelp[.]onmicrosoft[.]com
+itdevsupportops[.]onmicrosoft[.]com
+itopsdeskhelp[.]onmicrosoft[.]com
+itopsupportdesk[.]onmicrosoft[.]com
+itplatformops[.]onmicrosoft[.]com
+itservicedesk[.]onmicrosoft[.]com
+ittechnologyopsitdesk[.]onmicrosoft[.]com
+netcorevdapp[.]onmicrosoft[.]com
+netopsdeskhelp[.]onmicrosoft[.]com
+networkoperationsec[.]onmicrosoft[.]com
+onmicrosoft[.]com
+opsnetsupportit[.]onmicrosoft[.]com
+secinfrahelpdesk[.]onmicrosoft[.]com
+seqapsitsupportops[.]onmicrosoft[.]com
+seqhelpitsuppnetops[.]onmicrosoft[.]com
+supportopsupp[.]onmicrosoft[.]com
+syslanevdapp[.]onmicrosoft[.]com
+systemdeploymentcenter[.]onmicrosoft[.]com
+systemsupportoperations[.]onmicrosoft[.]com
+techopshelpsupp[.]onmicrosoft[.]com
+
+URLs (1)
+----------------------------------------
+hxxps://san-sid[.]com/owners
+
+Emails (17)
+----------------------------------------
+helpcenter@ithelpcenter365.onmicrosoft.com
+helpdesk@itprotectiondepartment.onmicrosoft.com
+helpdesk@newsystemmaintenance.onmicrosoft.com
+helpdesk@officedesk365.onmicrosoft.com
+helpdesk@officesecures.onmicrosoft.com
+helpdesk@tbcsschid.onmicrosoft.com
+internal@internalusahelpdeskit.onmicrosoft.com
+it@infrastructurefirewall.onmicrosoft.com
+it_assistance@teams0137.onmicrosoft.com
+itadmin@mandatorynetworkmonitoring.onmicrosoft.com
+itassistant@bilelonellc.onmicrosoft.com
+ithelp@certifiednetworksec.onmicrosoft.com
+ithelp@internalsystemsdaily.onmicrosoft.com
+ithelp@itprotectiondepartment.onmicrosoft.com
+ithelp@mandatorynetworkmonitoring.onmicrosoft.com
+ithelpdesk@certifiedupdatenetwork.onmicrosoft.com
+support@bilelonellc.onmicrosoft.com
+
+SHA256 (1)
+----------------------------------------
+24ab9fe5d5be62d3bf055a0ca4508e8bca2996b6d78649dce8145d8a27bc1c5b
