@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T20:12:00.433463+00:00",
+ "generated": "2026-08-31T23:55:17.471907+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,46 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
+   "desc": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte57f544bc451abd9/6a95e1e44e3e37aa8ed4fed0/claude_Thaspol_Sangsee_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-31T21:08:46+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+   "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+   "desc": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+   "image": "",
+   "date": "2026-08-31T20:47:54+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "6 AppSec CTOs Debate Open Source Supply Chain Security at Black Hat",
+   "link": "https://socket.dev/blog/oss-supplyl-chain-security-blackhat?utm_medium=feed",
+   "desc": "Socket CTO Ahmad Nassri joins AppSec leaders at Black Hat to discuss active malware, package manager risks, and software supply chain defense.",
+   "image": "",
+   "date": "2026-08-31T20:31:58+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Five plead guilty in latest federal ATM jackpotting case",
+   "link": "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
+   "desc": "Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals.",
+   "image": "",
+   "date": "2026-08-31T20:31:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
+   "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
+   "desc": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb8eccfb020b93/6a95d0de3450f0664b0636bb/PowerShell_icon-Think_About_Life-GettyImages-2153775274.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-08-31T20:25:36+00:00"
   },
   {
    "source": "SANS ISC",
@@ -391,14 +431,6 @@
    "date": "2026-08-29T14:19:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-   "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-   "desc": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it",
-   "image": "",
-   "date": "2026-08-28T22:40:17+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
    "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
@@ -483,16 +515,6 @@
    "date": "2026-08-28T17:12:15+00:00",
    "iocs": "iocs/ba3feda904b0.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "RF The Record",
-   "title": "PaperCut warns of hackers using printer management software flaw in attacks",
-   "link": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
-   "desc": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.",
-   "image": "",
-   "date": "2026-08-28T16:30:00+00:00",
-   "iocs": "iocs/fbc7dbb9f605.txt",
-   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -685,28 +707,12 @@
    "date": "2026-08-26T19:54:34+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Red Flags That Expose Fake North Korean IT Workers",
-   "link": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
-   "desc": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt471900825b42f17b/6a8f3ea6171bd746c49ac049/red_flags-mozcann-GettyImages-184940696.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-26T19:21:24+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Socket for ClickUp Is Now Available",
    "link": "https://socket.dev/blog/socket-for-clickup?utm_medium=feed",
    "desc": "Create ClickUp tasks from Socket alerts, automate ticketing with custom rules, and keep alert and task status synchronized.",
    "image": "",
    "date": "2026-08-26T19:11:06+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Android Malware Hijacks Update System for Car Head Units",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
-   "desc": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc461573f3500ab14/6a8f24afbec2b8b5acf318e4/carheadunit-AndreyPopov-Getty-2241387705.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-26T17:33:45+00:00"
   },
   {
    "source": "SANS ISC",
@@ -885,14 +891,6 @@
    "desc": "We tested 10 AI models on 32 fresh CVEs. DeepSeek V4 Pro found 28, and three cheap runs beat one pass of Opus 5 or Grok on total coverage. Category: Research",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a88162a229a038f7585ed27_august%20benchmarks%20main.png",
    "date": "2026-08-21T09:06:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Socket Now Protects the Firefox Extension Ecosystem",
-   "link": "https://socket.dev/blog/firefox-extension-security?utm_medium=feed",
-   "desc": "Socket is bringing experimental protection to Firefox, scanning 97,000+ extensions in Mozilla's official directory for malware and risky updates.",
-   "image": "",
-   "date": "2026-08-20T21:31:22+00:00"
   },
   {
    "source": "Cisco Talos",
