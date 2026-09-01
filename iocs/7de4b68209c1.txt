@@ -1,0 +1,16 @@
+IOC EXTRACTION - Critical Langflow flaw exploited to steal OpenAI and AWS keys
+Source: https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/
+Extracted: 2026-09-01 20:46:04 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-0768
+CVE-2026-0770
+CVE-2026-33017
+CVE-2026-5027
+CVE-2026-55255
+CVE-2026-9198

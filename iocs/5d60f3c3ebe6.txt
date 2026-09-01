@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure
+Source: https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html
+Extracted: 2026-09-01 20:46:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-82329

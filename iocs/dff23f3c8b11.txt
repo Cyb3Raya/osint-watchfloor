@@ -1,0 +1,11 @@
+IOC EXTRACTION - Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems
+Source: https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html
+Extracted: 2026-09-01 20:46:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+dontpad[.]com
