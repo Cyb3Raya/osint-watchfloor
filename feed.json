@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T23:55:17.471907+00:00",
+ "generated": "2026-09-01T04:15:30.987250+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,42 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
+   "desc": "Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BR",
+   "image": "",
+   "date": "2026-09-01T14:00:00+00:00",
+   "iocs": "iocs/3b9bb67e082f.txt",
+   "ioc_count": 28
+  },
+  {
+   "source": "Socket",
+   "title": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90%",
+   "link": "https://socket.dev/blog/pnpm-12?utm_medium=feed",
+   "desc": "pnpm 12 rewrites the package manager in Rust, cutting install times by up to 90% while preserving pnpm 11 workflows and lockfiles.",
+   "image": "",
+   "date": "2026-09-01T02:52:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33302",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-01T02:00:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33300",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-09-01T00:33:21+00:00",
+   "iocs": "iocs/da7c5cd5ea22.txt",
+   "ioc_count": 6
   },
   {
    "source": "Dark Reading",
@@ -765,28 +801,12 @@
    "date": "2026-08-26T10:00:00+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
-   "link": "https://isc.sans.edu/diary/rss/33282",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-26T02:40:13+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Socket for Asana Is Now Available",
    "link": "https://socket.dev/blog/socket-for-asana-now-available?utm_medium=feed",
    "desc": "Create and manage Asana tasks directly from Socket alerts, with manual task creation, automated ticketing rules, and two-way sync.",
    "image": "",
    "date": "2026-08-25T18:16:22+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33280",
-   "desc": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service lis",
-   "image": "",
-   "date": "2026-08-25T15:03:33+00:00"
   },
   {
    "source": "Aikido",
@@ -865,14 +885,6 @@
    "desc": "Compare the top enterprise AI pentesting tools of 2026: Aikido, XBOW, NodeZero, Pentera, Hadrian, and Cobalt. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-08-21T19:05:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "PHP and Composer Support Is Now in Beta",
-   "link": "https://socket.dev/blog/php-and-composer-support-now-in-beta?utm_medium=feed",
-   "desc": "Socket’s PHP and Composer support is now in Beta for all customers, with PHP reachability analysis generally available.",
-   "image": "",
-   "date": "2026-08-21T17:54:18+00:00"
   },
   {
    "source": "Aikido",
@@ -1488,16 +1500,6 @@
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/peoplesoft-shinyhunters.max-1000x1000.png",
    "date": "2026-06-11T14:00:00+00:00",
    "iocs": "iocs/2ba6a2a91f63.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
-   "desc": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threa",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/seeking-counsel-fig1.max-1000x1000.png",
-   "date": "2026-06-05T14:00:00+00:00",
-   "iocs": "iocs/aa977c30763e.txt",
    "ioc_count": 6
   }
  ]

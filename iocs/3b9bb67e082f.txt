@@ -1,0 +1,44 @@
+IOC EXTRACTION - Financially Motivated Threat Actor BREEZE COMET Targets Brazil
+Source: https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/
+Extracted: 2026-09-01 04:15:26 UTC
+Total indicators: 28
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+dontpad[.]com
+
+URLs (19)
+----------------------------------------
+hxxp://credeb[.]gov[.]gn/r[.]zip
+hxxp://gcm[.]setelagoas[.]mg[.]gov[.]br/files/notepadd[.]exe
+hxxp://gcm[.]setelagoas[.]mg[.]gov[.]br/files/tes[.]exe
+hxxp://gcm[.]setelagoas[.]mg[.]gov[.]br/files/ti[.]zip
+hxxp://suporte[.]ourinhos[.]sp[.]gov[.]br/files/a[.]exe
+hxxp://suporte[.]ourinhos[.]sp[.]gov[.]br/files/s[.]zip
+hxxp://suporte[.]ourinhos[.]sp[.]gov[.]br:443/files/s[.]exe
+hxxps://cmgovernadorluizrocha[.]ma[.]gov[.]br/Comprovantepdf[.]exe
+hxxps://conseg[.]ssp[.]go[.]gov[.]br/COAF-POLICIAFEDERAL[.]exe
+hxxps://conseg[.]ssp[.]go[.]gov[.]br/ComprovanteBBpix[.]exe
+hxxps://jmcov[.]gov[.]py/cxv[.]exe
+hxxps://minacu[.]go[.]gov[.]br/ComprovantePDF[.]exe
+hxxps://procon[.]go[.]gov[.]br/ComprovantePDF[.]exe
+hxxps://servicos[.]salto[.]sp[.]gov[.]br/j[.]jar
+hxxps://sit[.]baer[.]gob[.]ve/r[.]exe
+hxxps://suporte[.]camaratunapolis[.]sc[.]gov[.]br/ti/1[.]exe
+hxxps://suporte[.]camaratunapolis[.]sc[.]gov[.]br/ti/attvpn[.]zip
+hxxps://tisup[.]camaratunapolis[.]sc[.]gov[.]br/SoftEther[.]exe
+hxxps://www[.]mrtb[.]gov[.]ng/apps/attvpn[.]vip
+
+SHA256 (8)
+----------------------------------------
+2214907e696bad85bde1d90c943ef66e413d7a5c6d7596ced25b74441200439a
+3b22605244dbace8f0c07c2c599f88c4b831bb07e9998b869a5da2759d27ceec
+447e3a131e62bd33b1297739a7b959a92358a97f58554469044636a3c4f244e8
+51fdd83b3737add7f3832bd0ad0b56863c0a8f7cf9bcc16fd787d1ae4b403ce6
+6d4012e0dd3b56a3e52857734fa0d582cdf3c56f0e5decc8005c882d1d1c6ceb
+c0db6ddd6222d02ad7490399d33c61ded0076f0037409dc8498924458646d78a
+d2aa40cc53b40c6e76ac0677c4a54387b3f27ee94c85d9b2c3a3d66aeef92a66
+f139b4ca15feffb7a6633ec1a431c5c604b397576b56b5c863ae8fe4fa14db4f

@@ -1,0 +1,22 @@
+IOC EXTRACTION - Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)
+Source: https://isc.sans.edu/diary/rss/33300
+Extracted: 2026-09-01 04:15:21 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+ekg3h4htc0h0ggdh[.]canadacentral-01[.]azurewebsites[.]net
+
+URLs (1)
+----------------------------------------
+hxxps://sistema-ekg3h4htc0h0ggdh[.]canadacentral-01[.]azurewebsites[.]net/
+
+SHA256 (4)
+----------------------------------------
+47d2908c4dd7f6f5eb4a8ef4306077b10315c44231f4bacd2bb811b245561911
+a6044786991afdb9d42ceb350943987765a7d0e8537369b2092e3f019c0f63ca
+cc44782356cb0effc528a7ab22c19ab360a55ebbbe01feb0967031aa191c5869
+f62a958faf0491b2b2803be2ee69b664b58e4a1261f64e8530cdc1a3ff666aa4
