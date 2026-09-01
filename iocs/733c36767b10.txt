@@ -1,0 +1,13 @@
+IOC EXTRACTION - Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
+Source: https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html
+Extracted: 2026-09-01 14:17:03 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+plugplay[.]azurewebsites[.]net
+rgbteller[.]azurewebsites[.]net
+wslwebui[.]azurewebsites[.]net

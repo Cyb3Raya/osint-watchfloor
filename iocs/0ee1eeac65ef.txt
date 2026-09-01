@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hackers Start Exploiting Critical Langflow Vulnerability
+Source: https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/
+Extracted: 2026-09-01 14:17:13 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-3248
+CVE-2026-0768
+CVE-2026-0769
+CVE-2026-5027

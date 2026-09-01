@@ -1,0 +1,12 @@
+IOC EXTRACTION - Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks
+Source: https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/
+Extracted: 2026-09-01 14:17:09 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-42897
+CVE-2026-62911

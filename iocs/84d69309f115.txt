@@ -1,0 +1,11 @@
+IOC EXTRACTION - Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars
+Source: https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/
+Extracted: 2026-09-01 14:17:12 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2021-31886

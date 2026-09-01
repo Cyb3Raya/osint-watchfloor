@@ -1,0 +1,11 @@
+IOC EXTRACTION - Why Even the Best Edge Security Still Misses High-Risk Sessions
+Source: https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/
+Extracted: 2026-09-01 14:17:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+146[.]70[.]202[.]60
