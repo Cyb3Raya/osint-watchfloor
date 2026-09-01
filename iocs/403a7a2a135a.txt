@@ -1,0 +1,15 @@
+IOC EXTRACTION - WatchGuard Patches Critical Vulnerabilities
+Source: https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/
+Extracted: 2026-09-01 09:28:26 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-13086
+CVE-2026-19313
+CVE-2026-19315
+CVE-2026-19318
+CVE-2026-78174

@@ -1,0 +1,15 @@
+IOC EXTRACTION - Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity
+Source: https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html
+Extracted: 2026-09-01 09:28:20 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2025-3248
+CVE-2026-0768
+CVE-2026-0769
+CVE-2026-5027
+CVE-2026-66066

@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T04:15:30.987250+00:00",
+ "generated": "2026-09-01T09:28:32.406749+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -29,6 +29,70 @@
    "date": "2026-09-01T14:00:00+00:00",
    "iocs": "iocs/3b9bb67e082f.txt",
    "ioc_count": 28
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+   "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+   "desc": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+   "image": "",
+   "date": "2026-09-01T09:15:07+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "9.5 Million Impacted by Aesto Health Data Breach",
+   "link": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
+   "desc": "Hackers stole personal and health information from the healthcare technology company’s AWS infrastructure. The post 9.5 Million Impacted by Aesto Health Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-01T09:09:34+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "WatchGuard Patches Critical Vulnerabilities",
+   "link": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
+   "desc": "Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely. The post WatchGuard Patches Critical Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-01T08:50:04+00:00",
+   "iocs": "iocs/403a7a2a135a.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+   "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+   "desc": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg",
+   "date": "2026-09-01T08:26:24+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Recently patched PaperCut zero-days used in data theft attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+   "desc": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+   "image": "",
+   "date": "2026-09-01T07:48:24+00:00",
+   "iocs": "iocs/6440af623a3b.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+   "desc": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg",
+   "date": "2026-09-01T07:22:30+00:00",
+   "iocs": "iocs/9d1d25eb12ec.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "PaperCut Exploitation Escalates to Active Intrusions",
+   "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
+   "desc": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog. The post PaperCut Exploitation Escalates to Active Intrusions appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-01T05:27:18+00:00",
+   "iocs": "iocs/8d48278a1b40.txt",
+   "ioc_count": 2
   },
   {
    "source": "Socket",
@@ -142,7 +206,7 @@
   },
   {
    "source": "BleepingComputer",
-   "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+   "title": "Massive Microsoft 365 outage causes auth issues, service failures",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
    "desc": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
    "image": "",
@@ -311,14 +375,6 @@
    "date": "2026-08-31T10:50:57+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Extortion Group Claims Manchester Airports Group Data Breach",
-   "link": "https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/",
-   "desc": "FulcrumSec says it stole over 80 GB of data from Manchester Airports Group and plans to leak it online. The post Extortion Group Claims Manchester Airports Group Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-31T10:29:10+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
@@ -347,14 +403,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’",
-   "link": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
-   "desc": "The ruling is part of Anthropic's legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year. The post Judge Says Pentagon&#8217;s Measures Against Anthropic Were ",
-   "image": "",
-   "date": "2026-08-31T09:07:01+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
    "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
@@ -363,14 +411,6 @@
    "date": "2026-08-31T09:04:55+00:00",
    "iocs": "iocs/a645320d36fc.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Berlin Won’t Pay Extortion Group Claiming Data Theft",
-   "link": "https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/",
-   "desc": "The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials. The post Berlin Won’t Pay Extortion Group Claiming Data Theft appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-08-31T08:49:36+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -441,14 +481,6 @@
    "date": "2026-08-30T07:14:49+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-   "desc": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
-   "image": "",
-   "date": "2026-08-29T23:11:51+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
@@ -457,14 +489,6 @@
    "date": "2026-08-29T16:25:03+00:00",
    "iocs": "iocs/20d327a204a5.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Brave browser adds email aliases to help users evade tracking",
-   "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-   "desc": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
-   "image": "",
-   "date": "2026-08-29T14:19:23+00:00"
   },
   {
    "source": "Unit 42",
@@ -569,26 +593,6 @@
    "desc": "Socket joins more than 100 technology, cybersecurity, and financial organizations calling for a global surge in cyber defense.",
    "image": "",
    "date": "2026-08-28T16:02:57+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg",
-   "date": "2026-08-28T15:56:55+00:00",
-   "iocs": "iocs/9ef134c66a55.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-   "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-   "desc": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capab",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg",
-   "date": "2026-08-28T15:27:26+00:00",
-   "iocs": "iocs/fbf67621099f.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",

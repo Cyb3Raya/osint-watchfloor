@@ -1,0 +1,12 @@
+IOC EXTRACTION - PaperCut Exploitation Escalates to Active Intrusions
+Source: https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/
+Extracted: 2026-09-01 09:28:27 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-81578
+CVE-2026-82078
