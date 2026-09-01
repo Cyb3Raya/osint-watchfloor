@@ -1,0 +1,19 @@
+IOC EXTRACTION - 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
+Source: https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html
+Extracted: 2026-09-01 17:52:38 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2025-31277
+CVE-2025-43398
+CVE-2025-43510
+CVE-2025-43520
+CVE-2025-43529
+
+Domains (1)
+----------------------------------------
+cloudfareintcdn[.]com
