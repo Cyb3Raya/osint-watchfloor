@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attackers Pounce on Critical Artifactory Flaw Following Disclosure
+Source: https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure
+Extracted: 2026-09-01 23:07:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-29927
+CVE-2026-82329

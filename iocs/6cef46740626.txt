@@ -1,0 +1,11 @@
+IOC EXTRACTION - The dark figure of supply chain detection
+Source: https://www.aikido.dev/blog/dark-figure-supply-chain-detection
+Extracted: 2026-09-01 23:08:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+webhook[.]site
