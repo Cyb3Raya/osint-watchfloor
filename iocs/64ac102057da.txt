@@ -1,0 +1,26 @@
+IOC EXTRACTION - Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
+Source: https://thehackernews.com/2026/09/fake-software-installers-disable.html
+Extracted: 2026-09-02 18:47:07 UTC
+Total indicators: 16
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (16)
+----------------------------------------
+app-microsoft-edge[.]com[.]cn
+baidu-pan[.]com[.]cn
+calibre-ebook[.]com[.]cn
+cn-drawio[.]com[.]cn
+gehie246[.]com
+gw-sogou[.]com[.]cn
+iualef[.]net
+kaspersky-lab[.]hl[.]cn
+mindmoster[.]com[.]cn
+ocam-pc[.]com[.]cn
+oijfwe[.]net
+pc-razerzone[.]com[.]cn
+sejda[.]hl[.]cn
+steelseries-cn[.]com[.]cn
+translate-youdao[.]hl[.]cn
+zh-diskgenius[.]com[.]cn
