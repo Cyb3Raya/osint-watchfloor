@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T23:08:04.653334+00:00",
+ "generated": "2026-09-02T01:05:16.759698+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,16 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
+   "desc": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-02T01:00:00+00:00",
+   "iocs": "iocs/1c58c50319dd.txt",
+   "ioc_count": 2
   },
   {
    "source": "Krebs on Security",
@@ -159,6 +169,14 @@
    "date": "2026-09-01T17:19:24+00:00",
    "iocs": "iocs/dff23f3c8b11.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Top DSPM tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-dspm-tools",
+   "desc": "Compare the top DSPM tools of 2026: Aikido, Wiz, Cyera, Varonis, and Orca, on data access, remediation, and how they find exposure Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-01T16:49:00+00:00"
   },
   {
    "source": "RF The Record",
@@ -689,14 +707,6 @@
    "date": "2026-08-28T14:00:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-   "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-   "desc": "Proposed legislation could mandate that companies be able to &quot;throttle, suspend, or shut ... down&quot; AI agents, but how and when to do that remain open questions.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56383bd74ac17bbe/6a90a3f14885757c1a5662f0/AI-hand-security-Summit_Art_Creations-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-28T13:30:00+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Socket Now Protects the Microsoft Edge Extension Ecosystem",
    "link": "https://socket.dev/blog/edge-extension-security?utm_medium=feed",
@@ -929,14 +939,6 @@
    "date": "2026-08-21T13:43:00+00:00",
    "iocs": "iocs/f4b898c8ef36.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "We burned 11.7bn tokens to find the best cyber AI model",
-   "link": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
-   "desc": "We tested 10 AI models on 32 fresh CVEs. DeepSeek V4 Pro found 28, and three cheap runs beat one pass of Opus 5 or Grok on total coverage. Category: Research",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a88162a229a038f7585ed27_august%20benchmarks%20main.png",
-   "date": "2026-08-21T09:06:00+00:00"
   },
   {
    "source": "Cisco Talos",

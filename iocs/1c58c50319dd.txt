@@ -1,0 +1,12 @@
+IOC EXTRACTION - Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency
+Source: https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency
+Extracted: 2026-09-02 01:05:09 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2023-49105
+CVE-2024-2800
