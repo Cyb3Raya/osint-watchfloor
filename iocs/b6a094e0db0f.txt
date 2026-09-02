@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers exploit Sangoma Switchvox flaw to deploy reverse shells
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/
+Extracted: 2026-09-02 21:38:08 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-9586

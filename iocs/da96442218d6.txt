@@ -1,0 +1,11 @@
+IOC EXTRACTION - WordPress backup plugin flaw exposes millions of sites to takeover attacks
+Source: https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/
+Extracted: 2026-09-02 21:38:09 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-19949

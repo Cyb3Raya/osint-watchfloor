@@ -1,0 +1,14 @@
+IOC EXTRACTION - SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE
+Source: https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce
+Extracted: 2026-09-02 21:38:12 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-15409
+CVE-2026-15410
+CVE-2026-83548
+CVE-2026-83549

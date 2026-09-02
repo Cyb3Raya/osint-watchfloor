@@ -1,24 +1,70 @@
 {
- "generated": "2026-09-02T18:47:27.736509+00:00",
+ "generated": "2026-09-02T21:38:22.022418+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
-   "source": "Dark Reading",
-   "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
-   "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-   "desc": "",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaff0d27801ea21af/6a92220704334b0b8d8445e9/DR-Cloud-AI-VE-2026.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-12T16:00:00+00:00"
+   "source": "BleepingComputer",
+   "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+   "desc": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+   "image": "",
+   "date": "2026-09-02T21:00:13+00:00",
+   "iocs": "iocs/b6a094e0db0f.txt",
+   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
-   "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
-   "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
-   "desc": "",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-08T15:00:00+00:00"
+   "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+   "desc": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-02T20:43:59+00:00",
+   "iocs": "iocs/1ae2c66d0e1d.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
+   "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+   "desc": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-02T19:46:31+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+   "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
+   "desc": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared fi",
+   "image": "",
+   "date": "2026-09-02T19:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+   "desc": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+   "image": "",
+   "date": "2026-09-02T19:28:46+00:00",
+   "iocs": "iocs/da96442218d6.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
+   "link": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
+   "desc": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
+   "image": "",
+   "date": "2026-09-02T18:43:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+   "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+   "desc": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg",
+   "date": "2026-09-02T18:27:49+00:00"
   },
   {
    "source": "RF The Record",
@@ -395,22 +441,6 @@
    "ioc_count": 3
   },
   {
-   "source": "RF The Record",
-   "title": "China's 'Fire Ant' campaign used compromised Cisco routers as platform for more attacks",
-   "link": "https://therecord.media/router-hacks-fire-ant-group-china",
-   "desc": "A hacking operation dubbed Fire Ant \"didn’t just compromise systems,\" according to researchers. \"It compromised the trust layer those systems depend on.\"",
-   "image": "",
-   "date": "2026-09-01T20:35:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Palo Alto Networks Acquires AI Agent Platform Console",
-   "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-   "desc": "The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR. The post Palo Alto Networks Acquires AI Agent Platform Co",
-   "image": "",
-   "date": "2026-09-01T20:29:42+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
    "link": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
@@ -499,16 +529,6 @@
    "date": "2026-09-01T14:28:40+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-   "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-   "desc": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1600/iphone.jpg",
-   "date": "2026-09-01T14:07:20+00:00",
-   "iocs": "iocs/2e1433965ded.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "BleepingComputer",
    "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
    "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
@@ -543,24 +563,6 @@
    "desc": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a0f2dc67da094b0/6a96c86cc735cc0c3671a7e3/blockchain_incamerastock_alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-01T13:56:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-   "desc": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-   "image": "",
-   "date": "2026-09-01T12:38:35+00:00",
-   "iocs": "iocs/649bece8a86a.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-   "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-   "desc": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
-   "image": "",
-   "date": "2026-09-01T09:15:07+00:00"
   },
   {
    "source": "Socket",
