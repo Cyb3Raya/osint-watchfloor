@@ -1,0 +1,23 @@
+IOC EXTRACTION - Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads
+Source: https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html
+Extracted: 2026-09-02 10:55:39 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+188[.]166[.]101[.]148
+
+Domains (9)
+----------------------------------------
+forex2030[.]com
+gatheredovertime[.]com
+highclass[.]atspace[.]com
+imagebucket[.]biz
+kharkovforum[.]com
+painelwebradiodigital[.]awardspace[.]info
+pozdravizbeograda[.]com
+sgwebdesigner[.]free[.]fr
+www[.]yonelco[.]com

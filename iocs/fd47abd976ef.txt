@@ -1,0 +1,11 @@
+IOC EXTRACTION - Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another
+Source: https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html
+Extracted: 2026-09-02 10:55:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2021-31886

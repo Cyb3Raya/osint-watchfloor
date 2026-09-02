@@ -1,0 +1,15 @@
+IOC EXTRACTION - Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials
+Source: https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html
+Extracted: 2026-09-02 10:55:38 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-9586
+
+IPv4 (1)
+----------------------------------------
+176[.]65[.]148[.]184

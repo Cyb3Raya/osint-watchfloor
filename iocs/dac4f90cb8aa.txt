@@ -1,0 +1,15 @@
+IOC EXTRACTION - SonicWall warns of actively exploited SMA1000 zero-day flaws
+Source: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/
+Extracted: 2026-09-02 10:55:45 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2025-40602
+CVE-2026-15409
+CVE-2026-15410
+CVE-2026-83548
+CVE-2026-83549

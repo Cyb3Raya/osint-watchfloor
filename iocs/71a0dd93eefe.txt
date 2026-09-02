@@ -1,0 +1,14 @@
+IOC EXTRACTION - GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends
+Source: https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html
+Extracted: 2026-09-02 10:55:35 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2024-36401
+CVE-2025-58360
+CVE-2026-58400
+CVE-2026-63219
