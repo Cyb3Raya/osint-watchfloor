@@ -1,0 +1,17 @@
+IOC EXTRACTION - Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control
+Source: https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html
+Extracted: 2026-09-02 15:01:08 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+193[.]32[.]2[.]245
+45[.]147[.]28[.]59
+
+SHA256 (2)
+----------------------------------------
+ba83cc3c9535690191018edf73ca5c6001609df9919462796aa2e551f142e4d3
+e0714788b4e2518b0d9d4cbf18c7217bb97718e01689d77338f1cc4a230fcb6c

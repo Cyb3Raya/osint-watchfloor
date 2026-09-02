@@ -1,0 +1,16 @@
+IOC EXTRACTION - Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
+Source: https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html
+Extracted: 2026-09-02 15:01:04 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2021-43891
+CVE-2022-24346
+CVE-2026-19592
+CVE-2026-55607
+CVE-2026-71963
+CVE-2026-72718

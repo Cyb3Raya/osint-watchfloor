@@ -1,0 +1,14 @@
+IOC EXTRACTION - Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain
+Source: https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html
+Extracted: 2026-09-02 15:01:10 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-15409
+CVE-2026-15410
+CVE-2026-83548
+CVE-2026-83549

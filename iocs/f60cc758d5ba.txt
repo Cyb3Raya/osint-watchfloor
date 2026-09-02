@@ -1,0 +1,11 @@
+IOC EXTRACTION - Exploit Published for Fresh Cleo Harmony Vulnerability
+Source: https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/
+Extracted: 2026-09-02 15:01:16 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-84115
