@@ -1,0 +1,12 @@
+IOC EXTRACTION - SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks
+Source: https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/
+Extracted: 2026-09-02 05:55:24 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-83548
+CVE-2026-83549

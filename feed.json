@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T01:05:16.759698+00:00",
+ "generated": "2026-09-02T05:55:30.068339+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -19,6 +19,24 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+   "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
+   "desc": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-02T05:04:52+00:00",
+   "iocs": "iocs/3e24cc131aa7.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
+   "link": "https://isc.sans.edu/diary/rss/33304",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-02T02:00:02+00:00"
   },
   {
    "source": "Dark Reading",
@@ -371,16 +389,6 @@
    "desc": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg",
    "date": "2026-09-01T09:05:30+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "WatchGuard Patches Critical Vulnerabilities",
-   "link": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
-   "desc": "Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely. The post WatchGuard Patches Critical Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-01T08:50:04+00:00",
-   "iocs": "iocs/403a7a2a135a.txt",
-   "ioc_count": 5
   },
   {
    "source": "The Hacker News",
@@ -801,14 +809,6 @@
    "desc": "Create ClickUp tasks from Socket alerts, automate ticketing with custom rules, and keep alert and task status synchronized.",
    "image": "",
    "date": "2026-08-26T19:11:06+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Who Has Admin Rights in your Entra ID Directory&#x3f;, (Wed, Aug 26th)",
-   "link": "https://isc.sans.edu/diary/rss/33284",
-   "desc": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x3f&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x",
-   "image": "",
-   "date": "2026-08-26T15:58:15+00:00"
   },
   {
    "source": "Aikido",
