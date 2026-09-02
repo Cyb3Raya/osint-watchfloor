@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-02T21:38:22.022418+00:00",
+ "generated": "2026-09-02T23:33:19.965129+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+   "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
+   "desc": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-02T21:14:06+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
@@ -711,14 +719,6 @@
    "date": "2026-08-28T20:19:22+00:00",
    "iocs": "iocs/48f08d72895e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Offensive Security Investments Surge as AI Threats Increase",
-   "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-   "desc": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95f718d0e919dd49/6a91bb856ab06b3d40bc21f3/lanowitz.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-28T18:25:43+00:00"
   },
   {
    "source": "Socket",
