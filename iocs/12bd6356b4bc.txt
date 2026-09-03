@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Elementor Pro flaw exploited to take over WordPress sites
+Source: https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/
+Extracted: 2026-09-03 16:03:20 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-32475

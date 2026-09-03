@@ -1,8 +1,10 @@
 {
- "generated": "2026-09-03T11:42:28.168644+00:00",
- "sources_ok": 14,
+ "generated": "2026-09-03T16:03:44.417564+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "SANS ISC"
+ ],
  "items": [
   {
    "source": "Aikido",
@@ -13,6 +15,120 @@
    "date": "2026-09-03T18:00:00+00:00",
    "iocs": "iocs/d434429558f8.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+   "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+   "desc": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leak",
+   "image": "",
+   "date": "2026-09-03T15:35:19+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+   "desc": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+   "image": "",
+   "date": "2026-09-03T15:22:33+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
+   "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
+   "desc": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to S",
+   "image": "",
+   "date": "2026-09-03T15:15:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+   "desc": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+   "image": "",
+   "date": "2026-09-03T15:13:29+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic confirms Claude is down, multiple models affected",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+   "desc": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+   "image": "",
+   "date": "2026-09-03T15:02:52+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+   "desc": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+   "image": "",
+   "date": "2026-09-03T14:52:20+00:00",
+   "iocs": "iocs/12bd6356b4bc.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+   "desc": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-03T14:38:49+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+   "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+   "desc": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is ",
+   "image": "",
+   "date": "2026-09-03T13:50:59+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+   "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+   "desc": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-03T12:17:30+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+   "desc": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+   "image": "",
+   "date": "2026-09-03T12:16:32+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
+   "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+   "desc": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-03T12:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
+   "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+   "desc": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post AI Agent Firewall Startup AIR Security Emerges From Stealth ",
+   "image": "",
+   "date": "2026-09-03T12:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US and Canadian court data exposed in Thomson Reuters breach",
+   "link": "https://therecord.media/thomson-reuters-cyberattack-data",
+   "desc": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
+   "image": "",
+   "date": "2026-09-03T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+   "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+   "desc": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg",
+   "date": "2026-09-03T11:58:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -115,24 +231,6 @@
    "date": "2026-09-03T05:19:04+00:00",
    "iocs": "iocs/bf0dadca2770.txt",
    "ioc_count": 13
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
-   "link": "https://isc.sans.edu/diary/rss/33306",
-   "desc": "&#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-09-03T02:02:56+00:00",
-   "iocs": "iocs/e8e17e6e1739.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-   "link": "https://isc.sans.edu/diary/rss/33308",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-03T02:00:03+00:00"
   },
   {
    "source": "Dark Reading",
@@ -329,40 +427,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SecurityWeek",
-   "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-   "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-   "desc": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-02T12:18:15+00:00",
-   "iocs": "iocs/f60cc758d5ba.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Sality, one of the longest-running botnets, finally gets disrupted",
-   "link": "https://therecord.media/sality-botnet-cyber-doj",
-   "desc": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
-   "image": "",
-   "date": "2026-09-02T12:15:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
-   "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
-   "desc": "Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse. The post Anthropic Details Response to Security Incidents, Unveils Enterprise Sa",
-   "image": "",
-   "date": "2026-09-02T11:48:31+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-   "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-   "desc": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-02T11:31:36+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
    "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
@@ -379,14 +443,6 @@
    "date": "2026-09-02T10:53:49+00:00",
    "iocs": "iocs/8071e541fd79.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
-   "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
-   "desc": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appea",
-   "image": "",
-   "date": "2026-09-02T10:38:13+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -415,46 +471,12 @@
    "ioc_count": 4
   },
   {
-   "source": "The Hacker News",
-   "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-   "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-   "desc": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,0",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg",
-   "date": "2026-09-02T09:10:23+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "US charges Russian for infecting 80,000 freelancers with malware",
    "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
    "desc": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
    "image": "",
    "date": "2026-09-02T09:06:48+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Sality botnet infrastructure dismantled in joint global takedown",
-   "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-   "desc": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-   "image": "",
-   "date": "2026-09-02T08:00:43+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-   "desc": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-   "image": "",
-   "date": "2026-09-02T06:39:29+00:00",
-   "iocs": "iocs/dac4f90cb8aa.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-   "link": "https://isc.sans.edu/diary/rss/33304",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-02T02:00:02+00:00"
   },
   {
    "source": "Dark Reading",
@@ -475,16 +497,6 @@
    "date": "2026-09-01T22:40:28+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33300",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-09-01T21:30:18+00:00",
-   "iocs": "iocs/da7c5cd5ea22.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "Dark Reading",
    "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
    "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
@@ -501,14 +513,6 @@
    "desc": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-01T21:03:19+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-   "desc": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-   "image": "",
-   "date": "2026-09-01T20:53:23+00:00"
   },
   {
    "source": "Dark Reading",
@@ -529,14 +533,6 @@
    "date": "2026-09-01T20:13:09+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Aesto Health says data breach affects over 9.5 million patients",
-   "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-   "desc": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-   "image": "",
-   "date": "2026-09-01T19:28:17+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Microsoft Teams Notifications Are Now Available in Socket",
    "link": "https://socket.dev/blog/microsoft-teams?utm_medium=feed",
@@ -545,30 +541,12 @@
    "date": "2026-09-01T18:45:02+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-   "desc": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-   "image": "",
-   "date": "2026-09-01T17:54:22+00:00",
-   "iocs": "iocs/7de4b68209c1.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "Aikido",
    "title": "Top DSPM tools in 2026",
    "link": "https://www.aikido.dev/blog/top-dspm-tools",
    "desc": "Compare the top DSPM tools of 2026: Aikido, Wiz, Cyera, Varonis, and Orca, on data access, remediation, and how they find exposure Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-01T16:49:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-   "desc": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-   "image": "",
-   "date": "2026-09-01T14:45:06+00:00"
   },
   {
    "source": "Aikido",
@@ -615,14 +593,6 @@
    "date": "2026-09-01T02:52:00+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33302",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-01T02:00:03+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
@@ -655,22 +625,6 @@
    "date": "2026-08-31T20:09:24+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-   "link": "https://isc.sans.edu/diary/rss/33298",
-   "desc": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-",
-   "image": "",
-   "date": "2026-08-31T20:00:34+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Model Rules Are Not Security Controls",
-   "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-   "desc": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66572731c5d1ef47/6a95bb605f4f75f2e93bdf89/AI_robot-Moor_Studio-getty-1822585391.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-31T17:34:26+00:00"
-  },
-  {
    "source": "Socket",
    "title": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
    "link": "https://socket.dev/blog/packagist-themes-ios-spyware?utm_medium=feed",
@@ -689,22 +643,6 @@
    "date": "2026-08-31T10:00:36+00:00",
    "iocs": "iocs/0befd8aa6b74.txt",
    "ioc_count": 77
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
-   "link": "https://isc.sans.edu/diary/rss/33296",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-31T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-   "link": "https://isc.sans.edu/diary/rss/33288",
-   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
-   "image": "",
-   "date": "2026-08-30T07:14:49+00:00"
   },
   {
    "source": "Unit 42",
@@ -745,16 +683,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Dark Reading",
-   "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-   "desc": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-28T20:19:22+00:00",
-   "iocs": "iocs/48f08d72895e.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Socket",
    "title": "When Autonomous Agents Escape: Why Socket Signed the Cyber Defense Open Letter",
    "link": "https://socket.dev/blog/autonomous-agents-escape?utm_medium=feed",
@@ -769,22 +697,6 @@
    "desc": "Enterprise security teams can now detect malware, credential theft, suspicious network activity, and risky updates across Microsoft Edge extensions.",
    "image": "",
    "date": "2026-08-28T13:22:10+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-   "link": "https://isc.sans.edu/diary/rss/33292",
-   "desc": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about the trend in 64bits VS. 3",
-   "image": "",
-   "date": "2026-08-28T07:04:13+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33294",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-28T02:00:02+00:00"
   },
   {
    "source": "Cisco Talos",
