@@ -1,11 +1,39 @@
 {
- "generated": "2026-09-03T16:03:44.417564+00:00",
- "sources_ok": 13,
+ "generated": "2026-09-03T19:19:51.662658+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "SANS ISC"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+   "desc": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+   "image": "",
+   "date": "2026-09-03T18:28:12+00:00",
+   "iocs": "iocs/d0cdf0878d94.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+   "desc": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attack",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg",
+   "date": "2026-09-03T18:02:47+00:00",
+   "iocs": "iocs/eae08603ec40.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "The story behind the intelligence",
+   "link": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
+   "desc": "From engaging with cybercriminals to surviving a live Flamin’ Hot Cheetos taste test, Hazel reflects on the latest Beers with Talos with Azim, where they cover the full spectrum of what it takes to gather threat intel.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source.jpg",
+   "date": "2026-09-03T18:00:13+00:00",
+   "iocs": "iocs/960caab2afaa.txt",
+   "ioc_count": 6
+  },
   {
    "source": "Aikido",
    "title": "MECCHA CHAMELEON can't hide from the RCE",
@@ -17,12 +45,32 @@
    "ioc_count": 1
   },
   {
+   "source": "The Hacker News",
+   "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+   "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+   "desc": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardenin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
+   "date": "2026-09-03T15:52:07+00:00",
+   "iocs": "iocs/10869e1cb2f9.txt",
+   "ioc_count": 8
+  },
+  {
    "source": "SecurityWeek",
    "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
    "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
    "desc": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leak",
    "image": "",
    "date": "2026-09-03T15:35:19+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+   "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+   "desc": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg",
+   "date": "2026-09-03T15:26:47+00:00",
+   "iocs": "iocs/9d9736b815d5.txt",
+   "ioc_count": 3
   },
   {
    "source": "BleepingComputer",
@@ -65,6 +113,14 @@
    "date": "2026-09-03T14:52:20+00:00",
    "iocs": "iocs/12bd6356b4bc.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+   "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+   "desc": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg",
+   "date": "2026-09-03T14:39:05+00:00"
   },
   {
    "source": "Dark Reading",
@@ -233,8 +289,26 @@
    "ioc_count": 13
   },
   {
+   "source": "SANS ISC",
+   "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
+   "link": "https://isc.sans.edu/diary/rss/33306",
+   "desc": "&#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+   "image": "",
+   "date": "2026-09-03T02:02:56+00:00",
+   "iocs": "iocs/e8e17e6e1739.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
+   "link": "https://isc.sans.edu/diary/rss/33308",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-03T02:00:03+00:00"
+  },
+  {
    "source": "Dark Reading",
-   "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+   "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
    "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
    "desc": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -417,34 +491,6 @@
    "date": "2026-09-02T12:30:22+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-   "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-   "desc": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators ne",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg",
-   "date": "2026-09-02T12:22:02+00:00",
-   "iocs": "iocs/43ff6a4cc6fb.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-   "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-   "desc": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg",
-   "date": "2026-09-02T11:30:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-   "desc": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered inte",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg",
-   "date": "2026-09-02T10:53:49+00:00",
-   "iocs": "iocs/8071e541fd79.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft Defender flags legitimate Google search links as malicious",
    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
@@ -461,22 +507,12 @@
    "date": "2026-09-02T10:00:46+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-   "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-   "desc": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif",
-   "date": "2026-09-02T09:18:02+00:00",
-   "iocs": "iocs/71a0dd93eefe.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "US charges Russian for infecting 80,000 freelancers with malware",
-   "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-   "desc": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
+   "link": "https://isc.sans.edu/diary/rss/33304",
+   "desc": "",
    "image": "",
-   "date": "2026-09-02T09:06:48+00:00"
+   "date": "2026-09-02T02:00:02+00:00"
   },
   {
    "source": "Dark Reading",
@@ -495,6 +531,16 @@
    "desc": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l",
    "image": "",
    "date": "2026-09-01T22:40:28+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33300",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-09-01T21:30:18+00:00",
+   "iocs": "iocs/da7c5cd5ea22.txt",
+   "ioc_count": 6
   },
   {
    "source": "Dark Reading",
@@ -593,6 +639,14 @@
    "date": "2026-09-01T02:52:00+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33302",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-01T02:00:03+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
@@ -625,6 +679,14 @@
    "date": "2026-08-31T20:09:24+00:00"
   },
   {
+   "source": "SANS ISC",
+   "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
+   "link": "https://isc.sans.edu/diary/rss/33298",
+   "desc": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-",
+   "image": "",
+   "date": "2026-08-31T20:00:34+00:00"
+  },
+  {
    "source": "Socket",
    "title": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
    "link": "https://socket.dev/blog/packagist-themes-ios-spyware?utm_medium=feed",
@@ -643,6 +705,22 @@
    "date": "2026-08-31T10:00:36+00:00",
    "iocs": "iocs/0befd8aa6b74.txt",
    "ioc_count": 77
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
+   "link": "https://isc.sans.edu/diary/rss/33296",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-31T02:00:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
+   "link": "https://isc.sans.edu/diary/rss/33288",
+   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
+   "image": "",
+   "date": "2026-08-30T07:14:49+00:00"
   },
   {
    "source": "Unit 42",
@@ -697,6 +775,22 @@
    "desc": "Enterprise security teams can now detect malware, credential theft, suspicious network activity, and risky updates across Microsoft Edge extensions.",
    "image": "",
    "date": "2026-08-28T13:22:10+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
+   "link": "https://isc.sans.edu/diary/rss/33292",
+   "desc": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about the trend in 64bits VS. 3",
+   "image": "",
+   "date": "2026-08-28T07:04:13+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33294",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-28T02:00:02+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1159,16 +1253,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-30T23:00:00+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "You were onto something with “It’s the Climb,” Miley",
-   "link": "https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/",
-   "desc": "Amy hikes Virginia’s most difficult trail and muses on the persistent challenges of cybersecurity. The two aren't dissimilar.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/threat_source-3.jpg",
-   "date": "2026-07-30T18:00:35+00:00",
-   "iocs": "iocs/2b4182e0d041.txt",
-   "ioc_count": 5
   },
   {
    "source": "Krebs on Security",

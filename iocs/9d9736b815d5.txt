@@ -1,0 +1,16 @@
+IOC EXTRACTION - BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory
+Source: https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html
+Extracted: 2026-09-03 19:19:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+38[.]242[.]246[.]176
+
+Domains (2)
+----------------------------------------
+caixaentradas1inboxshop[.]site
+infect[.]online

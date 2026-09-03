@@ -1,0 +1,21 @@
+IOC EXTRACTION - HPE patches critical ArubaOS-CX remote code execution flaw
+Source: https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/
+Extracted: 2026-09-03 19:19:42 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (11)
+----------------------------------------
+CVE-2026-73749
+CVE-2026-73750
+CVE-2026-73751
+CVE-2026-73752
+CVE-2026-73753
+CVE-2026-73777
+CVE-2026-73778
+CVE-2026-73779
+CVE-2026-73780
+CVE-2026-73781
+CVE-2026-73782

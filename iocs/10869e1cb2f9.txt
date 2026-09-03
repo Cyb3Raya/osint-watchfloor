@@ -1,0 +1,18 @@
+IOC EXTRACTION - Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root
+Source: https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html
+Extracted: 2026-09-03 19:19:38 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-20212
+CVE-2026-20274
+CVE-2026-20275
+CVE-2026-20279
+CVE-2026-20280
+CVE-2026-20281
+CVE-2026-20354
+CVE-2026-20355
