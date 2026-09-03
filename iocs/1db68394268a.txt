@@ -1,0 +1,16 @@
+IOC EXTRACTION - Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities
+Source: https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/
+Extracted: 2026-09-03 11:42:18 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-20212
+CVE-2026-20274
+CVE-2026-20279
+CVE-2026-20281
+CVE-2026-20354
+CVE-2026-20355

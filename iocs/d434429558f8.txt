@@ -1,0 +1,11 @@
+IOC EXTRACTION - MECCHA CHAMELEON can't hide from the RCE
+Source: https://www.aikido.dev/blog/meccha-chameleon-rce
+Extracted: 2026-09-03 11:42:25 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-52813

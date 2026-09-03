@@ -1,0 +1,12 @@
+IOC EXTRACTION - Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon
+Source: https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html
+Extracted: 2026-09-03 11:42:09 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50656
+CVE-2026-69414

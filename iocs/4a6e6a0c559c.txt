@@ -1,0 +1,35 @@
+IOC EXTRACTION - Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America
+Source: https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+Extracted: 2026-09-03 11:42:21 UTC
+Total indicators: 16
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (4)
+----------------------------------------
+165[.]22[.]184[.]26
+167[.]148[.]195[.]53
+178[.]128[.]87[.]160
+62[.]171[.]185[.]97
+
+Domains (6)
+----------------------------------------
+m-doxa-apodo[.]duckdns[.]org
+m-doxa-geo[.]duckdns[.]org
+m-doxa-intel[.]duckdns[.]org
+m-doxa-repuve[.]duckdns[.]org
+m-doxa-sre[.]duckdns[.]org
+m-doxa-vacunas[.]duckdns[.]org
+
+URLs (1)
+----------------------------------------
+hxxp://167[.]148[.]195[.]53:8888/socktz_v9[.]exe
+
+SHA256 (5)
+----------------------------------------
+46ac289ce0c13666de616446f5d5a68da8bd150f4f065c3bec02f63776d3899c
+4e218e70afdbb116209ec0ebe8fc556e296e69648aa4e0425b83c0e863a8fee5
+7d766942ef34542cee39c852286599958c4c2e23187010c4d38dbf88fcb40bf8
+87bf8bc8b4a2cf34f0af1afe161f123a3d200e77f6c6f41b81bf6ae66ee172ec
+a38b2cf8beff32a276eed8783723ecf8cc53d7dc88669e1b998dddc4db6fe996

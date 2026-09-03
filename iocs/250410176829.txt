@@ -1,0 +1,11 @@
+IOC EXTRACTION - Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability
+Source: https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/
+Extracted: 2026-09-03 11:42:17 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-19949

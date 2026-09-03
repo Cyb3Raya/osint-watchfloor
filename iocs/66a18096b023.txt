@@ -1,0 +1,12 @@
+IOC EXTRACTION - Plex warns users to patch security vulnerabilities immediately
+Source: https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/
+Extracted: 2026-09-03 11:42:12 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2020-5741
+CVE-2025-34158

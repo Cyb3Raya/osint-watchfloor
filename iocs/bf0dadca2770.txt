@@ -1,0 +1,23 @@
+IOC EXTRACTION - CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners
+Source: https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html
+Extracted: 2026-09-03 11:42:11 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (13)
+----------------------------------------
+CVE-2025-68700
+CVE-2025-69286
+CVE-2026-24770
+CVE-2026-28797
+CVE-2026-42271
+CVE-2026-45312
+CVE-2026-48710
+CVE-2026-49869
+CVE-2026-59822
+CVE-2026-82329
+CVE-2026-83548
+CVE-2026-83549
+CVE-2026-9586

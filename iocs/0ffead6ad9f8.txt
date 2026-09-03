@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks
+Source: https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html
+Extracted: 2026-09-03 11:42:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+nodejs[.]org

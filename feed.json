@@ -1,9 +1,121 @@
 {
- "generated": "2026-09-03T06:28:53.379688+00:00",
+ "generated": "2026-09-03T11:42:28.168644+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "MECCHA CHAMELEON can't hide from the RCE",
+   "link": "https://www.aikido.dev/blog/meccha-chameleon-rce",
+   "desc": "We found a second delayed RCE in MECCHA CHAMELEON: a malicious custom map could write files anywhere on your system and run code after a restart. Now patched in 4.0.0. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a989b07815e14b64f2bfb4a_meccha%20feature.jpg",
+   "date": "2026-09-03T18:00:00+00:00",
+   "iocs": "iocs/d434429558f8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Plex warns users to patch security vulnerabilities immediately",
+   "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+   "desc": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-09-03T11:02:22+00:00",
+   "iocs": "iocs/66a18096b023.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "153 Million Driver License Images Offered on Dark Web",
+   "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+   "desc": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net. The post 153 Million Driver License Images Offered on Dark Web appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-03T10:54:18+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+   "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+   "desc": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attac",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg",
+   "date": "2026-09-03T10:43:01+00:00",
+   "iocs": "iocs/0ffead6ad9f8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+   "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+   "desc": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared fi",
+   "image": "",
+   "date": "2026-09-03T10:40:00+00:00",
+   "iocs": "iocs/250410176829.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+   "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+   "desc": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous D",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif",
+   "date": "2026-09-03T10:36:39+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
+   "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+   "desc": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaw",
+   "image": "",
+   "date": "2026-09-03T10:30:00+00:00",
+   "iocs": "iocs/1db68394268a.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "Unit 42",
+   "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+   "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
+   "desc": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post Attackers Expose Ongoing AI Tool Use Targeting Organizations",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/AdobeStock_768915868-2-1.jpg",
+   "date": "2026-09-03T10:00:58+00:00",
+   "iocs": "iocs/4a6e6a0c559c.txt",
+   "ioc_count": 16
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+   "desc": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+   "image": "",
+   "date": "2026-09-03T08:55:25+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+   "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+   "desc": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
+   "date": "2026-09-03T08:43:17+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+   "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+   "desc": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"Falc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg",
+   "date": "2026-09-03T06:26:59+00:00",
+   "iocs": "iocs/21d7fb2ca2b3.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+   "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilitie",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
+   "date": "2026-09-03T05:19:04+00:00",
+   "iocs": "iocs/bf0dadca2770.txt",
+   "ioc_count": 13
+  },
   {
    "source": "SANS ISC",
    "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
@@ -303,16 +415,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
-   "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
-   "desc": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-02T09:12:29+00:00",
-   "iocs": "iocs/33eca463dce2.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
    "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
@@ -329,50 +431,12 @@
    "date": "2026-09-02T09:06:48+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "23-Year-Old Sality P2P Botnet Disrupted",
-   "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
-   "desc": "The shutdown operation involved peer list manipulation and Sality payload URL takedown. The post 23-Year-Old Sality P2P Botnet Disrupted appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-02T08:38:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Sality botnet infrastructure dismantled in joint global takedown",
    "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
    "desc": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
    "image": "",
    "date": "2026-09-02T08:00:43+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-   "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-   "desc": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg",
-   "date": "2026-09-02T07:47:13+00:00",
-   "iocs": "iocs/fd47abd976ef.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-   "desc": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg",
-   "date": "2026-09-02T07:08:50+00:00",
-   "iocs": "iocs/9b6ec5da1319.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-   "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg",
-   "date": "2026-09-02T06:56:30+00:00",
-   "iocs": "iocs/81c96cc8da0f.txt",
-   "ioc_count": 10
   },
   {
    "source": "BleepingComputer",
@@ -383,16 +447,6 @@
    "date": "2026-09-02T06:39:29+00:00",
    "iocs": "iocs/dac4f90cb8aa.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
-   "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-   "desc": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-02T05:04:52+00:00",
-   "iocs": "iocs/3e24cc131aa7.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -501,26 +555,6 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-   "desc": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg",
-   "date": "2026-09-01T17:53:11+00:00",
-   "iocs": "iocs/5d60f3c3ebe6.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-   "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-   "desc": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG)",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg",
-   "date": "2026-09-01T17:19:24+00:00",
-   "iocs": "iocs/dff23f3c8b11.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "Top DSPM tools in 2026",
    "link": "https://www.aikido.dev/blog/top-dspm-tools",
@@ -544,24 +578,6 @@
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a973e5e95ea1684ada216df_The-dark-figure-behind-supply-chain-detection_Feature.jpg",
    "date": "2026-09-01T14:39:00+00:00",
    "iocs": "iocs/6cef46740626.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Novocure data breach affects more than 1,400 cancer patients",
-   "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-   "desc": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-   "image": "",
-   "date": "2026-09-01T14:28:40+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-   "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-   "desc": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that",
-   "image": "",
-   "date": "2026-09-01T14:01:11+00:00",
-   "iocs": "iocs/884272089df2.txt",
    "ioc_count": 1
   },
   {
@@ -945,16 +961,6 @@
    "date": "2026-08-21T19:05:00+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "What is CVE remediation in 2026?",
-   "link": "https://www.aikido.dev/blog/cve-remediation",
-   "desc": "CVE remediation is fixing known flaws in the software you run. Why upgrading often fails, what remediation actually involves, and how backporting fixes it. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-08-21T13:43:00+00:00",
-   "iocs": "iocs/f4b898c8ef36.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Cisco Talos",
    "title": "Is Cyber missing the Marque?",
    "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
@@ -1225,14 +1231,6 @@
    "desc": "Register for an exclusive, unrecorded 30-minute webinar to review the most high-impact incidents Talos IR faced in Q2.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/2-1-no-copy.jpg",
    "date": "2026-08-03T16:00:12+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-   "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-   "desc": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless ",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
-   "date": "2026-08-03T10:00:35+00:00"
   },
   {
    "source": "Wiz Threats",
