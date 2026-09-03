@@ -1,0 +1,11 @@
+IOC EXTRACTION - Coder's registry infrastructure compromised to push malicious modules
+Source: https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/
+Extracted: 2026-09-03 21:46:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+coder-infra[.]com

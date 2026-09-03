@@ -1,9 +1,43 @@
 {
- "generated": "2026-09-03T19:19:51.662658+00:00",
+ "generated": "2026-09-03T21:46:25.268774+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+   "desc": "Threat actors behind the &quot;Phantom Deal&quot; campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt006c86eb4bc5e69b/6a99c21172642e574d2f52ff/NDA-William_Potter-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-03T20:18:14+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Coder's registry infrastructure compromised to push malicious modules",
+   "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+   "desc": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+   "image": "",
+   "date": "2026-09-03T20:04:24+00:00",
+   "iocs": "iocs/25f09ace8141.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+   "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+   "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated m",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt04917d22b035a07c/6a99bfc6e564e71c991d4f19/vishing-FranRodriguez-Getty-1387702656.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-03T19:42:39+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Large group of Serbian opposition, activist figures targeted with spyware",
+   "link": "https://therecord.media/serbia-spyware-pegasus-europe",
+   "desc": "At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic researchers",
+   "image": "",
+   "date": "2026-09-03T19:30:41+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
@@ -465,14 +499,6 @@
    "ioc_count": 6
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-   "link": "https://therecord.media/hackers-russia-fundraisers-ukraine",
-   "desc": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
-   "image": "",
-   "date": "2026-09-02T13:00:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
    "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
@@ -489,14 +515,6 @@
    "desc": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
    "image": "",
    "date": "2026-09-02T12:30:22+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft Defender flags legitimate Google search links as malicious",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-   "desc": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-   "image": "",
-   "date": "2026-09-02T10:29:39+00:00"
   },
   {
    "source": "Unit 42",
@@ -661,22 +679,6 @@
    "desc": "Socket CTO Ahmad Nassri joins AppSec leaders at Black Hat to discuss active malware, package manager risks, and software supply chain defense.",
    "image": "",
    "date": "2026-08-31T20:31:58+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
-   "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
-   "desc": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb8eccfb020b93/6a95d0de3450f0664b0636bb/PowerShell_icon-Think_About_Life-GettyImages-2153775274.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-31T20:25:36+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "The Guardrails Debate: Security Researcher Changes His Mind",
-   "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
-   "desc": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-31T20:09:24+00:00"
   },
   {
    "source": "SANS ISC",
