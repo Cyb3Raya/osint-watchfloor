@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T03:37:55.416462+00:00",
+ "generated": "2026-09-04T08:13:43.325560+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -322,7 +322,7 @@
    "source": "The Hacker News",
    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
    "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-   "desc": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"Falc",
+   "desc": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impact",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg",
    "date": "2026-09-03T06:26:59+00:00",
    "iocs": "iocs/21d7fb2ca2b3.txt",
