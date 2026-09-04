@@ -1,9 +1,19 @@
 {
- "generated": "2026-09-04T16:47:18.782514+00:00",
- "sources_ok": 14,
+ "generated": "2026-09-04T19:20:46.399093+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "IC3 PSA"
+ ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+   "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+   "desc": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+   "image": "",
+   "date": "2026-09-04T16:56:45+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
@@ -34,7 +44,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Companies Have Six Months to Prepare for Automated Attacks",
+   "title": "Companies Have 6 Months to Prepare for Automated Attacks",
    "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
    "desc": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e4339597b3813d/6a9acd56e908194ecaf2c87b/AI-human-blue-overlay-metamorworks-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -103,6 +113,16 @@
    "desc": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
    "image": "",
    "date": "2026-09-04T14:30:15+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Stop breaking SLAs: how to patch vulnerabilities before the fix even ships",
+   "link": "https://www.aikido.dev/blog/stop-breaking-slas",
+   "desc": "How to use Aikido Libraries to patch vulnerable dependencies and meet security SLAs. Category: Aikido",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9b154f683c015288fc4831_Stop-breaking-SLAs_Feature.png",
+   "date": "2026-09-04T14:27:00+00:00",
+   "iocs": "iocs/bbc527360076.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -257,6 +277,14 @@
    "date": "2026-09-04T06:47:52+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+   "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+   "desc": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
+   "image": "",
+   "date": "2026-09-04T04:00:00+00:00"
+  },
+  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
    "link": "https://isc.sans.edu/diary/rss/33310",
@@ -299,14 +327,6 @@
    "date": "2026-09-03T19:42:39+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Large group of Serbian opposition, activist figures targeted with spyware",
-   "link": "https://therecord.media/serbia-spyware-pegasus-europe",
-   "desc": "At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic researchers",
-   "image": "",
-   "date": "2026-09-03T19:30:41+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
@@ -345,6 +365,14 @@
    "date": "2026-09-03T18:00:00+00:00",
    "iocs": "iocs/d434429558f8.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What the AI Warning Letter Completely Missed",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
+   "desc": "The recent AI warning letter is right about the &quot;window,&quot; but it omits naming who is coming through it or, critically, who will close it.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0238701b3b59da5d/6a9b00948fc952ee7af9f806/AI_warning_-J_Studios-getty-2189472651.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-03T17:23:14+00:00"
   },
   {
    "source": "The Hacker News",
@@ -431,14 +459,6 @@
    "desc": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is ",
    "image": "",
    "date": "2026-09-03T13:50:59+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-   "desc": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-   "image": "",
-   "date": "2026-09-03T12:16:32+00:00"
   },
   {
    "source": "Dark Reading",
@@ -617,14 +637,6 @@
    "ioc_count": 3
   },
   {
-   "source": "Dark Reading",
-   "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
-   "link": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-   "desc": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6fa067a2ef7c79c/6a971debd849dc198a50a854/evaluation-Charday_Penn-GettyImages-1297604574.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-01T20:13:09+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Microsoft Teams Notifications Are Now Available in Socket",
    "link": "https://socket.dev/blog/microsoft-teams?utm_medium=feed",
@@ -659,14 +671,6 @@
    "date": "2026-09-01T14:00:00+00:00",
    "iocs": "iocs/3b9bb67e082f.txt",
    "ioc_count": 28
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "Malicious Cyber Actors Gain Access to Victim Accounts Through Consent Phishing",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260901",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-01T14:00:00+00:00"
   },
   {
    "source": "Socket",
@@ -965,14 +969,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Aikido",
-   "title": "Best enterprise AI pentesting tools for application security in 2026",
-   "link": "https://www.aikido.dev/blog/top-enterprise-ai-pentesting-tools",
-   "desc": "Compare the top enterprise AI pentesting tools of 2026: Aikido, XBOW, NodeZero, Pentera, Hadrian, and Cobalt. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-08-21T19:05:00+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Is Cyber missing the Marque?",
    "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
@@ -1119,14 +1115,6 @@
    "ioc_count": 33
   },
   {
-   "source": "IC3 PSA",
-   "title": "Sexual Exploitation Actors Stealing and Leaking Explicit Content",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260810",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-10T14:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Inside the Modern SOC: The Identity Front Door",
    "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
@@ -1201,14 +1189,6 @@
    "ioc_count": 3
   },
   {
-   "source": "IC3 PSA",
-   "title": "Ongoing Threats of Swatting and Indicators for Community Members",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260804",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-04T13:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Almost Half of Malware Samples Communicate Direct to IP",
    "link": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
@@ -1253,14 +1233,6 @@
    "date": "2026-07-31T00:00:00+00:00"
   },
   {
-   "source": "IC3 PSA",
-   "title": "Malicious Cyber Actors Targeting Water and Wastewater Sector Internet Facing Programmable Logic Controllers, Causing Operational Disruptions",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260730.pdf",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-30T23:00:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Read This Before You Buy That TV Streaming Stick",
    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -1303,14 +1275,6 @@
    "date": "2026-07-22T00:00:00+00:00",
    "iocs": "iocs/504ab9d2c02e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "FBI Warns of Scammers Impersonating the IC3",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260720",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-20T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",

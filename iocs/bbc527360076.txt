@@ -1,0 +1,11 @@
+IOC EXTRACTION - Stop breaking SLAs: how to patch vulnerabilities before the fix even ships
+Source: https://www.aikido.dev/blog/stop-breaking-slas
+Extracted: 2026-09-04 19:20:44 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2022-23529
