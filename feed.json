@@ -1,9 +1,151 @@
 {
- "generated": "2026-09-04T12:47:00.168396+00:00",
+ "generated": "2026-09-04T16:47:18.782514+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+   "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+   "desc": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: ",
+   "image": "",
+   "date": "2026-09-04T16:18:30+00:00",
+   "iocs": "iocs/f44fd1189325.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+   "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+   "desc": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-04T16:11:06+00:00",
+   "iocs": "iocs/e3bb2f8e1bb8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+   "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+   "desc": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility. The post OpenAI Pledges $1 Billion to Bring F",
+   "image": "",
+   "date": "2026-09-04T16:07:22+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Companies Have Six Months to Prepare for Automated Attacks",
+   "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+   "desc": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e4339597b3813d/6a9acd56e908194ecaf2c87b/AI-human-blue-overlay-metamorworks-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-04T15:57:31+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+   "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+   "desc": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg",
+   "date": "2026-09-04T15:57:15+00:00",
+   "iocs": "iocs/ffe72a79b189.txt",
+   "ioc_count": 12
+  },
+  {
+   "source": "RF The Record",
+   "title": "US, Britain to coordinate on scam center takedowns",
+   "link": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
+   "desc": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.",
+   "image": "",
+   "date": "2026-09-04T15:42:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+   "desc": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+   "image": "",
+   "date": "2026-09-04T15:25:59+00:00",
+   "iocs": "iocs/7483ae5401bd.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+   "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+   "desc": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg",
+   "date": "2026-09-04T15:20:19+00:00",
+   "iocs": "iocs/d7ed15b40cfe.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+   "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+   "desc": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
+   "date": "2026-09-04T14:51:13+00:00",
+   "iocs": "iocs/b1ea25ffc370.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "RF The Record",
+   "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+   "link": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+   "desc": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a yea",
+   "image": "",
+   "date": "2026-09-04T14:45:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft says some users can’t open the Teams desktop client",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+   "desc": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+   "image": "",
+   "date": "2026-09-04T14:30:15+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "39 New Methods That Compromise Passkey Authentication",
+   "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+   "desc": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credenti",
+   "image": "",
+   "date": "2026-09-04T14:01:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+   "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+   "desc": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+   "image": "",
+   "date": "2026-09-04T13:39:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+   "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
+   "desc": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-04T13:23:12+00:00",
+   "iocs": "iocs/d0d77f5c8803.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+   "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+   "desc": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+   "image": "",
+   "date": "2026-09-04T13:22:01+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+   "desc": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-04T13:00:00+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "G7 urges organizations to prepare for quantum cyber threats",
@@ -241,14 +383,6 @@
    "date": "2026-09-03T15:22:33+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
-   "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-   "desc": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to S",
-   "image": "",
-   "date": "2026-09-03T15:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
@@ -299,14 +433,6 @@
    "date": "2026-09-03T13:50:59+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
-   "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
-   "desc": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-03T12:17:30+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft says KB5120998 Windows update resets desktop settings",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
@@ -323,46 +449,12 @@
    "date": "2026-09-03T12:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-   "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-   "desc": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post AI Agent Firewall Startup AIR Security Emerges From Stealth ",
-   "image": "",
-   "date": "2026-09-03T12:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "US and Canadian court data exposed in Thomson Reuters breach",
-   "link": "https://therecord.media/thomson-reuters-cyberattack-data",
-   "desc": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
-   "image": "",
-   "date": "2026-09-03T12:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
    "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
    "desc": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg",
    "date": "2026-09-03T11:58:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Plex warns users to patch security vulnerabilities immediately",
-   "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-   "desc": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-   "image": "",
-   "date": "2026-09-03T11:02:22+00:00",
-   "iocs": "iocs/66a18096b023.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "153 Million Driver License Images Offered on Dark Web",
-   "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-   "desc": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net. The post 153 Million Driver License Images Offered on Dark Web appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-03T10:54:18+00:00"
   },
   {
    "source": "The Hacker News",
@@ -393,40 +485,12 @@
    "ioc_count": 16
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-   "desc": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-   "image": "",
-   "date": "2026-09-03T08:55:25+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
    "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
    "desc": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
    "date": "2026-09-03T08:43:17+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-   "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-   "desc": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impact",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg",
-   "date": "2026-09-03T06:26:59+00:00",
-   "iocs": "iocs/21d7fb2ca2b3.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-   "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilitie",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
-   "date": "2026-09-03T05:19:04+00:00",
-   "iocs": "iocs/bf0dadca2770.txt",
-   "ioc_count": 13
   },
   {
    "source": "SANS ISC",
@@ -455,16 +519,6 @@
    "date": "2026-09-02T21:14:06+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-   "desc": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-   "image": "",
-   "date": "2026-09-02T21:00:13+00:00",
-   "iocs": "iocs/b6a094e0db0f.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
    "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
@@ -481,40 +535,6 @@
    "desc": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-02T19:46:31+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-   "desc": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-   "image": "",
-   "date": "2026-09-02T19:28:46+00:00",
-   "iocs": "iocs/da96442218d6.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
-   "link": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
-   "desc": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
-   "image": "",
-   "date": "2026-09-02T18:43:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-   "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-   "desc": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg",
-   "date": "2026-09-02T18:27:49+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Health data of more than 9.5 million people leaked from Aesto record system",
-   "link": "https://therecord.media/health-data-aesto-cyberattack-leak",
-   "desc": "The healthcare data company Aesto informed federal regulators this week that more than 9.5 million people had sensitive information leaked during a cyberattack last December.",
-   "image": "",
-   "date": "2026-09-02T17:15:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -649,14 +669,6 @@
    "date": "2026-09-01T14:00:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
-   "link": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
-   "desc": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a0f2dc67da094b0/6a96c86cc735cc0c3671a7e3/blockchain_incamerastock_alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-01T13:56:42+00:00"
-  },
-  {
    "source": "Socket",
    "title": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90%",
    "link": "https://socket.dev/blog/pnpm-12?utm_medium=feed",
@@ -671,14 +683,6 @@
    "desc": "",
    "image": "",
    "date": "2026-09-01T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
-   "desc": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f9e09d2a1c53673/6a97083643fb84d5c0cc2cc1/claude_Thaspol_Sangsee_shutterstock_REVISED_FOR_16_X_9_RATIO.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-08-31T21:08:46+00:00"
   },
   {
    "source": "Socket",

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Sangoma Switchvox Vulnerabilities Exploited in the Wild
+Source: https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/
+Extracted: 2026-09-04 16:47:10 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-48710
+CVE-2026-49869
+CVE-2026-59822
+CVE-2026-9586

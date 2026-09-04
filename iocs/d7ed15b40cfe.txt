@@ -1,0 +1,11 @@
+IOC EXTRACTION - PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution
+Source: https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html
+Extracted: 2026-09-04 16:46:55 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-6471

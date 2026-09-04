@@ -1,0 +1,11 @@
+IOC EXTRACTION - HPE Patches Critical RCE Vulnerabilities in AOS-CX
+Source: https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/
+Extracted: 2026-09-04 16:47:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-73749

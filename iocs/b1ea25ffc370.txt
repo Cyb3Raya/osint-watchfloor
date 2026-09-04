@@ -1,0 +1,22 @@
+IOC EXTRACTION - New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic
+Source: https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html
+Extracted: 2026-09-04 16:46:57 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+app[.]cleanos[.]online
+cleanos[.]online
+img[.]smartnords[.]site
+
+SHA256 (2)
+----------------------------------------
+4bb923eb040aa13ca8fd409c31ee4729c60ddff32e350efe1c5a4a9168a065f5
+72e70936f0dbe459142a1d867617c35f8d0cce5d18c6a49e1090a2a5adc8e558
+
+MD5 (1)
+----------------------------------------
+c8c68e629bba773a10ac80012d10bf19

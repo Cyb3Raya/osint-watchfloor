@@ -1,0 +1,22 @@
+IOC EXTRACTION - Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters
+Source: https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html
+Extracted: 2026-09-04 16:46:54 UTC
+Total indicators: 12
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (12)
+----------------------------------------
+acemlnd[.]com
+activehosted[.]com
+advancefundingboost[.]com
+digitalcapitalboost[.]com
+directcapitalboost[.]com
+guardiancapitalway[.]com
+guardiangrowthfunding[.]com
+harboradvancefunding[.]com
+onlinedirectfinance[.]com
+thebusinessloanexpress[.]com
+unitedfundingwave[.]com
+yourlocfunding[.]com

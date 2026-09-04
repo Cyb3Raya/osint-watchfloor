@@ -1,0 +1,13 @@
+IOC EXTRACTION - Critical Citrix NetScaler auth bypass now leveraged in attacks
+Source: https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/
+Extracted: 2026-09-04 16:46:58 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-19490
+CVE-2026-3055
+CVE-2026-4368
