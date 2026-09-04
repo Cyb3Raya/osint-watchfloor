@@ -1,11 +1,17 @@
 {
- "generated": "2026-09-04T19:20:46.399093+00:00",
- "sources_ok": 13,
+ "generated": "2026-09-04T21:48:15.629578+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "IC3 PSA"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "Socket",
+   "title": "GPT-6 Astra Attempts Supply Chain Attacks Against Open Source Maintainers in Testing",
+   "link": "https://socket.dev/blog/gpt-6-astra-cybersecurity?utm_medium=feed",
+   "desc": "GPT-6 Astra hits 100% on ExploitBench and finds zero-days autonomously, while independent tests reveal scope violations and monitoring gaps.",
+   "image": "",
+   "date": "2026-09-04T17:03:46+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
@@ -181,6 +187,14 @@
    "desc": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
    "image": "",
    "date": "2026-09-04T12:22:30+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Insurers Search for Answers to Rein in Rogue AI",
+   "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+   "desc": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30db53d3998a9cfc/6a9ab83ce2c6982ca269f92d/AI-justice-law-liability-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-04T12:15:03+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -627,16 +641,6 @@
    "date": "2026-09-01T21:03:19+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-   "desc": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-01T20:48:52+00:00",
-   "iocs": "iocs/f8a09cf47f83.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Socket",
    "title": "Microsoft Teams Notifications Are Now Available in Socket",
    "link": "https://socket.dev/blog/microsoft-teams?utm_medium=feed",
@@ -671,6 +675,14 @@
    "date": "2026-09-01T14:00:00+00:00",
    "iocs": "iocs/3b9bb67e082f.txt",
    "ioc_count": 28
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Malicious Cyber Actors Gain Access to Victim Accounts Through Consent Phishing",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260901",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-01T14:00:00+00:00"
   },
   {
    "source": "Socket",
@@ -899,14 +911,6 @@
    "date": "2026-08-26T10:00:00+00:00"
   },
   {
-   "source": "Socket",
-   "title": "Socket for Asana Is Now Available",
-   "link": "https://socket.dev/blog/socket-for-asana-now-available?utm_medium=feed",
-   "desc": "Create and manage Asana tasks directly from Socket alerts, with manual task creation, automated ticketing rules, and two-way sync.",
-   "image": "",
-   "date": "2026-08-25T18:16:22+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Could OpenClaw have actually hacked that Australian gym? We decided to test it.",
    "link": "https://www.aikido.dev/blog/australian-gym-hack-openclaw-test",
@@ -1115,6 +1119,14 @@
    "ioc_count": 33
   },
   {
+   "source": "IC3 PSA",
+   "title": "Sexual Exploitation Actors Stealing and Leaking Explicit Content",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260810",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-10T14:00:00+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "Inside the Modern SOC: The Identity Front Door",
    "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
@@ -1189,6 +1201,14 @@
    "ioc_count": 3
   },
   {
+   "source": "IC3 PSA",
+   "title": "Ongoing Threats of Swatting and Indicators for Community Members",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260804",
+   "desc": "",
+   "image": "",
+   "date": "2026-08-04T13:00:00+00:00"
+  },
+  {
    "source": "Unit 42",
    "title": "Almost Half of Malware Samples Communicate Direct to IP",
    "link": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
@@ -1233,6 +1253,14 @@
    "date": "2026-07-31T00:00:00+00:00"
   },
   {
+   "source": "IC3 PSA",
+   "title": "Malicious Cyber Actors Targeting Water and Wastewater Sector Internet Facing Programmable Logic Controllers, Causing Operational Disruptions",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260730.pdf",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-30T23:00:00+00:00"
+  },
+  {
    "source": "Krebs on Security",
    "title": "Read This Before You Buy That TV Streaming Stick",
    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -1275,6 +1303,14 @@
    "date": "2026-07-22T00:00:00+00:00",
    "iocs": "iocs/504ab9d2c02e.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "FBI Warns of Scammers Impersonating the IC3",
+   "link": "https://www.ic3.gov/PSA/2026/PSA260720",
+   "desc": "",
+   "image": "",
+   "date": "2026-07-20T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",
