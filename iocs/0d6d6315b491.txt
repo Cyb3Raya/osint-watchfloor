@@ -1,0 +1,11 @@
+IOC EXTRACTION - 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover
+Source: https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/
+Extracted: 2026-09-04 12:46:48 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-6471

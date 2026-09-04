@@ -1,0 +1,12 @@
+IOC EXTRACTION - Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws
+Source: https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html
+Extracted: 2026-09-04 12:46:39 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2020-5741
+CVE-2025-34158

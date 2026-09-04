@@ -1,9 +1,119 @@
 {
- "generated": "2026-09-04T08:13:43.325560+00:00",
+ "generated": "2026-09-04T12:47:00.168396+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "G7 urges organizations to prepare for quantum cyber threats",
+   "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+   "desc": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+   "image": "",
+   "date": "2026-09-04T12:34:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+   "desc": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+   "image": "",
+   "date": "2026-09-04T12:22:30+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+   "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+   "desc": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database",
+   "image": "",
+   "date": "2026-09-04T12:06:13+00:00",
+   "iocs": "iocs/0d6d6315b491.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
+   "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+   "desc": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5 Million for AI Executive Assistant With Guardrails appeared",
+   "image": "",
+   "date": "2026-09-04T11:55:17+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+   "desc": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-09-04T11:48:17+00:00",
+   "iocs": "iocs/dc2f42c91d09.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+   "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+   "desc": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWe",
+   "image": "",
+   "date": "2026-09-04T11:42:55+00:00",
+   "iocs": "iocs/d724b09b1159.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Google Patches 6th Chrome Zero-Day of 2026",
+   "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+   "desc": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-04T11:31:52+00:00",
+   "iocs": "iocs/9954213a9a08.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
+   "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
+   "desc": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-04T10:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+   "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+   "desc": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
+   "date": "2026-09-04T08:48:45+00:00",
+   "iocs": "iocs/7eb26d7003dc.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+   "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+   "desc": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg",
+   "date": "2026-09-04T07:35:14+00:00",
+   "iocs": "iocs/08f9037c31db.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+   "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+   "desc": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg",
+   "date": "2026-09-04T07:18:47+00:00",
+   "iocs": "iocs/49749711ba07.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+   "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+   "desc": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg",
+   "date": "2026-09-04T06:47:52+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
@@ -265,32 +375,12 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-   "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-   "desc": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared fi",
-   "image": "",
-   "date": "2026-09-03T10:40:00+00:00",
-   "iocs": "iocs/250410176829.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
    "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
    "desc": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous D",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif",
    "date": "2026-09-03T10:36:39+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-   "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-   "desc": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaw",
-   "image": "",
-   "date": "2026-09-03T10:30:00+00:00",
-   "iocs": "iocs/1db68394268a.txt",
-   "ioc_count": 6
   },
   {
    "source": "Unit 42",
@@ -393,14 +483,6 @@
    "date": "2026-09-02T19:46:31+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-   "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-   "desc": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared fi",
-   "image": "",
-   "date": "2026-09-02T19:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
    "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
@@ -441,88 +523,6 @@
    "desc": "The &quot;Spring Ring&quot; operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-02T16:51:21+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-   "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
-   "desc": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resul",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKCtgI2bIF4kLY71qjkluS80XAm5YPA9y9GzTxC8XBTaxq1d42jyZ-bxAr7OlZ-wCc4-RDp_NmUPKxd9TS1dvtjt3gysB86SkMuQ5q6vGb7HTh-DVMNC8VJcJFC2sJmiSQ740SX-miCoyiGfkAXLqO1ySH3zenWcAP7g6ilReO9jRsnl3Tnw279K7NYF3/s1600/windows-updates.jpg",
-   "date": "2026-09-02T16:41:06+00:00",
-   "iocs": "iocs/64ac102057da.txt",
-   "ioc_count": 16
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-   "desc": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-   "image": "",
-   "date": "2026-09-02T15:47:08+00:00",
-   "iocs": "iocs/2a5f36015133.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-   "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-   "desc": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify. The post UK Moves to Block High-Risk Tech Suppliers From",
-   "image": "",
-   "date": "2026-09-02T15:45:08+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "New pro-Ukraine hacker group targets Russian companies with custom ransomware",
-   "link": "https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia",
-   "desc": "The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week.",
-   "image": "",
-   "date": "2026-09-02T15:07:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-   "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-   "desc": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif",
-   "date": "2026-09-02T14:06:59+00:00",
-   "iocs": "iocs/335721a8136c.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-   "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-   "desc": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving reco",
-   "image": "",
-   "date": "2026-09-02T14:02:12+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-   "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-   "desc": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
-   "date": "2026-09-02T13:44:16+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-   "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-   "desc": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A ho",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg",
-   "date": "2026-09-02T13:12:45+00:00",
-   "iocs": "iocs/0c1e353de769.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
-   "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-   "desc": "The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products. The post Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products appeared f",
-   "image": "",
-   "date": "2026-09-02T12:39:07+00:00",
-   "iocs": "iocs/2bafb704965b.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",

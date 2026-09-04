@@ -1,0 +1,16 @@
+IOC EXTRACTION - Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day
+Source: https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html
+Extracted: 2026-09-04 12:46:41 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-11645
+CVE-2026-2441
+CVE-2026-3909
+CVE-2026-3910
+CVE-2026-5281
+CVE-2026-85046

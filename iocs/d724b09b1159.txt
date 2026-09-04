@@ -1,0 +1,12 @@
+IOC EXTRACTION - VMware Workstation and Fusion Updates Patch Critical Vulnerability
+Source: https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/
+Extracted: 2026-09-04 12:46:50 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-59346
+CVE-2026-59347

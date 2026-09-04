@@ -1,0 +1,12 @@
+IOC EXTRACTION - Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws
+Source: https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html
+Extracted: 2026-09-04 12:46:38 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-14894
+CVE-2026-32475
