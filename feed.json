@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-05T11:43:23.114832+00:00",
+ "generated": "2026-09-05T14:50:06.372222+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+   "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+   "desc": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+   "image": "",
+   "date": "2026-09-05T14:29:13+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+   "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+   "desc": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Si",
+   "image": "",
+   "date": "2026-09-05T13:00:28+00:00",
+   "iocs": "iocs/cf822ca0e892.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
@@ -453,14 +471,6 @@
    "ioc_count": 8
   },
   {
-   "source": "SecurityWeek",
-   "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-   "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-   "desc": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leak",
-   "image": "",
-   "date": "2026-09-03T15:35:19+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
    "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
@@ -493,16 +503,6 @@
    "desc": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
    "image": "",
    "date": "2026-09-03T15:02:52+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-   "desc": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-   "image": "",
-   "date": "2026-09-03T14:52:20+00:00",
-   "iocs": "iocs/12bd6356b4bc.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",

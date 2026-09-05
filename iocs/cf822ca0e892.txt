@@ -1,0 +1,11 @@
+IOC EXTRACTION - Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites
+Source: https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/
+Extracted: 2026-09-05 14:50:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-32475
