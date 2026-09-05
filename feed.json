@@ -1,18 +1,26 @@
 {
- "generated": "2026-09-05T03:38:14.471504+00:00",
- "sources_ok": 13,
+ "generated": "2026-09-05T07:51:42.622676+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+   "desc": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg",
+   "date": "2026-09-05T07:31:53+00:00",
+   "iocs": "iocs/c08f05268e88.txt",
+   "ioc_count": 4
+  },
   {
    "source": "SANS ISC",
    "title": "numbat - AI agent observability, (Fri, Sep 4th)",
    "link": "https://isc.sans.edu/diary/rss/33312",
    "desc": "",
    "image": "",
-   "date": "2026-09-05T03:31:55+00:00"
+   "date": "2026-09-05T03:39:52+00:00"
   },
   {
    "source": "Socket",
@@ -77,6 +85,14 @@
    "ioc_count": 12
   },
   {
+   "source": "RF The Record",
+   "title": "US, Britain to coordinate on scam center takedowns",
+   "link": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
+   "desc": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.",
+   "image": "",
+   "date": "2026-09-04T15:42:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
@@ -117,6 +133,14 @@
    "ioc_count": 6
   },
   {
+   "source": "RF The Record",
+   "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+   "link": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+   "desc": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a yea",
+   "image": "",
+   "date": "2026-09-04T14:45:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Microsoft says some users can’t open the Teams desktop client",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
@@ -151,6 +175,14 @@
    "date": "2026-09-04T14:01:11+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+   "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+   "desc": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+   "image": "",
+   "date": "2026-09-04T13:39:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
    "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
@@ -175,6 +207,14 @@
    "desc": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-04T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "G7 urges organizations to prepare for quantum cyber threats",
+   "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+   "desc": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+   "image": "",
+   "date": "2026-09-04T12:34:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -285,6 +325,14 @@
    "desc": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg",
    "date": "2026-09-04T06:47:52+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+   "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+   "desc": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
+   "image": "",
+   "date": "2026-09-04T04:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -505,14 +553,6 @@
    "date": "2026-09-03T10:00:58+00:00",
    "iocs": "iocs/4a6e6a0c559c.txt",
    "ioc_count": 16
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-   "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-   "desc": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
-   "date": "2026-09-03T08:43:17+00:00"
   },
   {
    "source": "SANS ISC",
