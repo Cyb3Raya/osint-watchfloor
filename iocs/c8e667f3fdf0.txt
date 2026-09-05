@@ -1,0 +1,13 @@
+IOC EXTRACTION - Dirty Frag (CVE-2026-43284): the Linux kernel bug that turns read access into root
+Source: https://www.aikido.dev/blog/dirty-frag
+Extracted: 2026-09-05 03:38:11 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-43284
+CVE-2026-43500
+CVE-2026-46300
