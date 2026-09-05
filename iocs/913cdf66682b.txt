@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
+Source: https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html
+Extracted: 2026-09-05 17:12:35 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-63077

@@ -1,9 +1,29 @@
 {
- "generated": "2026-09-05T14:50:06.372222+00:00",
+ "generated": "2026-09-05T17:12:43.599865+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+   "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+   "desc": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
+   "date": "2026-09-05T16:52:33+00:00",
+   "iocs": "iocs/913cdf66682b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+   "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+   "desc": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
+   "date": "2026-09-05T16:05:08+00:00",
+   "iocs": "iocs/e74c4bc78631.txt",
+   "ioc_count": 4
+  },
   {
    "source": "BleepingComputer",
    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
@@ -11,6 +31,16 @@
    "desc": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
    "image": "",
    "date": "2026-09-05T14:29:13+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+   "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+   "desc": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg",
+   "date": "2026-09-05T14:17:02+00:00",
+   "iocs": "iocs/28549037149e.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -505,14 +535,6 @@
    "date": "2026-09-03T15:02:52+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-   "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-   "desc": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg",
-   "date": "2026-09-03T14:39:05+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
@@ -527,24 +549,6 @@
    "desc": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-03T12:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-   "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-   "desc": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg",
-   "date": "2026-09-03T11:58:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-   "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-   "desc": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg",
-   "date": "2026-09-03T10:43:01+00:00",
-   "iocs": "iocs/0ffead6ad9f8.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",

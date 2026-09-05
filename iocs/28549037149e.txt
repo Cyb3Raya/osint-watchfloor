@@ -1,0 +1,11 @@
+IOC EXTRACTION - Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted
+Source: https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html
+Extracted: 2026-09-05 17:12:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-72898

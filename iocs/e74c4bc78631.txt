@@ -1,0 +1,14 @@
+IOC EXTRACTION - Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
+Source: https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html
+Extracted: 2026-09-05 17:12:36 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-59309
+CVE-2026-59310
+CVE-2026-59346
+CVE-2026-59347
