@@ -1,11 +1,19 @@
 {
- "generated": "2026-09-05T19:06:42.055131+00:00",
- "sources_ok": 13,
+ "generated": "2026-09-05T21:20:38.537834+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+   "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+   "desc": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg",
+   "date": "2026-09-05T20:14:47+00:00",
+   "iocs": "iocs/9eeec10be375.txt",
+   "ioc_count": 7
+  },
   {
    "source": "The Hacker News",
    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
@@ -153,6 +161,14 @@
    "ioc_count": 12
   },
   {
+   "source": "RF The Record",
+   "title": "US, Britain to coordinate on scam center takedowns",
+   "link": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
+   "desc": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.",
+   "image": "",
+   "date": "2026-09-04T15:42:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
@@ -193,6 +209,14 @@
    "ioc_count": 6
   },
   {
+   "source": "RF The Record",
+   "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+   "link": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+   "desc": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a yea",
+   "image": "",
+   "date": "2026-09-04T14:45:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Microsoft says some users can’t open the Teams desktop client",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
@@ -227,6 +251,14 @@
    "date": "2026-09-04T14:01:11+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+   "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+   "desc": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+   "image": "",
+   "date": "2026-09-04T13:39:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
    "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
@@ -251,6 +283,14 @@
    "desc": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-04T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "G7 urges organizations to prepare for quantum cyber threats",
+   "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+   "desc": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+   "image": "",
+   "date": "2026-09-04T12:34:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -363,6 +403,14 @@
    "date": "2026-09-04T06:47:52+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+   "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+   "desc": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
+   "image": "",
+   "date": "2026-09-04T04:00:00+00:00"
+  },
+  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
    "link": "https://isc.sans.edu/diary/rss/33310",
@@ -461,16 +509,6 @@
    "date": "2026-09-03T15:52:07+00:00",
    "iocs": "iocs/10869e1cb2f9.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-   "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-   "desc": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg",
-   "date": "2026-09-03T15:26:47+00:00",
-   "iocs": "iocs/9d9736b815d5.txt",
-   "ioc_count": 3
   },
   {
    "source": "BleepingComputer",

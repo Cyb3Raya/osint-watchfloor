@@ -1,0 +1,23 @@
+IOC EXTRACTION - Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
+Source: https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html
+Extracted: 2026-09-05 21:20:32 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+5[.]181[.]86[.]133
+88[.]216[.]72[.]181
+99[.]84[.]67[.]186
+
+Domains (1)
+----------------------------------------
+247[.]cdnflare[.]xyz
+
+SHA256 (3)
+----------------------------------------
+251fabd50d7b18a8b5e1b3ef5d64e7198c17244778f6461fb1ab07f6169bf220
+8334b434fa3fe9f59cebe9609b11e0b1fd19d10212c45c705adec1902a1d06ef
+e315687a1dfe61ef4a5a5642214db6d3b2b05d81391285eebc2af664641a26a7
