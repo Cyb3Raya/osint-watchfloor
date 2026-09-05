@@ -1,0 +1,15 @@
+IOC EXTRACTION - Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel
+Source: https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html
+Extracted: 2026-09-05 11:43:15 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+20[.]223[.]25[.]152
+
+Domains (1)
+----------------------------------------
+bypass[.]blob[.]core[.]windows[.]net

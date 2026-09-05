@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-05T07:51:42.622676+00:00",
+ "generated": "2026-09-05T11:43:23.114832+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+   "desc": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rat",
+   "image": "",
+   "date": "2026-09-05T11:11:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+   "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+   "desc": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg",
+   "date": "2026-09-05T07:55:10+00:00",
+   "iocs": "iocs/1c98993ec175.txt",
+   "ioc_count": 2
+  },
   {
    "source": "The Hacker News",
    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
@@ -503,14 +521,6 @@
    "date": "2026-09-03T14:38:49+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-   "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-   "desc": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is ",
-   "image": "",
-   "date": "2026-09-03T13:50:59+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
    "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
@@ -535,14 +545,6 @@
    "date": "2026-09-03T10:43:01+00:00",
    "iocs": "iocs/0ffead6ad9f8.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-   "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-   "desc": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous D",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif",
-   "date": "2026-09-03T10:36:39+00:00"
   },
   {
    "source": "Unit 42",
