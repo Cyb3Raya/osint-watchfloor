@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-06T21:27:36.231651+00:00",
+ "generated": "2026-09-06T23:08:40.953829+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33314",
+   "desc": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been",
+   "image": "",
+   "date": "2026-09-06T21:43:17+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Attackers conceal phishing lures using invisible Unicode characters",
@@ -775,14 +783,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-31T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-   "link": "https://isc.sans.edu/diary/rss/33288",
-   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.20.0 release brings 14 improvements and 13 bugfixes.&#xd;",
-   "image": "",
-   "date": "2026-08-30T07:14:49+00:00"
   },
   {
    "source": "Unit 42",
