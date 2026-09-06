@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-06T14:14:31.653562+00:00",
+ "generated": "2026-09-06T17:08:29.374900+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Attackers conceal phishing lures using invisible Unicode characters",
+   "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+   "desc": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+   "image": "",
+   "date": "2026-09-06T14:23:46+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -523,14 +531,6 @@
    "desc": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
    "image": "",
    "date": "2026-09-03T15:13:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Anthropic confirms Claude is down, multiple models affected",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-   "desc": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-   "image": "",
-   "date": "2026-09-03T15:02:52+00:00"
   },
   {
    "source": "Dark Reading",
