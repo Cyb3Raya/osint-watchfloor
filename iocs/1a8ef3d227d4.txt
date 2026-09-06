@@ -1,0 +1,15 @@
+IOC EXTRACTION - Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
+Source: https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html
+Extracted: 2026-09-06 11:05:47 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA256 (5)
+----------------------------------------
+13d7237d7289e67c2d806a65d52580b453ce4987acbe2c4c4d04833f55ebccfa
+14b2ac356ed75d10ef40bbaaa48e7dd9fff7de9719c2a43ad123fe843dd4e4e2
+7c08cf409194056a8517865e5d3433d1499bb8262263b55b49b8b07d9d182fcb
+adc4aa652965396b52e79435ca54987ae9eb21bf5e67de5e9461b09655165ee4
+c66d2b77b9e85c53391891212413ad9a99eb66f4b11c6a431e78884a5b2651e5

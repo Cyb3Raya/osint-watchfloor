@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-06T06:02:46.260366+00:00",
+ "generated": "2026-09-06T11:06:02.536057+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+   "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+   "desc": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Pols",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg",
+   "date": "2026-09-06T09:32:38+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+   "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+   "desc": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg",
+   "date": "2026-09-06T08:34:20+00:00",
+   "iocs": "iocs/1a8ef3d227d4.txt",
+   "ioc_count": 5
+  },
   {
    "source": "The Hacker News",
    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
@@ -463,16 +481,6 @@
    "ioc_count": 11
   },
   {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-   "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-   "desc": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg",
-   "date": "2026-09-03T18:02:47+00:00",
-   "iocs": "iocs/eae08603ec40.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Cisco Talos",
    "title": "The story behind the intelligence",
    "link": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
@@ -499,16 +507,6 @@
    "desc": "The recent AI warning letter is right about the &quot;window,&quot; but it omits naming who is coming through it or, critically, who will close it.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0238701b3b59da5d/6a9b00948fc952ee7af9f806/AI_warning_-J_Studios-getty-2189472651.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-03T17:23:14+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-   "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-   "desc": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardenin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
-   "date": "2026-09-03T15:52:07+00:00",
-   "iocs": "iocs/10869e1cb2f9.txt",
-   "ioc_count": 8
   },
   {
    "source": "BleepingComputer",
