@@ -1,0 +1,11 @@
+IOC EXTRACTION - arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)
+Source: https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack
+Extracted: 2026-09-07 18:09:39 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+23[.]254[.]167[.]107

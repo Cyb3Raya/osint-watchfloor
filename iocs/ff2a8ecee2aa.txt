@@ -1,0 +1,16 @@
+IOC EXTRACTION - Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released
+Source: https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html
+Extracted: 2026-09-07 18:09:24 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2019-18935
+CVE-2026-13181
+CVE-2026-13182
+CVE-2026-13183
+CVE-2026-13184
+CVE-2026-13185

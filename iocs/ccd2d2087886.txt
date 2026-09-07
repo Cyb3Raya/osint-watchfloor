@@ -1,0 +1,11 @@
+IOC EXTRACTION - JetBrains Cadence Compromised via Exploitation of TeamCity Vulnerability (Incident)
+Source: https://threats.wiz.io/all-incidents/jetbrains-cadence-compromised-via-exploitation-of-teamcity-vulnerability
+Extracted: 2026-09-07 18:09:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-63077

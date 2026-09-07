@@ -1,0 +1,19 @@
+IOC EXTRACTION - Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
+Source: https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
+Extracted: 2026-09-07 18:09:20 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (9)
+----------------------------------------
+assignpasskey[.]com
+mfaregister[.]com
+nowsso[.]com
+oskeysetup[.]com
+oursso[.]com
+passkey-mfa[.]com
+passkeydeploy[.]com
+registermymfa[.]com
+setpasskey[.]com

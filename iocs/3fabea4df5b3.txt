@@ -1,0 +1,17 @@
+IOC EXTRACTION - Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts
+Source: https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html
+Extracted: 2026-09-07 18:09:23 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+131[.]123[.]40[.]98
+45[.]13[.]237[.]190
+
+Domains (2)
+----------------------------------------
+borertors92[.]anondns[.]net
+tele-sync[.]opik[.]net

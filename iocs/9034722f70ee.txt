@@ -1,0 +1,11 @@
+IOC EXTRACTION - Coder Module Registry Compromise Leads to Credential-Stealing Malware Distribution (Incident)
+Source: https://threats.wiz.io/all-incidents/coder-module-registry-compromise-leads-to-credential-stealing-malware-distribution
+Extracted: 2026-09-07 18:09:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+coder-infra[.]com

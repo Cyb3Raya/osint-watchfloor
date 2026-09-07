@@ -1,9 +1,53 @@
 {
- "generated": "2026-09-07T12:45:53.904926+00:00",
+ "generated": "2026-09-07T18:09:41.072892+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+   "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+   "desc": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+   "image": "",
+   "date": "2026-09-07T16:50:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+   "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+   "desc": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-Zo4zgxCrVcz6-00WV2qAPHSD-av2Ed5hgRmR-2vUzkr9jVeph0NNb6gGsQfwSkFyuRfRcSsaISSpfysl_Xx5F48IM7HdBpO4F3CaVuLhk1v0a4vcH5xK_bxX6BxIjkfAjhDaNGcLG7_R9IcTjVGlFcW7y1ZV64imACHi9528LOjH1Flhk-cy9LFgrMv/s1600/phish-ms.jpg",
+   "date": "2026-09-07T15:51:56+00:00",
+   "iocs": "iocs/9c92a7066f1f.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+   "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+   "desc": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+   "image": "",
+   "date": "2026-09-07T15:39:51+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+   "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+   "desc": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SJbgfzjY0QMdutDU1Lf8A1ZVh6S-hcQEwATiHIXXKIpYhh1mrojhkxootev2lhFxjehrTS8h3UNmZgHBwgxNUN0ho2r5Tzk2PRLqK_yO-4OetzmlaFE5V5z0G-Yp34y_RWR5ZlWoL51LWMOFh8YTZCKDADDnHFLhYZl5oQkqLFxJ9JHK1j35kxilIkyp/s1600/recaps.jpg",
+   "date": "2026-09-07T14:36:07+00:00",
+   "iocs": "iocs/24d56919cba7.txt",
+   "ioc_count": 97
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Mathspace discloses data breach affecting over 1 million people",
+   "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+   "desc": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+   "image": "",
+   "date": "2026-09-07T13:05:11+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Trezor data breach impact now reaches 81,000 customers",
@@ -77,6 +121,34 @@
    "desc": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-07T11:45:48+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+   "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+   "desc": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkHa8CDEfDzL0HknvyLE5eRK8r91iyhgzpCS1GmG3HRtriZYYFzCTP9_H433YsqJ80SAppgs9g6rOhsTWIzHPh_CFcZJS18DIj5ANgzFwSU0vfcyJofTEqEvjGGjNcqZdHU_54PENNzxawWHCZ2r_1K-A63x3P8CbuIiu8OHASjQV3OoglWTefAF2dZw/s1600/intruder.jpg",
+   "date": "2026-09-07T11:45:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+   "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+   "desc": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWA_nxvqJuKkqq0ab1I-XR1YtpsM6BadhHDNOIheZmBflLWaQ018JFJsAUBVuyWWTYI4pyT8OQNXhui8Annde3SnOIScH9B0ohMq-OzXLjvPeAXQnz4mAUdEMS_07i7gLaWqPVpHaPvyLJdZQKUTs2MLGhjB9UZ0A83CGcSeDCJFKn7hNjiyf6dbzbHogp/s1600/screen.jpg",
+   "date": "2026-09-07T11:36:39+00:00",
+   "iocs": "iocs/3fabea4df5b3.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+   "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+   "desc": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progres",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwlnNFKd-mH5uyY-AjtXSVx57m9MDT4WRtoQStPY9HoNxOP3ps7znRzENJAK7ZzF4homlCzVGVPFuFZ1sXYGciKyA3rZN_NYewwTXhwpRxCUFaPmUmdgP_TdJQtf57falTD12A0GJewAS23pnxttANQ1meOeRFnr_IqZqAngg0rc9ov998VwQlANB0cE/s1600/tel.jpg",
+   "date": "2026-09-07T11:20:14+00:00",
+   "iocs": "iocs/ff2a8ecee2aa.txt",
+   "ioc_count": 6
   },
   {
    "source": "BleepingComputer",
@@ -323,16 +395,6 @@
    "date": "2026-09-04T15:57:31+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-   "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-   "desc": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg",
-   "date": "2026-09-04T15:57:15+00:00",
-   "iocs": "iocs/ffe72a79b189.txt",
-   "ioc_count": 12
-  },
-  {
    "source": "RF The Record",
    "title": "US, Britain to coordinate on scam center takedowns",
    "link": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
@@ -349,26 +411,6 @@
    "date": "2026-09-04T15:25:59+00:00",
    "iocs": "iocs/7483ae5401bd.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-   "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-   "desc": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg",
-   "date": "2026-09-04T15:20:19+00:00",
-   "iocs": "iocs/d7ed15b40cfe.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-   "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-   "desc": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
-   "date": "2026-09-04T14:51:13+00:00",
-   "iocs": "iocs/b1ea25ffc370.txt",
-   "ioc_count": 6
   },
   {
    "source": "RF The Record",
@@ -405,14 +447,6 @@
    "date": "2026-09-04T14:23:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "39 New Methods That Compromise Passkey Authentication",
-   "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-   "desc": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credenti",
-   "image": "",
-   "date": "2026-09-04T14:01:11+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
    "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
@@ -431,14 +465,6 @@
    "ioc_count": 4
   },
   {
-   "source": "BleepingComputer",
-   "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-   "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-   "desc": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-   "image": "",
-   "date": "2026-09-04T13:22:01+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
@@ -455,40 +481,12 @@
    "date": "2026-09-04T12:34:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-   "desc": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-   "image": "",
-   "date": "2026-09-04T12:22:30+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Insurers Search for Answers to Rein in Rogue AI",
    "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
    "desc": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30db53d3998a9cfc/6a9ab83ce2c6982ca269f92d/AI-justice-law-liability-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-04T12:15:03+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-   "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-   "desc": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
-   "date": "2026-09-04T08:48:45+00:00",
-   "iocs": "iocs/7eb26d7003dc.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-   "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-   "desc": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg",
-   "date": "2026-09-04T07:35:14+00:00",
-   "iocs": "iocs/08f9037c31db.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -743,6 +741,26 @@
    "date": "2026-09-01T02:00:03+00:00"
   },
   {
+   "source": "Wiz Threats",
+   "title": "Coder Module Registry Compromise Leads to Credential-Stealing Malware Distribution (Incident)",
+   "link": "https://threats.wiz.io/all-incidents/coder-module-registry-compromise-leads-to-credential-stealing-malware-distribution",
+   "desc": "The attacker gained unauthorized access to Coder’s Cloudflare infrastructure and added attacker-controlled IP addresses to the pool serving Coder’s module registry. These servers hosted modified registry artifacts contai",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-09-01T00:00:00+00:00",
+   "iocs": "iocs/9034722f70ee.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "JetBrains Cadence Compromised via Exploitation of TeamCity Vulnerability (Incident)",
+   "link": "https://threats.wiz.io/all-incidents/jetbrains-cadence-compromised-via-exploitation-of-teamcity-vulnerability",
+   "desc": "Cadence uses JetBrains TeamCity to orchestrate cloud workloads, and the affected server, api.cadence.jetbrains.com, remained vulnerable to CVE-2026-63077 despite having been intended for patching. Threat actors exploited",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-09-01T00:00:00+00:00",
+   "iocs": "iocs/ccd2d2087886.txt",
+   "ioc_count": 1
+  },
+  {
    "source": "Socket",
    "title": "6 AppSec CTOs Debate Open Source Supply Chain Security at Black Hat",
    "link": "https://socket.dev/blog/oss-supplyl-chain-security-blackhat?utm_medium=feed",
@@ -839,6 +857,14 @@
    "desc": "Enterprise security teams can now detect malware, credential theft, suspicious network activity, and risky updates across Microsoft Edge extensions.",
    "image": "",
    "date": "2026-08-28T13:22:10+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "@7nohe/openapi-react-query-codegen Compromised in Supply Chain Attack (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/7noheopenapi-react-query-codegen-compromised-in-supply-chain-attack",
+   "desc": "On August 28, starting at approximately 2000 UTC eight malicious versions of the @7nohe/openapi-react-query-codegen package were published on npm and were available for approximately three hours. These malicious versions",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-08-28T00:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1020,6 +1046,16 @@
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_Malware_Category_1920x900-2.jpg",
    "date": "2026-08-20T10:00:25+00:00",
    "iocs": "iocs/43d319c9aabf.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack",
+   "desc": "On August 20, 2026, malicious versions of three Rust crates were published to crates.io from the account of their maintainer, droundy: arrayref@0.3.10, internment@0.8.7 and append-only-vec@0.1.9. The Rust Security Respon",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-08-20T00:00:00+00:00",
+   "iocs": "iocs/8308c84247d5.txt",
    "ioc_count": 1
   },
   {
@@ -1419,14 +1455,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Wiz Threats",
-   "title": "Coordinated GitHub API Enumeration and Access Token Abuse (Campaign)",
-   "link": "https://threats.wiz.io/all-incidents/coordinated-github-api-enumeration-and-access-token-abuse",
-   "desc": "Datadog Security Labs identified multiple coordinated campaigns abusing the GitHub API to systematically enumerate organizations, repositories, users, and software development activity at scale. The activity primarily re",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-07-08T00:00:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
@@ -1461,14 +1489,6 @@
    "ioc_count": 58
   },
   {
-   "source": "Wiz Threats",
-   "title": "Cryptojacking Campaign Targeting K8s Clusters (Campaign)",
-   "link": "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targeting-k8s-clusters",
-   "desc": "Researchers identified a campaign leveraging the Realm C2 framework that has compromised thousands of Linux hosts between June 13-23, 2026, with a primary focus on a large managed Kubernetes clusters. The attackers explo",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-06-25T00:00:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
@@ -1477,22 +1497,6 @@
    "date": "2026-06-24T11:00:00+00:00",
    "iocs": "iocs/d2fd2edad7ca.txt",
    "ioc_count": 12
-  },
-  {
-   "source": "Wiz Threats",
-   "title": "Klue Supply Chain Breach Leads to Salesforce Data Exfiltration (Incident)",
-   "link": "https://threats.wiz.io/all-incidents/klue-supply-chain-breach-leads-to-salesforce-data-exfiltration",
-   "desc": "According to investigations, the compromise began when attackers gained access to Klue backend systems and deployed code capable of harvesting OAuth tokens used by customers to integrate Klue with third-party platforms s",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-   "source": "Wiz Threats",
-   "title": "Mastra Packages Trojanized with Malicious Dependency (Campaign)",
-   "link": "https://threats.wiz.io/all-incidents/mastra-packages-trojanized-with-malicious-dependency",
-   "desc": "On 17 June 2026, attackers compromised a maintainer account associated with the Mastra npm organization and used it to republish 116 packages over a 27-minute period. Rather than modifying Mastra’s source code directly, ",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-06-17T00:00:00+00:00"
   },
   {
    "source": "Google GTIG",
