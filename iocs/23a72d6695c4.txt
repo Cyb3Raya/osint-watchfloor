@@ -1,0 +1,13 @@
+IOC EXTRACTION - Hackers exploit new MikroTik RouterOS flaws to hijack routers
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/
+Extracted: 2026-09-07 12:45:35 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-67276
+CVE-2026-67277
+CVE-2026-86060

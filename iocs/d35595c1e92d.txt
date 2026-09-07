@@ -1,0 +1,17 @@
+IOC EXTRACTION - N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw
+Source: https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html
+Extracted: 2026-09-07 12:45:30 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2025-8875
+CVE-2025-8876
+CVE-2026-18556
+CVE-2026-18577
+CVE-2026-86206
+CVE-2026-86207
+CVE-2026-86218

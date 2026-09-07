@@ -1,0 +1,15 @@
+IOC EXTRACTION - N-able patches max severity N-central flaw amid ongoing attacks
+Source: https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/
+Extracted: 2026-09-07 12:45:38 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2025-8875
+CVE-2025-8876
+CVE-2026-86206
+CVE-2026-86207
+CVE-2026-86218
