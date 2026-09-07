@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-07T01:06:22.885377+00:00",
+ "generated": "2026-09-07T06:11:14.465751+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+   "desc": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+   "image": "",
+   "date": "2026-09-07T01:15:43+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
@@ -531,14 +539,6 @@
    "desc": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
    "image": "",
    "date": "2026-09-03T15:22:33+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-   "desc": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-   "image": "",
-   "date": "2026-09-03T15:13:29+00:00"
   },
   {
    "source": "Dark Reading",
