@@ -1,0 +1,11 @@
+IOC EXTRACTION - PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
+Source: https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html
+Extracted: 2026-09-07 21:35:40 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+206[.]237[.]30[.]232

@@ -1,9 +1,19 @@
 {
- "generated": "2026-09-07T18:09:41.072892+00:00",
+ "generated": "2026-09-07T21:35:48.759808+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+   "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+   "desc": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code ex",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3-5bNylOMc_s8MAT2ibQnV33cnJXadwKPRXjYgAL0GcZWOXuwtM-s5HS4ryVu5ewnhfAqBtOiuSseLcUSyDIfxf5XKF6mAwrpyG-v3Y-siqjJY8I5zVEMXwfkKPwBNAqaO2sQFI-q2oA4MWiagZFUlknIPKADDfvOo8s2Ifsa_xBAojg1rD5ZGUErC85/s1600/chrome-malware.jpg",
+   "date": "2026-09-07T18:12:09+00:00",
+   "iocs": "iocs/6c94379fcb16.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
@@ -323,16 +333,6 @@
    "date": "2026-09-05T07:55:10+00:00",
    "iocs": "iocs/1c98993ec175.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-   "desc": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg",
-   "date": "2026-09-05T07:31:53+00:00",
-   "iocs": "iocs/c08f05268e88.txt",
-   "ioc_count": 4
   },
   {
    "source": "SANS ISC",
