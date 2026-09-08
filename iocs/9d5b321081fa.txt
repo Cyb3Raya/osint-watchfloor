@@ -1,0 +1,18 @@
+IOC EXTRACTION - Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days
+Source: https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/
+Extracted: 2026-09-08 20:16:05 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2023-21674
+CVE-2026-55007
+CVE-2026-65669
+CVE-2026-69465
+CVE-2026-69525
+CVE-2026-80097
+CVE-2026-81963
+CVE-2026-85880

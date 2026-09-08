@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit
+Source: https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/
+Extracted: 2026-09-08 20:15:56 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-53521

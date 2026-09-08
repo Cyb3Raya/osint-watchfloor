@@ -1,9 +1,105 @@
 {
- "generated": "2026-09-08T17:29:23.024399+00:00",
+ "generated": "2026-09-08T20:16:21.506969+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+   "desc": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+   "image": "",
+   "date": "2026-09-08T20:08:55+00:00",
+   "iocs": "iocs/11f562db786d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "CIA official touts agency’s Cyber Mission Center in capture of Venezuela’s Maduro",
+   "link": "https://therecord.media/cia-cyber-operations-maduro-capture-venezuela",
+   "desc": "A \"flawless\" performance by the CIA's Cyber Mission Center contributed to the capture of Venezuelan President Nicolás Maduro in January, agency Deputy Director Michael Ellis says.",
+   "image": "",
+   "date": "2026-09-08T19:46:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian suspect in bank account takeovers is extradited to US",
+   "link": "https://therecord.media/russian-cybercrime-bank-extradition",
+   "desc": "A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment.",
+   "image": "",
+   "date": "2026-09-08T19:37:42+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
+   "link": "https://isc.sans.edu/diary/rss/33320",
+   "desc": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two",
+   "image": "",
+   "date": "2026-09-08T19:20:30+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
+   "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
+   "desc": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited",
+   "image": "",
+   "date": "2026-09-08T19:20:06+00:00",
+   "iocs": "iocs/9d5b321081fa.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "RF The Record",
+   "title": "Italian tech collective Autistici/Inventati shuts down after US terrorist designation",
+   "link": "https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation",
+   "desc": "On August 26, the State Department labeled A/I an “extremist group” operating infrastructure for “far-left militants across the world” and announced that anyone engaging with the group financially risked exposure to sanc",
+   "image": "",
+   "date": "2026-09-08T19:12:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft releases Windows 10 KB5122878 extended security update",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
+   "desc": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
+   "image": "",
+   "date": "2026-09-08T18:49:19+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
+   "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
+   "desc": "Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code. The post Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-08T18:37:17+00:00",
+   "iocs": "iocs/a25d417da4be.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+   "desc": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-09-08T18:18:05+00:00",
+   "iocs": "iocs/983d80461afe.txt",
+   "ioc_count": 1171
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+   "desc": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+   "image": "",
+   "date": "2026-09-08T17:57:03+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
+   "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
+   "desc": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96e63b09ee56a517/6aa00b69572e2132fa0a49b3/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-08T17:25:37+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "The Hidden Instructions That Can Hijack AI Agents",
@@ -173,28 +269,12 @@
    "date": "2026-09-08T12:40:48+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack",
-   "link": "https://therecord.media/france-hacker-arrest-zerobytes",
-   "desc": "French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.",
-   "image": "",
-   "date": "2026-09-08T12:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers build AI frameworks for widescale credential theft",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
    "desc": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
    "image": "",
    "date": "2026-09-08T12:03:03+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyberattack encrypts systems at Bavarian municipal utility",
-   "link": "https://therecord.media/cyberattack-bavaria-germany-utility",
-   "desc": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.",
-   "image": "",
-   "date": "2026-09-08T12:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -353,14 +433,6 @@
    "ioc_count": 9
   },
   {
-   "source": "BleepingComputer",
-   "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-   "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-   "desc": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
-   "image": "",
-   "date": "2026-09-07T15:39:51+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
    "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
@@ -371,38 +443,6 @@
    "ioc_count": 97
   },
   {
-   "source": "BleepingComputer",
-   "title": "Mathspace discloses data breach affecting over 1 million people",
-   "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-   "desc": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-   "image": "",
-   "date": "2026-09-07T13:05:11+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Trezor data breach impact now reaches 81,000 customers",
-   "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-   "desc": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-   "image": "",
-   "date": "2026-09-07T12:16:32+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-   "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-   "desc": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-07T12:15:57+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-   "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-   "desc": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first ",
-   "image": "",
-   "date": "2026-09-07T12:12:08+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Shai-Hulud Rises From the Dead after 111 days",
    "link": "https://www.aikido.dev/blog/shai-hulud-npm-resurfaces",
@@ -411,14 +451,6 @@
    "date": "2026-09-07T11:55:00+00:00",
    "iocs": "iocs/b210a640c374.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "RF The Record",
-   "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
-   "link": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
-   "desc": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
-   "image": "",
-   "date": "2026-09-07T11:50:00+00:00"
   },
   {
    "source": "Aikido",
@@ -445,14 +477,6 @@
    "date": "2026-09-07T11:36:39+00:00",
    "iocs": "iocs/3fabea4df5b3.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-   "desc": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
-   "image": "",
-   "date": "2026-09-07T10:36:37+00:00"
   },
   {
    "source": "SANS ISC",
@@ -705,14 +729,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Dark Reading",
-   "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-   "link": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
-   "desc": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-01T21:03:19+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Microsoft Teams Notifications Are Now Available in Socket",
    "link": "https://socket.dev/blog/microsoft-teams?utm_medium=feed",
@@ -799,14 +815,6 @@
    "desc": "Socket CTO Ahmad Nassri joins AppSec leaders at Black Hat to discuss active malware, package manager risks, and software supply chain defense.",
    "image": "",
    "date": "2026-08-31T20:31:58+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-   "link": "https://isc.sans.edu/diary/rss/33298",
-   "desc": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-",
-   "image": "",
-   "date": "2026-08-31T20:00:34+00:00"
   },
   {
    "source": "Socket",
