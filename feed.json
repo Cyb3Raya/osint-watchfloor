@@ -1,9 +1,25 @@
 {
- "generated": "2026-09-08T03:44:21.654729+00:00",
+ "generated": "2026-09-08T08:43:27.286342+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+   "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+   "desc": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 t",
+   "image": "",
+   "date": "2026-09-08T07:35:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+   "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+   "desc": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, w",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUJMPbCbes7NM-EpNPWOUc7bYX5pznAZZjAl29ELdnhrIFzOBqkVtUsiDgxWvImd-yqpnCi5E4EaA1SCbnqY-_1qOwv2RnBTrjOHwn738A5TVUyZV6uX9TQyjF2EmPsJhyxHc1IcqV0jH3JraUU5s3Yw64WOCoE4WawhfajZhq7X-XvWQtVfw-S2QxbkU/s1600/grindr.jpg",
+   "date": "2026-09-08T07:00:43+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)",
@@ -333,16 +349,6 @@
    "date": "2026-09-05T11:11:50+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-   "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-   "desc": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg",
-   "date": "2026-09-05T07:55:10+00:00",
-   "iocs": "iocs/1c98993ec175.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "numbat - AI agent observability, (Fri, Sep 4th)",
    "link": "https://isc.sans.edu/diary/rss/33312",
@@ -427,14 +433,6 @@
    "desc": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a yea",
    "image": "",
    "date": "2026-09-04T14:45:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft says some users can’t open the Teams desktop client",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-   "desc": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-   "image": "",
-   "date": "2026-09-04T14:30:15+00:00"
   },
   {
    "source": "Aikido",
