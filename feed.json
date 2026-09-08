@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-07T23:45:27.157319+00:00",
+ "generated": "2026-09-08T03:44:21.654729+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)",
+   "link": "https://isc.sans.edu/diary/rss/33316",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-08T02:00:03+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
@@ -795,14 +803,6 @@
    "date": "2026-08-31T10:00:36+00:00",
    "iocs": "iocs/0befd8aa6b74.txt",
    "ioc_count": 77
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
-   "link": "https://isc.sans.edu/diary/rss/33296",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-31T02:00:03+00:00"
   },
   {
    "source": "Unit 42",
