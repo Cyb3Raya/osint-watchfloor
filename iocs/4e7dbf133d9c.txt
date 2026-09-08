@@ -1,0 +1,13 @@
+IOC EXTRACTION - SAP warns of maximum severity 'OVERPASS' kernel vulnerability
+Source: https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/
+Extracted: 2026-09-08 17:29:05 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-44756
+CVE-2026-58231
+CVE-2026-58240

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Adobe fixes critical Magento zero-day exploited to backdoor servers
+Source: https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/
+Extracted: 2026-09-08 17:29:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-75650
