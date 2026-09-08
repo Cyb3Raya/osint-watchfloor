@@ -1,9 +1,89 @@
 {
- "generated": "2026-09-08T20:16:21.506969+00:00",
+ "generated": "2026-09-08T22:45:06.840202+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
+   "link": "https://therecord.media/microsoft-patch-tuesday-september-2026",
+   "desc": "The new record total for Patch Tuesday is 973 vulnerabilities.",
+   "image": "",
+   "date": "2026-09-08T22:40:00+00:00",
+   "iocs": "iocs/f35a92270422.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
+   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
+   "desc": "Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as \"critical.\"",
+   "image": "",
+   "date": "2026-09-08T22:16:35+00:00",
+   "iocs": "iocs/e9b628c083a5.txt",
+   "ioc_count": 165
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+   "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+   "desc": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping ",
+   "image": "",
+   "date": "2026-09-08T21:44:22+00:00",
+   "iocs": "iocs/6e80b0fb56bf.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+   "desc": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-08T21:26:02+00:00",
+   "iocs": "iocs/12654741403d.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
+   "desc": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ee880bdb37bd5a/6aa06071aa16bb4982ce6be0/hopscotch-LeoPatrizi-GettyImages-1303877346.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-08T21:03:46+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Scammer behind $245 million crypto heist pleads guilty to RICO charges",
+   "link": "https://therecord.media/scammer-behind-245-million-crypto-heist-pleads-guilty-rico",
+   "desc": "Malone Lam was indicted on scamming charges in September 2024 after drawing law enforcement scrutiny for parlaying stolen crypto into lavish Hamptons vacations, cars and private jets.",
+   "image": "",
+   "date": "2026-09-08T20:52:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+   "desc": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt498dd0b9b6ab45c6/6a9ffd284648d9bc55cdf333/Robot_escape-gremlin-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-08T20:36:15+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+   "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+   "desc": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+   "image": "",
+   "date": "2026-09-08T20:35:14+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+   "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+   "desc": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what",
+   "image": "",
+   "date": "2026-09-08T20:24:16+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
@@ -65,6 +145,14 @@
    "date": "2026-09-08T18:49:19+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Jason Haddix: Stop fearing AI pentesting",
+   "link": "https://www.aikido.dev/blog/top-fearing-ai-pentesting",
+   "desc": "Jason Haddix on why manual pentesting can't keep up, what disappears first, and why human methodology is what makes AI pentesting work Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aa058a162894c8b0fcbb10c_Were-going-to-fight-AI-with-AI_Feature.png",
+   "date": "2026-09-08T18:48:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
    "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
@@ -105,14 +193,6 @@
    "title": "The Hidden Instructions That Can Hijack AI Agents",
    "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
    "desc": "Malicious prompts concealed in documents, metadata, emails, images and code can manipulate autonomous agents into taking dangerous actions. The post The Hidden Instructions That Can Hijack AI Agents appeared first on Sec",
-   "image": "",
-   "date": "2026-09-08T17:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "‘White hat’ hackers take $47 million bounty after $320 million crypto theft",
-   "link": "https://therecord.media/liquid-network-blockstream-crypto-theft-hackers-keep-reward",
-   "desc": "Public negotiations between hackers and the operators of the Liquid Network crypto platform ended with the attackers sending back most — but not all — of what they took.",
    "image": "",
    "date": "2026-09-08T17:00:00+00:00"
   },
@@ -217,14 +297,6 @@
    "desc": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg",
    "date": "2026-09-08T14:19:17+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Where the backlash against Flock Safety is having the biggest impact",
-   "link": "https://therecord.media/flock-safety-backlash-places-with-biggest-impact",
-   "desc": "Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs).",
-   "image": "",
-   "date": "2026-09-08T14:03:00+00:00"
   },
   {
    "source": "Google GTIG",
@@ -381,14 +453,6 @@
    "ioc_count": 7
   },
   {
-   "source": "BleepingComputer",
-   "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-   "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-   "desc": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 t",
-   "image": "",
-   "date": "2026-09-08T07:35:50+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
    "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
@@ -413,14 +477,6 @@
    "date": "2026-09-07T18:12:09+00:00",
    "iocs": "iocs/6c94379fcb16.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-   "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-   "desc": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-   "image": "",
-   "date": "2026-09-07T16:50:29+00:00"
   },
   {
    "source": "The Hacker News",
@@ -667,14 +723,6 @@
    "date": "2026-09-02T19:46:31+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-   "desc": "The &quot;Spring Ring&quot; operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-02T16:51:21+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
    "link": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
@@ -689,16 +737,6 @@
    "desc": "",
    "image": "",
    "date": "2026-09-02T02:00:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-   "desc": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-02T01:00:00+00:00",
-   "iocs": "iocs/1c58c50319dd.txt",
-   "ioc_count": 2
   },
   {
    "source": "Krebs on Security",
@@ -717,16 +755,6 @@
    "date": "2026-09-01T21:30:18+00:00",
    "iocs": "iocs/da7c5cd5ea22.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-   "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-   "desc": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte71738f751de1daa/6a97388d5d30863e09d86b97/jfrog-hapabapa-Getty-1273253225.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-01T21:05:53+00:00",
-   "iocs": "iocs/a73d4ab6e1d5.txt",
-   "ioc_count": 2
   },
   {
    "source": "Socket",
@@ -987,14 +1015,6 @@
    "date": "2026-08-26T10:00:05+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "Aikido launches agentic pentesting for Android apps",
-   "link": "https://www.aikido.dev/blog/aikido-launches-agentic-pentesting-for-android-apps",
-   "desc": "Aikido's agents pentest your Android app and its backend in a single whitebox assessment. You get reproducible findings, AutoFix, and retests for every issue. Category: Product & Company Updates",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8e8e3efce59414fbeac608_Aikido-launches-agentic-pentest-for-android_Feature.jpg",
-   "date": "2026-08-26T10:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
    "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
@@ -1211,16 +1231,6 @@
    "date": "2026-08-06T22:26:39+00:00",
    "iocs": "iocs/89cee2888f3f.txt",
    "ioc_count": 11
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Why metaphor may dictate your security strategy",
-   "link": "https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/",
-   "desc": "In this week's newsletter, Martin looks at how the metaphors we use to describe AI \"escaping\" its sandbox can completely change how we react to the threat.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_source.jpg",
-   "date": "2026-08-06T18:00:01+00:00",
-   "iocs": "iocs/7691dab3ed32.txt",
-   "ioc_count": 4
   },
   {
    "source": "Krebs on Security",
@@ -1449,16 +1459,6 @@
    "desc": "A malicious version of the @injectivelabs/sdk-ts npm package (version 1.20.21) was briefly published to the official Injective Labs npm namespace after a contributor account was compromised. The package contained credent",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-09T00:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-   "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-   "desc": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures inc",
-   "image": "",
-   "date": "2026-07-08T12:31:39+00:00",
-   "iocs": "iocs/11d2003407b7.txt",
-   "ioc_count": 2
   },
   {
    "source": "Google GTIG",

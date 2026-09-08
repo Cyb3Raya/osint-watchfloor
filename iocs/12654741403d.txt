@@ -1,0 +1,18 @@
+IOC EXTRACTION - Patch Tuesday Sets Another Record With 974 CVEs
+Source: https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves
+Extracted: 2026-09-08 22:44:54 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2020-1350
+CVE-2026-69380
+CVE-2026-69595
+CVE-2026-69730
+CVE-2026-69829
+CVE-2026-78510
+CVE-2026-81963
+CVE-2026-85880
