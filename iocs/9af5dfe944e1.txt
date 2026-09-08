@@ -1,0 +1,14 @@
+IOC EXTRACTION - FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials
+Source: https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html
+Extracted: 2026-09-08 13:24:10 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-13097
+CVE-2026-76560
+CVE-2026-76578
+CVE-2026-79678

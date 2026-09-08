@@ -1,0 +1,11 @@
+IOC EXTRACTION - Mathspace Data Breach Exposes Over 1 Million People
+Source: https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/
+Extracted: 2026-09-08 13:24:20 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-72898

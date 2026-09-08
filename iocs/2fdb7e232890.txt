@@ -1,0 +1,15 @@
+IOC EXTRACTION - Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell
+Source: https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html
+Extracted: 2026-09-08 13:24:11 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-75650
+
+Domains (1)
+----------------------------------------
+repo[.]magento[.]com

@@ -1,9 +1,153 @@
 {
- "generated": "2026-09-08T08:43:27.286342+00:00",
+ "generated": "2026-09-08T13:24:32.745952+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Google GTIG",
+   "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
+   "desc": "Executive Summary Since the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from ba",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png",
+   "date": "2026-09-08T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+   "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+   "desc": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security ",
+   "image": "",
+   "date": "2026-09-08T12:40:48+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack",
+   "link": "https://therecord.media/france-hacker-arrest-zerobytes",
+   "desc": "French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.",
+   "image": "",
+   "date": "2026-09-08T12:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers build AI frameworks for widescale credential theft",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+   "desc": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+   "image": "",
+   "date": "2026-09-08T12:03:03+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyberattack encrypts systems at Bavarian municipal utility",
+   "link": "https://therecord.media/cyberattack-bavaria-germany-utility",
+   "desc": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.",
+   "image": "",
+   "date": "2026-09-08T12:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+   "desc": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+   "image": "",
+   "date": "2026-09-08T11:57:51+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+   "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+   "desc": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones. The person being called does not have to ans",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjSG5iYgxvsWLWeFe2E-z5UDx0S4Q6zBQjkFEiKuFxcfplz39pE90jWcuiV7NcYqT6t2l8j5WWVBHdV-upHuzQVoy-pt4nL4WP7l-Uz_9AYFqOw1Pn0yI8LzM6OThlXJZY8_b4RVK0WzZYIsjWL96-2O-HHY1SH2FCtrE5c6nV0QJ0aU1X8FVlIvOs3g/s1600/wechat.jpg",
+   "date": "2026-09-08T11:54:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "What It Took to Reach 1 Billion Build Manifests",
+   "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+   "desc": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those ar",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJEqJ_CCrFzLtmEtLrrIWQv80hyY6xtGfdsad0NgYCYSs-ur2ObfnMgE8uBWlZ7idJHbjDcOwpo8_ESTMpCAWAUHUwbqhVr-zqxV-oxUWmR3PMwBD_vrDziQFaeL0VTzX8NUQRFGRzVQCuTPrvflnepbKlCgqH84MRNTJUhZRNfqwEtmBUxhIB5a8MfeE/s1600/chainguard.jpg",
+   "date": "2026-09-08T11:49:02+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+   "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+   "desc": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSKAVaHcAsULrGXPVkGXRyf94eoG7Kv3X0wwK2lRC64l3Em-S4_H5iE8-poK04yzrAC18tuHqpZyHhJvFTgliu_z8jo4QR78Mi4ghhCA-cUVL4oj2zjoLGiWKmD16oV4i44VfY45DYll0Uij_Exf4U2JMSLJEyH8jZk_xXKq7O_7D73q7vTYCCc4hrTnQ/s1600/freeipa.jpg",
+   "date": "2026-09-08T11:22:07+00:00",
+   "iocs": "iocs/9af5dfe944e1.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
+   "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
+   "desc": "Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices. The post MikroTik Patches Critical Flaws Chained to Hack Routers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-08T11:15:00+00:00",
+   "iocs": "iocs/4fcc364b8562.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mathspace Data Breach Exposes Over 1 Million People",
+   "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
+   "desc": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance. The post Mathspace Data Breach Exposes Over 1 Million People appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-08T10:47:36+00:00",
+   "iocs": "iocs/5e38af4b384f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "N-able Patches Critical Zero-Day in N-central",
+   "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
+   "desc": "Administrators are advised to check their deployments for newly created user accounts they don’t recognize. The post N-able Patches Critical Zero-Day in N-central appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-08T10:37:58+00:00",
+   "iocs": "iocs/f20f3d765cbb.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
+   "link": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
+   "desc": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight-1.jpg",
+   "date": "2026-09-08T10:01:07+00:00",
+   "iocs": "iocs/320a2c58ac73.txt",
+   "ioc_count": 22
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2",
+   "link": "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
+   "desc": "Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and inje",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight.jpg",
+   "date": "2026-09-08T10:00:38+00:00",
+   "iocs": "iocs/50c4b3e56fdb.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+   "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+   "desc": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-202",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg",
+   "date": "2026-09-08T09:13:47+00:00",
+   "iocs": "iocs/2fdb7e232890.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+   "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+   "desc": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR R",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rKrsCwJpZOS1Cu2htzFszKn4OgjK2p5A43OUaQJsmlbjsaLfGHtgyqQPfOu3IFWqRBoj2J6hIiqv6CVr56ZLyyf73-E71iaDRB2nrO9qaGOg92EbOcutMu8M8i1uimwkC-GPcc9oGDgFNNLB4kkgfDB3MbcjPuAn_gsml3FyThlEyI3Pg8E-udYq175m/s1600/bing.jpg",
+   "date": "2026-09-08T08:43:51+00:00",
+   "iocs": "iocs/640afb9db3b2.txt",
+   "ioc_count": 7
+  },
   {
    "source": "BleepingComputer",
    "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
@@ -273,62 +417,12 @@
    "date": "2026-09-06T09:32:38+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-   "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-   "desc": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg",
-   "date": "2026-09-06T08:34:20+00:00",
-   "iocs": "iocs/1a8ef3d227d4.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-   "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-   "desc": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg",
-   "date": "2026-09-05T20:14:47+00:00",
-   "iocs": "iocs/9eeec10be375.txt",
-   "ioc_count": 7
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-   "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-   "desc": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
-   "date": "2026-09-05T16:52:33+00:00",
-   "iocs": "iocs/913cdf66682b.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-   "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-   "desc": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
-   "date": "2026-09-05T16:05:08+00:00",
-   "iocs": "iocs/e74c4bc78631.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "BleepingComputer",
    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
    "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
    "desc": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
    "image": "",
    "date": "2026-09-05T14:29:13+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-   "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-   "desc": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg",
-   "date": "2026-09-05T14:17:02+00:00",
-   "iocs": "iocs/28549037149e.txt",
-   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -339,14 +433,6 @@
    "date": "2026-09-05T13:00:28+00:00",
    "iocs": "iocs/cf822ca0e892.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-   "desc": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rat",
-   "image": "",
-   "date": "2026-09-05T11:11:50+00:00"
   },
   {
    "source": "SANS ISC",
@@ -365,14 +451,6 @@
    "date": "2026-09-04T17:03:46+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-   "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-   "desc": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-   "image": "",
-   "date": "2026-09-04T16:56:45+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
    "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
@@ -381,24 +459,6 @@
    "date": "2026-09-04T16:18:30+00:00",
    "iocs": "iocs/f44fd1189325.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
-   "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
-   "desc": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-04T16:11:06+00:00",
-   "iocs": "iocs/e3bb2f8e1bb8.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
-   "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
-   "desc": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility. The post OpenAI Pledges $1 Billion to Bring F",
-   "image": "",
-   "date": "2026-09-04T16:07:22+00:00"
   },
   {
    "source": "Dark Reading",
@@ -415,16 +475,6 @@
    "desc": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.",
    "image": "",
    "date": "2026-09-04T15:42:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-   "desc": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-   "image": "",
-   "date": "2026-09-04T15:25:59+00:00",
-   "iocs": "iocs/7483ae5401bd.txt",
-   "ioc_count": 3
   },
   {
    "source": "RF The Record",
@@ -453,38 +503,12 @@
    "date": "2026-09-04T14:23:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
-   "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
-   "desc": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
-   "image": "",
-   "date": "2026-09-04T13:39:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
-   "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-   "desc": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-04T13:23:12+00:00",
-   "iocs": "iocs/d0d77f5c8803.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
    "desc": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-04T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "G7 urges organizations to prepare for quantum cyber threats",
-   "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
-   "desc": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
-   "image": "",
-   "date": "2026-09-04T12:34:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1253,30 +1277,12 @@
    "ioc_count": 19
   },
   {
-   "source": "Cisco Talos",
-   "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
-   "link": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/",
-   "desc": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based A",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/07/aiartifactheader.jpg",
-   "date": "2026-08-04T10:00:11+00:00",
-   "iocs": "iocs/b938abdeb597.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Wiz Threats",
    "title": "keyv and cacheable npm Package Hijacked in Supply Chain Attack (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/keyv-and-cacheable-npm-package-hijacked-in-supply-chain-attack",
    "desc": "Multiple npm packages in the keyv/cacheable ecosystem were compromised following the compromise of a GitHub maintainer account, resulting in the publication of malicious package versions. All versions shared a consistent",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-08-04T00:00:00+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
-   "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
-   "desc": "Register for an exclusive, unrecorded 30-minute webinar to review the most high-impact incidents Talos IR faced in Q2.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/2-1-no-copy.jpg",
-   "date": "2026-08-03T16:00:12+00:00"
   },
   {
    "source": "Wiz Threats",
@@ -1505,16 +1511,6 @@
    "date": "2026-06-15T14:00:00+00:00",
    "iocs": "iocs/eb358928c590.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "Google GTIG",
-   "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
-   "desc": "Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified an active compromise and extortion campaign attributed to UNC6240 (ShinyHunters) targeting Oracle PeopleSoft application infrastructure. T",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/peoplesoft-shinyhunters.max-1000x1000.png",
-   "date": "2026-06-11T14:00:00+00:00",
-   "iocs": "iocs/2ba6a2a91f63.txt",
-   "ioc_count": 6
   }
  ]
 }

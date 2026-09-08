@@ -1,0 +1,16 @@
+IOC EXTRACTION - MikroTik Patches Critical Flaws Chained to Hack Routers
+Source: https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/
+Extracted: 2026-09-08 13:24:19 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-67276
+CVE-2026-67277
+CVE-2026-67278
+CVE-2026-67279
+CVE-2026-67281
+CVE-2026-86060

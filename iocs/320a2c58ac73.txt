@@ -1,0 +1,41 @@
+IOC EXTRACTION - ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager
+Source: https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
+Extracted: 2026-09-08 13:24:23 UTC
+Total indicators: 22
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+145[.]249[.]109[.]147
+212[.]118[.]56[.]166
+45[.]150[.]34[.]2
+
+Domains (13)
+----------------------------------------
+bsc-testnet-rpc[.]publicnode[.]com
+bsc[.]rpc[.]blxrbdn[.]com
+fd[.]gstats-api-contact[.]cc
+kffd3[.]vexlatech[.]cc
+kffd3[.]vogueatelier[.]cc
+kr[.]cedar2glanz[.]ru
+lb[.]propertyfind[.]cc
+leaguejazire[.]com
+paternal-angrily[.]com
+pkg[.]vogueatelier[.]cc
+riyazinikokar[.]xyz
+static[.]quorashift[.]cc
+update[.]dubbedmuch[.]cc
+
+URLs (2)
+----------------------------------------
+hxxps://phys[.]stunned-amniotic[.]com/hub[.]log
+hxxps://telegra[.]ph/Functions-04-03
+
+SHA256 (4)
+----------------------------------------
+1819827e17f31e72d456158b6b9c90af25a65945f6f05d04a060da9f24179b25
+279d04c0cfd700c8bcb9acbed528131d3ffef8e25d12713e8649772739aecb92
+643ef35536ff9273fb84b8504467b1a5645cd3ffd5476d64b99244b02131b205
+bd36f4c15fe0acb6748da5ed12e45dcc37d412385812c078d1e4f04730e9f69b

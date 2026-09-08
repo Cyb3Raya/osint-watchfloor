@@ -1,0 +1,17 @@
+IOC EXTRACTION - BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams
+Source: https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html
+Extracted: 2026-09-08 13:24:12 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (7)
+----------------------------------------
+pltechoo[.]pro
+readthedocs[.]io
+reficon[.]pro
+stats[.]us3[.]org
+ustechnio[.]com
+viziocomsetupentercode[.]github[.]io
+wapp[.]live

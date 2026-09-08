@@ -1,0 +1,18 @@
+IOC EXTRACTION - ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2
+Source: https://blog.talosintelligence.com/clickfix-moves-into-the-browser/
+Extracted: 2026-09-08 13:24:24 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+obfuscator[.]io
+pastebin[.]com
+simpleswap[.]io
+swapzone[.]io
+
+URLs (1)
+----------------------------------------
+hxxps://paste[.]sh/dQfdExjo#AqjB4BBt]lwLt2NKrlC0x8J9O”
