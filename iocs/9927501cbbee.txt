@@ -1,0 +1,12 @@
+IOC EXTRACTION - Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week
+Source: https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html
+Extracted: 2026-09-09 21:32:23 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-85046
+CVE-2026-85880

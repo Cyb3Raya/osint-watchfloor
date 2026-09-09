@@ -1,9 +1,51 @@
 {
- "generated": "2026-09-09T18:42:48.641026+00:00",
+ "generated": "2026-09-09T21:32:41.085092+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+   "desc": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+   "image": "",
+   "date": "2026-09-09T21:30:36+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+   "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+   "desc": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...",
+   "image": "",
+   "date": "2026-09-09T21:02:14+00:00",
+   "iocs": "iocs/39904fbf6822.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
+   "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
+   "desc": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform.",
+   "image": "",
+   "date": "2026-09-09T19:54:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+   "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+   "desc": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33b13b556aa2e63e/6aa1a92888ea9adc3dabaf29/distillery-ArtistGNDphotography-GettyImages-2195175104.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-09T19:47:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+   "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+   "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg",
+   "date": "2026-09-09T18:26:05+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Grindr settles privacy lawsuit tied to disclosure of users’ HIV statuses for $35 million",
@@ -51,6 +93,16 @@
    "desc": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
    "image": "",
    "date": "2026-09-09T16:48:33+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+   "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+   "desc": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg",
+   "date": "2026-09-09T16:34:05+00:00",
+   "iocs": "iocs/9927501cbbee.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -147,14 +199,6 @@
    "desc": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier",
    "image": "",
    "date": "2026-09-09T12:32:13+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ukraine prosecutor general steps down amid scam call center bribery probe",
-   "link": "https://therecord.media/ukraine-prosecutor-general-scam-center",
-   "desc": "Ukraine’s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement.",
-   "image": "",
-   "date": "2026-09-09T12:15:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -467,28 +511,12 @@
    "ioc_count": 1171
   },
   {
-   "source": "BleepingComputer",
-   "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-   "desc": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-   "image": "",
-   "date": "2026-09-08T17:57:03+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
    "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
    "desc": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96e63b09ee56a517/6aa00b69572e2132fa0a49b3/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-08T17:25:37+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-   "desc": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
-   "image": "",
-   "date": "2026-09-08T16:35:47+00:00"
   },
   {
    "source": "The Hacker News",
@@ -507,22 +535,6 @@
    "date": "2026-09-08T16:12:00+00:00",
    "iocs": "iocs/095349f91fc9.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-   "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-   "desc": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sid",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlEWa8ED8DuOxP9Vi4gKvvtQeWC12LKU4yrjFMJYIczxkqLbjqcHpBHMu4hOHp7zjSLNzbQW8SXMR-3YS0PNgVlVEe-ZgYFfaOPdFYkduxEMls-mRWHx85_WNm8Xli0sGVifFjz4mZ1YjEzHs1DNHFZzzY16ZBZxvi77GmI-mtE3_xiilQo7pfRM_0g8M/s1600/liquid.jpg",
-   "date": "2026-09-08T14:54:30+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-   "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-   "desc": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg",
-   "date": "2026-09-08T14:19:17+00:00"
   },
   {
    "source": "Google GTIG",
@@ -747,14 +759,6 @@
    "desc": "",
    "image": "",
    "date": "2026-09-03T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
-   "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
-   "desc": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-02T21:14:06+00:00"
   },
   {
    "source": "Unit 42",

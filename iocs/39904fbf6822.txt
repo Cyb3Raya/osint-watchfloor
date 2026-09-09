@@ -1,0 +1,11 @@
+IOC EXTRACTION - Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking
+Source: https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/
+Extracted: 2026-09-09 21:32:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-20701
