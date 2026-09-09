@@ -1,0 +1,11 @@
+IOC EXTRACTION - New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access
+Source: https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/
+Extracted: 2026-09-09 15:16:21 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-69414

@@ -1,9 +1,75 @@
 {
- "generated": "2026-09-09T11:34:06.626139+00:00",
+ "generated": "2026-09-09T15:16:41.427299+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
+   "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
+   "desc": "&quot;Workflow identity hijacking&quot; can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7893676670a76d5/6aa13f3e0a3bef09c363535c/Data_security(1800)_ber1a_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-09T14:39:44+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
+   "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+   "desc": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first o",
+   "image": "",
+   "date": "2026-09-09T14:33:52+00:00",
+   "iocs": "iocs/656ecabad0f3.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+   "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+   "desc": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbs",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg",
+   "date": "2026-09-09T14:23:55+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+   "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+   "desc": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service de",
+   "image": "",
+   "date": "2026-09-09T14:01:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+   "link": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+   "desc": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier",
+   "image": "",
+   "date": "2026-09-09T12:32:13+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukraine prosecutor general steps down amid scam call center bribery probe",
+   "link": "https://therecord.media/ukraine-prosecutor-general-scam-center",
+   "desc": "Ukraine’s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement.",
+   "image": "",
+   "date": "2026-09-09T12:15:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy",
+   "link": "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/",
+   "desc": "Muse runs on a dedicated, secure virtual machine that houses both the agent and the user’s data. The post Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-09T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+   "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+   "desc": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint too",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg",
+   "date": "2026-09-09T11:57:36+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
@@ -48,7 +114,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
    "desc": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
    "image": "",
-   "date": "2026-09-09T10:11:29+00:00"
+   "date": "2026-09-09T10:11:29+00:00",
+   "iocs": "iocs/4d22feb60955.txt",
+   "ioc_count": 2
   },
   {
    "source": "Unit 42",
@@ -140,7 +208,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
    "desc": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [",
    "image": "",
-   "date": "2026-09-09T07:30:15+00:00"
+   "date": "2026-09-09T07:30:15+00:00",
+   "iocs": "iocs/aa6e936777c6.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -158,7 +228,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
    "desc": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
    "image": "",
-   "date": "2026-09-09T06:25:48+00:00"
+   "date": "2026-09-09T06:25:48+00:00",
+   "iocs": "iocs/7c0412571004.txt",
+   "ioc_count": 6
   },
   {
    "source": "The Hacker News",
@@ -266,7 +338,7 @@
    "source": "Dark Reading",
    "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-   "desc": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose.",
+   "desc": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a “hack.&quot;",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt498dd0b9b6ab45c6/6a9ffd284648d9bc55cdf333/Robot_escape-gremlin-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-08T20:36:15+00:00"
   },
@@ -331,14 +403,6 @@
    "ioc_count": 8
   },
   {
-   "source": "RF The Record",
-   "title": "Italian tech collective Autistici/Inventati shuts down after US terrorist designation",
-   "link": "https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation",
-   "desc": "On August 26, the State Department labeled A/I an “extremist group” operating infrastructure for “far-left militants across the world” and announced that anyone engaging with the group financially risked exposure to sanc",
-   "image": "",
-   "date": "2026-09-08T19:12:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft releases Windows 10 KB5122878 extended security update",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
@@ -391,22 +455,6 @@
    "date": "2026-09-08T17:25:37+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "The Hidden Instructions That Can Hijack AI Agents",
-   "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
-   "desc": "Malicious prompts concealed in documents, metadata, emails, images and code can manipulate autonomous agents into taking dangerous actions. The post The Hidden Instructions That Can Hijack AI Agents appeared first on Sec",
-   "image": "",
-   "date": "2026-09-08T17:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hackers Return $263 Million Stolen From Liquid Network",
-   "link": "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/",
-   "desc": "Alleged ‘white-hat’ hackers drained $320 million from Liquid’s federation wallet, demanding a bug fix. The post Hackers Return $263 Million Stolen From Liquid Network appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-08T16:35:54+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
@@ -449,24 +497,6 @@
    "date": "2026-09-08T15:22:33+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
-   "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
-   "desc": "The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud. The post Cylake Raises $245 Mill",
-   "image": "",
-   "date": "2026-09-08T15:21:01+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-   "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-   "desc": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
-   "image": "",
-   "date": "2026-09-08T14:55:20+00:00",
-   "iocs": "iocs/4e7dbf133d9c.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
    "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
@@ -491,20 +521,12 @@
    "date": "2026-09-08T14:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-   "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-   "desc": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a larg",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVKt_UmqEYNHNt0K516skza4MoV47hITqzcoC3WLLI3QkQ_jUEffHvaL7VHVtzRqvdt6k2bZwGAFVif-hRkoiTQva6JM95w3NgNRU_WpuTaZfhLGXAcOdLQXy_sMWU1dxAunMAsf7J8PEDG2AKvkFuXbOFyOmIQcaocMIBhNpaYscCUeJElKDXu6xGhkX/s1600/ai-agent.jpg",
-   "date": "2026-09-08T13:48:16+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-   "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-   "desc": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones. The person being called does not have to ans",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjSG5iYgxvsWLWeFe2E-z5UDx0S4Q6zBQjkFEiKuFxcfplz39pE90jWcuiV7NcYqT6t2l8j5WWVBHdV-upHuzQVoy-pt4nL4WP7l-Uz_9AYFqOw1Pn0yI8LzM6OThlXJZY8_b4RVK0WzZYIsjWL96-2O-HHY1SH2FCtrE5c6nV0QJ0aU1X8FVlIvOs3g/s1600/wechat.jpg",
-   "date": "2026-09-08T11:54:29+00:00"
+   "source": "Dark Reading",
+   "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
+   "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites",
+   "desc": "A Chinese-language group is compromising government and education sites to create a reverse-proxy network with gambling-themed sites.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt144603b4435c3485/6aa07bc8ecfebc8277684236/brazil-gambling-currency-Mehaniq-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-08T12:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -666,7 +688,7 @@
    "source": "Dark Reading",
    "title": "What the AI Warning Letter Completely Missed",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
-   "desc": "The recent AI warning letter is right about the &quot;window,&quot; but it omits naming who is coming through it or, critically, who will close it.",
+   "desc": "The recent open letter is right about the &quot;window,&quot; but it omits naming who is coming through it or, critically, who will close it.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0238701b3b59da5d/6a9b00948fc952ee7af9f806/AI_warning_-J_Studios-getty-2189472651.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-03T17:23:14+00:00"
   },
@@ -721,24 +743,6 @@
    "desc": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-02T21:14:06+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
-   "desc": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-02T20:43:59+00:00",
-   "iocs": "iocs/1ae2c66d0e1d.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
-   "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
-   "desc": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-02T19:46:31+00:00"
   },
   {
    "source": "Unit 42",
