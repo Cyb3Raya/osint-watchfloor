@@ -1,0 +1,11 @@
+IOC EXTRACTION - Android’s September 2026 Updates Patch 180 Vulnerabilities
+Source: https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/
+Extracted: 2026-09-09 18:42:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-28662

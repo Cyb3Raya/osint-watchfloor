@@ -1,9 +1,111 @@
 {
- "generated": "2026-09-09T15:16:41.427299+00:00",
+ "generated": "2026-09-09T18:42:48.641026+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Grindr settles privacy lawsuit tied to disclosure of users’ HIV statuses for $35 million",
+   "link": "https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million",
+   "desc": "The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country’s privacy laws.",
+   "image": "",
+   "date": "2026-09-09T18:11:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
+   "link": "https://isc.sans.edu/diary/rss/33324",
+   "desc": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported ",
+   "image": "",
+   "date": "2026-09-09T17:46:24+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
+   "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
+   "desc": "The company will increase its US market presence and will expand its engineering and go-to-market teams. The post HelmGuard Raises $7.3 Million for Agentic GRC and Security appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-09T17:23:58+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Electronic health record company says customer data stolen in breach",
+   "link": "https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach",
+   "desc": "Veradigm said access was limited to a specific interface, and did not impact the company’s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the compa",
+   "image": "",
+   "date": "2026-09-09T17:03:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+   "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
+   "desc": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared ",
+   "image": "",
+   "date": "2026-09-09T16:56:25+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+   "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+   "desc": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+   "image": "",
+   "date": "2026-09-09T16:48:33+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
+   "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+   "desc": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components. The post Android&#8217;s September 2026 Updates Patch 180 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-09T16:30:40+00:00",
+   "iocs": "iocs/21e3904e2ceb.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Multiple Chinese hacking groups seen using identical Chrome zero-day exploit",
+   "link": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
+   "desc": "A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers.",
+   "image": "",
+   "date": "2026-09-09T16:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
+   "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
+   "desc": "Major chipmakers announced patches for vulnerabilities recently discovered in their products. The post Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-09T16:22:54+00:00",
+   "iocs": "iocs/de29fff528b7.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
+   "link": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/",
+   "desc": "Cisco Talos is actively tracking the exploitation of two vulnerabilities in Cisco’s Secure Firewall Management Center (FMC) Software.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_advisory.jpg",
+   "date": "2026-09-09T16:08:59+00:00",
+   "iocs": "iocs/0ef308ce9d4e.txt",
+   "ioc_count": 14
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI puts its cyber strategy on paper",
+   "link": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
+   "desc": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Le",
+   "image": "",
+   "date": "2026-09-09T15:37:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+   "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+   "desc": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+   "image": "",
+   "date": "2026-09-09T15:31:23+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
@@ -137,26 +239,6 @@
    "date": "2026-09-09T10:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
-   "link": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
-   "desc": "Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block. The post New Phishing Attack Creates Malicious Pages Inside",
-   "image": "",
-   "date": "2026-09-09T10:00:00+00:00",
-   "iocs": "iocs/e01c92636af0.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
-   "link": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
-   "desc": "The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible. The post Chrome 153 Patches Seventh Zero-Day of 2026 appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-09T09:45:00+00:00",
-   "iocs": "iocs/42f8cea5a839.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "The Hacker News",
    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
    "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
@@ -279,21 +361,11 @@
    "date": "2026-09-09T01:16:27+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
-   "link": "https://therecord.media/microsoft-patch-tuesday-september-2026",
-   "desc": "The new record total for Patch Tuesday is 973 vulnerabilities.",
-   "image": "",
-   "date": "2026-09-08T22:40:00+00:00",
-   "iocs": "iocs/f35a92270422.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Cisco Talos",
    "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
    "desc": "Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as \"critical.\"",
-   "image": "",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/patch_tuesday.jpg",
    "date": "2026-09-08T22:16:35+00:00",
    "iocs": "iocs/e9b628c083a5.txt",
    "ioc_count": 165
@@ -325,14 +397,6 @@
    "desc": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ee880bdb37bd5a/6aa06071aa16bb4982ce6be0/hopscotch-LeoPatrizi-GettyImages-1303877346.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-08T21:03:46+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Scammer behind $245 million crypto heist pleads guilty to RICO charges",
-   "link": "https://therecord.media/scammer-behind-245-million-crypto-heist-pleads-guilty-rico",
-   "desc": "Malone Lam was indicted on scamming charges in September 2024 after drawing law enforcement scrutiny for parlaying stolen crypto into lavish Hamptons vacations, cars and private jets.",
-   "image": "",
-   "date": "2026-09-08T20:52:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -369,38 +433,12 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "CIA official touts agency’s Cyber Mission Center in capture of Venezuela’s Maduro",
-   "link": "https://therecord.media/cia-cyber-operations-maduro-capture-venezuela",
-   "desc": "A \"flawless\" performance by the CIA's Cyber Mission Center contributed to the capture of Venezuelan President Nicolás Maduro in January, agency Deputy Director Michael Ellis says.",
-   "image": "",
-   "date": "2026-09-08T19:46:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian suspect in bank account takeovers is extradited to US",
-   "link": "https://therecord.media/russian-cybercrime-bank-extradition",
-   "desc": "A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment.",
-   "image": "",
-   "date": "2026-09-08T19:37:42+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
    "link": "https://isc.sans.edu/diary/rss/33320",
    "desc": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two",
    "image": "",
    "date": "2026-09-08T19:20:30+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
-   "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
-   "desc": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited",
-   "image": "",
-   "date": "2026-09-08T19:20:06+00:00",
-   "iocs": "iocs/9d5b321081fa.txt",
-   "ioc_count": 8
   },
   {
    "source": "BleepingComputer",
@@ -417,16 +455,6 @@
    "desc": "Jason Haddix on why manual pentesting can't keep up, what disappears first, and why human methodology is what makes AI pentesting work Category: Guides & Best Practices",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aa058a162894c8b0fcbb10c_Were-going-to-fight-AI-with-AI_Feature.png",
    "date": "2026-09-08T18:48:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
-   "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
-   "desc": "Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code. The post Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-08T18:37:17+00:00",
-   "iocs": "iocs/a25d417da4be.txt",
-   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -463,14 +491,6 @@
    "date": "2026-09-08T16:35:47+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI says ChatGPT outage causes image generation errors",
-   "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-   "desc": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
-   "image": "",
-   "date": "2026-09-08T16:28:42+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
    "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
@@ -487,14 +507,6 @@
    "date": "2026-09-08T16:12:00+00:00",
    "iocs": "iocs/095349f91fc9.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-   "desc": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
-   "image": "",
-   "date": "2026-09-08T15:22:33+00:00"
   },
   {
    "source": "The Hacker News",
@@ -767,16 +779,6 @@
    "desc": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l",
    "image": "",
    "date": "2026-09-01T22:40:28+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33300",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-09-01T21:30:18+00:00",
-   "iocs": "iocs/da7c5cd5ea22.txt",
-   "ioc_count": 6
   },
   {
    "source": "Socket",
@@ -1171,16 +1173,6 @@
    "desc": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_spotlight.jpg",
    "date": "2026-08-13T10:00:35+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities",
-   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/",
-   "desc": "Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as \"critical.\"",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/patch-tuesday.jpg",
-   "date": "2026-08-11T22:21:02+00:00",
-   "iocs": "iocs/5820ca4abc68.txt",
-   "ioc_count": 94
   },
   {
    "source": "Krebs on Security",

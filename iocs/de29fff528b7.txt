@@ -1,0 +1,11 @@
+IOC EXTRACTION - Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories
+Source: https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/
+Extracted: 2026-09-09 18:42:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-43603
