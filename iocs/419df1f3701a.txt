@@ -1,0 +1,14 @@
+IOC EXTRACTION - SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution
+Source: https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html
+Extracted: 2026-09-09 11:33:45 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-44756
+CVE-2026-58240
+CVE-2026-66768
+CVE-2026-76969

@@ -1,0 +1,22 @@
+IOC EXTRACTION - Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days
+Source: https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html
+Extracted: 2026-09-09 11:33:46 UTC
+Total indicators: 12
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (12)
+----------------------------------------
+CVE-2023-21674
+CVE-2026-55007
+CVE-2026-65669
+CVE-2026-69465
+CVE-2026-69525
+CVE-2026-69595
+CVE-2026-69730
+CVE-2026-69829
+CVE-2026-72979
+CVE-2026-80097
+CVE-2026-81963
+CVE-2026-85880

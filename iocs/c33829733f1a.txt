@@ -1,0 +1,11 @@
+IOC EXTRACTION - DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval
+Source: https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html
+Extracted: 2026-09-09 11:33:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-82533

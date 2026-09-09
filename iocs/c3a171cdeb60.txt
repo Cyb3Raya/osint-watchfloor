@@ -1,0 +1,12 @@
+IOC EXTRACTION - ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws
+Source: https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/
+Extracted: 2026-09-09 11:33:54 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-31431
+CVE-2026-3869

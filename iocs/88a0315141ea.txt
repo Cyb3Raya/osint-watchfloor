@@ -1,0 +1,15 @@
+IOC EXTRACTION - F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans
+Source: https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
+Extracted: 2026-09-09 11:33:43 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-53521
+
+SHA256 (1)
+----------------------------------------
+26bd5b0722d1dbab5db749a063c49bc8638653ac2addfead7a9cb3d6d57bccc9

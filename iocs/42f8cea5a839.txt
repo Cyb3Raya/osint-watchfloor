@@ -1,0 +1,17 @@
+IOC EXTRACTION - Chrome 153 Patches Seventh Zero-Day of 2026
+Source: https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/
+Extracted: 2026-09-09 11:33:59 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-11645
+CVE-2026-2441
+CVE-2026-3909
+CVE-2026-3910
+CVE-2026-5281
+CVE-2026-85046
+CVE-2026-87491

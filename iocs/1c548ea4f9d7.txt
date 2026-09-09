@@ -1,0 +1,20 @@
+IOC EXTRACTION - Ivanti Patches Critical Flaws Across Enterprise Security Products
+Source: https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/
+Extracted: 2026-09-09 11:33:56 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2026-12645
+CVE-2026-12646
+CVE-2026-12647
+CVE-2026-12648
+CVE-2026-12650
+CVE-2026-12651
+CVE-2026-12744
+CVE-2026-12745
+CVE-2026-18851
+CVE-2026-83527

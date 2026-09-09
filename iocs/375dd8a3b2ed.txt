@@ -1,0 +1,23 @@
+IOC EXTRACTION - Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox
+Source: https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html
+Extracted: 2026-09-09 11:33:41 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (13)
+----------------------------------------
+CVE-2026-11645
+CVE-2026-2441
+CVE-2026-3909
+CVE-2026-3910
+CVE-2026-5281
+CVE-2026-85046
+CVE-2026-87438
+CVE-2026-87464
+CVE-2026-87488
+CVE-2026-87491
+CVE-2026-87527
+CVE-2026-87628
+CVE-2026-87639

@@ -1,0 +1,11 @@
+IOC EXTRACTION - New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser
+Source: https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/
+Extracted: 2026-09-09 11:33:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+cdn[.]bloom[.]io
