@@ -1,9 +1,35 @@
 {
- "generated": "2026-09-09T01:06:01.816408+00:00",
+ "generated": "2026-09-09T06:04:44.785940+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civili",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg",
+   "date": "2026-09-09T04:27:51+00:00",
+   "iocs": "iocs/4b40f1884595.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
+   "link": "https://isc.sans.edu/diary/rss/33322",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-09T02:00:02+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+   "desc": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+   "image": "",
+   "date": "2026-09-09T01:16:27+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
@@ -349,14 +375,6 @@
    "date": "2026-09-08T12:03:03+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft: Windows Server 2025 changes causing app crashes",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
-   "desc": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
-   "image": "",
-   "date": "2026-09-08T11:57:51+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
    "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
@@ -523,16 +541,6 @@
    "desc": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkHa8CDEfDzL0HknvyLE5eRK8r91iyhgzpCS1GmG3HRtriZYYFzCTP9_H433YsqJ80SAppgs9g6rOhsTWIzHPh_CFcZJS18DIj5ANgzFwSU0vfcyJofTEqEvjGGjNcqZdHU_54PENNzxawWHCZ2r_1K-A63x3P8CbuIiu8OHASjQV3OoglWTefAF2dZw/s1600/intruder.jpg",
    "date": "2026-09-07T11:45:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-   "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-   "desc": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWA_nxvqJuKkqq0ab1I-XR1YtpsM6BadhHDNOIheZmBflLWaQ018JFJsAUBVuyWWTYI4pyT8OQNXhui8Annde3SnOIScH9B0ohMq-OzXLjvPeAXQnz4mAUdEMS_07i7gLaWqPVpHaPvyLJdZQKUTs2MLGhjB9UZ0A83CGcSeDCJFKn7hNjiyf6dbzbHogp/s1600/screen.jpg",
-   "date": "2026-09-07T11:36:39+00:00",
-   "iocs": "iocs/3fabea4df5b3.txt",
-   "ioc_count": 4
   },
   {
    "source": "SANS ISC",
@@ -807,14 +815,6 @@
    "desc": "pnpm 12 rewrites the package manager in Rust, cutting install times by up to 90% while preserving pnpm 11 workflows and lockfiles.",
    "image": "",
    "date": "2026-09-01T02:52:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33302",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-01T02:00:03+00:00"
   },
   {
    "source": "Wiz Threats",
