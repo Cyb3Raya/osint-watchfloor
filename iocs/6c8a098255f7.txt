@@ -1,0 +1,21 @@
+IOC EXTRACTION - Malicious Chrome and Firefox Extensions Steal Crypto Traders’ Session and Wallet Data
+Source: https://socket.dev/blog/chrome-firefox-crypto-data-theft?utm_medium=feed
+Extracted: 2026-09-09 23:29:38 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (3)
+----------------------------------------
+hxxps://dcfdc-eight[.]vercel[.]app/api/collect?d=
+hxxps://snipex-iota[.]vercel[.]app/api/code/
+hxxps://susi[.]bonto[.]run/collect?d=
+
+Emails (1)
+----------------------------------------
+z1417699@gmail.com
+
+SHA256 (1)
+----------------------------------------
+5b4fbe0658ff76f042c3cc2dfe3d1a3eda963e435a24dfc868cb583bde8c7b91

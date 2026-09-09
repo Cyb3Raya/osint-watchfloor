@@ -1,0 +1,12 @@
+IOC EXTRACTION - Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/
+Extracted: 2026-09-09 23:29:30 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20316

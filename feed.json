@@ -1,9 +1,29 @@
 {
- "generated": "2026-09-09T21:32:41.085092+00:00",
+ "generated": "2026-09-09T23:29:40.861288+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+   "desc": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+   "image": "",
+   "date": "2026-09-09T21:40:44+00:00",
+   "iocs": "iocs/8e055682245b.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Socket",
+   "title": "Malicious Chrome and Firefox Extensions Steal Crypto Traders’ Session and Wallet Data",
+   "link": "https://socket.dev/blog/chrome-firefox-crypto-data-theft?utm_medium=feed",
+   "desc": "Four malicious Chrome and Firefox extensions target Axiom Trade and Padre users, stealing session tokens and wallet data.",
+   "image": "",
+   "date": "2026-09-09T21:40:24+00:00",
+   "iocs": "iocs/6c8a098255f7.txt",
+   "ioc_count": 5
+  },
   {
    "source": "BleepingComputer",
    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
@@ -11,6 +31,22 @@
    "desc": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
    "image": "",
    "date": "2026-09-09T21:30:36+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
+   "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
+   "desc": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Ander",
+   "image": "",
+   "date": "2026-09-09T21:25:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+   "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+   "desc": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt439f596f6fab9438/6aa1bda507331dcf89c77c60/firehose_sirloh_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-09T21:19:55+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -141,14 +177,6 @@
    "date": "2026-09-09T16:08:59+00:00",
    "iocs": "iocs/0ef308ce9d4e.txt",
    "ioc_count": 14
-  },
-  {
-   "source": "RF The Record",
-   "title": "FBI puts its cyber strategy on paper",
-   "link": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
-   "desc": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Le",
-   "image": "",
-   "date": "2026-09-09T15:37:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -501,16 +529,6 @@
    "date": "2026-09-08T18:48:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-   "desc": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-   "image": "",
-   "date": "2026-09-08T18:18:05+00:00",
-   "iocs": "iocs/983d80461afe.txt",
-   "ioc_count": 1171
-  },
-  {
    "source": "Dark Reading",
    "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
    "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
@@ -723,14 +741,6 @@
    "desc": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-03T14:38:49+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
-   "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-   "desc": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-03T12:00:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -991,14 +1001,6 @@
    "date": "2026-08-27T10:00:27+00:00",
    "iocs": "iocs/d63df2b1a848.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Socket",
-   "title": "Socket for ClickUp Is Now Available",
-   "link": "https://socket.dev/blog/socket-for-clickup?utm_medium=feed",
-   "desc": "Create ClickUp tasks from Socket alerts, automate ticketing with custom rules, and keep alert and task status synchronized.",
-   "image": "",
-   "date": "2026-08-26T19:11:06+00:00"
   },
   {
    "source": "Aikido",
