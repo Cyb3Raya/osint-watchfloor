@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA: WatchGuard RCE flaw now exploited in ransomware attacks
+Source: https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/
+Extracted: 2026-09-10 11:49:55 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2022-23176
+CVE-2025-14733
+CVE-2025-9242

@@ -1,0 +1,13 @@
+IOC EXTRACTION - Organizations Warned of Cisco Secure FMC Exploitation
+Source: https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/
+Extracted: 2026-09-10 11:50:03 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20131
+CVE-2026-20316

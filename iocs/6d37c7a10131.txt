@@ -1,0 +1,12 @@
+IOC EXTRACTION - New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender
+Source: https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/
+Extracted: 2026-09-10 11:50:04 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50656
+CVE-2026-69414

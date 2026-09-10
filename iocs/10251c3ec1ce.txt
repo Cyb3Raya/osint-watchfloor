@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline
+Source: https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html
+Extracted: 2026-09-10 11:49:50 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-25249
+CVE-2026-19490
+CVE-2026-20079

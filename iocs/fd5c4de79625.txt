@@ -1,0 +1,15 @@
+IOC EXTRACTION - Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key
+Source: https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html
+Extracted: 2026-09-10 11:49:51 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-40217
+CVE-2026-42271
+CVE-2026-48710
+CVE-2026-59821
+CVE-2026-59822

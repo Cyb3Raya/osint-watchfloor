@@ -1,0 +1,17 @@
+IOC EXTRACTION - The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE
+Source: https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
+Extracted: 2026-09-10 11:50:07 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+example[.]com
+example[.]org
+
+SHA256 (2)
+----------------------------------------
+40228af4d9a094f0fef2d7a303a3b6a689c4b4eba2fa9f7da5125b81d2d68ec8
+7e1e73513947053f6ee40746fc498b1fb4f285cf175fa8336f08a38e209bda38
