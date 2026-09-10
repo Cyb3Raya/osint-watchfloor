@@ -1,9 +1,59 @@
 {
- "generated": "2026-09-10T19:09:28.680914+00:00",
+ "generated": "2026-09-10T21:41:41.270535+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New Android malware encrypts files, steals data, and harasses victims",
+   "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
+   "desc": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+   "image": "",
+   "date": "2026-09-10T21:40:43+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
+   "link": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
+   "desc": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.",
+   "image": "",
+   "date": "2026-09-10T21:15:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
+   "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
+   "desc": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte683970072b53815/6aa308b0b1def869502ac7be/Phone_passcode-Tero_Vesalainen-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-10T20:36:03+00:00",
+   "iocs": "iocs/432786c4f1ef.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "September Windows Server updates break Remote Desktop Services",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+   "desc": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requi",
+   "image": "",
+   "date": "2026-09-10T20:34:37+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
+   "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
+   "desc": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board. The post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-10T20:30:44+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+   "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+   "desc": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+   "image": "",
+   "date": "2026-09-10T19:15:07+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
@@ -315,16 +365,6 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
-   "link": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
-   "desc": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T07:09:36+00:00",
-   "iocs": "iocs/6d37c7a10131.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
    "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
@@ -347,14 +387,6 @@
    "desc": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
    "image": "",
    "date": "2026-09-10T06:56:33+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
-   "link": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
-   "desc": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.",
-   "image": "",
-   "date": "2026-09-10T04:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -393,16 +425,6 @@
    "date": "2026-09-09T21:19:55+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-   "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-   "desc": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...",
-   "image": "",
-   "date": "2026-09-09T21:02:14+00:00",
-   "iocs": "iocs/39904fbf6822.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
    "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
@@ -427,14 +449,6 @@
    "date": "2026-09-09T17:46:24+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-   "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-   "desc": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-   "image": "",
-   "date": "2026-09-09T16:48:33+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
    "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
@@ -453,14 +467,6 @@
    "date": "2026-09-09T16:08:59+00:00",
    "iocs": "iocs/0ef308ce9d4e.txt",
    "ioc_count": 14
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-   "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-   "desc": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-   "image": "",
-   "date": "2026-09-09T15:31:23+00:00"
   },
   {
    "source": "Dark Reading",
@@ -753,14 +759,6 @@
    "desc": "Threat actors behind the &quot;Phantom Deal&quot; campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt006c86eb4bc5e69b/6a99c21172642e574d2f52ff/NDA-William_Potter-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-03T20:18:14+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
-   "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-   "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated m",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt04917d22b035a07c/6a99bfc6e564e71c991d4f19/vishing-FranRodriguez-Getty-1387702656.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-03T19:42:39+00:00"
   },
   {
    "source": "Cisco Talos",

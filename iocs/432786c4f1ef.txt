@@ -1,0 +1,11 @@
+IOC EXTRACTION - Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data
+Source: https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data
+Extracted: 2026-09-10 21:41:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+company[.]add-passkey[.]com
