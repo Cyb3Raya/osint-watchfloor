@@ -1,0 +1,11 @@
+IOC EXTRACTION - Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks
+Source: https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/
+Extracted: 2026-09-10 06:37:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-25249

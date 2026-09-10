@@ -1,9 +1,19 @@
 {
- "generated": "2026-09-10T01:26:56.126725+00:00",
+ "generated": "2026-09-10T06:37:52.664277+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
+   "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
+   "desc": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-10T06:33:36+00:00",
+   "iocs": "iocs/b6645c713126.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
@@ -301,14 +311,6 @@
    "date": "2026-09-09T10:00:55+00:00",
    "iocs": "iocs/654fcccd2a96.txt",
    "ioc_count": 273
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
-   "link": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
-   "desc": "Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default. The post This Key Will Self-Destruct: An Open Standard for Revocable API Keys appeared fi",
-   "image": "",
-   "date": "2026-09-09T10:00:00+00:00"
   },
   {
    "source": "The Hacker News",
