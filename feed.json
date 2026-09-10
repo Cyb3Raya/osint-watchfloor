@@ -1,9 +1,71 @@
 {
- "generated": "2026-09-10T16:04:01.410045+00:00",
+ "generated": "2026-09-10T19:09:28.680914+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+   "desc": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores norm",
+   "image": "",
+   "date": "2026-09-10T19:07:33+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "IDScan confirms breach after hackers offer 153 million driver’s license scans for sale",
+   "link": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
+   "desc": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.",
+   "image": "",
+   "date": "2026-09-10T18:55:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
+   "link": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
+   "desc": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.",
+   "image": "",
+   "date": "2026-09-10T18:25:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "We've got one word for it, and it's usually the wrong one",
+   "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
+   "desc": "In this week's Threat Source newsletter, Joe explores why the word \"burnout\" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-1.jpg",
+   "date": "2026-09-10T18:00:15+00:00",
+   "iocs": "iocs/4225d58888ea.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+   "desc": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg",
+   "date": "2026-09-10T17:47:38+00:00",
+   "iocs": "iocs/69cf1fb2ff89.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
+   "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
+   "desc": "Significant cybersecurity M&#038;A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&#038;A Roundup: 33 Deals Announced in August 2026 appeared first on S",
+   "image": "",
+   "date": "2026-09-10T16:14:58+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+   "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+   "desc": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+   "image": "",
+   "date": "2026-09-10T15:55:56+00:00",
+   "iocs": "iocs/09079ade99ff.txt",
+   "ioc_count": 4
+  },
   {
    "source": "BleepingComputer",
    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
@@ -16,7 +78,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Nightmare-Eclipse Strikes Again with 'ShieldCrash' Windows Exploit",
+   "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
    "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
    "desc": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6923f7af78d46ee/6aa28ac3d94910375384f4f1/Hacker_(1800)_Andriy_Popov_Alamy.png?width=720&quality=80&disable=upscale",
@@ -287,14 +349,12 @@
    "date": "2026-09-10T06:56:33+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
-   "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
-   "desc": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek.",
+   "source": "RF The Record",
+   "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
+   "link": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
+   "desc": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.",
    "image": "",
-   "date": "2026-09-10T06:33:36+00:00",
-   "iocs": "iocs/b6645c713126.txt",
-   "ioc_count": 1
+   "date": "2026-09-10T04:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -325,14 +385,6 @@
    "date": "2026-09-09T21:30:36+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
-   "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
-   "desc": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Ander",
-   "image": "",
-   "date": "2026-09-09T21:25:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
    "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
@@ -351,14 +403,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
-   "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
-   "desc": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform.",
-   "image": "",
-   "date": "2026-09-09T19:54:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
    "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
@@ -373,14 +417,6 @@
    "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg",
    "date": "2026-09-09T18:26:05+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Grindr settles privacy lawsuit tied to disclosure of users’ HIV statuses for $35 million",
-   "link": "https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million",
-   "desc": "The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country’s privacy laws.",
-   "image": "",
-   "date": "2026-09-09T18:11:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -443,14 +479,6 @@
    "date": "2026-09-09T14:23:55+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-   "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-   "desc": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service de",
-   "image": "",
-   "date": "2026-09-09T14:01:11+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
    "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
@@ -477,16 +505,6 @@
    "date": "2026-09-09T10:43:04+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-   "desc": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-   "image": "",
-   "date": "2026-09-09T10:11:29+00:00",
-   "iocs": "iocs/4d22feb60955.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Unit 42",
    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
    "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
@@ -503,16 +521,6 @@
    "desc": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier mode",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg",
    "date": "2026-09-09T09:32:26+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-   "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-   "desc": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg",
-   "date": "2026-09-09T09:11:03+00:00",
-   "iocs": "iocs/375dd8a3b2ed.txt",
-   "ioc_count": 13
   },
   {
    "source": "SANS ISC",
@@ -1179,14 +1187,6 @@
    "date": "2026-08-13T18:00:18+00:00",
    "iocs": "iocs/3f3f42b0119b.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Dissecting the JWR phishing framework",
-   "link": "https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/",
-   "desc": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_spotlight.jpg",
-   "date": "2026-08-13T10:00:35+00:00"
   },
   {
    "source": "Krebs on Security",

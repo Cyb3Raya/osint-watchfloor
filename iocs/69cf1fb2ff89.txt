@@ -1,0 +1,11 @@
+IOC EXTRACTION - ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories
+Source: https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
+Extracted: 2026-09-10 19:09:12 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-28662

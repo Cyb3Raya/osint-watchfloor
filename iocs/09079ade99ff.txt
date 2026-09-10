@@ -1,0 +1,14 @@
+IOC EXTRACTION - AI-powered attack exploited PaperCut flaws to hack 395 organizations
+Source: https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/
+Extracted: 2026-09-10 19:09:14 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2021-42278
+CVE-2021-42287
+CVE-2026-81578
+CVE-2026-82078

@@ -1,0 +1,20 @@
+IOC EXTRACTION - We've got one word for it, and it's usually the wrong one
+Source: https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/
+Extracted: 2026-09-10 19:09:19 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20316
+
+MD5 (5)
+----------------------------------------
+2915b3f8b703eb744fc54c81f4a9c67f
+38de5b216c33833af710e88f7f64fc98
+9a47c4d379998ade2f8f99e23a630c06
+c2efb2dcacba6d3ccc175b6ce1b7ed0a
+f3e82419a43220a7a222fc01b7607adc
