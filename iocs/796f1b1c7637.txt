@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical NetScaler Vulnerability Exploited in Attacks
+Source: https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/
+Extracted: 2026-09-10 16:03:52 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-19490

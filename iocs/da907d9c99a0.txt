@@ -1,0 +1,12 @@
+IOC EXTRACTION - Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers
+Source: https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/
+Extracted: 2026-09-10 16:03:39 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20316

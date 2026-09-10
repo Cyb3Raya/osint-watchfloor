@@ -1,0 +1,13 @@
+IOC EXTRACTION - New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws
+Source: https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/
+Extracted: 2026-09-10 16:03:42 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-85046
+CVE-2026-85880
+CVE-2026-87491

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Nightmare-Eclipse Strikes Again with 'ShieldCrash' Windows Exploit
+Source: https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit
+Extracted: 2026-09-10 16:03:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-69414
