@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T23:29:40.861288+00:00",
+ "generated": "2026-09-10T01:26:56.126725+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -18,7 +18,7 @@
    "source": "Socket",
    "title": "Malicious Chrome and Firefox Extensions Steal Crypto Traders’ Session and Wallet Data",
    "link": "https://socket.dev/blog/chrome-firefox-crypto-data-theft?utm_medium=feed",
-   "desc": "Four malicious Chrome and Firefox extensions target Axiom Trade and Padre users, stealing session tokens and wallet data.",
+   "desc": "Malicious Chrome and Firefox extensions target Axiom Trade and Padre users, stealing session tokens and wallet data.",
    "image": "",
    "date": "2026-09-09T21:40:24+00:00",
    "iocs": "iocs/6c8a098255f7.txt",
