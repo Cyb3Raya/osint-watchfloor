@@ -1,9 +1,89 @@
 {
- "generated": "2026-09-11T13:22:45.710649+00:00",
+ "generated": "2026-09-11T17:12:51.950328+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+   "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+   "desc": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+   "image": "",
+   "date": "2026-09-11T16:29:44+00:00",
+   "iocs": "iocs/a9e03aba59c7.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+   "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+   "desc": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-11T16:11:08+00:00",
+   "iocs": "iocs/6fb6b22059ce.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+   "desc": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-11T15:48:27+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
+   "link": "https://isc.sans.edu/diary/rss/33332",
+   "desc": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the",
+   "image": "",
+   "date": "2026-09-11T14:40:32+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+   "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+   "desc": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg",
+   "date": "2026-09-11T14:29:47+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Malicious Twitch Browser Extension Exposes 30,000 Users’ OAuth Tokens to Russian Bot Service",
+   "link": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed",
+   "desc": "A Twitch browser extension on Chrome and Firefox forwards users’ live OAuth session tokens through proxies controlled by a Russian bot service.",
+   "image": "",
+   "date": "2026-09-11T14:23:33+00:00",
+   "iocs": "iocs/f1042696b335.txt",
+   "ioc_count": 20
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+   "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+   "desc": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Ot",
+   "image": "",
+   "date": "2026-09-11T14:19:18+00:00",
+   "iocs": "iocs/9a3e378a2620.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+   "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+   "desc": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has be",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg",
+   "date": "2026-09-11T14:10:20+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+   "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+   "desc": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts",
+   "image": "",
+   "date": "2026-09-11T14:01:11+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
@@ -27,6 +107,14 @@
    "desc": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.",
    "image": "",
    "date": "2026-09-11T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+   "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+   "desc": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg",
+   "date": "2026-09-11T11:30:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -273,14 +361,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-   "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-   "desc": "Significant cybersecurity M&#038;A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&#038;A Roundup: 33 Deals Announced in August 2026 appeared first on S",
-   "image": "",
-   "date": "2026-09-10T16:14:58+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
    "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
@@ -317,14 +397,6 @@
    "desc": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's l",
    "image": "",
    "date": "2026-09-10T14:55:33+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
-   "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
-   "desc": "Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns. The post Anthropic Researcher Resigns With Warning About the Dangers of AI Development appeared first on Se",
-   "image": "",
-   "date": "2026-09-10T14:52:07+00:00"
   },
   {
    "source": "The Hacker News",
@@ -391,14 +463,6 @@
    "date": "2026-09-10T11:33:43+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft says September updates fix mouse settings reset issues",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-   "desc": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-   "image": "",
-   "date": "2026-09-10T11:14:28+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
    "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
@@ -433,16 +497,6 @@
    "date": "2026-09-10T10:00:43+00:00",
    "iocs": "iocs/1fb7fd98ae59.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in Dec",
-   "image": "",
-   "date": "2026-09-10T09:10:20+00:00",
-   "iocs": "iocs/e8f0461d2748.txt",
-   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
@@ -497,30 +551,12 @@
    "date": "2026-09-09T19:47:50+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-   "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg",
-   "date": "2026-09-09T18:26:05+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
    "link": "https://isc.sans.edu/diary/rss/33324",
    "desc": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported ",
    "image": "",
    "date": "2026-09-09T17:46:24+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-   "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-   "desc": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg",
-   "date": "2026-09-09T16:34:05+00:00",
-   "iocs": "iocs/9927501cbbee.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",
@@ -539,14 +575,6 @@
    "desc": "&quot;Workflow identity hijacking&quot; can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7893676670a76d5/6aa13f3e0a3bef09c363535c/Data_security(1800)_ber1a_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-09T14:39:44+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-   "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-   "desc": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbs",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg",
-   "date": "2026-09-09T14:23:55+00:00"
   },
   {
    "source": "Unit 42",
@@ -767,22 +795,6 @@
    "date": "2026-09-04T13:00:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Insurers Search for Answers to Rein in Rogue AI",
-   "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
-   "desc": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30db53d3998a9cfc/6a9ab83ce2c6982ca269f92d/AI-justice-law-liability-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-04T12:15:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
-   "link": "https://isc.sans.edu/diary/rss/33310",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-04T02:00:02+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "The story behind the intelligence",
    "link": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
@@ -973,14 +985,6 @@
    "desc": "Socket joins more than 100 technology, cybersecurity, and financial organizations calling for a global surge in cyber defense.",
    "image": "",
    "date": "2026-08-28T16:02:57+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Socket Now Protects the Microsoft Edge Extension Ecosystem",
-   "link": "https://socket.dev/blog/edge-extension-security?utm_medium=feed",
-   "desc": "Enterprise security teams can now detect malware, credential theft, suspicious network activity, and risky updates across Microsoft Edge extensions.",
-   "image": "",
-   "date": "2026-08-28T13:22:10+00:00"
   },
   {
    "source": "Wiz Threats",

@@ -1,0 +1,42 @@
+IOC EXTRACTION - Malicious Twitch Browser Extension Exposes 30,000 Users’ OAuth Tokens to Russian Bot Service
+Source: https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed
+Extracted: 2026-09-11 17:12:49 UTC
+Total indicators: 20
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+132[.]243[.]113[.]25
+152[.]53[.]177[.]186
+80[.]74[.]26[.]162
+
+Domains (8)
+----------------------------------------
+alexue4[.]dev
+api[.]jeetbot[.]cc
+drisnya[.]online
+enhanced-1[.]jeetbot[.]cc
+ext-03[.]jeetbot[.]cc
+img[.]drisnya[.]online
+morphilina[.]me
+thebeholderbotapi[.]vercel[.]app
+
+URLs (5)
+----------------------------------------
+hxxps://enhanced[.]jeetbot[.]cc/
+hxxps://ext-styles[.]jeetbot[.]cc/api/v1/proxies
+hxxps://proxy[.]morphilina[.]me/
+hxxps://proxy[.]thebeholder[.]deno[.]net/
+hxxps://thebeholder-proxy[.]deno[.]dev/
+
+Emails (2)
+----------------------------------------
+cybergnyda@gmail.com
+support@jeetbot.cc
+
+SHA256 (2)
+----------------------------------------
+141c35607dc0e8e400deb380126b3052bd0495b4d37c8dd979c6aa0204b142fc
+e17e1e671b597da19b89c5b2d0fa821e90e627860e756ae4947ed27c035330a8
