@@ -1,9 +1,85 @@
 {
- "generated": "2026-09-11T17:12:51.950328+00:00",
+ "generated": "2026-09-11T19:49:43.113508+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+   "desc": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-11T19:21:08+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Florida confirms DMV database breached via stolen police account",
+   "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+   "desc": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police departm",
+   "image": "",
+   "date": "2026-09-11T19:00:29+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+   "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+   "desc": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-11T18:44:03+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+   "link": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+   "desc": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+   "image": "",
+   "date": "2026-09-11T18:40:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Why AI Is So Good at Scamming Humans",
+   "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+   "desc": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d66507ff638e8a0/6aa431c763177a6fe1776c1a/fredheiding.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-11T18:14:06+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+   "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+   "desc": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from ",
+   "image": "",
+   "date": "2026-09-11T17:26:50+00:00",
+   "iocs": "iocs/82dfd2b2ae38.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+   "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+   "desc": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared fi",
+   "image": "",
+   "date": "2026-09-11T17:23:36+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Governance Can't Wait",
+   "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+   "desc": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-11T17:10:56+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+   "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+   "desc": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-202",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg",
+   "date": "2026-09-11T16:30:18+00:00",
+   "iocs": "iocs/a8b89596a45d.txt",
+   "ioc_count": 3
+  },
   {
    "source": "BleepingComputer",
    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
@@ -13,6 +89,14 @@
    "date": "2026-09-11T16:29:44+00:00",
    "iocs": "iocs/a9e03aba59c7.txt",
    "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+   "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+   "desc": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Kn",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg",
+   "date": "2026-09-11T16:15:29+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -301,14 +385,6 @@
    "date": "2026-09-10T20:34:37+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-   "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-   "desc": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board. The post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T20:30:44+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
    "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
@@ -331,14 +407,6 @@
    "desc": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.",
    "image": "",
    "date": "2026-09-10T18:55:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
-   "link": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
-   "desc": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.",
-   "image": "",
-   "date": "2026-09-10T18:25:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -405,24 +473,6 @@
    "desc": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the off",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg",
    "date": "2026-09-10T14:36:47+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-   "desc": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
-   "image": "",
-   "date": "2026-09-10T14:11:34+00:00",
-   "iocs": "iocs/87c0628b9f68.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-   "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-   "desc": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some a",
-   "image": "",
-   "date": "2026-09-10T14:00:10+00:00"
   },
   {
    "source": "SANS ISC",
@@ -497,24 +547,6 @@
    "date": "2026-09-10T10:00:43+00:00",
    "iocs": "iocs/1fb7fd98ae59.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-   "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-   "desc": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg",
-   "date": "2026-09-10T07:12:55+00:00",
-   "iocs": "iocs/fd5c4de79625.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-   "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-   "desc": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMNfeF1h2D3MrUkoHWN2M9yhKD-FFQ6DgwixOflNATW2UA5b_6AsUjXLAjrn5c4hQWw0xueXTWDlbqKwS_gexDm0Yq8PB_B2LpXHaQiw7m7thOATlckixuA8VUIFDFERGBS8o1Kph93eYnDysXuRljKaXfe7813MwWKkBLex8BP3YL-fahCr4Xm3xMWZE/s1600/claude-hack.jpg",
-   "date": "2026-09-10T07:04:01+00:00"
   },
   {
    "source": "Dark Reading",
@@ -657,14 +689,6 @@
    "date": "2026-09-08T18:48:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-   "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-   "desc": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96e63b09ee56a517/6aa00b69572e2132fa0a49b3/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-08T17:25:37+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Compromised Flutter package on pub.dev contains XCSSET malware",
    "link": "https://www.aikido.dev/blog/compromised-flutter-package-on-pub-dev-contains-xcsset-malware",
@@ -681,14 +705,6 @@
    "desc": "Executive Summary Since the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from ba",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png",
    "date": "2026-09-08T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
-   "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites",
-   "desc": "A Chinese-language group is compromising government and education sites to create a reverse-proxy network with gambling-themed sites.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt144603b4435c3485/6aa07bc8ecfebc8277684236/brazil-gambling-currency-Mehaniq-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-08T12:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -761,14 +777,6 @@
    "date": "2026-09-04T17:03:46+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-   "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-   "desc": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but researchers warn the situation will become more urgent very soon.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e4339597b3813d/6a9acd56e908194ecaf2c87b/AI-human-blue-overlay-metamorworks-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-04T15:57:31+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Stop breaking SLAs: how to patch vulnerabilities before the fix even ships",
    "link": "https://www.aikido.dev/blog/stop-breaking-slas",
@@ -785,14 +793,6 @@
    "desc": "Six Trivy alternatives compared for 2026 on container scanning, IaC, SAST, prioritization, and fixes, with where each one actually fits. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ad49d5e1202b92a43d705_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-04T14:23:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-   "desc": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-04T13:00:00+00:00"
   },
   {
    "source": "Cisco Talos",

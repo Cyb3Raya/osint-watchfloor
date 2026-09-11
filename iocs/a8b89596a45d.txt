@@ -1,0 +1,13 @@
+IOC EXTRACTION - GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure
+Source: https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html
+Extracted: 2026-09-11 19:49:26 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-19478
+CVE-2026-85706
+CVE-2026-87719
