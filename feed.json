@@ -1,9 +1,75 @@
 {
- "generated": "2026-09-11T03:44:44.881914+00:00",
+ "generated": "2026-09-11T08:44:55.724759+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
+   "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
+   "desc": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-11T08:18:23+00:00",
+   "iocs": "iocs/79b4464a7cf7.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+   "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+   "desc": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+   "image": "",
+   "date": "2026-09-11T07:55:15+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+   "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+   "desc": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz&nbsp;sai",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg",
+   "date": "2026-09-11T07:31:05+00:00",
+   "iocs": "iocs/6d77d0f66755.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+   "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+   "desc": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg",
+   "date": "2026-09-11T07:14:09+00:00",
+   "iocs": "iocs/11c8b517d375.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Conti ransomware gang member sentenced to 4 years in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+   "desc": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+   "image": "",
+   "date": "2026-09-11T06:48:37+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+   "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+   "desc": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The softw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg",
+   "date": "2026-09-11T06:46:18+00:00",
+   "iocs": "iocs/af3b87dfbf9c.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+   "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+   "desc": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks lever",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg",
+   "date": "2026-09-11T06:19:59+00:00",
+   "iocs": "iocs/788925358fae.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
@@ -341,16 +407,6 @@
    "date": "2026-09-10T10:10:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Organizations Warned of Cisco Secure FMC Exploitation",
-   "link": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
-   "desc": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T10:06:20+00:00",
-   "iocs": "iocs/780ec3beafee.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Unit 42",
    "title": "The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE",
    "link": "https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/",
@@ -413,16 +469,6 @@
    "date": "2026-09-10T06:56:33+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-   "desc": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-   "image": "",
-   "date": "2026-09-09T21:40:44+00:00",
-   "iocs": "iocs/8e055682245b.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Socket",
    "title": "Malicious Chrome and Firefox Extensions Steal Crypto Traders’ Session and Wallet Data",
    "link": "https://socket.dev/blog/chrome-firefox-crypto-data-theft?utm_medium=feed",
@@ -431,14 +477,6 @@
    "date": "2026-09-09T21:40:24+00:00",
    "iocs": "iocs/6c8a098255f7.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-   "desc": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-   "image": "",
-   "date": "2026-09-09T21:30:36+00:00"
   },
   {
    "source": "Dark Reading",
@@ -509,32 +547,6 @@
    "date": "2026-09-09T14:23:55+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-   "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-   "desc": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint too",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg",
-   "date": "2026-09-09T11:57:36+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-   "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-   "desc": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands insid",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg",
-   "date": "2026-09-09T11:17:07+00:00",
-   "iocs": "iocs/c33829733f1a.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-   "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-   "desc": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg",
-   "date": "2026-09-09T10:43:04+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
    "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
@@ -543,14 +555,6 @@
    "date": "2026-09-09T10:00:55+00:00",
    "iocs": "iocs/654fcccd2a96.txt",
    "ioc_count": 273
-  },
-  {
-   "source": "The Hacker News",
-   "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-   "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-   "desc": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier mode",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg",
-   "date": "2026-09-09T09:32:26+00:00"
   },
   {
    "source": "SANS ISC",

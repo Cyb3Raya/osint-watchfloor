@@ -1,0 +1,16 @@
+IOC EXTRACTION - PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws
+Source: https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html
+Extracted: 2026-09-11 08:44:44 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-81578
+CVE-2026-82078
+
+IPv4 (1)
+----------------------------------------
+45[.]142[.]193[.]132

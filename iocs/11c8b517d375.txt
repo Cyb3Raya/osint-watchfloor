@@ -1,0 +1,27 @@
+IOC EXTRACTION - China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor
+Source: https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html
+Extracted: 2026-09-11 08:44:43 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2021-38003
+CVE-2026-51990
+
+IPv4 (1)
+----------------------------------------
+8[.]218[.]50[.]207
+
+Domains (2)
+----------------------------------------
+mail[.]uaiubifas[.]top
+noht1ng[.]top
+
+SHA256 (3)
+----------------------------------------
+29c7ee41d0cc9e07d981e451df56d0c3d37c41ac4ec10c7b516cc033ee397a63
+749160a2f20f82744026719cf72e483595c6aad718efa74d675a98662e02422e
+d7a3c7eb94edc0e020f74c678743d71d61e944634aade4a67a96c3589e828b3a

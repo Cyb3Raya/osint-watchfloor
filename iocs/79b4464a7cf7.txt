@@ -1,0 +1,12 @@
+IOC EXTRACTION - PaperCut Flaws Exploited in AI-Powered Attacks
+Source: https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/
+Extracted: 2026-09-11 08:44:50 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-81578
+CVE-2026-82078
