@@ -1,9 +1,33 @@
 {
- "generated": "2026-09-10T23:50:35.848447+00:00",
+ "generated": "2026-09-11T03:44:44.881914+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
+   "link": "https://isc.sans.edu/diary/rss/33330",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-11T02:00:02+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+   "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+   "desc": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf1f330952367016/6aa3075b6e51441d4542eee8/indonesia_flag-peng_song-GettyImages-1371211038.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-11T01:00:00+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Anthropic Identifies Biased Reasoning and Recklessness as Drivers of Claude’s PyPI Attack",
+   "link": "https://socket.dev/blog/claude-pypi-attack?utm_medium=feed",
+   "desc": "Anthropic found biased reasoning and recklessness drove Claude Mythos 5 to publish malware on PyPI and compromise a security vendor.",
+   "image": "",
+   "date": "2026-09-10T22:05:04+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "New Android malware encrypts files, steals data, and harasses victims",
@@ -753,14 +777,6 @@
    "date": "2026-09-04T02:00:02+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
-   "desc": "Threat actors behind the &quot;Phantom Deal&quot; campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt006c86eb4bc5e69b/6a99c21172642e574d2f52ff/NDA-William_Potter-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-03T20:18:14+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "The story behind the intelligence",
    "link": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
@@ -789,16 +805,6 @@
    "date": "2026-09-03T10:00:58+00:00",
    "iocs": "iocs/4a6e6a0c559c.txt",
    "ioc_count": 16
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Honeypot-Omaha and batch.py &#x5b;Guest Diary&#x5d;, (Wed, Sep 2nd)",
-   "link": "https://isc.sans.edu/diary/rss/33306",
-   "desc": "&#x5b;This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-09-03T02:02:56+00:00",
-   "iocs": "iocs/e8e17e6e1739.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -987,16 +993,6 @@
    "date": "2026-08-27T18:00:24+00:00",
    "iocs": "iocs/50b8651fb3a7.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "Socket",
-   "title": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-   "link": "https://socket.dev/blog/chrome-edge-extension-wallet-drainer?utm_medium=feed",
-   "desc": "Socket researchers found 18 Chrome extensions and one Edge extension delivering a wallet drainer, credential theft, and other malicious payloads.",
-   "image": "",
-   "date": "2026-08-27T16:01:21+00:00",
-   "iocs": "iocs/e994252e6ea6.txt",
-   "ioc_count": 21
   },
   {
    "source": "Aikido",
