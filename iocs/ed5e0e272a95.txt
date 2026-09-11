@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers abused Claude to extract secrets from 1.8M Android apps
+Source: https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/
+Extracted: 2026-09-11 22:20:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+policenationale[.]cc

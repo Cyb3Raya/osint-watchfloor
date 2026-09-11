@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-11T19:49:43.113508+00:00",
+ "generated": "2026-09-11T22:20:18.827300+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+   "desc": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+   "image": "",
+   "date": "2026-09-11T20:19:09+00:00",
+   "iocs": "iocs/ed5e0e272a95.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+   "link": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
+   "desc": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
+   "image": "",
+   "date": "2026-09-11T20:00:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
@@ -401,14 +419,6 @@
    "date": "2026-09-10T19:07:33+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "IDScan confirms breach after hackers offer 153 million driver’s license scans for sale",
-   "link": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
-   "desc": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.",
-   "image": "",
-   "date": "2026-09-10T18:55:00+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "We've got one word for it, and it's usually the wrong one",
    "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
@@ -457,14 +467,6 @@
    "date": "2026-09-10T15:29:12+00:00",
    "iocs": "iocs/fd125d81e655.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
-   "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-   "desc": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's l",
-   "image": "",
-   "date": "2026-09-10T14:55:33+00:00"
   },
   {
    "source": "The Hacker News",
