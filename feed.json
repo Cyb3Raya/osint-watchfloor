@@ -1,9 +1,93 @@
 {
- "generated": "2026-09-11T08:44:55.724759+00:00",
+ "generated": "2026-09-11T13:22:45.710649+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+   "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+   "desc": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack app",
+   "image": "",
+   "date": "2026-09-11T12:48:04+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
+   "link": "https://therecord.media/anthropic-russia-hackers-claude",
+   "desc": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.",
+   "image": "",
+   "date": "2026-09-11T12:45:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
+   "link": "https://therecord.media/conti-ransomware-ukraine-hacker",
+   "desc": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.",
+   "image": "",
+   "date": "2026-09-11T12:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+   "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+   "desc": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on Security",
+   "image": "",
+   "date": "2026-09-11T11:29:09+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "GitLab urges users to patch max severity path traversal flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+   "desc": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+   "image": "",
+   "date": "2026-09-11T11:15:22+00:00",
+   "iocs": "iocs/3b1ca1686e68.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Check Point Patches Critical VPN Vulnerabilities",
+   "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+   "desc": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-11T11:10:02+00:00",
+   "iocs": "iocs/01371e4d26ef.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+   "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+   "desc": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-11T10:56:16+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Surfshark Systems Targeted by Hackers",
+   "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+   "desc": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-11T09:41:03+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+   "desc": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+   "image": "",
+   "date": "2026-09-11T09:39:37+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+   "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+   "desc": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware E",
+   "image": "",
+   "date": "2026-09-11T08:47:07+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
@@ -251,14 +335,6 @@
    "date": "2026-09-10T14:36:47+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
-   "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
-   "desc": "Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox. The post Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T14:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
    "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
@@ -277,30 +353,6 @@
    "date": "2026-09-10T14:00:10+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-   "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-   "desc": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T13:39:52+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
-   "link": "https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted",
-   "desc": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to tra",
-   "image": "",
-   "date": "2026-09-10T13:31:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
-   "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
-   "desc": "Join the webinar for a focused, 20-minute discussion on Frontier Pace Governance, an approach to balancing automation, policy, and business risk as IT operations accelerate. The post Webinar Today: Keep Pace With AI &#82",
-   "image": "",
-   "date": "2026-09-10T13:30:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Redtail Payload Analysis &#x5b;Guest Diary&#x5d;, (Wed, Sep 9th)",
    "link": "https://isc.sans.edu/diary/rss/33326",
@@ -309,32 +361,6 @@
    "date": "2026-09-10T12:58:10+00:00",
    "iocs": "iocs/7bcb1548735b.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "UK appoints new commander of National Cyber Force",
-   "link": "https://therecord.media/uk-appoints-new-commander-of-national-cyber-force",
-   "desc": "The individual has not yet been avowed — the formal process in Britain by which an intelligence or security figure’s identity is publicly acknowledged — as routine security considerations are still being worked through.",
-   "image": "",
-   "date": "2026-09-10T12:44:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-   "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-   "desc": "Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3. The post Critical NetScaler Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T12:20:21+00:00",
-   "iocs": "iocs/796f1b1c7637.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-   "link": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-   "desc": "Anthropic is most concerned about Claude Mythos 5’s reckless behavior after recent incidents in which real systems were hacked. The post Widened Scan Turns Up Fourth Rogue Claude Cyber Incident appeared first on Security",
-   "image": "",
-   "date": "2026-09-10T11:52:44+00:00"
   },
   {
    "source": "The Hacker News",
@@ -363,14 +389,6 @@
    "desc": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report published on Septembe",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg",
    "date": "2026-09-10T11:33:43+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "4.1 Million Impacted by AdaptHealth Data Breach",
-   "link": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
-   "desc": "In June 2026, hackers stole personal, health, and insurance information from AdaptHealth’s systems. The post 4.1 Million Impacted by AdaptHealth Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-10T11:20:43+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -402,7 +420,7 @@
    "source": "Aikido",
    "title": "The CVE spike across major software companies is a remediation problem",
    "link": "https://www.aikido.dev/blog/cve-spike-remediation-problem",
-   "desc": "A viral chart this month showed CVEs climbing sharply across 21 major software companies, and the industry split into two camps arguing about what it means. Both are missing the number that actually determines risk: how ",
+   "desc": "CVE volume is climbing across major software companies, and a federal audit shows even NIST couldn't keep up. Here's why remediation speed, not disclosure count, is the number that actually matters. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aa282195b506f251905a0d0_CVE-Spike_Feature.png",
    "date": "2026-09-10T10:10:00+00:00"
   },
@@ -425,14 +443,6 @@
    "date": "2026-09-10T09:10:20+00:00",
    "iocs": "iocs/e8f0461d2748.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes bug that wiped Windows desktop settings",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-   "desc": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
-   "image": "",
-   "date": "2026-09-10T08:08:16+00:00"
   },
   {
    "source": "The Hacker News",
@@ -459,14 +469,6 @@
    "desc": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba41cd0488eb4d89/6aa1a2aa145a18d222181a6c/EU_lock-Alexey_Krukovsky-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-10T07:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Trezor warns users of email provider breach, phishing attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-   "desc": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-   "image": "",
-   "date": "2026-09-10T06:56:33+00:00"
   },
   {
    "source": "Socket",

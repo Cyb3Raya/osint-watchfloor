@@ -1,0 +1,14 @@
+IOC EXTRACTION - Check Point Patches Critical VPN Vulnerabilities
+Source: https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/
+Extracted: 2026-09-11 13:22:34 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-16232
+CVE-2026-50751
+CVE-2026-85102
+CVE-2026-85103
