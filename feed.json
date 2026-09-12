@@ -1,11 +1,19 @@
 {
- "generated": "2026-09-12T16:05:23.295523+00:00",
- "sources_ok": 13,
+ "generated": "2026-09-12T18:28:53.829807+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+   "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) ca",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg",
+   "date": "2026-09-12T15:54:45+00:00",
+   "iocs": "iocs/0ddc7c58e041.txt",
+   "ioc_count": 6
+  },
   {
    "source": "BleepingComputer",
    "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
@@ -63,6 +71,14 @@
    "ioc_count": 1
   },
   {
+   "source": "RF The Record",
+   "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+   "link": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
+   "desc": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
+   "image": "",
+   "date": "2026-09-11T20:00:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
@@ -85,6 +101,14 @@
    "desc": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T18:44:03+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+   "link": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+   "desc": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+   "image": "",
+   "date": "2026-09-11T18:40:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -225,6 +249,22 @@
    "desc": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack app",
    "image": "",
    "date": "2026-09-11T12:48:04+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
+   "link": "https://therecord.media/anthropic-russia-hackers-claude",
+   "desc": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.",
+   "image": "",
+   "date": "2026-09-11T12:45:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
+   "link": "https://therecord.media/conti-ransomware-ukraine-hacker",
+   "desc": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.",
+   "image": "",
+   "date": "2026-09-11T12:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -375,6 +415,14 @@
    "date": "2026-09-10T21:40:43+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
+   "link": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
+   "desc": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.",
+   "image": "",
+   "date": "2026-09-10T21:15:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
    "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
@@ -475,16 +523,6 @@
    "date": "2026-09-10T11:45:05+00:00",
    "iocs": "iocs/33af29f71c8c.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-   "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-   "desc": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg",
-   "date": "2026-09-10T11:41:53+00:00",
-   "iocs": "iocs/cd20e349d2f5.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
