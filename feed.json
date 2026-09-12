@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-12T00:25:03.421740+00:00",
+ "generated": "2026-09-12T05:00:19.355399+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
+   "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
+   "desc": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Sa",
+   "image": "",
+   "date": "2026-09-12T01:50:53+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
@@ -277,16 +285,6 @@
    "desc": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware E",
    "image": "",
    "date": "2026-09-11T08:47:07+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-   "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-   "desc": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-11T08:18:23+00:00",
-   "iocs": "iocs/79b4464a7cf7.txt",
-   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
