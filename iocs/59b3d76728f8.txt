@@ -1,0 +1,12 @@
+IOC EXTRACTION - Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent
+Source: https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/
+Extracted: 2026-09-12 16:05:11 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-85102
+CVE-2026-85103
