@@ -1,0 +1,13 @@
+IOC EXTRACTION - BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days
+Source: https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/
+Extracted: 2026-09-12 12:55:16 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-85046
+CVE-2026-85880
+CVE-2026-87491

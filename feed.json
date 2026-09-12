@@ -1,9 +1,37 @@
 {
- "generated": "2026-09-12T09:12:39.971406+00:00",
+ "generated": "2026-09-12T12:55:22.538557+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+   "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+   "desc": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-12T11:10:00+00:00",
+   "iocs": "iocs/5fcbcfa82760.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+   "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+   "desc": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks agains",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg",
+   "date": "2026-09-12T10:24:44+00:00",
+   "iocs": "iocs/d66479afd965.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+   "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+   "desc": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
+   "date": "2026-09-12T09:07:56+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
@@ -279,14 +307,6 @@
    "date": "2026-09-11T09:39:37+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-   "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-   "desc": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware E",
-   "image": "",
-   "date": "2026-09-11T08:47:07+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
    "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
@@ -502,24 +522,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg",
    "date": "2026-09-10T11:41:53+00:00",
    "iocs": "iocs/cd20e349d2f5.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-   "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-   "desc": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report published on Septembe",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg",
-   "date": "2026-09-10T11:33:43+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-   "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilia",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s1600/cisa-list.jpg",
-   "date": "2026-09-10T10:36:46+00:00",
-   "iocs": "iocs/10251c3ec1ce.txt",
    "ioc_count": 3
   },
   {
