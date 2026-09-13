@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-13T20:56:18.139940+00:00",
+ "generated": "2026-09-13T23:03:11.292060+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI",
+   "link": "https://therecord.media/nsa-reorganization-five-mission-centers",
+   "desc": "The largest electronic spy agency in the world is reorganizing. And fast.",
+   "image": "",
+   "date": "2026-09-13T21:36:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
@@ -433,14 +441,6 @@
    "desc": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
    "image": "",
    "date": "2026-09-10T21:40:43+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
-   "link": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
-   "desc": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.",
-   "image": "",
-   "date": "2026-09-10T21:15:00+00:00"
   },
   {
    "source": "Dark Reading",
