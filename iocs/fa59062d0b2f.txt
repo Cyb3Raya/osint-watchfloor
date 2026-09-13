@@ -1,0 +1,20 @@
+IOC EXTRACTION - Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
+Source: https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
+Extracted: 2026-09-13 11:20:07 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (10)
+----------------------------------------
+add-passkey[.]com
+domainlify[.]net
+integratedsso[.]com
+oktasession[.]com
+passkeyhelpdesk[.]com
+portalsetuphub[.]com
+secure-passkey[.]com
+service-nowinc[.]com
+setupmypasskey[.]com
+syncmykey[.]com
