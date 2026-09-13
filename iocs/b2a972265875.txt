@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers exploit Tencent app flaw to deploy GrayRabbit malware
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/
+Extracted: 2026-09-13 14:57:22 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-51990

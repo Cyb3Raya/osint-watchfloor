@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-13T11:20:13.998510+00:00",
+ "generated": "2026-09-13T14:57:30.761910+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+   "desc": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+   "image": "",
+   "date": "2026-09-13T14:26:32+00:00",
+   "iocs": "iocs/b2a972265875.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+   "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
+   "desc": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measur",
+   "image": "",
+   "date": "2026-09-13T13:27:25+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -321,14 +339,6 @@
    "date": "2026-09-11T10:56:16+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Surfshark Systems Targeted by Hackers",
-   "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-   "desc": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-11T09:41:03+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
@@ -485,16 +495,6 @@
    "date": "2026-09-10T17:47:38+00:00",
    "iocs": "iocs/69cf1fb2ff89.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-   "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-   "desc": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-   "image": "",
-   "date": "2026-09-10T15:55:56+00:00",
-   "iocs": "iocs/09079ade99ff.txt",
-   "ioc_count": 4
   },
   {
    "source": "Dark Reading",
