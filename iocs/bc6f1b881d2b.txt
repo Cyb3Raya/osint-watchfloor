@@ -1,0 +1,11 @@
+IOC EXTRACTION - Japan's Digital Agency says VPN flaw exposed 246,000 personnel records
+Source: https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/
+Extracted: 2026-09-14 22:21:05 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-20079

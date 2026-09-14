@@ -1,0 +1,12 @@
+IOC EXTRACTION - 'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink
+Source: https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink
+Extracted: 2026-09-14 22:21:10 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20316

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Twitch extension with 30K installs exposes users’ OAuth tokens
+Source: https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/
+Extracted: 2026-09-14 22:21:08 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+usher[.]ttvnw[.]net

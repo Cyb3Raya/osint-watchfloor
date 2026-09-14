@@ -1,0 +1,12 @@
+IOC EXTRACTION - Maximum Severity GitLab Flaw Puts Supply Chains at Risk
+Source: https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk
+Extracted: 2026-09-14 22:21:11 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-19478
+CVE-2026-85706

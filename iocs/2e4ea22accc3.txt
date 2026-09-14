@@ -1,0 +1,19 @@
+IOC EXTRACTION - 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
+Source: https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html
+Extracted: 2026-09-14 22:21:01 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2024-21762
+
+IPv4 (1)
+----------------------------------------
+92[.]63[.]180[.]133
+
+Domains (1)
+----------------------------------------
+www[.]ayuthayatech[.]com

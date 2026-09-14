@@ -1,9 +1,73 @@
 {
- "generated": "2026-09-14T18:45:53.549653+00:00",
+ "generated": "2026-09-14T22:21:18.167321+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+   "desc": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3c48d3f94f040d1/6aa866a635d26cae06cd28c4/cyclops-ratpack223-Getty-2194261969.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-14T21:37:28+00:00",
+   "iocs": "iocs/caf5df445550.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+   "desc": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+   "image": "",
+   "date": "2026-09-14T20:52:18+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+   "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+   "desc": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+   "image": "",
+   "date": "2026-09-14T20:36:02+00:00",
+   "iocs": "iocs/bc6f1b881d2b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+   "desc": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a9ed3a258b13f14/6aa83d3cc934fc9f7a138382/supplychain-Infinite_Creations-Getty-2289795401.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-14T20:19:22+00:00",
+   "iocs": "iocs/238d9d5bfc83.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+   "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+   "desc": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+   "image": "",
+   "date": "2026-09-14T19:51:04+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
+   "link": "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
+   "desc": "Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people.",
+   "image": "",
+   "date": "2026-09-14T19:40:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+   "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+   "desc": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+   "image": "",
+   "date": "2026-09-14T19:03:51+00:00",
+   "iocs": "iocs/0c060fb984f7.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
@@ -25,6 +89,32 @@
    "ioc_count": 261
   },
   {
+   "source": "The Hacker News",
+   "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+   "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+   "desc": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif",
+   "date": "2026-09-14T18:02:13+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+   "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+   "desc": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelli",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9khzZCrFkNfQ1fOYHT8A4LJrIsfc52ppe6xZffdUrfRacqTVQ76P0VPDZhqC2UfKM32jdbEiQfaCZDbrV2F0_dssOM8V8nT3ZZYvwhflLdfEhJhdNa0-UntK9XHkFJ4R5RthFMOM2X5kDZxUKW1RnRLmmQ0xLh5foMldMZovB0ZPdafoRf9cEb_w9Hwk/s1600/3bb.jpg",
+   "date": "2026-09-14T18:01:49+00:00",
+   "iocs": "iocs/2e4ea22accc3.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+   "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+   "desc": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YYT-Mf718wZ9kLasqkkPZ1Drw4dlLUMaHtOPuWRltuG7bOcA-d4bFr4GRmer0MMohBwgv7HFVFADi-EeDvIMcbEaJUiyn8t-iLxtR8PVRDWHLmxKnofrZgoPOH_RS7qaUkzd0Ery8Rr7oWlgoPJligCMSSywXmXdMHgzuER6M77sWisfdMOo_rqudmk/s1600/telehgram.jpg",
+   "date": "2026-09-14T17:58:16+00:00"
+  },
+  {
    "source": "Socket",
    "title": "Jerod Santo Joins Socket as Head of Media",
    "link": "https://socket.dev/blog/jerod-santo-joins-socket?utm_medium=feed",
@@ -34,17 +124,9 @@
   },
   {
    "source": "The Hacker News",
-   "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-   "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-   "desc": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif",
-   "date": "2026-09-14T16:58:42+00:00"
-  },
-  {
-   "source": "The Hacker News",
    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
    "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-   "desc": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campai",
+   "desc": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-natio",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg",
    "date": "2026-09-14T16:56:30+00:00",
    "iocs": "iocs/09d1dd4eafdf.txt",
@@ -357,28 +439,12 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
-   "link": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
-   "desc": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
-   "image": "",
-   "date": "2026-09-11T20:00:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
    "desc": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T19:21:08+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Florida confirms DMV database breached via stolen police account",
-   "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-   "desc": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police departm",
-   "image": "",
-   "date": "2026-09-11T19:00:29+00:00"
   },
   {
    "source": "Dark Reading",
@@ -405,16 +471,6 @@
    "date": "2026-09-11T18:14:06+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-   "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-   "desc": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from ",
-   "image": "",
-   "date": "2026-09-11T17:26:50+00:00",
-   "iocs": "iocs/82dfd2b2ae38.txt",
-   "ioc_count": 9
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Governance Can't Wait",
    "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
@@ -430,16 +486,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg",
    "date": "2026-09-11T16:30:18+00:00",
    "iocs": "iocs/a8b89596a45d.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-   "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-   "desc": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-   "image": "",
-   "date": "2026-09-11T16:29:44+00:00",
-   "iocs": "iocs/a9e03aba59c7.txt",
    "ioc_count": 3
   },
   {
@@ -483,30 +529,6 @@
    "date": "2026-09-11T14:23:33+00:00",
    "iocs": "iocs/f1042696b335.txt",
    "ioc_count": 20
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-   "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-   "desc": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has be",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg",
-   "date": "2026-09-11T14:10:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-   "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-   "desc": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts",
-   "image": "",
-   "date": "2026-09-11T14:01:11+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-   "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-   "desc": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg",
-   "date": "2026-09-11T11:30:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -651,14 +673,6 @@
    "ioc_count": 14
   },
   {
-   "source": "Dark Reading",
-   "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
-   "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
-   "desc": "&quot;Workflow identity hijacking&quot; can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7893676670a76d5/6aa13f3e0a3bef09c363535c/Data_security(1800)_ber1a_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-09T14:39:44+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
    "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
@@ -695,16 +709,6 @@
    "date": "2026-09-08T21:44:22+00:00",
    "iocs": "iocs/6e80b0fb56bf.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Patch Tuesday Sets Another Record With 974 CVEs",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
-   "desc": "Attackers are actively exploiting two of the vulnerabilities, and another 58 are more likely to be exploited, according to Microsoft.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-08T21:26:02+00:00",
-   "iocs": "iocs/12654741403d.txt",
-   "ioc_count": 8
   },
   {
    "source": "SANS ISC",
