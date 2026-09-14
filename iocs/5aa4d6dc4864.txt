@@ -1,0 +1,20 @@
+IOC EXTRACTION - Hackers target exposed Vite dev servers to steal AWS, Azure secrets
+Source: https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/
+Extracted: 2026-09-14 18:45:38 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2024-45811
+CVE-2025-30208
+CVE-2025-31125
+CVE-2026-39364
+
+IPv4 (3)
+----------------------------------------
+34[.]11[.]196[.]206
+34[.]14[.]15[.]105
+34[.]16[.]200[.]129

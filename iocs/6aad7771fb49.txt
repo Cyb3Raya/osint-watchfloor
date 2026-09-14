@@ -1,0 +1,21 @@
+IOC EXTRACTION - Hackers hijack HBO Max Reddit account to push malware in ClickFix ads
+Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/
+Extracted: 2026-09-14 18:45:36 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (7)
+----------------------------------------
+apple[.]clean-disk-guide[.]com
+code-desktop[.]com
+codex-craft[.]com
+hbomax-macos[.]com
+hbomaxx[.]app
+hbomaxx[.]us
+setup[.]sh
+
+URLs (1)
+----------------------------------------
+hxxps://ember-bridge[.]com/curl/a44a37519au/setup[.]sh

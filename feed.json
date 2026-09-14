@@ -1,9 +1,131 @@
 {
- "generated": "2026-09-14T13:20:38.597835+00:00",
+ "generated": "2026-09-14T18:45:53.549653+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+   "desc": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+   "image": "",
+   "date": "2026-09-14T18:34:16+00:00",
+   "iocs": "iocs/6aad7771fb49.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Apple Updates Everything, (Mon, Sep 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33336",
+   "desc": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever pa",
+   "image": "",
+   "date": "2026-09-14T18:33:44+00:00",
+   "iocs": "iocs/bb8f15506a4c.txt",
+   "ioc_count": 261
+  },
+  {
+   "source": "Socket",
+   "title": "Jerod Santo Joins Socket as Head of Media",
+   "link": "https://socket.dev/blog/jerod-santo-joins-socket?utm_medium=feed",
+   "desc": "Allow myself to introduce... myself.",
+   "image": "",
+   "date": "2026-09-14T17:37:23+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+   "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+   "desc": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif",
+   "date": "2026-09-14T16:58:42+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+   "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+   "desc": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campai",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg",
+   "date": "2026-09-14T16:56:30+00:00",
+   "iocs": "iocs/09d1dd4eafdf.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+   "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+   "desc": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc1ceecd5c1e4406/6aa7f8ab9253248bcbbd9bdb/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-14T16:41:10+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+   "desc": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+   "image": "",
+   "date": "2026-09-14T16:15:58+00:00",
+   "iocs": "iocs/5aa4d6dc4864.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "RF The Record",
+   "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
+   "link": "https://therecord.media/ukraine-malware-russia-ransomware",
+   "desc": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
+   "image": "",
+   "date": "2026-09-14T16:15:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hundreds of fake government websites target users in Central Asia",
+   "link": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam",
+   "desc": "The sites are designed to collect victims’ contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices.",
+   "image": "",
+   "date": "2026-09-14T16:02:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+   "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+   "desc": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg",
+   "date": "2026-09-14T16:00:04+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+   "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+   "desc": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg",
+   "date": "2026-09-14T14:40:34+00:00",
+   "iocs": "iocs/161dd11ccccf.txt",
+   "ioc_count": 55
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
+   "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
+   "desc": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development ap",
+   "image": "",
+   "date": "2026-09-14T14:28:26+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+   "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+   "desc": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight",
+   "image": "",
+   "date": "2026-09-14T14:01:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
+   "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+   "desc": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to",
+   "image": "",
+   "date": "2026-09-14T13:31:15+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Personal, Financial Info Exposed in Revolut Data Breach",
@@ -32,7 +154,7 @@
    "source": "RF The Record",
    "title": "Revolut handed customer data to fraudsters using government email account",
    "link": "https://therecord.media/revolut-scam-crypto-impersonation",
-   "desc": "British fintech Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.",
+   "desc": "British fintech company Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.",
    "image": "",
    "date": "2026-09-14T12:00:00+00:00"
   },
@@ -207,16 +329,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
-   "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-   "desc": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-12T11:10:00+00:00",
-   "iocs": "iocs/5fcbcfa82760.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
    "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
@@ -233,14 +345,6 @@
    "desc": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
    "date": "2026-09-12T09:07:56+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
-   "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
-   "desc": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Sa",
-   "image": "",
-   "date": "2026-09-12T01:50:53+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -283,14 +387,6 @@
    "desc": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T18:44:03+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Microsoft sees some new wrinkles in invoice-scam emails",
-   "link": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
-   "desc": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
-   "image": "",
-   "date": "2026-09-11T18:40:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -405,86 +501,12 @@
    "date": "2026-09-11T14:01:11+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
-   "link": "https://therecord.media/anthropic-russia-hackers-claude",
-   "desc": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.",
-   "image": "",
-   "date": "2026-09-11T12:45:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
    "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
    "desc": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg",
    "date": "2026-09-11T11:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "GitLab urges users to patch max severity path traversal flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-   "desc": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-   "image": "",
-   "date": "2026-09-11T11:15:22+00:00",
-   "iocs": "iocs/3b1ca1686e68.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-   "desc": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
-   "image": "",
-   "date": "2026-09-11T09:39:37+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-   "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-   "desc": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-   "image": "",
-   "date": "2026-09-11T07:55:15+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-   "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-   "desc": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz&nbsp;sai",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg",
-   "date": "2026-09-11T07:31:05+00:00",
-   "iocs": "iocs/6d77d0f66755.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-   "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-   "desc": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg",
-   "date": "2026-09-11T07:14:09+00:00",
-   "iocs": "iocs/11c8b517d375.txt",
-   "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-   "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-   "desc": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The softw",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg",
-   "date": "2026-09-11T06:46:18+00:00",
-   "iocs": "iocs/af3b87dfbf9c.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-   "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-   "desc": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks lever",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg",
-   "date": "2026-09-11T06:19:59+00:00",
-   "iocs": "iocs/788925358fae.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -685,14 +707,6 @@
    "ioc_count": 8
   },
   {
-   "source": "Dark Reading",
-   "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-   "desc": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ee880bdb37bd5a/6aa06071aa16bb4982ce6be0/hopscotch-LeoPatrizi-GettyImages-1303877346.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-08T21:03:46+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
    "link": "https://isc.sans.edu/diary/rss/33320",
@@ -771,14 +785,6 @@
    "desc": "StyleSmuggler is an unauthenticated RCE hitting Magento and Adobe Commerce, with no CVE and no Adobe patch yet. Aikido already has the fix. Category: Vulnerabilities & Threats",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ea4e8bc1698a35097070c_Gemini_Feature.jpg",
    "date": "2026-09-07T11:46:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
-   "link": "https://isc.sans.edu/diary/rss/33314",
-   "desc": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been",
-   "image": "",
-   "date": "2026-09-06T21:43:17+00:00"
   },
   {
    "source": "Socket",
@@ -989,14 +995,6 @@
    "date": "2026-08-28T20:29:00+00:00",
    "iocs": "iocs/aa9f3d63dc56.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "When Autonomous Agents Escape: Why Socket Signed the Cyber Defense Open Letter",
-   "link": "https://socket.dev/blog/autonomous-agents-escape?utm_medium=feed",
-   "desc": "Socket joins more than 100 technology, cybersecurity, and financial organizations calling for a global surge in cyber defense.",
-   "image": "",
-   "date": "2026-08-28T16:02:57+00:00"
   },
   {
    "source": "Wiz Threats",

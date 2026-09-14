@@ -1,0 +1,11 @@
+IOC EXTRACTION - Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries
+Source: https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html
+Extracted: 2026-09-14 18:45:33 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-60004
