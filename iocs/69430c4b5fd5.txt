@@ -1,0 +1,11 @@
+IOC EXTRACTION - Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users
+Source: https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html
+Extracted: 2026-09-14 13:20:11 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+usher[.]ttvnw[.]net

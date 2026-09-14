@@ -1,0 +1,11 @@
+IOC EXTRACTION - Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution
+Source: https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/
+Extracted: 2026-09-14 13:20:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-51990
