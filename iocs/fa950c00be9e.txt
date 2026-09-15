@@ -1,0 +1,11 @@
+IOC EXTRACTION - Dependabot vs Renovate
+Source: https://www.aikido.dev/blog/dependabot-vs-renovate
+Extracted: 2026-09-15 05:56:56 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-48937

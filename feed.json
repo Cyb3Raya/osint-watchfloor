@@ -1,9 +1,27 @@
 {
- "generated": "2026-09-15T00:53:48.153029+00:00",
+ "generated": "2026-09-15T05:56:58.697998+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
+   "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
+   "desc": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared ",
+   "image": "",
+   "date": "2026-09-15T05:18:51+00:00",
+   "iocs": "iocs/510a70daa4d0.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
+   "link": "https://isc.sans.edu/diary/rss/33338",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-15T02:25:12+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
@@ -173,6 +191,16 @@
    "desc": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg",
    "date": "2026-09-14T16:00:04+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Dependabot vs Renovate",
+   "link": "https://www.aikido.dev/blog/dependabot-vs-renovate",
+   "desc": "Dependabot vs Renovate compared on setup, monorepos, platforms, and security, plus why auto-updating misses what's actually exploitable Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5fdbe6641692896ea262fb_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-14T15:56:00+00:00",
+   "iocs": "iocs/fa950c00be9e.txt",
+   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -371,14 +399,6 @@
    "date": "2026-09-13T14:26:32+00:00",
    "iocs": "iocs/b2a972265875.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
-   "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
-   "desc": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measur",
-   "image": "",
-   "date": "2026-09-13T13:27:25+00:00"
   },
   {
    "source": "The Hacker News",
@@ -765,14 +785,6 @@
    "ioc_count": 5
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)",
-   "link": "https://isc.sans.edu/diary/rss/33316",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-08T02:00:03+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Shai-Hulud Rises From the Dead after 111 days",
    "link": "https://www.aikido.dev/blog/shai-hulud-npm-resurfaces",
@@ -1053,14 +1065,6 @@
    "date": "2026-08-26T15:42:00+00:00",
    "iocs": "iocs/6b19e48db4a2.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "Software supply chain security requires decisions rather than defaults",
-   "link": "https://www.aikido.dev/blog/software-supply-chain-security-decisions-not-defaults",
-   "desc": "Most software runs on decisions nobody made. We talk about why gating, pinning, backporting, and SBOM upkeep only work if someone actually owns them. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a8eaa621fcd06d148354f50_Decisions-not-defaults(2).png",
-   "date": "2026-08-26T10:15:00+00:00"
   },
   {
    "source": "Cisco Talos",

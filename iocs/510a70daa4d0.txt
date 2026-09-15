@@ -1,0 +1,14 @@
+IOC EXTRACTION - Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation
+Source: https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/
+Extracted: 2026-09-15 05:56:52 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-20393
+CVE-2026-20079
+CVE-2026-20316
+CVE-2026-76461
