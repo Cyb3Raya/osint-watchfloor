@@ -1,0 +1,17 @@
+IOC EXTRACTION - Thai Broadband Provider Hacked via Fortinet Vulnerability
+Source: https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/
+Extracted: 2026-09-15 15:40:42 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2018-13379
+CVE-2021-22986
+CVE-2022-1388
+CVE-2022-42475
+CVE-2023-27997
+CVE-2023-46747
+CVE-2024-21762

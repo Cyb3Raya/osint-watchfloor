@@ -1,0 +1,11 @@
+IOC EXTRACTION - What Zero-Day Response Should Be in the Post-Mythos Era
+Source: https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/
+Extracted: 2026-09-15 15:40:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-1001

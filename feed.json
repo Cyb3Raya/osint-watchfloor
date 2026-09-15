@@ -1,9 +1,149 @@
 {
- "generated": "2026-09-15T11:34:31.788870+00:00",
+ "generated": "2026-09-15T15:40:54.189595+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+   "link": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
+   "desc": "A hacker claims to have stolen 7.5 million customer records after breaching the company’s systems. The post Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-15T15:30:24+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
+   "link": "https://isc.sans.edu/diary/rss/33340",
+   "desc": "I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here a",
+   "image": "",
+   "date": "2026-09-15T15:23:45+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Zelensky appoints former police chief to lead Ukraine’s cyber coordination center",
+   "link": "https://therecord.media/ukraine-cyber-coordination-center-ihor-klymenko",
+   "desc": "Ihor Klymenko, who has experience in law enforcement and as interior minister, will run Ukraine's National Cybersecurity Coordination Center.",
+   "image": "",
+   "date": "2026-09-15T15:09:23+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+   "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+   "desc": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+   "image": "",
+   "date": "2026-09-15T15:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+   "desc": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+   "image": "",
+   "date": "2026-09-15T14:45:10+00:00",
+   "iocs": "iocs/beff2a4f92d5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Electric and gas utility CenterPoint Energy warns of data breach after dark web post",
+   "link": "https://therecord.media/centerpoint-energy-data-breach",
+   "desc": "Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web.",
+   "image": "",
+   "date": "2026-09-15T14:22:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+   "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+   "desc": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control test",
+   "image": "",
+   "date": "2026-09-15T13:45:54+00:00",
+   "iocs": "iocs/ff7f881cf08d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
+   "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
+   "desc": "The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools. The post Thai Broadband Provider Hacked via Fortinet Vulnerability appeared first o",
+   "image": "",
+   "date": "2026-09-15T13:33:58+00:00",
+   "iocs": "iocs/da214e2918b0.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "RF The Record",
+   "title": "China spy chief points at US AI models in cyber threat warning",
+   "link": "https://therecord.media/china-spy-chief-warns-of-us-ai-models",
+   "desc": "China's spy chief identified Anthropic’s Claude Mythos and OpenAI’s GPT-5.5-Cyber as signs of what he called a “disruptive upgrade” in cyber capabilities, increasing the speed and potential weaponization of vulnerability",
+   "image": "",
+   "date": "2026-09-15T12:54:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
+   "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
+   "desc": "The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity. The post OpenAI Investigates Report Linking AI Agents to RubyGems Attack appeared ",
+   "image": "",
+   "date": "2026-09-15T12:42:32+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Manhattan DA takes down 12 AI deepfake porn sites",
+   "link": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
+   "desc": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies",
+   "image": "",
+   "date": "2026-09-15T12:42:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+   "image": "",
+   "date": "2026-09-15T12:16:32+00:00",
+   "iocs": "iocs/0d4ce8b8f152.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+   "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+   "desc": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can mov",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg",
+   "date": "2026-09-15T11:52:28+00:00",
+   "iocs": "iocs/f78f80e44815.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+   "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+   "desc": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people. The post 240,000 Hit by Data Breach at Japan&#8217;s Digital Agency appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-15T11:45:31+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+   "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+   "desc": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this partic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg",
+   "date": "2026-09-15T11:26:36+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+   "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+   "desc": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg",
+   "date": "2026-09-15T11:12:32+00:00",
+   "iocs": "iocs/bf27a701dddc.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SecurityWeek",
    "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
@@ -253,22 +393,6 @@
    "ioc_count": 7
   },
   {
-   "source": "RF The Record",
-   "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
-   "link": "https://therecord.media/ukraine-malware-russia-ransomware",
-   "desc": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
-   "image": "",
-   "date": "2026-09-14T16:15:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Hundreds of fake government websites target users in Central Asia",
-   "link": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam",
-   "desc": "The sites are designed to collect victims’ contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices.",
-   "image": "",
-   "date": "2026-09-14T16:02:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
    "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
@@ -321,36 +445,12 @@
    "date": "2026-09-14T13:31:15+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-   "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-   "desc": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-14T13:03:35+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "The Race to Control AI and Protect What Makes Us Human",
-   "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
-   "desc": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human app",
-   "image": "",
-   "date": "2026-09-14T13:00:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
    "desc": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches ",
    "image": "",
    "date": "2026-09-14T12:15:23+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Revolut handed customer data to fraudsters using government email account",
-   "link": "https://therecord.media/revolut-scam-crypto-impersonation",
-   "desc": "British fintech company Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.",
-   "image": "",
-   "date": "2026-09-14T12:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -361,54 +461,12 @@
    "date": "2026-09-14T11:58:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
-   "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
-   "desc": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on ",
-   "image": "",
-   "date": "2026-09-14T11:51:29+00:00",
-   "iocs": "iocs/13ffadda8b22.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
-   "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
-   "desc": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on Securi",
-   "image": "",
-   "date": "2026-09-14T10:30:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
    "link": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
    "desc": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to A",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/12_Cloud_cybersecurity_research_Overview_1920x900-2.jpg",
    "date": "2026-09-14T10:00:01+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: September updates cause RDS failures on Windows Server",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-   "desc": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
-   "image": "",
-   "date": "2026-09-14T09:50:25+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Revolut discloses data breach exposing financial info, passports",
-   "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-   "desc": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
-   "image": "",
-   "date": "2026-09-14T08:48:24+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: September updates break audio on some Windows PCs",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-   "desc": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
-   "image": "",
-   "date": "2026-09-14T08:08:16+00:00"
   },
   {
    "source": "The Hacker News",
@@ -421,30 +479,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
-   "image": "",
-   "date": "2026-09-14T07:06:27+00:00",
-   "iocs": "iocs/31d7ea4cc106.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
    "link": "https://isc.sans.edu/diary/rss/33334",
    "desc": "",
    "image": "",
    "date": "2026-09-14T02:00:03+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI",
-   "link": "https://therecord.media/nsa-reorganization-five-mission-centers",
-   "desc": "The largest electronic spy agency in the world is reorganizing. And fast.",
-   "image": "",
-   "date": "2026-09-13T21:36:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -455,34 +495,6 @@
    "date": "2026-09-13T10:11:48+00:00",
    "iocs": "iocs/fa59062d0b2f.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-   "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) ca",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg",
-   "date": "2026-09-12T15:54:45+00:00",
-   "iocs": "iocs/0ddc7c58e041.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-   "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-   "desc": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks agains",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg",
-   "date": "2026-09-12T10:24:44+00:00",
-   "iocs": "iocs/d66479afd965.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-   "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-   "desc": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
-   "date": "2026-09-12T09:07:56+00:00"
   },
   {
    "source": "Dark Reading",
@@ -729,14 +741,6 @@
    "date": "2026-09-08T21:44:22+00:00",
    "iocs": "iocs/6e80b0fb56bf.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SANS ISC",
-   "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
-   "link": "https://isc.sans.edu/diary/rss/33320",
-   "desc": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two",
-   "image": "",
-   "date": "2026-09-08T19:20:30+00:00"
   },
   {
    "source": "Aikido",

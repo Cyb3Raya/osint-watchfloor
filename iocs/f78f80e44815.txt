@@ -1,0 +1,21 @@
+IOC EXTRACTION - Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
+Source: https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html
+Extracted: 2026-09-15 15:40:32 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2021-33044
+CVE-2021-33045
+CVE-2026-39987
+
+IPv4 (5)
+----------------------------------------
+172[.]236[.]12[.]17
+188[.]245[.]99[.]156
+20[.]198[.]10[.]42
+34[.]166[.]99[.]116
+47[.]250[.]92[.]230
