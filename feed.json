@@ -1,9 +1,59 @@
 {
- "generated": "2026-09-15T19:34:41.993578+00:00",
+ "generated": "2026-09-15T22:25:58.936568+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+   "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+   "desc": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+   "image": "",
+   "date": "2026-09-15T21:37:35+00:00",
+   "iocs": "iocs/61abe81ccc88.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+   "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+   "desc": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden use",
+   "image": "",
+   "date": "2026-09-15T20:34:15+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+   "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+   "desc": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers. The post Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other T",
+   "image": "",
+   "date": "2026-09-15T20:24:51+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+   "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+   "desc": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-15T20:16:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Norway announces investigations into telecom Telenor’s work with Myanmar junta",
+   "link": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
+   "desc": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.",
+   "image": "",
+   "date": "2026-09-15T20:01:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+   "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+   "desc": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today. The post “We Think the Security Control Is Working” Is No Longe",
+   "image": "",
+   "date": "2026-09-15T19:30:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
@@ -167,14 +217,6 @@
    "date": "2026-09-15T12:42:32+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Manhattan DA takes down 12 AI deepfake porn sites",
-   "link": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
-   "desc": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies",
-   "image": "",
-   "date": "2026-09-15T12:42:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
@@ -247,16 +289,6 @@
    "date": "2026-09-15T09:40:25+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-   "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-   "desc": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-15T09:09:00+00:00",
-   "iocs": "iocs/3962a1474812.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
@@ -302,16 +334,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aJxmkQeaEoRUyxjlnH4uMELX24ICkHN1UpJaF3kM181M-V32GMskTo1YCRAf-8m4rsHw0nEYM53AC1CAZekv6yOEfBkj1ZNxL3lWatq_F5Bpuwsvw7snHIiIz62EA1pX-bPaawFgIwbvtUH020WdVwEupWi_CkYJVDog_w0LVEnMMvRYo0D7giAdtuGK/s1600/chrome-windows.jpg",
    "date": "2026-09-15T05:31:05+00:00",
    "iocs": "iocs/689ffb8dd99a.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-   "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-   "desc": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared ",
-   "image": "",
-   "date": "2026-09-15T05:18:51+00:00",
-   "iocs": "iocs/510a70daa4d0.txt",
    "ioc_count": 4
   },
   {
@@ -451,16 +473,6 @@
    "date": "2026-09-14T16:41:10+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-   "desc": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-   "image": "",
-   "date": "2026-09-14T16:15:58+00:00",
-   "iocs": "iocs/5aa4d6dc4864.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "The Hacker News",
    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
    "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
@@ -487,14 +499,6 @@
    "date": "2026-09-14T14:40:34+00:00",
    "iocs": "iocs/161dd11ccccf.txt",
    "ioc_count": 55
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-   "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-   "desc": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight",
-   "image": "",
-   "date": "2026-09-14T14:01:11+00:00"
   },
   {
    "source": "Unit 42",
@@ -667,14 +671,6 @@
    "date": "2026-09-10T10:00:43+00:00",
    "iocs": "iocs/1fb7fd98ae59.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Dark Reading",
-   "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
-   "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
-   "desc": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba41cd0488eb4d89/6aa1a2aa145a18d222181a6c/EU_lock-Alexey_Krukovsky-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-10T07:00:00+00:00"
   },
   {
    "source": "Socket",
