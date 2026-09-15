@@ -1,0 +1,12 @@
+IOC EXTRACTION - BambooToken Malware Uses MQTT to Control Windows and Linux Systems
+Source: https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html
+Extracted: 2026-09-15 19:34:28 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+api80[.]c2iznja[.]com
+chat5188[.]tk

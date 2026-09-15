@@ -1,0 +1,13 @@
+IOC EXTRACTION - KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
+Source: https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
+Extracted: 2026-09-15 19:34:26 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+luizestrelhashapr[.]online
+volmira[.]site
+zaviro[.]online

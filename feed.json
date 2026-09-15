@@ -1,9 +1,75 @@
 {
- "generated": "2026-09-15T15:40:54.189595+00:00",
+ "generated": "2026-09-15T19:34:41.993578+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+   "desc": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Huggin",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-15T19:27:19+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+   "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+   "desc": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg",
+   "date": "2026-09-15T18:54:14+00:00",
+   "iocs": "iocs/e6910dbe4779.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Dark Reading",
+   "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+   "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+   "desc": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-15T16:45:37+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+   "desc": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+   "image": "",
+   "date": "2026-09-15T16:40:14+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+   "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+   "desc": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg",
+   "date": "2026-09-15T16:29:51+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Iranian cyber spies used fake MRI scan results to hack ‘enemy of regime’",
+   "link": "https://therecord.media/iran-cyber-spies-use-fake-mri-scans-as-lure",
+   "desc": "According to the United Kingdom’s National Cyber Security Centre (NCSC), Iran has used this and similar cyber activity to “support the repression of individuals who are seen as a threat to the regime, such as dissidents,",
+   "image": "",
+   "date": "2026-09-15T16:28:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+   "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+   "desc": "AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage. The post $1 Million Sandbox Challenge Uncovers Linux Kernel Flaws appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-15T16:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
+   "link": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
+   "desc": "The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion. The post Exein Secures $270M at $1.7B Valuation for Physical AI Security appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-15T15:45:13+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
@@ -19,6 +85,16 @@
    "desc": "I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here a",
    "image": "",
    "date": "2026-09-15T15:23:45+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+   "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+   "desc": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emergi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg",
+   "date": "2026-09-15T15:23:19+00:00",
+   "iocs": "iocs/999d56a1d809.txt",
+   "ioc_count": 2
   },
   {
    "source": "RF The Record",
@@ -293,14 +369,6 @@
    "date": "2026-09-14T19:51:04+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
-   "link": "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
-   "desc": "Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people.",
-   "image": "",
-   "date": "2026-09-14T19:40:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
    "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
@@ -421,44 +489,12 @@
    "ioc_count": 55
   },
   {
-   "source": "SecurityWeek",
-   "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-   "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-   "desc": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development ap",
-   "image": "",
-   "date": "2026-09-14T14:28:26+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
    "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
    "desc": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight",
    "image": "",
    "date": "2026-09-14T14:01:11+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-   "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-   "desc": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to",
-   "image": "",
-   "date": "2026-09-14T13:31:15+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-   "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-   "desc": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches ",
-   "image": "",
-   "date": "2026-09-14T12:15:23+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-   "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-   "desc": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1600/picus-main.jpg",
-   "date": "2026-09-14T11:58:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -469,32 +505,12 @@
    "date": "2026-09-14T10:00:01+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-   "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-   "desc": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | J",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg",
-   "date": "2026-09-14T07:24:39+00:00",
-   "iocs": "iocs/69430c4b5fd5.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
    "link": "https://isc.sans.edu/diary/rss/33334",
    "desc": "",
    "image": "",
    "date": "2026-09-14T02:00:03+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-   "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-   "desc": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg",
-   "date": "2026-09-13T10:11:48+00:00",
-   "iocs": "iocs/fa59062d0b2f.txt",
-   "ioc_count": 10
   },
   {
    "source": "Dark Reading",
@@ -669,22 +685,6 @@
    "date": "2026-09-09T21:40:24+00:00",
    "iocs": "iocs/6c8a098255f7.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
-   "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
-   "desc": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt439f596f6fab9438/6aa1bda507331dcf89c77c60/firehose_sirloh_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-09T21:19:55+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
-   "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
-   "desc": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33b13b556aa2e63e/6aa1a92888ea9adc3dabaf29/distillery-ArtistGNDphotography-GettyImages-2195175104.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-09T19:47:50+00:00"
   },
   {
    "source": "SANS ISC",
