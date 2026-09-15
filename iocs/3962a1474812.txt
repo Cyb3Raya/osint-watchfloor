@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack
+Source: https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/
+Extracted: 2026-09-15 11:34:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+hbomaxx[.]us

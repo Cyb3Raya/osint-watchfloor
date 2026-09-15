@@ -1,0 +1,17 @@
+IOC EXTRACTION - China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE
+Source: https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html
+Extracted: 2026-09-15 11:34:17 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-85046
+CVE-2026-85880
+CVE-2026-87491
+
+Domains (1)
+----------------------------------------
+ocr[.]opusaccel[.]top

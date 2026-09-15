@@ -1,0 +1,15 @@
+IOC EXTRACTION - Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution
+Source: https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html
+Extracted: 2026-09-15 11:34:16 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-76461
+
+IPv4 (1)
+----------------------------------------
+158[.]94[.]211[.]14

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases
+Source: https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/
+Extracted: 2026-09-15 11:34:24 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2022-3437
+CVE-2026-64752

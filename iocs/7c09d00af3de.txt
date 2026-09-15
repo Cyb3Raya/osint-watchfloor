@@ -1,0 +1,12 @@
+IOC EXTRACTION - LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server
+Source: https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html
+Extracted: 2026-09-15 11:34:15 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-48172
+CVE-2026-54420

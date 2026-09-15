@@ -1,0 +1,17 @@
+IOC EXTRACTION - Cisco patches Secure Email Gateway zero-day exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/
+Extracted: 2026-09-15 11:34:22 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2025-20393
+CVE-2026-20079
+CVE-2026-20353
+CVE-2026-76440
+CVE-2026-76441
+CVE-2026-76443
+CVE-2026-76461

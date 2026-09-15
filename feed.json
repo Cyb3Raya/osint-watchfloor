@@ -1,9 +1,93 @@
 {
- "generated": "2026-09-15T05:56:58.697998+00:00",
+ "generated": "2026-09-15T11:34:31.788870+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
+   "link": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
+   "desc": "The updates resolve kernel vulnerabilities that could lead to memory corruption, privilege escalation, system termination, and information leaks. The post Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden G",
+   "image": "",
+   "date": "2026-09-15T11:06:11+00:00",
+   "iocs": "iocs/809b0a7d78d5.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+   "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+   "desc": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charg",
+   "image": "",
+   "date": "2026-09-15T09:50:25+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
+   "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
+   "desc": "The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability. The post Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints app",
+   "image": "",
+   "date": "2026-09-15T09:40:25+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
+   "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
+   "desc": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-15T09:09:00+00:00",
+   "iocs": "iocs/3962a1474812.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+   "desc": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+   "image": "",
+   "date": "2026-09-15T08:40:20+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+   "desc": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+   "image": "",
+   "date": "2026-09-15T07:31:09+00:00",
+   "iocs": "iocs/96c09c631f16.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "The Hacker News",
+   "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+   "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+   "desc": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September 14. On such servers",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVzSne-2lfRX57xj9CbnkpX1fjEWXYoPN0tDsXwgBwaE_LVqYBKtWbO1nudNLKp89aR90EeszJUqsNvZN4ZLzU1i7hm89ihV-lK1mIKiNXl6GWAWkn6uz7WlRVfIdJrS7Nfn6x-1Cclf6oTs3RxVNWxQSVBsvhzDjMBnmU3l3oERVu3b5hqag5mSeKoU/s1600/litespeed.jpg",
+   "date": "2026-09-15T06:52:16+00:00",
+   "iocs": "iocs/7c09d00af3de.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+   "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+   "desc": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS sc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8z5yuk0NLq0i2IvKx9dibCdw5at8BanYNBhjn665PLV0EanY_s0UV0D4D0wcPijyd5r8sS4eCMDwKdsVQ9GktnqcPRympe7ZqI7Bh8ZSBukLsxFSQ3-SFRb10ylKsDPl7tU2-M3w_E0eNSe_ytrRE-JZ62fvAExuQCawQJZFjYwArFC550Ri8mOQ1q1s/s1600/cisco-email.jpg",
+   "date": "2026-09-15T06:11:11+00:00",
+   "iocs": "iocs/afc835b3ebd2.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+   "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+   "desc": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Vo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aJxmkQeaEoRUyxjlnH4uMELX24ICkHN1UpJaF3kM181M-V32GMskTo1YCRAf-8m4rsHw0nEYM53AC1CAZekv6yOEfBkj1ZNxL3lWatq_F5Bpuwsvw7snHIiIz62EA1pX-bPaawFgIwbvtUH020WdVwEupWi_CkYJVDog_w0LVEnMMvRYo0D7giAdtuGK/s1600/chrome-windows.jpg",
+   "date": "2026-09-15T05:31:05+00:00",
+   "iocs": "iocs/689ffb8dd99a.txt",
+   "ioc_count": 4
+  },
   {
    "source": "SecurityWeek",
    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
@@ -303,14 +387,6 @@
    "date": "2026-09-14T10:00:01+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Telus Warns Customers of Account Breaches",
-   "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
-   "desc": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-14T09:56:57+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft: September updates cause RDS failures on Windows Server",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
@@ -319,32 +395,12 @@
    "date": "2026-09-14T09:50:25+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
-   "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
-   "desc": "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-14T09:27:29+00:00",
-   "iocs": "iocs/31900a8a63cc.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "BleepingComputer",
    "title": "Revolut discloses data breach exposing financial info, passports",
    "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
    "desc": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
    "image": "",
    "date": "2026-09-14T08:48:24+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
-   "link": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
-   "desc": "The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on S",
-   "image": "",
-   "date": "2026-09-14T08:25:14+00:00",
-   "iocs": "iocs/525ceef4b0f6.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -391,16 +447,6 @@
    "date": "2026-09-13T21:36:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-   "desc": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-   "image": "",
-   "date": "2026-09-13T14:26:32+00:00",
-   "iocs": "iocs/b2a972265875.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
    "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
@@ -421,16 +467,6 @@
    "ioc_count": 6
   },
   {
-   "source": "BleepingComputer",
-   "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-   "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-   "desc": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-   "image": "",
-   "date": "2026-09-12T14:14:32+00:00",
-   "iocs": "iocs/59b3d76728f8.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
    "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
@@ -447,16 +483,6 @@
    "desc": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
    "date": "2026-09-12T09:07:56+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-   "desc": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-   "image": "",
-   "date": "2026-09-11T20:19:09+00:00",
-   "iocs": "iocs/ed5e0e272a95.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -499,24 +525,6 @@
    "date": "2026-09-11T17:10:56+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-   "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-   "desc": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-202",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg",
-   "date": "2026-09-11T16:30:18+00:00",
-   "iocs": "iocs/a8b89596a45d.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-   "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-   "desc": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Kn",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg",
-   "date": "2026-09-11T16:15:29+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
@@ -531,14 +539,6 @@
    "desc": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the",
    "image": "",
    "date": "2026-09-11T14:40:32+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-   "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-   "desc": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg",
-   "date": "2026-09-11T14:29:47+00:00"
   },
   {
    "source": "Socket",
