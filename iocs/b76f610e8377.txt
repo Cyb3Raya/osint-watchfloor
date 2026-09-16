@@ -1,0 +1,13 @@
+IOC EXTRACTION - Chrome, Firefox Updates Patch 115 Vulnerabilities
+Source: https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/
+Extracted: 2026-09-16 11:06:25 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-91721
+CVE-2026-91726
+CVE-2026-91749

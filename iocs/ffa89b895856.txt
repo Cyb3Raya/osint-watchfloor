@@ -1,0 +1,11 @@
+IOC EXTRACTION - Enterprises Warned of Attacks Exploiting WSO2 Vulnerability
+Source: https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/
+Extracted: 2026-09-16 11:06:27 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-5430

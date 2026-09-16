@@ -1,0 +1,11 @@
+IOC EXTRACTION - Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens
+Source: https://thehackernews.com/2026/09/active-exploitation-attempts-target.html
+Extracted: 2026-09-16 11:06:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-5430
