@@ -1,9 +1,49 @@
 {
- "generated": "2026-09-16T19:04:43.466486+00:00",
+ "generated": "2026-09-16T22:13:24.913012+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+   "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+   "desc": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcb03b6fd2d90125e/6aab0ffae6306a5a1058a24b/aiinvestment-chiewr-Getty-2220824575.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-16T21:26:55+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
+   "link": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
+   "desc": "“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.",
+   "image": "",
+   "date": "2026-09-16T21:07:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+   "desc": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+   "image": "",
+   "date": "2026-09-16T20:39:29+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+   "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+   "desc": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+   "image": "",
+   "date": "2026-09-16T20:24:55+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "GitHub Actions Adds cache-mode to Limit Cache Poisoning Risk",
+   "link": "https://socket.dev/blog/github-actions-cache-mode?utm_medium=feed",
+   "desc": "GitHub Actions now supports cache-mode, a least-privilege control on the Actions cache aimed at the cache poisoning technique behind recent compromises.",
+   "image": "",
+   "date": "2026-09-16T19:36:23+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
@@ -147,14 +187,6 @@
    "desc": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can re",
    "image": "",
    "date": "2026-09-16T14:00:10+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Flock camera use by internal affairs unit puts DC police at odds with officers’ union",
-   "link": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers",
-   "desc": "Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union.",
-   "image": "",
-   "date": "2026-09-16T13:41:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -398,9 +430,9 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+   "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
    "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-   "desc": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Huggin",
+   "desc": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-15T19:27:19+00:00"
   },
@@ -473,26 +505,6 @@
    "date": "2026-09-15T14:45:10+00:00",
    "iocs": "iocs/beff2a4f92d5.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-   "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-   "desc": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control test",
-   "image": "",
-   "date": "2026-09-15T13:45:54+00:00",
-   "iocs": "iocs/ff7f881cf08d.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-   "image": "",
-   "date": "2026-09-15T12:16:32+00:00",
-   "iocs": "iocs/0d4ce8b8f152.txt",
-   "ioc_count": 5
   },
   {
    "source": "The Hacker News",
@@ -623,14 +635,6 @@
    "desc": "Adversaries can manipulate AI's defensive reasoning to silently compromise target networks.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T17:10:56+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-   "desc": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-11T15:48:27+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1015,16 +1019,6 @@
    "date": "2026-08-28T21:25:00+00:00",
    "iocs": "iocs/1e213dbcb33a.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "Socket",
-   "title": "OpenAPI React Query Codegen Compromised in Mini Shai-Hulud npm Supply Chain Attack",
-   "link": "https://socket.dev/blog/openapi-react-query-codegen-npm-compromise?utm_medium=feed",
-   "desc": "Ten malicious OpenAPI React Query Codegen versions were published to npm in the Mini Shai-Hulud attack, all with valid provenance.",
-   "image": "",
-   "date": "2026-08-28T20:49:35+00:00",
-   "iocs": "iocs/f17d853e67db.txt",
-   "ioc_count": 13
   },
   {
    "source": "Aikido",
