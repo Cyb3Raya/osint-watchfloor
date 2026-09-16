@@ -1,9 +1,121 @@
 {
- "generated": "2026-09-16T15:27:02.118313+00:00",
+ "generated": "2026-09-16T19:04:43.466486+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+   "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+   "desc": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+   "image": "",
+   "date": "2026-09-16T18:50:53+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
+   "link": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
+   "desc": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
+   "image": "",
+   "date": "2026-09-16T18:46:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
+   "link": "https://isc.sans.edu/diary/rss/33344",
+   "desc": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:&#xd;",
+   "image": "",
+   "date": "2026-09-16T18:44:04+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "House passes bill to equip local law enforcement with scam-fighting tools",
+   "link": "https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams",
+   "desc": "The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a fed",
+   "image": "",
+   "date": "2026-09-16T18:28:00+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+   "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+   "desc": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent",
+   "image": "",
+   "date": "2026-09-16T18:14:22+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Fighting Your Dragons Through Tough Tech Times",
+   "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+   "desc": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-16T18:00:54+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Spain's data agency gets first report of AI-powered data breach",
+   "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+   "desc": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+   "image": "",
+   "date": "2026-09-16T17:26:41+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+   "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+   "desc": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-16T16:43:37+00:00",
+   "iocs": "iocs/574b145c417e.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+   "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+   "desc": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Rep",
+   "image": "",
+   "date": "2026-09-16T16:39:19+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+   "desc": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg",
+   "date": "2026-09-16T15:50:59+00:00",
+   "iocs": "iocs/4a519778a75a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
+   "link": "https://therecord.media/international-meteor-organization-cyberattack",
+   "desc": "A website used around the world for reporting meteors faces weeks of downtime as the organization moves away from systems that were hacked recently.",
+   "image": "",
+   "date": "2026-09-16T15:47:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+   "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+   "desc": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has id",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg",
+   "date": "2026-09-16T15:27:49+00:00",
+   "iocs": "iocs/27afdbdfcf69.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+   "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+   "desc": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg",
+   "date": "2026-09-16T14:36:44+00:00",
+   "iocs": "iocs/d58c7f1a86f6.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SecurityWeek",
    "title": "Virtual Event Today: Attack Surface Management Summit",
@@ -71,14 +183,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "EU chief wants joint response to cyberattacks, sabotage",
-   "link": "https://therecord.media/eu-chief-wants-joint-response-to-cyberattacks",
-   "desc": "Delivering her annual State of the Union address in Strasbourg, Ursula von der Leyen said threats were “mounting on our soil,” pointing to recent incidents in Denmark, Lithuania and Poland and an attempted drone attack i",
-   "image": "",
-   "date": "2026-09-16T13:14:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
    "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
@@ -87,14 +191,6 @@
    "date": "2026-09-16T13:10:54+00:00",
    "iocs": "iocs/9a262ecad05f.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ukraine moves to crack down on scam call centers after corruption scandal",
-   "link": "https://therecord.media/ukraine-call-center-scam-crackdown",
-   "desc": "Ukraine’s parliament has approved tougher criminal penalties for involvement in fraudulent call centers and the theft of personal data, following a corruption scandal in which prosecutors were accused of taking bribes to",
-   "image": "",
-   "date": "2026-09-16T12:45:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -221,16 +317,6 @@
    "ioc_count": 11
   },
   {
-   "source": "SecurityWeek",
-   "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
-   "link": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
-   "desc": "CVE-2026-87886 is a high-severity insecure file permissions flaw that can lead to local privilege escalation. The post Acronis Patches Exploited Vulnerability in cPanel Backup Plugin appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-16T09:52:31+00:00",
-   "iocs": "iocs/464d62a610de.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Windows Server 2022 reaches end of mainstream support next month",
    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
@@ -309,14 +395,6 @@
    "desc": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-15T20:16:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Norway announces investigations into telecom Telenor’s work with Myanmar junta",
-   "link": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
-   "desc": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.",
-   "image": "",
-   "date": "2026-09-15T20:01:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -425,50 +503,6 @@
    "date": "2026-09-15T11:52:28+00:00",
    "iocs": "iocs/f78f80e44815.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-   "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-   "desc": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this partic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg",
-   "date": "2026-09-15T11:26:36+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-   "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-   "desc": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg",
-   "date": "2026-09-15T11:12:32+00:00",
-   "iocs": "iocs/bf27a701dddc.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-   "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-   "desc": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charg",
-   "image": "",
-   "date": "2026-09-15T09:50:25+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-   "desc": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-   "image": "",
-   "date": "2026-09-15T08:40:20+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-   "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-   "desc": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September 14. On such servers",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVzSne-2lfRX57xj9CbnkpX1fjEWXYoPN0tDsXwgBwaE_LVqYBKtWbO1nudNLKp89aR90EeszJUqsNvZN4ZLzU1i7hm89ihV-lK1mIKiNXl6GWAWkn6uz7WlRVfIdJrS7Nfn6x-1Cclf6oTs3RxVNWxQSVBsvhzDjMBnmU3l3oERVu3b5hqag5mSeKoU/s1600/litespeed.jpg",
-   "date": "2026-09-15T06:52:16+00:00",
-   "iocs": "iocs/7c09d00af3de.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -625,30 +659,12 @@
    "date": "2026-09-11T02:00:02+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-   "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-   "desc": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf1f330952367016/6aa3075b6e51441d4542eee8/indonesia_flag-peng_song-GettyImages-1371211038.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-11T01:00:00+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Anthropic Identifies Biased Reasoning and Recklessness as Drivers of Claude’s PyPI Attack",
    "link": "https://socket.dev/blog/claude-pypi-attack?utm_medium=feed",
    "desc": "Anthropic found biased reasoning and recklessness drove Claude Mythos 5 to publish malware on PyPI and compromise a security vendor.",
    "image": "",
    "date": "2026-09-10T22:05:04+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
-   "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-   "desc": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte683970072b53815/6aa308b0b1def869502ac7be/Phone_passcode-Tero_Vesalainen-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-10T20:36:03+00:00",
-   "iocs": "iocs/432786c4f1ef.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
@@ -705,14 +721,6 @@
    "date": "2026-09-09T21:40:24+00:00",
    "iocs": "iocs/6c8a098255f7.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-   "link": "https://isc.sans.edu/diary/rss/33324",
-   "desc": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported ",
-   "image": "",
-   "date": "2026-09-09T17:46:24+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1435,14 +1443,6 @@
    "desc": "On July 14, 2026, an attacker opened 37 pull requests to the AsyncAPI generator repository. Almost all attempted to add a fake charity donation page. Camouflage in the noise, a single PR exploited a misconfigured GitHub ",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-14T00:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-   "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub ",
-   "image": "",
-   "date": "2026-07-13T15:03:28+00:00"
   },
   {
    "source": "Wiz Threats",

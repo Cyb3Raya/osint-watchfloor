@@ -1,0 +1,12 @@
+IOC EXTRACTION - BragJack Attack Can Turn a Browser's Agentic AI Against It
+Source: https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai
+Extracted: 2026-09-16 19:04:31 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-0628
+CVE-2026-55945

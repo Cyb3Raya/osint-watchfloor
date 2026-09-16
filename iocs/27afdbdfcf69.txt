@@ -1,0 +1,19 @@
+IOC EXTRACTION - Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
+Source: https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
+Extracted: 2026-09-16 19:04:24 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2019-0708
+CVE-2020-0688
+CVE-2021-26855
+CVE-2026-42897
+
+Domains (2)
+----------------------------------------
+api[.]ipify[.]org
+ipapi[.]co
