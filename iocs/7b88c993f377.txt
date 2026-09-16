@@ -1,0 +1,11 @@
+IOC EXTRACTION - Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks
+Source: https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html
+Extracted: 2026-09-16 15:26:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-87886

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Critical ScreenConnect flaw now actively exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/
+Extracted: 2026-09-16 15:26:38 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2024-1709
+CVE-2025-3935
+CVE-2026-3564
+CVE-2026-84869

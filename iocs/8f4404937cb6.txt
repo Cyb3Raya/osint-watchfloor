@@ -1,0 +1,14 @@
+IOC EXTRACTION - Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation
+Source: https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html
+Extracted: 2026-09-16 15:26:30 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-48595
+CVE-2026-56914
+CVE-2026-58704
+CVE-2026-58773

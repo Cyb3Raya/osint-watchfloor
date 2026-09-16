@@ -1,0 +1,11 @@
+IOC EXTRACTION - Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix
+Source: https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html
+Extracted: 2026-09-16 15:26:28 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-90894

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover
+Source: https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/
+Extracted: 2026-09-16 15:26:46 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-78006
+CVE-2026-78159
