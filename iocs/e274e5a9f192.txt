@@ -1,0 +1,17 @@
+IOC EXTRACTION - Cisco warns of max severity ISE zero-day exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/
+Extracted: 2026-09-17 10:24:41 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2025-20337
+CVE-2026-20176
+CVE-2026-20211
+CVE-2026-20284
+CVE-2026-20307
+CVE-2026-76423
+CVE-2026-76460

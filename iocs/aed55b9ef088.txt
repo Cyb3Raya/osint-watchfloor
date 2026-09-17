@@ -1,0 +1,11 @@
+IOC EXTRACTION - Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day
+Source: https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/
+Extracted: 2026-09-17 10:24:45 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-76460

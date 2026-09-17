@@ -1,0 +1,13 @@
+IOC EXTRACTION - Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use
+Source: https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/
+Extracted: 2026-09-17 10:24:47 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2020-1472
+CVE-2025-2479
+CVE-2025-24799
