@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-17T00:38:32.303857+00:00",
+ "generated": "2026-09-17T05:25:54.385443+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
+   "link": "https://isc.sans.edu/diary/rss/33346",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-17T02:00:03+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Anthropic wants Claude to analyze your bank account and financial data",
@@ -11,6 +19,14 @@
    "desc": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
    "image": "",
    "date": "2026-09-17T00:35:48+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top Qodo Alternatives for AI-Powered Code Assistance",
+   "link": "https://www.aikido.dev/blog/qodo-alternatives",
+   "desc": "The best Qodo alternatives for AI code review in 2026, compared across noise, security, and cost, so you can pick the tool that fits your team. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ad49d5e1202b92a43d705_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-16T21:55:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -195,6 +211,16 @@
    "desc": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can re",
    "image": "",
    "date": "2026-09-16T14:00:10+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top Aqua Security alternatives for cloud-native security in 2026",
+   "link": "https://www.aikido.dev/blog/aqua-security-alternatives",
+   "desc": "Compare the best Aqua Security alternatives in 2026: Aikido, Wiz, Prisma Cloud, Sysdig, Orca, and CrowdStrike, on coverage, deployment, pricing, and fit. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aaa9f82c54914b57bc3a69d_OG_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-16T13:53:00+00:00",
+   "iocs": "iocs/7fccf97a3721.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -689,14 +715,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33328",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-10T10:10:11+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "The CVE spike across major software companies is a remediation problem",
    "link": "https://www.aikido.dev/blog/cve-spike-remediation-problem",
@@ -1047,14 +1065,6 @@
    "ioc_count": 6
   },
   {
-   "source": "Aikido",
-   "title": "Good riddance, TeamPCP. Now for the hard part.",
-   "link": "https://www.aikido.dev/blog/teampcp-arrested-supply-chain",
-   "desc": "The AFP, FBI, and WA Police charged two men allegedly behind TeamPCP. Charlie Eriksen on why the arrest doesn't close the gap TeamPCP exposed. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a90226aa125a68a53692b93_TeamPCP-arrest_Feature.png",
-   "date": "2026-08-27T11:40:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
    "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -1071,16 +1081,6 @@
    "date": "2026-08-27T10:00:27+00:00",
    "iocs": "iocs/d63df2b1a848.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Aikido",
-   "title": "Top Minimus alternatives in 2026",
-   "link": "https://www.aikido.dev/blog/top-minimus-alternatives",
-   "desc": "Minimus is shutting down. Compare Aikido, Chainguard, Docker Hardened Images, RapidFort, and Echo, and pick a hardened-image replacement that won't lock you in again. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6cb08929f7a4e5c35c1ca9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-08-26T15:42:00+00:00",
-   "iocs": "iocs/6b19e48db4a2.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
