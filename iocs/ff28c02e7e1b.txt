@@ -1,0 +1,13 @@
+IOC EXTRACTION - Brevo supply-chain attack injected ClickFix scripts on customer sites
+Source: https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/
+Extracted: 2026-09-17 19:07:00 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (3)
+----------------------------------------
+hxxps://boiseno[.]club
+hxxps://cdn10[.]sendibt1[.]com/p/wm[.]zip
+hxxps://yelahaye[.]surf

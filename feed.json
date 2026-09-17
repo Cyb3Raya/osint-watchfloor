@@ -1,9 +1,77 @@
 {
- "generated": "2026-09-17T15:18:47.510405+00:00",
+ "generated": "2026-09-17T19:07:32.987226+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "[Virtual Event] Cybersecurity Outlook 2027",
+   "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+   "desc": "",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+   "desc": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed AP",
+   "image": "",
+   "date": "2026-09-17T18:55:12+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Should you care about an “AI slowdown?”",
+   "link": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
+   "desc": "In this week's Threat Source, David talks about why focusing on your security basics is still your best bet, even in a world with rapid AI advancements.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-2.jpg",
+   "date": "2026-09-17T18:00:23+00:00",
+   "iocs": "iocs/f5d7c097713a.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+   "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+   "desc": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+   "image": "",
+   "date": "2026-09-17T17:11:34+00:00",
+   "iocs": "iocs/ff28c02e7e1b.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+   "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+   "desc": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared f",
+   "image": "",
+   "date": "2026-09-17T17:09:40+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "China’s FamousSparrow hackers target Latin America with new backdoor",
+   "link": "https://therecord.media/china-hackers-latin-america-espionage",
+   "desc": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”",
+   "image": "",
+   "date": "2026-09-17T16:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+   "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+   "desc": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on ",
+   "image": "",
+   "date": "2026-09-17T15:45:29+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+   "link": "https://socket.dev/blog/polinrider-github-packagist?utm_medium=feed",
+   "desc": "Operators behind PolinRider used a compromised GitHub account to plant malware in four development versions of a Packagist package with 700,000+ downloads.",
+   "image": "",
+   "date": "2026-09-17T15:33:22+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
@@ -257,16 +325,6 @@
    "ioc_count": 51
   },
   {
-   "source": "SecurityWeek",
-   "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-   "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-   "desc": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-17T06:19:52+00:00",
-   "iocs": "iocs/aed55b9ef088.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
    "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
@@ -349,14 +407,6 @@
    "date": "2026-09-16T18:50:53+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
-   "link": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
-   "desc": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
-   "image": "",
-   "date": "2026-09-16T18:46:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
    "link": "https://isc.sans.edu/diary/rss/33344",
@@ -397,14 +447,6 @@
    "date": "2026-09-16T16:43:37+00:00",
    "iocs": "iocs/574b145c417e.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-   "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-   "desc": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Rep",
-   "image": "",
-   "date": "2026-09-16T16:39:19+00:00"
   },
   {
    "source": "The Hacker News",
@@ -481,30 +523,12 @@
    "date": "2026-09-16T12:16:32+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-   "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-   "desc": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make ",
-   "image": "",
-   "date": "2026-09-16T12:11:19+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
    "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
    "desc": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to val",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg",
    "date": "2026-09-16T11:58:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-   "desc": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-   "image": "",
-   "date": "2026-09-16T11:14:28+00:00",
-   "iocs": "iocs/392afd7c15f5.txt",
-   "ioc_count": 4
   },
   {
    "source": "Cisco Talos",
@@ -683,14 +707,6 @@
    "desc": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d66507ff638e8a0/6aa431c763177a6fe1776c1a/fredheiding.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T18:14:06+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Governance Can't Wait",
-   "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
-   "desc": "Adversaries can manipulate AI's defensive reasoning to silently compromise target networks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-11T17:10:56+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1021,16 +1037,6 @@
    "date": "2026-08-31T20:31:58+00:00"
   },
   {
-   "source": "Socket",
-   "title": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
-   "link": "https://socket.dev/blog/packagist-themes-ios-spyware?utm_medium=feed",
-   "desc": "Thirteen malicious Packagist themes expose visitors on unpatched iPhones to a WebKit-to-kernel exploit chain that steals device data and wallet seeds.",
-   "image": "",
-   "date": "2026-08-31T14:25:35+00:00",
-   "iocs": "iocs/b74e5aa6b518.txt",
-   "ioc_count": 55
-  },
-  {
    "source": "Unit 42",
    "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
    "link": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/",
@@ -1159,16 +1165,6 @@
    "date": "2026-08-20T10:00:50+00:00",
    "iocs": "iocs/ec53dedce37e.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations",
-   "link": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/",
-   "desc": "Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147, that targets a wide range of vulnerable web servers. This is an overview of the campaign, examining the countries affected, potential impa",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/Fig-0.jpg",
-   "date": "2026-08-20T10:00:32+00:00",
-   "iocs": "iocs/e09feb72add9.txt",
-   "ioc_count": 14
   },
   {
    "source": "Unit 42",
