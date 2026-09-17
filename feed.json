@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-16T22:13:24.913012+00:00",
+ "generated": "2026-09-17T00:38:32.303857+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic wants Claude to analyze your bank account and financial data",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+   "desc": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+   "image": "",
+   "date": "2026-09-17T00:35:48+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
@@ -495,16 +503,6 @@
    "desc": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
    "image": "",
    "date": "2026-09-15T15:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-   "desc": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-   "image": "",
-   "date": "2026-09-15T14:45:10+00:00",
-   "iocs": "iocs/beff2a4f92d5.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
