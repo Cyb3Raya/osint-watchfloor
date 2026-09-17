@@ -1,0 +1,13 @@
+IOC EXTRACTION - US takes down NightmareStresser DDoS-for-hire platform
+Source: https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/
+Extracted: 2026-09-17 15:18:27 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+nightmare-stresser[.]com
+nightmarestresser[.]com
+nightmarestresser[.]org

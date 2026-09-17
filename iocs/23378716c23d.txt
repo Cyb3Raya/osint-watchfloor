@@ -1,0 +1,19 @@
+IOC EXTRACTION - LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)
+Source: https://isc.sans.edu/diary/rss/33348
+Extracted: 2026-09-17 15:18:10 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA256 (3)
+----------------------------------------
+408b2df6e81824fa5bdf4f0fbd185a7e6db06e2be98fbeebce416f66954b9fa9
+be73e8b06c4356b5b4644d69b4f426bb3b32b4bf9f14cc5743f17532799f760b
+e4130bf8769a50106a963b6a43dfd4fe5b56c70eae76a0de971d25993159acfe
+
+MD5 (3)
+----------------------------------------
+5d92d1fb5d5fbd79a588f22e994a4aff
+7acd5c5f1689332615c03357e143f51e
+f351968c76eefc80d4e292a3f179b7b9

@@ -1,0 +1,11 @@
+IOC EXTRACTION - China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America
+Source: https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html
+Extracted: 2026-09-17 15:18:16 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+216[.]238[.]110[.]120

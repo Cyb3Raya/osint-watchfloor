@@ -1,0 +1,16 @@
+IOC EXTRACTION - Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard
+Source: https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/
+Extracted: 2026-09-17 15:18:34 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20282
+CVE-2026-20283
+CVE-2026-20284
+CVE-2026-20316
+CVE-2026-20332

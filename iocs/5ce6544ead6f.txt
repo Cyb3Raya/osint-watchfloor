@@ -1,0 +1,17 @@
+IOC EXTRACTION - ISC Patches 14 Vulnerabilities in BIND 9 Security Update
+Source: https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/
+Extracted: 2026-09-17 15:18:32 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-19666
+CVE-2026-19667
+CVE-2026-76163
+CVE-2026-77692
+CVE-2026-80274
+CVE-2026-81563
+CVE-2026-81736
