@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T19:07:32.987226+00:00",
+ "generated": "2026-09-17T22:16:21.592092+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,46 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
+   "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
+   "desc": "Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment P",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/01_Myth-Busting_Overview_1920x900_Resized.jpg",
+   "date": "2026-09-17T22:00:33+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New RatHat Android malware uses AI to automate device control",
+   "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+   "desc": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+   "image": "",
+   "date": "2026-09-17T21:50:26+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+   "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+   "desc": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-17T21:23:50+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "European Commission set to push social media restrictions, safety requirements into law",
+   "link": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
+   "desc": "The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation.",
+   "image": "",
+   "date": "2026-09-17T20:36:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+   "desc": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb2f18082a854a7f/6aac39581080593b25c02180/sparrow-KenCanning-GettyImages-157477304_(1).jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-17T19:15:38+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -70,7 +110,9 @@
    "link": "https://socket.dev/blog/polinrider-github-packagist?utm_medium=feed",
    "desc": "Operators behind PolinRider used a compromised GitHub account to plant malware in four development versions of a Packagist package with 700,000+ downloads.",
    "image": "",
-   "date": "2026-09-17T15:33:22+00:00"
+   "date": "2026-09-17T15:33:22+00:00",
+   "iocs": "iocs/faa3d28949ae.txt",
+   "ioc_count": 9
   },
   {
    "source": "SANS ISC",
@@ -367,14 +409,6 @@
    "date": "2026-09-16T21:26:55+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
-   "link": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
-   "desc": "“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.",
-   "image": "",
-   "date": "2026-09-16T21:07:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Windows 11 KB5124008 update breaks domain trust for some users",
    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
@@ -513,14 +547,6 @@
    "date": "2026-09-16T13:14:05+00:00",
    "iocs": "iocs/f1a5ac76bbe3.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-   "desc": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
-   "image": "",
-   "date": "2026-09-16T12:16:32+00:00"
   },
   {
    "source": "The Hacker News",
@@ -691,22 +717,6 @@
    "desc": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T18:44:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-   "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-   "desc": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d987d8e587258e4/67891f726d4ecea6eb99f63d/Threat_detection_(1800)_Luis_Moreira_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-11T18:27:28+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Why AI Is So Good at Scamming Humans",
-   "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
-   "desc": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d66507ff638e8a0/6aa431c763177a6fe1776c1a/fredheiding.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-11T18:14:06+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1253,14 +1263,6 @@
    "desc": "",
    "image": "",
    "date": "2026-08-10T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Inside the Modern SOC: The Identity Front Door",
-   "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
-   "desc": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond. The post Inside the Modern SOC: The Identity Front Door appeared first on Unit 42.",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/04_Listicle_Overview_1920x900.jpg",
-   "date": "2026-08-07T23:00:01+00:00"
   },
   {
    "source": "Wiz Threats",

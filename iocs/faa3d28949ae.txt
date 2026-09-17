@@ -1,0 +1,22 @@
+IOC EXTRACTION - PolinRider Spreads Through Compromised GitHub Accounts and Packagist
+Source: https://socket.dev/blog/polinrider-github-packagist?utm_medium=feed
+Extracted: 2026-09-17 22:16:19 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (4)
+----------------------------------------
+166[.]88[.]134[.]62
+166[.]88[.]73[.]46
+193[.]247[.]144[.]38
+23[.]27[.]13[.]135
+
+SHA256 (5)
+----------------------------------------
+139ea03dcddf4aa810d55740be3cf6c92ce7a9f3cbcbbb35440e25b769a87683
+515a53291d25d229e1f9fa72e66407e1cfd7e77c91478400b24d5185af68531a
+7d47c430e6e404dc2fa8b4837678d1cbdb4d0aeacec9b405655cab79d54a2ad9
+b7ede935d4979146b55f12b9eec7c83b61962b478f5dc9b8db251e539ec2abd3
+ccb187dc9de0cc7477c9817ae53365d273e121407c0305f863e2ab67c35d6395
