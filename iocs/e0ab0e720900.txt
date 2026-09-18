@@ -1,0 +1,13 @@
+IOC EXTRACTION - In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw
+Source: https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/
+Extracted: 2026-09-18 17:43:25 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-15315
+CVE-2026-15316
+CVE-2026-44756

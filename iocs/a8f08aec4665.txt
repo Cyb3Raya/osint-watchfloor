@@ -1,0 +1,11 @@
+IOC EXTRACTION - Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer
+Source: https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/
+Extracted: 2026-09-18 17:43:23 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+2[.]26[.]126[.]50

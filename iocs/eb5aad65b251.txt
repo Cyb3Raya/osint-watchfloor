@@ -1,0 +1,14 @@
+IOC EXTRACTION - Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2
+Source: https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html
+Extracted: 2026-09-18 17:43:21 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+indiatoday[.]in
+indiatodays[.]org
+theprint[.]in
+theprints[.]org
