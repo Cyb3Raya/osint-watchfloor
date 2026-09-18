@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T22:16:21.592092+00:00",
+ "generated": "2026-09-18T00:28:18.736246+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top on-prem AI pentesting tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-on-prem-pentesting-tools",
+   "desc": "The best on-prem AI pentesting tools of 2026 for regulated teams, compared on air-gap support, whitebox depth, and application coverage Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-17T22:40:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -1063,16 +1071,6 @@
    "desc": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safe",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg",
    "date": "2026-08-28T22:00:07+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Popular code generator for TanStack Query hit by supply chain worm",
-   "link": "https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm",
-   "desc": "A supply chain worm was found hiding in @7nohe/openapi-react-query-codegen, a popular code generator for TanStack Query, stealing credentials and spreading itself to every package the victim maintains. Category: Vulnerab",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a91fd28bcc65d41050c8bef_wormy%20boi%20feature.jpg",
-   "date": "2026-08-28T21:25:00+00:00",
-   "iocs": "iocs/1e213dbcb33a.txt",
-   "ioc_count": 7
   },
   {
    "source": "Wiz Threats",
