@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T05:10:52.269447+00:00",
+ "generated": "2026-09-18T09:52:59.617983+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,92 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+   "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+   "desc": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-18T09:46:57+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Check Point flaw lets hackers execute code with root privileges",
+   "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+   "desc": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+   "image": "",
+   "date": "2026-09-18T09:34:33+00:00",
+   "iocs": "iocs/9bc8b96fcffe.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+   "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+   "desc": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg",
+   "date": "2026-09-18T09:18:03+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+   "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+   "desc": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on ",
+   "image": "",
+   "date": "2026-09-18T08:42:18+00:00",
+   "iocs": "iocs/a36ec0e8e772.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+   "desc": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+   "image": "",
+   "date": "2026-09-18T07:35:31+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "MIND Secures $72 Million for AI-Powered DLP",
+   "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+   "desc": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-18T07:25:27+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+   "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+   "desc": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities ap",
+   "image": "",
+   "date": "2026-09-18T07:14:04+00:00",
+   "iocs": "iocs/d406454fd03e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+   "desc": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-18T07:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+   "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+   "desc": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg",
+   "date": "2026-09-18T06:17:25+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+   "link": "https://isc.sans.edu/diary/rss/33352",
+   "desc": "In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010",
+   "image": "",
+   "date": "2026-09-18T06:05:26+00:00"
   },
   {
    "source": "SANS ISC",
@@ -265,24 +351,6 @@
    "ioc_count": 10
   },
   {
-   "source": "SecurityWeek",
-   "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
-   "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-   "desc": "Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns. The post Ransomware Attacks on Manufacturers Surge as",
-   "image": "",
-   "date": "2026-09-17T12:29:53+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-   "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-   "desc": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution. The post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-17T12:17:40+00:00",
-   "iocs": "iocs/c67445e21171.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "RF The Record",
    "title": "Israeli contractor BlackCore trained Angolan officials in online influence operations",
    "link": "https://therecord.media/angola-israel-influence-operations-blackcore",
@@ -377,22 +445,6 @@
    "date": "2026-09-17T08:00:29+00:00",
    "iocs": "iocs/6829fa0c1a46.txt",
    "ioc_count": 14
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
-   "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-   "desc": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments. The post CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defen",
-   "image": "",
-   "date": "2026-09-17T07:53:43+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-   "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-   "desc": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks. The post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals ",
-   "image": "",
-   "date": "2026-09-17T07:41:29+00:00"
   },
   {
    "source": "The Hacker News",
@@ -521,14 +573,6 @@
    "date": "2026-09-16T18:00:54+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Spain's data agency gets first report of AI-powered data breach",
-   "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-   "desc": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-   "image": "",
-   "date": "2026-09-16T17:26:41+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
    "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
@@ -537,34 +581,6 @@
    "date": "2026-09-16T16:43:37+00:00",
    "iocs": "iocs/574b145c417e.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-   "desc": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg",
-   "date": "2026-09-16T15:50:59+00:00",
-   "iocs": "iocs/4a519778a75a.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-   "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-   "desc": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has id",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg",
-   "date": "2026-09-16T15:27:49+00:00",
-   "iocs": "iocs/27afdbdfcf69.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "The true cost of a ransomware attack, with and without BCDR",
-   "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-   "desc": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can re",
-   "image": "",
-   "date": "2026-09-16T14:00:10+00:00"
   },
   {
    "source": "Aikido",
@@ -729,22 +745,6 @@
    "desc": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-11T19:21:08+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-   "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-   "desc": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-11T18:44:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33332",
-   "desc": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the",
-   "image": "",
-   "date": "2026-09-11T14:40:32+00:00"
   },
   {
    "source": "Socket",

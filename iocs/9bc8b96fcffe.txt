@@ -1,0 +1,15 @@
+IOC EXTRACTION - New Check Point flaw lets hackers execute code with root privileges
+Source: https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/
+Extracted: 2026-09-18 09:52:46 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-16232
+CVE-2026-50751
+CVE-2026-85102
+CVE-2026-85103
+CVE-2026-91843
