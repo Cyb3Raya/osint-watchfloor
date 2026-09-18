@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T00:28:18.736246+00:00",
+ "generated": "2026-09-18T05:10:52.269447+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
+   "link": "https://isc.sans.edu/diary/rss/33350",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-18T02:00:02+00:00"
   },
   {
    "source": "Aikido",
@@ -69,6 +77,16 @@
    "date": "2026-09-17T18:55:12+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+   "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+   "desc": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg",
+   "date": "2026-09-17T18:08:28+00:00",
+   "iocs": "iocs/1276fb6b0a48.txt",
+   "ioc_count": 5
+  },
+  {
    "source": "Cisco Talos",
    "title": "Should you care about an “AI slowdown?”",
    "link": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
@@ -77,6 +95,16 @@
    "date": "2026-09-17T18:00:23+00:00",
    "iocs": "iocs/f5d7c097713a.txt",
    "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+   "desc": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg",
+   "date": "2026-09-17T17:32:22+00:00",
+   "iocs": "iocs/27eee14cdf14.txt",
+   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -113,6 +141,16 @@
    "date": "2026-09-17T15:45:29+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+   "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+   "desc": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;security announcement",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg",
+   "date": "2026-09-17T15:37:56+00:00",
+   "iocs": "iocs/c7d368380dd4.txt",
+   "ioc_count": 2
+  },
+  {
    "source": "Socket",
    "title": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
    "link": "https://socket.dev/blog/polinrider-github-packagist?utm_medium=feed",
@@ -139,6 +177,16 @@
    "desc": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on Securi",
    "image": "",
    "date": "2026-09-17T14:28:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+   "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+   "desc": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin comman",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg",
+   "date": "2026-09-17T14:03:13+00:00",
+   "iocs": "iocs/a2011e05889e.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -255,7 +303,7 @@
    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
    "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
    "desc": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg",
    "date": "2026-09-17T11:50:00+00:00"
   },
   {
@@ -511,16 +559,6 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-   "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-   "desc": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg",
-   "date": "2026-09-16T14:36:44+00:00",
-   "iocs": "iocs/d58c7f1a86f6.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "BleepingComputer",
    "title": "The true cost of a ransomware attack, with and without BCDR",
    "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
@@ -537,32 +575,6 @@
    "date": "2026-09-16T13:53:00+00:00",
    "iocs": "iocs/7fccf97a3721.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-   "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-   "desc": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal code repositories. Before the reposito",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg",
-   "date": "2026-09-16T13:37:07+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-   "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-   "desc": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg",
-   "date": "2026-09-16T13:14:05+00:00",
-   "iocs": "iocs/f1a5ac76bbe3.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-   "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-   "desc": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to val",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg",
-   "date": "2026-09-16T11:58:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -743,14 +755,6 @@
    "date": "2026-09-11T14:23:33+00:00",
    "iocs": "iocs/f1042696b335.txt",
    "ioc_count": 20
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33330",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-11T02:00:02+00:00"
   },
   {
    "source": "Socket",

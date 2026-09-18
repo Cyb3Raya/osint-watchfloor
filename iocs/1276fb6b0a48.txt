@@ -1,0 +1,15 @@
+IOC EXTRACTION - Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
+Source: https://thehackernews.com/2026/09/critical-check-point-management-server.html
+Extracted: 2026-09-18 05:10:41 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-16232
+CVE-2026-18574
+CVE-2026-62144
+CVE-2026-85103
+CVE-2026-91843

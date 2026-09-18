@@ -1,0 +1,11 @@
+IOC EXTRACTION - Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords
+Source: https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html
+Extracted: 2026-09-18 05:10:45 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+api[.]ipify[.]org

@@ -1,0 +1,17 @@
+IOC EXTRACTION - ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories
+Source: https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
+Extracted: 2026-09-18 05:10:43 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20316
+CVE-2026-59310
+
+Domains (1)
+----------------------------------------
+luciferus[.]io
