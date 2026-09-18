@@ -1,0 +1,16 @@
+IOC EXTRACTION - Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation
+Source: https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html
+Extracted: 2026-09-18 14:13:09 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-62721
+CVE-2026-85878
+CVE-2026-85885
+CVE-2026-85889
+CVE-2026-85921
+CVE-2026-87701

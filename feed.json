@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T09:52:59.617983+00:00",
+ "generated": "2026-09-18T14:13:34.124062+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,128 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+   "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+   "desc": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how",
+   "image": "",
+   "date": "2026-09-18T14:00:10+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Teams will let admins block custom file extensions",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+   "desc": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
+   "image": "",
+   "date": "2026-09-18T13:58:40+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hacking group ‘NightEagle’ targeting China’s high-tech sector expands operations to Russia",
+   "link": "https://therecord.media/hacking-group-nighteagle-expands-russia-china",
+   "desc": "Over the past year, Russian cybersecurity firm Kaspersky said it investigated several incidents involving the group at Russian businesses.",
+   "image": "",
+   "date": "2026-09-18T13:24:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Webinar: Which Google Workspace security controls actually matter?",
+   "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+   "desc": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most",
+   "image": "",
+   "date": "2026-09-18T13:10:19+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+   "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+   "desc": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg",
+   "date": "2026-09-18T12:47:04+00:00",
+   "iocs": "iocs/baffdffe1456.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+   "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+   "desc": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-18T12:45:24+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+   "desc": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+   "image": "",
+   "date": "2026-09-18T12:16:32+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "23 Million User Records Compromised in Gyazo Data Breach",
+   "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+   "desc": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compromised in Gyazo Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-18T11:38:40+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+   "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+   "desc": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg",
+   "date": "2026-09-18T11:01:16+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+   "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+   "desc": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed versio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg",
+   "date": "2026-09-18T11:01:01+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+   "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+   "desc": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products appeared first on Sec",
+   "image": "",
+   "date": "2026-09-18T10:57:03+00:00",
+   "iocs": "iocs/8e140a0241ad.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+   "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+   "desc": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg",
+   "date": "2026-09-18T10:40:06+00:00",
+   "iocs": "iocs/987fdbb14989.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+   "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+   "desc": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-09-18T10:12:33+00:00",
+   "iocs": "iocs/bfaaf7dd5120.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Unit 42",
+   "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
+   "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+   "desc": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between Ag",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/03_Cloud_cybersecurity_research_Overview_1920x900.jpg",
+   "date": "2026-09-18T10:00:36+00:00",
+   "iocs": "iocs/9529d84cbb12.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -257,14 +379,6 @@
    "ioc_count": 6
   },
   {
-   "source": "SecurityWeek",
-   "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-   "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-   "desc": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on Securi",
-   "image": "",
-   "date": "2026-09-17T14:28:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
    "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
@@ -291,14 +405,6 @@
    "date": "2026-09-17T14:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-   "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-   "desc": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWe",
-   "image": "",
-   "date": "2026-09-17T13:57:41+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
    "link": "https://therecord.media/russia-election-hackers-breach",
@@ -323,24 +429,6 @@
    "date": "2026-09-17T13:09:09+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
-   "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-   "desc": "The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure. The post Comp AI Raises $34 Million for AI-Native Compliance and Security appeared first on Sec",
-   "image": "",
-   "date": "2026-09-17T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-   "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-   "desc": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on Securi",
-   "image": "",
-   "date": "2026-09-17T12:39:28+00:00",
-   "iocs": "iocs/5ce6544ead6f.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "The Hacker News",
    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
    "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
@@ -349,14 +437,6 @@
    "date": "2026-09-17T12:30:00+00:00",
    "iocs": "iocs/4341f2269a01.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "RF The Record",
-   "title": "Israeli contractor BlackCore trained Angolan officials in online influence operations",
-   "link": "https://therecord.media/angola-israel-influence-operations-blackcore",
-   "desc": "An Israeli influence-for-hire company trained Angolan government officials to run online influence operations, including by creating fake social media personas and media outlets, researchers found.",
-   "image": "",
-   "date": "2026-09-17T12:15:00+00:00"
   },
   {
    "source": "Aikido",
@@ -437,24 +517,6 @@
    "date": "2026-09-17T08:24:48+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-   "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-   "desc": "The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server software. One of them affe",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEd6WLqBvkSx9Y2P6HrNL-VApj7Xb05Wlhnw4pPW6-X9NwGiAeAm_Hf4KYj_1hEy6uITGe8kh3xgYeTAha8nR5inx0snMzfWGP2Qd8kRuiOp0h4O49J-33kPpA1cuGhClV2qAvPyhyr2BqSYj9ZIvI6c-wncUNGESpGK-3tivnS-HIrOj9ZdSJALq_8Ts/s1600/bind9.jpg",
-   "date": "2026-09-17T08:00:29+00:00",
-   "iocs": "iocs/6829fa0c1a46.txt",
-   "ioc_count": 14
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-   "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-   "desc": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;notice&nbsp;published Wednesda",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg",
-   "date": "2026-09-17T07:30:01+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
@@ -465,40 +527,12 @@
    "ioc_count": 7
   },
   {
-   "source": "The Hacker News",
-   "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-   "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-   "desc": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1600/cisco-0-day.jpg",
-   "date": "2026-09-17T06:39:40+00:00",
-   "iocs": "iocs/fefb67106246.txt",
-   "ioc_count": 51
-  },
-  {
-   "source": "The Hacker News",
-   "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-   "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg",
-   "date": "2026-09-17T05:13:46+00:00",
-   "iocs": "iocs/cd6d3ec16304.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
    "link": "https://isc.sans.edu/diary/rss/33346",
    "desc": "",
    "image": "",
    "date": "2026-09-17T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Anthropic wants Claude to analyze your bank account and financial data",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-   "desc": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-   "image": "",
-   "date": "2026-09-17T00:35:48+00:00"
   },
   {
    "source": "Aikido",
@@ -517,36 +551,12 @@
    "date": "2026-09-16T21:26:55+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-   "desc": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
-   "image": "",
-   "date": "2026-09-16T20:39:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-   "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-   "desc": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-   "image": "",
-   "date": "2026-09-16T20:24:55+00:00"
-  },
-  {
    "source": "Socket",
    "title": "GitHub Actions Adds cache-mode to Limit Cache Poisoning Risk",
    "link": "https://socket.dev/blog/github-actions-cache-mode?utm_medium=feed",
    "desc": "GitHub Actions now supports cache-mode, a least-privilege control on the Actions cache aimed at the cache poisoning technique behind recent compromises.",
    "image": "",
    "date": "2026-09-16T19:36:23+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-   "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-   "desc": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-   "image": "",
-   "date": "2026-09-16T18:50:53+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1247,16 +1257,6 @@
    "date": "2026-08-11T10:00:16+00:00",
    "iocs": "iocs/2e25b4d15492.txt",
    "ioc_count": 29
-  },
-  {
-   "source": "Unit 42",
-   "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
-   "link": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
-   "desc": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution. The post The Permanent Threat: Analyzing Aeternum’s Blockchain-Bas",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/04_Malware_Category_1920x900-4.jpg",
-   "date": "2026-08-10T22:00:02+00:00",
-   "iocs": "iocs/235268f9dd3e.txt",
-   "ioc_count": 33
   },
   {
    "source": "IC3 PSA",

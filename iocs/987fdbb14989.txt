@@ -1,0 +1,11 @@
+IOC EXTRACTION - WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage
+Source: https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html
+Extracted: 2026-09-18 14:13:13 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+103[.]170[.]217[.]184

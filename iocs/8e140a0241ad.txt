@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft Patches 18 Vulnerabilities in AI, Cloud Products
+Source: https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/
+Extracted: 2026-09-18 14:13:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-85921

@@ -1,0 +1,11 @@
+IOC EXTRACTION - A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity
+Source: https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
+Extracted: 2026-09-18 14:13:28 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+webhook[.]site
