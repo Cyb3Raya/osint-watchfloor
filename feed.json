@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T20:37:26.477130+00:00",
+ "generated": "2026-09-18T22:49:29.290031+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -37,6 +37,14 @@
    "desc": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-18T19:23:48+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Happy Birthday, Shai-Hulud",
+   "link": "https://socket.dev/blog/happy-birthday-shai-hulud?utm_medium=feed",
+   "desc": "It has been one year since Shai-Hulud made its first appearance on npm.",
+   "image": "",
+   "date": "2026-09-18T18:46:45+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1061,14 +1069,6 @@
    "date": "2026-09-01T00:00:00+00:00",
    "iocs": "iocs/ccd2d2087886.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Socket",
-   "title": "6 AppSec CTOs Debate Open Source Supply Chain Security at Black Hat",
-   "link": "https://socket.dev/blog/oss-supplyl-chain-security-blackhat?utm_medium=feed",
-   "desc": "Socket CTO Ahmad Nassri joins AppSec leaders at Black Hat to discuss active malware, package manager risks, and software supply chain defense.",
-   "image": "",
-   "date": "2026-08-31T20:31:58+00:00"
   },
   {
    "source": "Unit 42",
