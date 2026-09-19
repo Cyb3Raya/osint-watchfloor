@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T01:01:28.738554+00:00",
+ "generated": "2026-09-19T06:00:14.137216+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+   "link": "https://isc.sans.edu/diary/rss/33352",
+   "desc": "In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010",
+   "image": "",
+   "date": "2026-09-19T04:51:46+00:00"
   },
   {
    "source": "Dark Reading",
@@ -317,14 +325,6 @@
    "desc": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg",
    "date": "2026-09-18T06:17:25+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33352",
-   "desc": "In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010",
-   "image": "",
-   "date": "2026-09-18T06:05:26+00:00"
   },
   {
    "source": "RF The Record",
