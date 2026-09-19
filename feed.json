@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T14:13:32.315586+00:00",
+ "generated": "2026-09-19T17:19:18.116371+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,24 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+   "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+   "desc": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing tec",
+   "image": "",
+   "date": "2026-09-19T14:56:31+00:00",
+   "iocs": "iocs/fb9113f4b47a.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+   "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+   "desc": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber Emerges From Stealth With $3 Million in Funding appeared fi",
+   "image": "",
+   "date": "2026-09-19T14:30:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -31,12 +49,20 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-   "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
-   "desc": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca",
-   "image": "",
-   "date": "2026-09-19T11:38:20+00:00"
+   "source": "The Hacker News",
+   "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+   "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+   "desc": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg",
+   "date": "2026-09-19T13:28:48+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+   "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+   "desc": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg",
+   "date": "2026-09-19T13:28:41+00:00"
   },
   {
    "source": "The Hacker News",
@@ -44,9 +70,17 @@
    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
    "desc": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code rep",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg",
-   "date": "2026-09-19T10:01:10+00:00",
+   "date": "2026-09-19T13:28:35+00:00",
    "iocs": "iocs/cccf7b5fb8fe.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+   "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+   "desc": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca",
+   "image": "",
+   "date": "2026-09-19T11:38:20+00:00"
   },
   {
    "source": "The Hacker News",
@@ -351,14 +385,6 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-   "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-   "desc": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg",
-   "date": "2026-09-18T09:18:03+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
    "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
@@ -401,14 +427,6 @@
    "desc": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-18T07:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-   "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-   "desc": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg",
-   "date": "2026-09-18T06:17:25+00:00"
   },
   {
    "source": "RF The Record",
@@ -503,14 +521,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-   "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-   "desc": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared f",
-   "image": "",
-   "date": "2026-09-17T17:09:40+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "China’s FamousSparrow hackers target Latin America with new backdoor",
    "link": "https://therecord.media/china-hackers-latin-america-espionage",
@@ -537,14 +547,6 @@
    "date": "2026-09-17T15:06:44+00:00",
    "iocs": "iocs/23378716c23d.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-   "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-   "desc": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that b",
-   "image": "",
-   "date": "2026-09-17T14:01:11+00:00"
   },
   {
    "source": "IC3 PSA",
