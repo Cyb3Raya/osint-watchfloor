@@ -1,0 +1,11 @@
+IOC EXTRACTION - Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
+Source: https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+Extracted: 2026-09-19 14:13:20 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-32882

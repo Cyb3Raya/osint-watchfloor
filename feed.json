@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T10:49:44.768377+00:00",
+ "generated": "2026-09-19T14:13:32.315586+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,52 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+   "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+   "desc": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cr",
+   "image": "",
+   "date": "2026-09-19T14:05:15+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+   "desc": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+   "image": "",
+   "date": "2026-09-19T13:48:32+00:00",
+   "iocs": "iocs/14e87e3a15b5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+   "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+   "desc": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca",
+   "image": "",
+   "date": "2026-09-19T11:38:20+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+   "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+   "desc": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code rep",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg",
+   "date": "2026-09-19T10:01:10+00:00",
+   "iocs": "iocs/cccf7b5fb8fe.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+   "desc": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerabi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg",
+   "date": "2026-09-19T09:31:17+00:00",
+   "iocs": "iocs/531e97a39e7b.txt",
+   "ioc_count": 7
   },
   {
    "source": "The Hacker News",
@@ -437,16 +483,6 @@
    "date": "2026-09-17T18:55:12+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-   "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-   "desc": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg",
-   "date": "2026-09-17T18:08:28+00:00",
-   "iocs": "iocs/1276fb6b0a48.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Cisco Talos",
    "title": "Should you care about an “AI slowdown?”",
    "link": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
@@ -455,16 +491,6 @@
    "date": "2026-09-17T18:00:23+00:00",
    "iocs": "iocs/f5d7c097713a.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-   "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-   "desc": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg",
-   "date": "2026-09-17T17:32:22+00:00",
-   "iocs": "iocs/27eee14cdf14.txt",
-   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -529,30 +555,12 @@
    "date": "2026-09-17T14:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-   "desc": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
-   "image": "",
-   "date": "2026-09-17T13:09:09+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido achieves AWS Security Competency for Application Security",
    "link": "https://www.aikido.dev/blog/aws-security-competency-announcement",
    "desc": "AWS has recognized Aikido with its Security Competency for Application Security, validating how Aikido secures applications from code to cloud to runtime. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aabc1a58f6c7841d786535d_Feature_%5BAWS2%5D_16x9.png",
    "date": "2026-09-17T12:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "US takes down NightmareStresser DDoS-for-hire platform",
-   "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-   "desc": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-   "image": "",
-   "date": "2026-09-17T11:33:35+00:00",
-   "iocs": "iocs/97289c2c314a.txt",
-   "ioc_count": 3
   },
   {
    "source": "Cisco Talos",
@@ -563,14 +571,6 @@
    "date": "2026-09-17T10:00:43+00:00",
    "iocs": "iocs/6822e9562399.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-   "desc": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-   "image": "",
-   "date": "2026-09-17T09:00:00+00:00"
   },
   {
    "source": "SANS ISC",

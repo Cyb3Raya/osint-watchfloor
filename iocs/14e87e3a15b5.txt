@@ -1,0 +1,11 @@
+IOC EXTRACTION - ShinyHunters hacks Clop leak site, threatens to extort ransomware gang
+Source: https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/
+Extracted: 2026-09-19 14:13:23 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-61882

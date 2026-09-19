@@ -1,0 +1,17 @@
+IOC EXTRACTION - SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE
+Source: https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
+Extracted: 2026-09-19 14:13:21 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-28299
+CVE-2026-28302
+CVE-2026-28304
+CVE-2026-28317
+CVE-2026-28321
+CVE-2026-28323
+CVE-2026-28326
