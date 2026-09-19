@@ -1,0 +1,11 @@
+IOC EXTRACTION - CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories
+Source: https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
+Extracted: 2026-09-19 10:49:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-45321

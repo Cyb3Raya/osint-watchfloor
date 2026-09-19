@@ -1,0 +1,17 @@
+IOC EXTRACTION - CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild
+Source: https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html
+Extracted: 2026-09-19 10:49:37 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2025-39682
+CVE-2025-39964
+CVE-2026-53266
+CVE-2026-68121
+CVE-2026-74469
+CVE-2026-80844
+CVE-2026-81000
