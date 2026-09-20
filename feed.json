@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T13:41:55.054158+00:00",
+ "generated": "2026-09-20T17:20:25.137023+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,14 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Malicious npm packages evade install-script defenses at runtime",
+   "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+   "desc": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scrip",
+   "image": "",
+   "date": "2026-09-20T14:11:21+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -499,14 +507,6 @@
    "desc": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb2f18082a854a7f/6aac39581080593b25c02180/sparrow-KenCanning-GettyImages-157477304_(1).jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-17T19:15:38+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-   "desc": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed AP",
-   "image": "",
-   "date": "2026-09-17T18:55:12+00:00"
   },
   {
    "source": "Cisco Talos",
