@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA alerts of active exploitation of three Linux kernel flaws
+Source: https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/
+Extracted: 2026-09-21 20:52:12 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-39682
+CVE-2025-39964
+CVE-2026-53266
