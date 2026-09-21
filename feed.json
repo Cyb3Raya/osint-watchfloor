@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T10:49:56.301965+00:00",
+ "generated": "2026-09-21T16:51:54.883590+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,170 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+   "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+   "desc": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on Securi",
+   "image": "",
+   "date": "2026-09-21T15:46:58+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Google fined €403 million over location data privacy violations",
+   "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+   "desc": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+   "image": "",
+   "date": "2026-09-21T15:41:22+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
+   "link": "https://therecord.media/belgium-table-tennis-cyberattack",
+   "desc": "Belgium’s national table tennis federation is investigating a cyberattack after a hacker claimed to have stolen data on tens of thousands of members.",
+   "image": "",
+   "date": "2026-09-21T15:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
+   "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+   "desc": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt41e8b038eeab1c52/6ab128df417cfc426c650132/balance-balls-1800-sondem_Alamy-Stock-Photo.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-21T14:47:19+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+   "desc": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+   "image": "",
+   "date": "2026-09-21T14:42:37+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
+   "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+   "desc": "Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be. The post CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
+   "image": "",
+   "date": "2026-09-21T14:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+   "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+   "desc": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg",
+   "date": "2026-09-21T14:24:13+00:00",
+   "iocs": "iocs/f81c96de5547.txt",
+   "ioc_count": 95
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+   "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+   "desc": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg",
+   "date": "2026-09-21T14:15:40+00:00",
+   "iocs": "iocs/f38e756e9338.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+   "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+   "desc": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agenc",
+   "image": "",
+   "date": "2026-09-21T14:02:12+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyberattack hits University of Munich, potentially exposing student financial data",
+   "link": "https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data",
+   "desc": "The university, commonly known as LMU Munich, said Saturday that an attacker accessed enrollment data stored on one of its IT systems.",
+   "image": "",
+   "date": "2026-09-21T14:01:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
+   "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
+   "desc": "The transaction is part of the $4.1 billion deal in which Accenture acquired a majority stake in Dragos in an OT cybersecurity push. The post Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal app",
+   "image": "",
+   "date": "2026-09-21T14:00:13+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "ShinyHunters cybercrime gang takes over Cl0p ransomware site, demands extortion payment",
+   "link": "https://therecord.media/shinyhunters-clop-cyberattack-website",
+   "desc": "The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.",
+   "image": "",
+   "date": "2026-09-21T14:00:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Introducing Aikido Altar: the model that makes sovereign security intelligence possible",
+   "link": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
+   "desc": "Aikido Altar is a compressed, open-weight AI model built for sovereign security intelligence, powering Aikido Machine's on-prem, air-gapped pentesting. Category: Product & Company Updates",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab12534d3c3a04263e9ff28_Were-going-to-fight-AI-with-AI_Feature.png",
+   "date": "2026-09-21T13:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+   "desc": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+   "image": "",
+   "date": "2026-09-21T13:16:20+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "LinkedIn wins court order blocking mass scraping of user data",
+   "link": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
+   "desc": "The agreement between LinkedIn, ProAPIs and joint business operator Netswift also requires the firms to stop selling and transferring the data, no longer access LinkedIn through fake accounts and delete the data that was",
+   "image": "",
+   "date": "2026-09-21T12:55:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "RatHat Android Trojan Uses AI for Automation",
+   "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
+   "desc": "The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion. The post RatHat Android Trojan Uses AI for Automation appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-21T12:51:41+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Google says Gemini breached three companies during security test",
+   "link": "https://therecord.media/gemini-google-cyber-breach",
+   "desc": "Google’s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May — the latest in a string of similar incidents.",
+   "image": "",
+   "date": "2026-09-21T12:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
+   "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+   "desc": "It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Ca",
+   "image": "",
+   "date": "2026-09-21T11:57:35+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: September updates break File History backup feature",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+   "desc": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+   "image": "",
+   "date": "2026-09-21T11:45:54+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
+   "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+   "desc": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-21T10:55:46+00:00"
   },
   {
    "source": "SANS ISC",
@@ -313,24 +477,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Nations take action on North Korean IT workers after UN report",
-   "link": "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes",
-   "desc": "A report published Wednesday said that as of July, Vietnam, Laos, Pakistan and Argentina took meaningful steps to respond to allegations involving North Korea listed in an October study.",
-   "image": "",
-   "date": "2026-09-18T14:29:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-   "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-   "desc": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sen",
-   "image": "",
-   "date": "2026-09-18T14:25:00+00:00",
-   "iocs": "iocs/e0ab0e720900.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "BleepingComputer",
    "title": "Secure enterprise sharing with access reviews for Microsoft 365",
    "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
@@ -347,84 +493,6 @@
    "date": "2026-09-18T13:58:40+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hacking group ‘NightEagle’ targeting China’s high-tech sector expands operations to Russia",
-   "link": "https://therecord.media/hacking-group-nighteagle-expands-russia-china",
-   "desc": "Over the past year, Russian cybersecurity firm Kaspersky said it investigated several incidents involving the group at Russian businesses.",
-   "image": "",
-   "date": "2026-09-18T13:24:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Webinar: Which Google Workspace security controls actually matter?",
-   "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-   "desc": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most",
-   "image": "",
-   "date": "2026-09-18T13:10:19+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-   "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-   "desc": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg",
-   "date": "2026-09-18T12:47:04+00:00",
-   "iocs": "iocs/baffdffe1456.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-   "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-   "desc": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-18T12:45:24+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-   "desc": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-   "image": "",
-   "date": "2026-09-18T12:16:32+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "23 Million User Records Compromised in Gyazo Data Breach",
-   "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-   "desc": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compromised in Gyazo Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-18T11:38:40+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-   "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-   "desc": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg",
-   "date": "2026-09-18T11:01:16+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
-   "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
-   "desc": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products appeared first on Sec",
-   "image": "",
-   "date": "2026-09-18T10:57:03+00:00",
-   "iocs": "iocs/8e140a0241ad.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "NightmareStresser DDoS Service Disrupted in International Operation",
-   "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
-   "desc": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-09-18T10:12:33+00:00",
-   "iocs": "iocs/bfaaf7dd5120.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Unit 42",
    "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
    "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
@@ -435,46 +503,12 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-   "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-   "desc": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-18T09:46:57+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Check Point flaw lets hackers execute code with root privileges",
-   "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-   "desc": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-   "image": "",
-   "date": "2026-09-18T09:34:33+00:00",
-   "iocs": "iocs/9bc8b96fcffe.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-   "desc": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-   "image": "",
-   "date": "2026-09-18T07:35:31+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
    "desc": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-18T07:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
-   "link": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
-   "desc": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocu",
-   "image": "",
-   "date": "2026-09-18T04:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -501,28 +535,12 @@
    "date": "2026-09-17T22:00:33+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "New RatHat Android malware uses AI to automate device control",
-   "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-   "desc": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-   "image": "",
-   "date": "2026-09-17T21:50:26+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
    "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
    "desc": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-17T21:23:50+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "European Commission set to push social media restrictions, safety requirements into law",
-   "link": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
-   "desc": "The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation.",
-   "image": "",
-   "date": "2026-09-17T20:36:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -541,14 +559,6 @@
    "date": "2026-09-17T18:00:23+00:00",
    "iocs": "iocs/f5d7c097713a.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "RF The Record",
-   "title": "China’s FamousSparrow hackers target Latin America with new backdoor",
-   "link": "https://therecord.media/china-hackers-latin-america-espionage",
-   "desc": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”",
-   "image": "",
-   "date": "2026-09-17T16:30:00+00:00"
   },
   {
    "source": "Socket",
@@ -721,14 +731,6 @@
    "desc": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-15T19:27:19+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-   "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-   "desc": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-15T16:45:37+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1019,16 +1021,6 @@
    "desc": "Compare the top DSPM tools of 2026: Aikido, Wiz, Cyera, Varonis, and Orca, on data access, remediation, and how they find exposure Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a63b62a85cdde24fcf77865_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-01T16:49:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "The dark figure of supply chain detection",
-   "link": "https://www.aikido.dev/blog/dark-figure-supply-chain-detection",
-   "desc": "String-based rules only catch malware that's already been seen. Behavioral detection is how you find the supply chain attacks. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a973e5e95ea1684ada216df_The-dark-figure-behind-supply-chain-detection_Feature.jpg",
-   "date": "2026-09-01T14:39:00+00:00",
-   "iocs": "iocs/6cef46740626.txt",
-   "ioc_count": 1
   },
   {
    "source": "Google GTIG",
