@@ -1,0 +1,13 @@
+IOC EXTRACTION - Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities
+Source: https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/
+Extracted: 2026-09-21 10:49:48 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-39682
+CVE-2025-39964
+CVE-2026-53266

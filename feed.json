@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T05:09:22.260357+00:00",
+ "generated": "2026-09-21T10:49:56.301965+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,76 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33318",
+   "desc": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is th",
+   "image": "",
+   "date": "2026-09-21T10:33:53+00:00",
+   "iocs": "iocs/17eab563c981.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+   "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+   "desc": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on Security",
+   "image": "",
+   "date": "2026-09-21T10:03:44+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
+   "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
+   "desc": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IA",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Cloud_cybersecurity_research_Overview_1920x900.jpg",
+   "date": "2026-09-21T10:00:13+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+   "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+   "desc": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-21T09:31:12+00:00",
+   "iocs": "iocs/0a3b43642b69.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+   "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+   "desc": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg",
+   "date": "2026-09-21T08:39:38+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Google Confirms Gemini AI Breached Three Firms",
+   "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+   "desc": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-21T07:20:46+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+   "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+   "desc": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg",
+   "date": "2026-09-21T06:06:44+00:00",
+   "iocs": "iocs/7de86307010b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33354",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-21T05:15:12+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -335,14 +405,6 @@
    "date": "2026-09-18T11:01:16+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-   "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-   "desc": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed versio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg",
-   "date": "2026-09-18T11:01:01+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
    "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
@@ -350,16 +412,6 @@
    "image": "",
    "date": "2026-09-18T10:57:03+00:00",
    "iocs": "iocs/8e140a0241ad.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-   "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-   "desc": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg",
-   "date": "2026-09-18T10:40:06+00:00",
-   "iocs": "iocs/987fdbb14989.txt",
    "ioc_count": 1
   },
   {
@@ -401,40 +453,12 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-   "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-   "desc": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on ",
-   "image": "",
-   "date": "2026-09-18T08:42:18+00:00",
-   "iocs": "iocs/a36ec0e8e772.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
    "desc": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
    "image": "",
    "date": "2026-09-18T07:35:31+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "MIND Secures $72 Million for AI-Powered DLP",
-   "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
-   "desc": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-18T07:25:27+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
-   "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-   "desc": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities ap",
-   "image": "",
-   "date": "2026-09-18T07:14:04+00:00",
-   "iocs": "iocs/d406454fd03e.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -723,16 +747,6 @@
    "date": "2026-09-15T02:25:12+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Apple Updates Everything, (Mon, Sep 14th)",
-   "link": "https://isc.sans.edu/diary/rss/33336",
-   "desc": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever pa",
-   "image": "",
-   "date": "2026-09-14T18:33:44+00:00",
-   "iocs": "iocs/bb8f15506a4c.txt",
-   "ioc_count": 261
-  },
-  {
    "source": "Socket",
    "title": "Jerod Santo Joins Socket as Head of Media",
    "link": "https://socket.dev/blog/jerod-santo-joins-socket?utm_medium=feed",
@@ -757,14 +771,6 @@
    "desc": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to A",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/12_Cloud_cybersecurity_research_Overview_1920x900-2.jpg",
    "date": "2026-09-14T10:00:01+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-   "link": "https://isc.sans.edu/diary/rss/33334",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-14T02:00:03+00:00"
   },
   {
    "source": "Socket",
@@ -1249,16 +1255,6 @@
    "date": "2026-08-11T21:28:35+00:00",
    "iocs": "iocs/215b91448d4d.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Unit 42",
-   "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
-   "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
-   "desc": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42.",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_Malware_Category_1920x900-3.jpg",
-   "date": "2026-08-11T10:00:16+00:00",
-   "iocs": "iocs/2e25b4d15492.txt",
-   "ioc_count": 29
   },
   {
    "source": "IC3 PSA",
