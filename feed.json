@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T23:55:12.177031+00:00",
+ "generated": "2026-09-22T04:00:16.538390+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,22 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33356",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-22T03:50:10+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
+   "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
+   "desc": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-09-22T02:01:24+00:00"
   },
   {
    "source": "Dark Reading",
@@ -311,14 +327,6 @@
    "desc": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg",
    "date": "2026-09-21T08:39:38+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Google Confirms Gemini AI Breached Three Firms",
-   "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-   "desc": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-21T07:20:46+00:00"
   },
   {
    "source": "The Hacker News",
@@ -737,14 +745,6 @@
    "desc": "I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in&#x3f; I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here a",
    "image": "",
    "date": "2026-09-15T15:23:45+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
-   "link": "https://isc.sans.edu/diary/rss/33338",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-15T02:25:12+00:00"
   },
   {
    "source": "Socket",
