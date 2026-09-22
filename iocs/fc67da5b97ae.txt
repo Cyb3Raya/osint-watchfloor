@@ -1,0 +1,11 @@
+IOC EXTRACTION - WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session
+Source: https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
+Extracted: 2026-09-22 09:14:59 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-93485

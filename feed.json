@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T04:00:16.538390+00:00",
+ "generated": "2026-09-22T09:15:12.211286+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,60 @@
    "desc": "",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-12-03T16:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+   "desc": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+   "image": "",
+   "date": "2026-09-22T08:53:09+00:00",
+   "iocs": "iocs/1f3d832dd553.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+   "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+   "desc": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme ap",
+   "image": "",
+   "date": "2026-09-22T08:37:06+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+   "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+   "desc": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on Se",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg",
+   "date": "2026-09-22T06:33:57+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+   "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+   "desc": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPre",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBWV1XNsTGB5ImLNRGJTygk0-82k7xTHmuOr7lTivRRDcF83ddu4jLOpdkQYMq7VB3j5SMpA9zBRvM3-SUkDLBhN5-j-Z6UltcTnVfXOxHDzfBYWiw_fRiRefAYa1XSiFu5JMzb06dwqV4PhKaZkPt3vKZFHQjdVFUgbr2B3nOEoFs_qHe6zwGayHM2I/s1600/wordpress-comment.jpg",
+   "date": "2026-09-22T06:03:14+00:00",
+   "iocs": "iocs/fc67da5b97ae.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "Lovable’s OJ Rewrites Vite’s Dev Server in Rust as AI Lowers the Cost of Forking Open Source",
+   "link": "https://socket.dev/blog/oj-vite-rust?utm_medium=feed",
+   "desc": "Lovable’s OJ rewrites Vite’s dev server in Rust, reducing memory use and preview times as AI lowers the cost of open source reimplementation.",
+   "image": "",
+   "date": "2026-09-22T05:48:11+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+   "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg",
+   "date": "2026-09-22T05:31:59+00:00",
+   "iocs": "iocs/b6c97dd33bcf.txt",
+   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -311,16 +365,6 @@
    "date": "2026-09-21T10:00:13+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-   "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-   "desc": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-21T09:31:12+00:00",
-   "iocs": "iocs/0a3b43642b69.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
    "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
@@ -417,14 +461,6 @@
    "date": "2026-09-19T13:28:41+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-   "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-   "desc": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca",
-   "image": "",
-   "date": "2026-09-19T11:38:20+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
    "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
@@ -443,34 +479,6 @@
    "date": "2026-09-19T08:18:54+00:00",
    "iocs": "iocs/c8cb9ca3b0db.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-   "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-   "desc": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg",
-   "date": "2026-09-19T07:51:34+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-   "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-   "desc": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18. The French security company had kept his GitHub acc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg",
-   "date": "2026-09-19T07:14:54+00:00",
-   "iocs": "iocs/47bdb82a4099.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-   "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg",
-   "date": "2026-09-19T06:24:10+00:00",
-   "iocs": "iocs/7abc6bd4255f.txt",
-   "ioc_count": 7
   },
   {
    "source": "SANS ISC",
@@ -1037,14 +1045,6 @@
    "desc": "",
    "image": "",
    "date": "2026-09-01T14:00:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90%",
-   "link": "https://socket.dev/blog/pnpm-12?utm_medium=feed",
-   "desc": "pnpm 12 rewrites the package manager in Rust, cutting install times by up to 90% while preserving pnpm 11 workflows and lockfiles.",
-   "image": "",
-   "date": "2026-09-01T02:52:00+00:00"
   },
   {
    "source": "Wiz Threats",
