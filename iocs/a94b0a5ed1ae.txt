@@ -1,0 +1,11 @@
+IOC EXTRACTION - WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers
+Source: https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
+Extracted: 2026-09-22 21:27:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-87902

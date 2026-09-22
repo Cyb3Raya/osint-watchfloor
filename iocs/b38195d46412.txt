@@ -1,0 +1,13 @@
+IOC EXTRACTION - Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
+Source: https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
+Extracted: 2026-09-22 21:27:02 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+kafka-ui[.]au1[.]twilio[.]com
+litellm[.]ai-services[.]corp[.]twilio[.]com
+support-api[.]us1[.]twilio[.]com

@@ -1,16 +1,60 @@
 {
- "generated": "2026-09-22T18:08:58.817285+00:00",
+ "generated": "2026-09-22T21:27:15.033126+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
+   "source": "BleepingComputer",
+   "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+   "desc": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. ",
+   "image": "",
+   "date": "2026-09-22T20:35:24+00:00",
+   "iocs": "iocs/178864dedd5d.txt",
+   "ioc_count": 12
+  },
+  {
    "source": "Dark Reading",
-   "title": "[Virtual Event] Cybersecurity Outlook 2027",
-   "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
-   "desc": "",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-12-03T16:00:00+00:00"
+   "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+   "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+   "desc": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3163f248ce2f1013/6ab2d46dc8295fafe642a234/skull_coins-breakermaximus-GettyImages-2092767456.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-22T20:02:02+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
+   "link": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
+   "desc": "The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal private-sector privacy law, the regulator said in a press release.",
+   "image": "",
+   "date": "2026-09-22T19:52:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+   "desc": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+   "image": "",
+   "date": "2026-09-22T19:13:29+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33358",
+   "desc": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a",
+   "image": "",
+   "date": "2026-09-22T19:06:15+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+   "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+   "desc": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTjrp93lIMdPVKigtkoXjbsk75AIXEvqJuXoYMQLAmvzQfqSy3V1XhBTLXY1SAWp92vTbajtnxBgHYvDr2e3EZOi9Yf8KgT8EzQOp61PjmPsI55nERsYckaL-pfmQDDzRTiCWXegVWrJ0Fu_9I8GUi5O0M0103r218S3dC67Zmr9BZ3quLBRBm9T6Xqo/s1600/cp-upload.jpg",
+   "date": "2026-09-22T18:29:39+00:00",
+   "iocs": "iocs/5871a8a80040.txt",
+   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -21,20 +65,32 @@
    "date": "2026-09-22T18:04:39+00:00"
   },
   {
+   "source": "The Hacker News",
+   "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+   "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+   "desc": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to ru",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg",
+   "date": "2026-09-22T18:03:10+00:00",
+   "iocs": "iocs/a94b0a5ed1ae.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+   "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+   "desc": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg",
+   "date": "2026-09-22T17:58:15+00:00",
+   "iocs": "iocs/b38195d46412.txt",
+   "ioc_count": 3
+  },
+  {
    "source": "SecurityWeek",
    "title": "BigCommerce Data Stolen via Ribon Apps Hack",
    "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
    "desc": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-22T17:58:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33358",
-   "desc": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a",
-   "image": "",
-   "date": "2026-09-22T17:56:20+00:00"
   },
   {
    "source": "Dark Reading",
@@ -361,16 +417,6 @@
    "date": "2026-09-22T05:48:11+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-   "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg",
-   "date": "2026-09-22T05:31:59+00:00",
-   "iocs": "iocs/b6c97dd33bcf.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
    "link": "https://isc.sans.edu/diary/rss/33356",
@@ -455,28 +501,12 @@
    "date": "2026-09-21T17:54:49+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-   "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-   "desc": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researcher",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg",
-   "date": "2026-09-21T17:31:01+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
    "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
    "desc": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data R",
    "image": "",
    "date": "2026-09-21T17:19:53+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-   "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-   "desc": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg",
-   "date": "2026-09-21T17:19:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -487,36 +517,12 @@
    "date": "2026-09-21T15:41:22+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
-   "link": "https://therecord.media/belgium-table-tennis-cyberattack",
-   "desc": "Belgium’s national table tennis federation is investigating a cyberattack after a hacker claimed to have stolen data on tens of thousands of members.",
-   "image": "",
-   "date": "2026-09-21T15:00:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
    "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
    "desc": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt41e8b038eeab1c52/6ab128df417cfc426c650132/balance-balls-1800-sondem_Alamy-Stock-Photo.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-21T14:47:19+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-   "desc": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-   "image": "",
-   "date": "2026-09-21T14:42:37+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-   "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-   "desc": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agenc",
-   "image": "",
-   "date": "2026-09-21T14:02:12+00:00"
   },
   {
    "source": "Aikido",
