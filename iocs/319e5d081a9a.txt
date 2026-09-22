@@ -1,0 +1,11 @@
+IOC EXTRACTION - New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
+Source: https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html
+Extracted: 2026-09-22 14:04:33 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-89775

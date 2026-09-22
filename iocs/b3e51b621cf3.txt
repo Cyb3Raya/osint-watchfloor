@@ -1,0 +1,12 @@
+IOC EXTRACTION - SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE
+Source: https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html
+Extracted: 2026-09-22 14:04:34 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-55040
+CVE-2026-65660

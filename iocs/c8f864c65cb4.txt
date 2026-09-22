@@ -1,0 +1,16 @@
+IOC EXTRACTION - SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
+Source: https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html
+Extracted: 2026-09-22 14:04:36 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+45[.]61[.]157[.]22
+
+Domains (2)
+----------------------------------------
+dns[.]educationportals[.]biz
+docsportal[.]in

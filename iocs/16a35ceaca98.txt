@@ -1,0 +1,12 @@
+IOC EXTRACTION - D-Link warns of max severity zero-day bug in DIR-822A routers
+Source: https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/
+Extracted: 2026-09-22 14:04:38 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-86296
+CVE-2026-86510

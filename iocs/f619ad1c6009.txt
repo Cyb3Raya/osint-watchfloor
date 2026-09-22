@@ -1,0 +1,21 @@
+IOC EXTRACTION - New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
+Source: https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html
+Extracted: 2026-09-22 14:04:30 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-16812
+CVE-2026-93952
+
+IPv4 (2)
+----------------------------------------
+104[.]248[.]126[.]159
+142[.]93[.]149[.]77
+
+MD5 (1)
+----------------------------------------
+dc78e206eaeadec59fc5801fe4556bd0

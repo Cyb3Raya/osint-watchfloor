@@ -1,0 +1,11 @@
+IOC EXTRACTION - Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers
+Source: https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/
+Extracted: 2026-09-22 14:04:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-7273
