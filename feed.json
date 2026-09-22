@@ -1,9 +1,33 @@
 {
- "generated": "2026-09-22T21:27:15.033126+00:00",
+ "generated": "2026-09-22T23:48:06.833162+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Rogue external MFA providers can steal passwords during logins",
+   "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+   "desc": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+   "image": "",
+   "date": "2026-09-22T21:45:45+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+   "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+   "desc": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+   "image": "",
+   "date": "2026-09-22T21:40:37+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+   "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+   "desc": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d51b19d4c1fd6ff/6ab2e505f707d04dc9ded8c1/proxy_Josie_Elias_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-22T21:12:37+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
@@ -493,28 +517,12 @@
    "date": "2026-09-21T18:23:11+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-   "desc": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-   "image": "",
-   "date": "2026-09-21T17:54:49+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
    "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
    "desc": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data R",
    "image": "",
    "date": "2026-09-21T17:19:53+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Google fined €403 million over location data privacy violations",
-   "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-   "desc": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-   "image": "",
-   "date": "2026-09-21T15:41:22+00:00"
   },
   {
    "source": "Dark Reading",
@@ -657,14 +665,6 @@
    "desc": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-17T21:23:50+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-   "desc": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb2f18082a854a7f/6aac39581080593b25c02180/sparrow-KenCanning-GettyImages-157477304_(1).jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-17T19:15:38+00:00"
   },
   {
    "source": "Cisco Talos",
