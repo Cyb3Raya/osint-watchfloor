@@ -1,0 +1,13 @@
+IOC EXTRACTION - Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials
+Source: https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html
+Extracted: 2026-09-22 18:08:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-55245
+CVE-2026-86242
+CVE-2026-90898
