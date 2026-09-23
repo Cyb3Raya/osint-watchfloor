@@ -1,0 +1,32 @@
+IOC EXTRACTION - Macfinger ClickFix campaign, (Tue, Sep 22nd)
+Source: https://isc.sans.edu/diary/rss/33360
+Extracted: 2026-09-23 03:57:44 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+45[.]150[.]33[.]128
+95[.]163[.]153[.]80
+
+Domains (1)
+----------------------------------------
+ipinfo[.]io
+
+URLs (6)
+----------------------------------------
+hxxp://45[.]150[.]33[.]128
+hxxp://95[.]163[.]153[.]80:8133
+hxxps://45[.]150[.]33[.]128/2286de55f9afd?force=1
+hxxps://45[.]150[.]33[.]128/92961f75b259df2?force=1
+hxxps://45[.]150[.]33[.]128/d4c8083a7d97?force=1
+hxxps://velvet-otter-glagceis[.]life/collect
+
+SHA256 (4)
+----------------------------------------
+1a3765e8cb0055ec31693b8f82ce9744106dee08368259661600b072c6805af4
+6606a5f18184b224a56c9cb658fa26f7fce45099da548a30a8db2c5f2c70377c
+9d87b41c2b29ccbeac851b98f1a7dce4ab4781fec0cbc55fa6f93a6299a3d564
+b68cdb1b46502fbce67ce3f8110682936d06afd2116af096e30abd4c8376b6dc
