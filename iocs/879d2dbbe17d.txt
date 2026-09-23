@@ -1,0 +1,13 @@
+IOC EXTRACTION - New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control
+Source: https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html
+Extracted: 2026-09-23 14:16:48 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-68490
+CVE-2026-87899
+CVE-2026-87900

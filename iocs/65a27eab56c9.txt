@@ -1,0 +1,38 @@
+IOC EXTRACTION - MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack
+Source: https://socket.dev/blog/memtensor-compromise?utm_medium=feed
+Extracted: 2026-09-23 14:17:16 UTC
+Total indicators: 22
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (7)
+----------------------------------------
+0b48fafd6fbe[.]skyleen[.]fr
+266297c6df27[.]skyleen[.]fr
+73376a079d87[.]skyleen[.]fr
+8a8acaf167b3[.]skyleen[.]fr
+c747d139e7e9[.]skyleen[.]fr
+d4f77a3a8cb0[.]skyleen[.]fr
+skyleen[.]fr
+
+URLs (1)
+----------------------------------------
+hxxps://10729e014d0e[.]skyleen[.]fr/eb57efaa7365698fc1e4decc/initial-ci-v2
+
+SHA256 (14)
+----------------------------------------
+16de381deb978744535b10f68fe15165251374b86eef18ffc2c47f61ea673047
+381ac6dc1715d9298fe81b2a53a11f7b7d78e361ee3a6619ad54f8c4b062cc18
+39ee644406829a4b630b31759c20478bc22d576d6a59b253ed86f72c360aa5ef
+5405e330507602e803f7dd6f2a9d4555aec8558ab222b51413594a962da6888a
+56cd3416d2ec2aa7e7cec2a06010cf0b58eb09c0a5486809df52afeaca8f14be
+65faf8ccbcf5b34eb4f72c71bf82815fa9c1e2f947b9c898491540e866132c31
+8f647f17a1934679c4095e21bee2b9bd83e28476603758bc91408a0c8443e3b4
+92b46d18fc553c494eda714f204459edb74c205bf53b18a9092bcf02c7a6c5be
+9de0d5b0ca184f71f630be5781d134998883a02d5d7bc65aeb9559d8f9efb364
+c1b0998347b489582bae7b7f4930f9831d9ef4b6bc150cfd488ee1a43272dd36
+d6b3e77c36ee8017c9bf30d1da7218ec0ea843768d313eb8e35845c8a9b38a26
+e077c387b223811064b7bbc5a55a0182fca9bf50894f949ff284d4be87d44b26
+f7c4014e284f3d56c452b8b222a287c54f73dc4a40a7e022e765ac8376362947
+f8ccdd1da7dff1aef16377a2842bc7acf7c516e32122dd6e42dc4a4e57653fce

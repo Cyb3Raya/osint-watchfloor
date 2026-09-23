@@ -1,0 +1,19 @@
+IOC EXTRACTION - Adobe Patches Critical Flaws in Connect, AEM Forms
+Source: https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/
+Extracted: 2026-09-23 14:17:03 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-75682
+CVE-2026-75684
+CVE-2026-75686
+CVE-2026-75689
+CVE-2026-75697
+CVE-2026-75698
+CVE-2026-75745
+CVE-2026-81995
+CVE-2026-82000
