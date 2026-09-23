@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical F5 BIG-IP Vulnerability Exploited as Zero-Day
+Source: https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/
+Extracted: 2026-09-23 09:14:44 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-94127

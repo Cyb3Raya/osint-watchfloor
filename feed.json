@@ -1,9 +1,117 @@
 {
- "generated": "2026-09-23T03:57:52.319763+00:00",
+ "generated": "2026-09-23T09:14:52.549674+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
+   "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
+   "desc": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-23T08:33:06+00:00",
+   "iocs": "iocs/92c512e397bd.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+   "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+   "desc": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg",
+   "date": "2026-09-23T08:29:48+00:00",
+   "iocs": "iocs/54af9eeed99c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+   "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+   "desc": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVEmuPJKZAlboodZWejG4dGZXXejOLThyXPoOnycqTY8lznAewTW5ovv8XFJzhyjPRMXT-njudYOVWFEYCLvmEPDyUrfDTZzAmp1S4KE4DuzsDFxt8R-biL2puZZBWG36_dkhfzvpeigcPb9WJNy31oIXo6Oh3zMUzL3JG6MEr4OaGE4Yi_k5JCpohVrZ/s1600/windows-china.jpg",
+   "date": "2026-09-23T08:29:24+00:00",
+   "iocs": "iocs/47e5a40f39f4.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ryuk ransomware member sentenced to 24 months in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+   "desc": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+   "image": "",
+   "date": "2026-09-23T08:20:05+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Novel supplychain.local Go worm appears",
+   "link": "https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi",
+   "desc": "\"supplychain.local\": malicious code found in MemTensor's npm plugin (0.1.21, 0.1.23) and PyPI's MemoryOS (2.0.34). Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aa033f31c176445cbd8f03e_compromised-flutter-package-on-pub-dev-contains-xcsset-malware.jpg",
+   "date": "2026-09-23T07:41:00+00:00",
+   "iocs": "iocs/86ff0038290a.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
+   "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
+   "desc": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-23T07:34:18+00:00",
+   "iocs": "iocs/56b3d054ffe5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+   "desc": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+   "image": "",
+   "date": "2026-09-23T07:17:23+00:00",
+   "iocs": "iocs/e1f16ad60edb.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
+   "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
+   "desc": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-23T07:13:49+00:00",
+   "iocs": "iocs/f683f61314b4.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+   "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+   "desc": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxfEfPNHZcocTp156lW-VbOENuCxmLM_7xUUY5QWEppPDsL04KhbN7yaT52b_XTCXW6ensPqjF8QBXuQWUgna8jerFExtxAfkCd4NqOGcQwUn8088DU87PMD7cgYhQ-dY2_xFdwPyaKU-kD9HBx_YcjAzvzwEQzLoKUu1cRRpOT5A1luhBCE6e6ChORw/s1600/next.jpg",
+   "date": "2026-09-23T07:04:40+00:00",
+   "iocs": "iocs/cda8fee27801.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Check Point Patches Exploited Management Server Zero-Day",
+   "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
+   "desc": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-23T06:14:03+00:00",
+   "iocs": "iocs/7aed67fb665e.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+   "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+   "desc": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png",
+   "date": "2026-09-23T05:30:09+00:00",
+   "iocs": "iocs/c2b107c39a2f.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
@@ -371,14 +479,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-   "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-   "desc": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches &#8216;Click2Shell&#8217; Vulnerability appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-22T10:22:27+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
    "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
@@ -405,14 +505,6 @@
    "date": "2026-09-22T09:55:11+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-   "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-   "desc": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in resp",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN7aXt0PoPdZQ_VG77wkwdIyNugcdkFD6MnMvlj5LN_byw2ZrX8-gtpDld4CviuW1MOhHiElsvFtIkO9IfhBr4af-sJwM1zvR-RFICRll4G5jG4JNPX1vx4sup3omlw8uTJgro9UUfzecLMI1Whls3ihqZ9OXYJliIBjhpoodf4WI9j1lA6EUjms7x1pG/s1600/rth.jpg",
-   "date": "2026-09-22T09:38:18+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
@@ -421,42 +513,6 @@
    "date": "2026-09-22T08:53:09+00:00",
    "iocs": "iocs/1f3d832dd553.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-   "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-   "desc": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme ap",
-   "image": "",
-   "date": "2026-09-22T08:37:06+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-   "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-   "desc": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typicall",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg",
-   "date": "2026-09-22T07:52:03+00:00",
-   "iocs": "iocs/c8f864c65cb4.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-   "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-   "desc": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on Se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg",
-   "date": "2026-09-22T06:33:57+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-   "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-   "desc": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPre",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBWV1XNsTGB5ImLNRGJTygk0-82k7xTHmuOr7lTivRRDcF83ddu4jLOpdkQYMq7VB3j5SMpA9zBRvM3-SUkDLBhN5-j-Z6UltcTnVfXOxHDzfBYWiw_fRiRefAYa1XSiFu5JMzb06dwqV4PhKaZkPt3vKZFHQjdVFUgbr2B3nOEoFs_qHe6zwGayHM2I/s1600/wordpress-comment.jpg",
-   "date": "2026-09-22T06:03:14+00:00",
-   "iocs": "iocs/fc67da5b97ae.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
@@ -475,14 +531,6 @@
    "date": "2026-09-22T03:50:10+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
-   "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
-   "desc": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-09-22T02:01:24+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
    "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
@@ -497,16 +545,6 @@
    "desc": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...",
    "image": "",
    "date": "2026-09-21T21:18:49+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
-   "image": "",
-   "date": "2026-09-21T20:12:17+00:00",
-   "iocs": "iocs/522af8b6ffea.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -533,22 +571,6 @@
    "desc": "Victims have been identified in Africa, including in Kenya and Uganda.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-21T19:11:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-   "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-   "desc": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-   "image": "",
-   "date": "2026-09-21T18:23:11+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-   "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-   "desc": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data R",
-   "image": "",
-   "date": "2026-09-21T17:19:53+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1001,14 +1023,6 @@
    "date": "2026-09-04T14:27:00+00:00",
    "iocs": "iocs/bbc527360076.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "Top Trivy alternatives for container and cloud scanning in 2026",
-   "link": "https://www.aikido.dev/blog/trivy-alternatives",
-   "desc": "Six Trivy alternatives compared for 2026 on container scanning, IaC, SAST, prioritization, and fixes, with where each one actually fits. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ad49d5e1202b92a43d705_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-09-04T14:23:00+00:00"
   },
   {
    "source": "Cisco Talos",

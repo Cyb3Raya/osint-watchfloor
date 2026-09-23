@@ -1,0 +1,22 @@
+IOC EXTRACTION - Novel supplychain.local Go worm appears
+Source: https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi
+Extracted: 2026-09-23 09:14:50 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (3)
+----------------------------------------
+hxxps://0b48fafd6fbe[.]skyleen[.]fr
+hxxps://266297c6df27[.]skyleen[.]fr
+hxxps://8a8acaf167b3[.]skyleen[.]fr
+
+SHA256 (6)
+----------------------------------------
+381ac6dc1715d9298fe81b2a53a11f7b7d78e361ee3a6619ad54f8c4b062cc18
+56cd3416d2ec2aa7e7cec2a06010cf0b58eb09c0a5486809df52afeaca8f14be
+65faf8ccbcf5b34eb4f72c71bf82815fa9c1e2f947b9c898491540e866132c31
+d6b3e77c36ee8017c9bf30d1da7218ec0ea843768d313eb8e35845c8a9b38a26
+e077c387b223811064b7bbc5a55a0182fca9bf50894f949ff284d4be87d44b26
+f8ccdd1da7dff1aef16377a2842bc7acf7c516e32122dd6e42dc4a4e57653fce
