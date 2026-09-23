@@ -1,0 +1,25 @@
+IOC EXTRACTION - InfraTrust report warns network management systems under attack
+Source: https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/
+Extracted: 2026-09-23 18:26:47 UTC
+Total indicators: 15
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (15)
+----------------------------------------
+CVE-2026-20079
+CVE-2026-20212
+CVE-2026-20293
+CVE-2026-20316
+CVE-2026-31431
+CVE-2026-33197
+CVE-2026-6485
+CVE-2026-73453
+CVE-2026-73456
+CVE-2026-76460
+CVE-2026-83548
+CVE-2026-83549
+CVE-2026-85102
+CVE-2026-85103
+CVE-2026-91843

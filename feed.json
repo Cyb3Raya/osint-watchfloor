@@ -1,9 +1,53 @@
 {
- "generated": "2026-09-23T14:17:17.849609+00:00",
+ "generated": "2026-09-23T18:26:59.972009+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+   "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+   "desc": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appe",
+   "image": "",
+   "date": "2026-09-23T18:05:58+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+   "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+   "desc": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start C",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg",
+   "date": "2026-09-23T16:53:10+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+   "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+   "desc": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+   "image": "",
+   "date": "2026-09-23T16:20:54+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33360",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-09-23T16:14:37+00:00",
+   "iocs": "iocs/04580046f1de.txt",
+   "ioc_count": 13
+  },
+  {
+   "source": "The Hacker News",
+   "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+   "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+   "desc": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg",
+   "date": "2026-09-23T16:06:41+00:00",
+   "iocs": "iocs/20d13eec11e1.txt",
+   "ioc_count": 3
+  },
   {
    "source": "Dark Reading",
    "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
@@ -11,6 +55,50 @@
    "desc": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt39d212f369d2f318/6ab3d536eb663180d5ee85fb/middleeast-200mm-Getty-168644028.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-23T16:01:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+   "link": "https://therecord.media/ransomware-ryuk-sentenced-doj",
+   "desc": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+   "image": "",
+   "date": "2026-09-23T15:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+   "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+   "desc": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc4ade55d77fb4ff/6ab3b76557365fe244f410ae/chatbot_khunkornStudio_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-23T14:47:09+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "InfraTrust report warns network management systems under attack",
+   "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+   "desc": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+   "image": "",
+   "date": "2026-09-23T14:35:26+00:00",
+   "iocs": "iocs/957f7dd38517.txt",
+   "ioc_count": 15
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
+   "link": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+   "desc": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.",
+   "image": "",
+   "date": "2026-09-23T14:22:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+   "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+   "desc": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows creden",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg",
+   "date": "2026-09-23T14:17:58+00:00",
+   "iocs": "iocs/1e2c3d8631df.txt",
+   "ioc_count": 6
   },
   {
    "source": "BleepingComputer",
@@ -259,14 +347,12 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Check Point Patches Exploited Management Server Zero-Day",
-   "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-   "desc": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-23T06:14:03+00:00",
-   "iocs": "iocs/7aed67fb665e.txt",
-   "ioc_count": 2
+   "source": "Aikido",
+   "title": "Send GitLab an email, push to main",
+   "link": "https://www.aikido.dev/blog/gitlab-email-push-to-main",
+   "desc": "GitLab gives you a private email address to create issues. If leaked, anyone who has it can push code, execute CI/CD jobs, and bypass IP restrictions across all of your public and private projects. Category: Research",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2aa0e074d3ad47235f137_GitLab_Feature.jpg",
+   "date": "2026-09-23T06:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -293,16 +379,6 @@
    "desc": "The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2b9c23f0ccc248b43814b_CRA_Live_Feature.png",
    "date": "2026-09-23T01:30:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33360",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-09-23T00:55:11+00:00",
-   "iocs": "iocs/04580046f1de.txt",
-   "ioc_count": 13
   },
   {
    "source": "BleepingComputer",
@@ -332,7 +408,7 @@
    "source": "Dark Reading",
    "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
    "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-   "desc": "Cybersecurity and brand reputation are inextricably linked, and organizations that establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact will signi",
+   "desc": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impac",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98594c897c0149d/6ab3b59c4df190afb349b1ae/CIO-CMO_iStock_BraunS-80244351.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-22T20:55:53+00:00"
   },
@@ -441,24 +517,6 @@
    "date": "2026-09-22T17:12:26+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-   "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-   "desc": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization fr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg",
-   "date": "2026-09-22T17:03:31+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-   "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-   "desc": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTT",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg",
-   "date": "2026-09-22T16:41:12+00:00",
-   "iocs": "iocs/ba859ad0f6f0.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "BleepingComputer",
    "title": "Check Point warns of Management Server zero-day exploited in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
@@ -467,24 +525,6 @@
    "date": "2026-09-22T16:32:47+00:00",
    "iocs": "iocs/20fee5056b0e.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-   "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-   "desc": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19. The tool, called BigDis",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg",
-   "date": "2026-09-22T16:14:04+00:00",
-   "iocs": "iocs/fa09678c05a6.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
-   "link": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
-   "desc": "Available on Telegram for a $1,500 initiation fee and a recurring monthly $500 subscription, EvilTokens provided cybercriminals with artificial intelligence tools enabling them to compromise accounts, analyze breached in",
-   "image": "",
-   "date": "2026-09-22T15:51:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -503,32 +543,6 @@
    "date": "2026-09-22T13:10:20+00:00",
    "iocs": "iocs/23378716c23d.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "RF The Record",
-   "title": "AI is set to help cyber attackers much more than defenders, says UK official",
-   "link": "https://therecord.media/ai-set-to-help-attackers-more-than-defenders",
-   "desc": "Dave Chismon, the NCSC’s chief technology officer for architecture, said in a blog post that the imbalance in AI means cyberattacks would likely grow as automated defenses struggle to keep pace.",
-   "image": "",
-   "date": "2026-09-22T13:05:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-   "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-   "desc": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security co",
-   "image": "",
-   "date": "2026-09-22T12:57:07+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-   "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-   "desc": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-   "image": "",
-   "date": "2026-09-22T12:48:06+00:00",
-   "iocs": "iocs/16a35ceaca98.txt",
-   "ioc_count": 2
   },
   {
    "source": "Aikido",
@@ -683,14 +697,6 @@
    "date": "2026-09-18T19:26:47+00:00",
    "iocs": "iocs/4bd8cbc1dbe9.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Dark Reading",
-   "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-   "desc": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-18T19:23:48+00:00"
   },
   {
    "source": "Socket",
@@ -1017,14 +1023,6 @@
    "date": "2026-09-07T11:55:00+00:00",
    "iocs": "iocs/b210a640c374.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Aikido",
-   "title": "StyleSmuggler fix: patch the Magento and Adobe Commerce RCE",
-   "link": "https://www.aikido.dev/blog/stylesmuggler-fix",
-   "desc": "StyleSmuggler is an unauthenticated RCE hitting Magento and Adobe Commerce, with no CVE and no Adobe patch yet. Aikido already has the fix. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ea4e8bc1698a35097070c_Gemini_Feature.jpg",
-   "date": "2026-09-07T11:46:00+00:00"
   },
   {
    "source": "Socket",
