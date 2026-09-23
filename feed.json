@@ -1,9 +1,87 @@
 {
- "generated": "2026-09-23T18:26:59.972009+00:00",
+ "generated": "2026-09-23T21:46:13.037883+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New RemControl Android banking malware targets users in Europe and Canada",
+   "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+   "desc": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+   "image": "",
+   "date": "2026-09-23T21:25:13+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+   "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+   "desc": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5729777b5599bc1e/6ab427662474c510d68cbd53/special_agent_dark_corridor-Kemter-GettyImages-503113022.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-23T21:03:01+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+   "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+   "desc": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-23T20:53:38+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
+   "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
+   "desc": "In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Ap",
+   "image": "",
+   "date": "2026-09-23T20:07:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+   "desc": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway ",
+   "image": "",
+   "date": "2026-09-23T19:53:54+00:00",
+   "iocs": "iocs/702aeb848c91.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+   "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+   "desc": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin app",
+   "image": "",
+   "date": "2026-09-23T19:32:49+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
+   "link": "https://therecord.media/trump-harris-election-meddling-russia",
+   "desc": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment.",
+   "image": "",
+   "date": "2026-09-23T19:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers start exploiting critical WordPress flaw for code execution",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+   "desc": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+   "image": "",
+   "date": "2026-09-23T18:31:22+00:00",
+   "iocs": "iocs/368846adf0a4.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+   "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+   "desc": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a dis",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg",
+   "date": "2026-09-23T18:06:30+00:00",
+   "iocs": "iocs/d1ccb5f32ae9.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
@@ -135,14 +213,6 @@
    "desc": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
    "image": "",
    "date": "2026-09-23T12:45:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Burnham announces plan for new UK center to fight disinformation",
-   "link": "https://therecord.media/uk-disinformation-russia-center",
-   "desc": "The United Kingdom will create a new national center \"to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly.",
-   "image": "",
-   "date": "2026-09-23T12:30:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -327,16 +397,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-   "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-   "desc": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-23T07:13:49+00:00",
-   "iocs": "iocs/f683f61314b4.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
    "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
@@ -401,7 +461,7 @@
    "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
    "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
    "desc": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d51b19d4c1fd6ff/6ab2e505f707d04dc9ded8c1/proxy_Josie_Elias_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt74d88c8c5a1d995f/6ab4237757365f832ef41284/proxy_Josie_Elias_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-22T21:12:37+00:00"
   },
   {
@@ -437,14 +497,6 @@
    "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9245dc925814d35b/6ab2e08efc4382617e907669/GettyImages-533045396.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-22T19:59:24+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
-   "link": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
-   "desc": "The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal private-sector privacy law, the regulator said in a press release.",
-   "image": "",
-   "date": "2026-09-22T19:52:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -491,48 +543,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-   "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-   "desc": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg",
-   "date": "2026-09-22T17:58:15+00:00",
-   "iocs": "iocs/b38195d46412.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Reducing shadow IT visibility gaps with Wazuh",
-   "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-   "desc": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centraliz",
-   "image": "",
-   "date": "2026-09-22T17:17:41+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
    "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
    "desc": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt120d94fd93398e39/6aac5bbc223abe3d28c993b3/AI-dangers-laptop-hands-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-22T17:12:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Check Point warns of Management Server zero-day exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-   "desc": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-   "image": "",
-   "date": "2026-09-22T16:32:47+00:00",
-   "iocs": "iocs/20fee5056b0e.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-   "desc": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-   "image": "",
-   "date": "2026-09-22T15:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -679,24 +695,6 @@
    "desc": "In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010",
    "image": "",
    "date": "2026-09-19T04:51:46+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-   "desc": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-18T20:24:51+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-   "desc": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-18T19:26:47+00:00",
-   "iocs": "iocs/4bd8cbc1dbe9.txt",
-   "ioc_count": 3
   },
   {
    "source": "Socket",
