@@ -1,9 +1,75 @@
 {
- "generated": "2026-09-24T19:17:30.373602+00:00",
+ "generated": "2026-09-24T22:32:27.423592+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Socket",
+   "title": "Re-Enabled GitHub Actions Expose Thousands of Repositories to Mini Shai-Hulud",
+   "link": "https://socket.dev/blog/mini-shai-hulud-actions?utm_medium=feed",
+   "desc": "Two compromised GitHub Actions were re-enabled with malicious tags intact, exposing thousands of downstream repositories to Mini Shai-Hulud.",
+   "image": "",
+   "date": "2026-09-24T21:14:48+00:00",
+   "iocs": "iocs/ca9735f3d9c0.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+   "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+   "desc": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte47deb12795d1329/6ab55cc6323c1e2e79062eb7/Cloud_painting-Igor_Miller-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-24T21:04:03+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+   "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+   "desc": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+   "image": "",
+   "date": "2026-09-24T20:53:35+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+   "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+   "desc": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Quest",
+   "image": "",
+   "date": "2026-09-24T20:35:21+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+   "desc": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb62b34e9ee11beba/6ab57fc3bdd2950319376ffa/rat-maljalen-Getty-186306387.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-24T20:32:50+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
+   "link": "https://therecord.media/russia-forensics-technology-doj",
+   "desc": "Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia.",
+   "image": "",
+   "date": "2026-09-24T20:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+   "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+   "desc": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw C",
+   "image": "",
+   "date": "2026-09-24T20:15:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+   "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+   "desc": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+   "image": "",
+   "date": "2026-09-24T20:10:48+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
@@ -167,14 +233,6 @@
    "date": "2026-09-24T12:48:14+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "OpenAI agent breached Australian government health website, Albanese says",
-   "link": "https://therecord.media/openai-australia-health-breach",
-   "desc": "An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said.",
-   "image": "",
-   "date": "2026-09-24T12:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
@@ -285,16 +343,6 @@
    "date": "2026-09-24T08:14:47+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
-   "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-   "desc": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on Se",
-   "image": "",
-   "date": "2026-09-24T07:12:26+00:00",
-   "iocs": "iocs/fb26ae51b64a.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
    "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
@@ -389,14 +437,6 @@
    "desc": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-23T20:53:38+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
-   "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
-   "desc": "In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Ap",
-   "image": "",
-   "date": "2026-09-23T20:07:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -501,16 +541,6 @@
    "ioc_count": 6
   },
   {
-   "source": "BleepingComputer",
-   "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-   "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-   "desc": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused",
-   "image": "",
-   "date": "2026-09-23T14:01:11+00:00",
-   "iocs": "iocs/721edf9e0fd7.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
    "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
@@ -527,16 +557,6 @@
    "desc": "Code, cloud, and devices, covered automatically once someone's hired through Deel. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab3c0ace0ad29ccc62d9588_Logo_%2B.png",
    "date": "2026-09-23T13:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-   "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-   "desc": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-   "image": "",
-   "date": "2026-09-23T12:29:53+00:00",
-   "iocs": "iocs/a0cbe8a44ac4.txt",
-   "ioc_count": 5
   },
   {
    "source": "Socket",
@@ -623,14 +643,6 @@
    "date": "2026-09-22T19:06:15+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-   "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-   "desc": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt120d94fd93398e39/6aac5bbc223abe3d28c993b3/AI-dangers-laptop-hands-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-22T17:12:26+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
    "link": "https://isc.sans.edu/diary/rss/33348",
@@ -649,14 +661,6 @@
    "date": "2026-09-22T12:18:00+00:00",
    "iocs": "iocs/f3914ec2075d.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "Dark Reading",
-   "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-   "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-   "desc": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-22T12:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -937,16 +941,6 @@
    "date": "2026-09-10T10:00:43+00:00",
    "iocs": "iocs/1fb7fd98ae59.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Socket",
-   "title": "Malicious Chrome and Firefox Extensions Steal Crypto Traders’ Session and Wallet Data",
-   "link": "https://socket.dev/blog/chrome-firefox-crypto-data-theft?utm_medium=feed",
-   "desc": "Malicious Chrome and Firefox extensions target Axiom Trade and Padre users, stealing session tokens and wallet data.",
-   "image": "",
-   "date": "2026-09-09T21:40:24+00:00",
-   "iocs": "iocs/6c8a098255f7.txt",
-   "ioc_count": 5
   },
   {
    "source": "Cisco Talos",
