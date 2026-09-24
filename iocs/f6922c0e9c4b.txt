@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer
+Source: https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html
+Extracted: 2026-09-24 15:14:42 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+107[.]175[.]82[.]242
+193[.]178[.]159[.]128
+
+Domains (2)
+----------------------------------------
+fsputnik[.]com
+uasputnik[.]com

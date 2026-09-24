@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hackers now exploit critical Roundcube flaw in code injection attacks
+Source: https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/
+Extracted: 2026-09-24 15:14:48 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2020-12641
+CVE-2020-35730
+CVE-2021-44026
+CVE-2023-5631
+CVE-2025-49113
+CVE-2025-68461
+CVE-2026-48842

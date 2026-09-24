@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA: Ransomware gangs now exploiting critical TeamCity flaw
+Source: https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/
+Extracted: 2026-09-24 15:14:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-63077

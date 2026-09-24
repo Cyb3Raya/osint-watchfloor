@@ -1,0 +1,13 @@
+IOC EXTRACTION - SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted
+Source: https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/
+Extracted: 2026-09-24 15:15:08 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-28324
+CVE-2026-28325
+CVE-2026-28326

@@ -1,0 +1,15 @@
+IOC EXTRACTION - Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
+Source: https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html
+Extracted: 2026-09-24 15:14:43 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+69[.]55[.]61[.]82
+
+Domains (1)
+----------------------------------------
+playgoogle[.]logisticstkwcargo[.]com
