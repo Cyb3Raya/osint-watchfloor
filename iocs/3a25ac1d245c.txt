@@ -1,0 +1,19 @@
+IOC EXTRACTION - One URL, Three Different Tricks, (Thu, Sep 24th)
+Source: https://isc.sans.edu/diary/rss/33366
+Extracted: 2026-09-24 10:10:44 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+koncar-hr[.]com
+
+URLs (1)
+----------------------------------------
+hxxps://YKZjqa7A@gynd--[.]koncar-hr[.]com/
+
+Emails (1)
+----------------------------------------
+ykzjqa7a@gynd--.koncar-hr.com

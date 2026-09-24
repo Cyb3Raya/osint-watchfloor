@@ -1,0 +1,21 @@
+IOC EXTRACTION - Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
+Source: https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
+Extracted: 2026-09-24 10:10:47 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-87902
+
+IPv4 (7)
+----------------------------------------
+104[.]194[.]9[.]227
+107[.]189[.]14[.]87
+180[.]251[.]159[.]243
+195[.]178[.]110[.]247
+43[.]250[.]53[.]42
+45[.]61[.]184[.]170
+92[.]246[.]130[.]76

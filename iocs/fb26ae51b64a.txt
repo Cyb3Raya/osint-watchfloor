@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical WordPress Vulnerability Exploited Immediately After Disclosure
+Source: https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/
+Extracted: 2026-09-24 10:10:55 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-87902

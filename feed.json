@@ -1,9 +1,87 @@
 {
- "generated": "2026-09-24T05:04:14.257249+00:00",
+ "generated": "2026-09-24T10:11:00.141860+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
+   "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
+   "desc": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on Securit",
+   "image": "",
+   "date": "2026-09-24T09:56:04+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+   "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+   "desc": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as p",
+   "image": "",
+   "date": "2026-09-24T09:38:53+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+   "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+   "desc": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-24T08:38:29+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes bug that broke Windows File History backup feature",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+   "desc": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+   "image": "",
+   "date": "2026-09-24T08:14:47+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+   "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+   "desc": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on Se",
+   "image": "",
+   "date": "2026-09-24T07:12:26+00:00",
+   "iocs": "iocs/fb26ae51b64a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+   "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+   "desc": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said. The portal publishes aggregate figures, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1600/openai-agents.jpg",
+   "date": "2026-09-24T07:07:25+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+   "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+   "desc": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the act",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgKN3zS7GtEpakDcL7zk0tL-zcz3GJMkVf9vMLCVXf33XZ1Yad77dg3Zen_EEB58BltCG_pj0c-yVDm6VbV9cw5Baxtf26vVtRwW4qwDDy1s8HYMFKfTyl382lwJIRfSWBSA-WK6RAZ8lmy9zf5IZb_Ilqol0AcVdEaMp599tZ4NxqUc-KY4-fyFNYYFg/s1600/ms-365.jpg",
+   "date": "2026-09-24T06:32:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
+   "link": "https://isc.sans.edu/diary/rss/33366",
+   "desc": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:&#xd",
+   "image": "",
+   "date": "2026-09-24T06:25:06+00:00",
+   "iocs": "iocs/3a25ac1d245c.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+   "desc": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticate",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg",
+   "date": "2026-09-24T05:36:18+00:00",
+   "iocs": "iocs/baff1d5496fd.txt",
+   "ioc_count": 8
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
@@ -339,14 +417,6 @@
    "date": "2026-09-23T10:20:36+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
-   "link": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
-   "desc": "Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions. The post Outerlimit Raises $16 Mil",
-   "image": "",
-   "date": "2026-09-23T10:00:00+00:00"
-  },
-  {
    "source": "Socket",
    "title": "MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack",
    "link": "https://socket.dev/blog/memtensor-compromise?utm_medium=feed",
@@ -355,16 +425,6 @@
    "date": "2026-09-23T09:16:58+00:00",
    "iocs": "iocs/65a27eab56c9.txt",
    "ioc_count": 22
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-   "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-   "desc": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-23T08:33:06+00:00",
-   "iocs": "iocs/92c512e397bd.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -405,16 +465,6 @@
    "ioc_count": 9
   },
   {
-   "source": "SecurityWeek",
-   "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-   "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-   "desc": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-23T07:34:18+00:00",
-   "iocs": "iocs/56b3d054ffe5.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
    "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
@@ -441,16 +491,6 @@
    "desc": "GitLab gives you a private email address to create issues. If leaked, anyone who has it can push code, execute CI/CD jobs, and bypass IP restrictions across all of your public and private projects. Category: Research",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2aa0e074d3ad47235f137_GitLab_Feature.jpg",
    "date": "2026-09-23T06:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-   "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-   "desc": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png",
-   "date": "2026-09-23T05:30:09+00:00",
-   "iocs": "iocs/c2b107c39a2f.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -501,16 +541,6 @@
    "date": "2026-09-22T20:55:53+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-   "desc": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. ",
-   "image": "",
-   "date": "2026-09-22T20:35:24+00:00",
-   "iocs": "iocs/178864dedd5d.txt",
-   "ioc_count": 12
-  },
-  {
    "source": "Dark Reading",
    "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
    "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
@@ -527,40 +557,12 @@
    "date": "2026-09-22T19:59:24+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-   "desc": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-   "image": "",
-   "date": "2026-09-22T19:13:29+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
    "link": "https://isc.sans.edu/diary/rss/33358",
    "desc": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a",
    "image": "",
    "date": "2026-09-22T19:06:15+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-   "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-   "desc": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTjrp93lIMdPVKigtkoXjbsk75AIXEvqJuXoYMQLAmvzQfqSy3V1XhBTLXY1SAWp92vTbajtnxBgHYvDr2e3EZOi9Yf8KgT8EzQOp61PjmPsI55nERsYckaL-pfmQDDzRTiCWXegVWrJ0Fu_9I8GUi5O0M0103r218S3dC67Zmr9BZ3quLBRBm9T6Xqo/s1600/cp-upload.jpg",
-   "date": "2026-09-22T18:29:39+00:00",
-   "iocs": "iocs/5871a8a80040.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-   "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-   "desc": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to ru",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg",
-   "date": "2026-09-22T18:03:10+00:00",
-   "iocs": "iocs/a94b0a5ed1ae.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -733,14 +735,6 @@
    "date": "2026-09-18T10:00:36+00:00",
    "iocs": "iocs/9529d84cbb12.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33350",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-18T02:00:02+00:00"
   },
   {
    "source": "Aikido",
