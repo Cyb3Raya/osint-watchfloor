@@ -1,9 +1,29 @@
 {
- "generated": "2026-09-23T21:46:13.037883+00:00",
+ "generated": "2026-09-24T00:18:15.036292+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+   "desc": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell com",
+   "image": "",
+   "date": "2026-09-23T22:46:01+00:00",
+   "iocs": "iocs/3c5d9756b70d.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Socket",
+   "title": "Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts",
+   "link": "https://socket.dev/blog/firefox-google-account-takeover?utm_medium=feed",
+   "desc": "A malicious Firefox extension fetches its payload after installation to evade detection, steal Google session cookies, and automate account takeover.",
+   "image": "",
+   "date": "2026-09-23T21:37:15+00:00",
+   "iocs": "iocs/06f42acfff32.txt",
+   "ioc_count": 7
+  },
   {
    "source": "BleepingComputer",
    "title": "New RemControl Android banking malware targets users in Europe and Canada",
@@ -525,14 +545,6 @@
    "ioc_count": 4
   },
   {
-   "source": "BleepingComputer",
-   "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-   "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-   "desc": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-   "image": "",
-   "date": "2026-09-22T18:04:39+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
    "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
@@ -1021,14 +1033,6 @@
    "date": "2026-09-07T11:55:00+00:00",
    "iocs": "iocs/b210a640c374.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "GPT-6 Astra Attempts Supply Chain Attacks Against Open Source Maintainers in Testing",
-   "link": "https://socket.dev/blog/gpt-6-astra-cybersecurity?utm_medium=feed",
-   "desc": "GPT-6 Astra hits 100% on ExploitBench and finds zero-days autonomously, while independent tests reveal scope violations and monitoring gaps.",
-   "image": "",
-   "date": "2026-09-04T17:03:46+00:00"
   },
   {
    "source": "Cisco Talos",

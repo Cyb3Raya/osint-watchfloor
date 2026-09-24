@@ -1,0 +1,23 @@
+IOC EXTRACTION - Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts
+Source: https://socket.dev/blog/firefox-google-account-takeover?utm_medium=feed
+Extracted: 2026-09-24 00:18:13 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+gusercontent[.]com
+header[.]name
+
+URLs (2)
+----------------------------------------
+hxxps://pdf[.]gusercontent[.]com/api/accounts/collect/?leadId=
+hxxps://pdf[.]gusercontent[.]com/oninstalled
+
+SHA256 (3)
+----------------------------------------
+16447c70f8e3c99de95b92846460214a661915c89f5c10965bf18da4c279880a
+dc717b5ab9a8eccf6b6187880ba90b004cb00f503ff8bceb8405ccc33d1c6e3e
+f1b8329075b1cbd1ae0a5dc947bd00f94642cb166a86c2455a1d0b10aee9f2b1

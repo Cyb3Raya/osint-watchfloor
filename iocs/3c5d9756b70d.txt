@@ -1,0 +1,12 @@
+IOC EXTRACTION - Placeholder domain used in dev docs now serves ClickFix attacks
+Source: https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/
+Extracted: 2026-09-24 00:18:06 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (2)
+----------------------------------------
+hxxps://elxxvvx[.]xyz/update2[.]zip
+hxxps://third-party[.]com
