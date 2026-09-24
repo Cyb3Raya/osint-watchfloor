@@ -1,0 +1,29 @@
+IOC EXTRACTION - Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
+Source: https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html
+Extracted: 2026-09-24 19:17:16 UTC
+Total indicators: 19
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (19)
+----------------------------------------
+acme[.]com
+company[.]com
+example[.]com
+example[.]net
+example[.]org
+foo[.]com
+myapp[.]com
+mycompany[.]com
+mysite[.]com
+third-party[.]com
+vendor[.]com
+your-api[.]com
+your-app[.]com
+your-domain[.]com
+your-site[.]com
+yourapp[.]com
+yourcompany[.]com
+yourdomain[.]com
+yoursite[.]com

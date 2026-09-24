@@ -1,9 +1,79 @@
 {
- "generated": "2026-09-24T15:15:17.731753+00:00",
+ "generated": "2026-09-24T19:17:30.373602+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
+   "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+   "desc": "Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox — an illicit platform used by cybercriminals to sell stolen personal infor",
+   "image": "",
+   "date": "2026-09-24T18:57:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+   "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+   "desc": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg",
+   "date": "2026-09-24T18:10:18+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Trust and the enticing consultancy offer",
+   "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+   "desc": "In this week’s newsletter Martin muses over a very suspicious elicitation over social media and the true value of trust within the cyber ecosystem. Hubris might be the real vulnerability that the cyber industry must worr",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-3.jpg",
+   "date": "2026-09-24T18:00:37+00:00",
+   "iocs": "iocs/afe182113006.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+   "desc": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg",
+   "date": "2026-09-24T17:52:43+00:00",
+   "iocs": "iocs/37f6b04fa6f0.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Exposed GitLab project email addresses let attackers push code",
+   "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+   "desc": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+   "image": "",
+   "date": "2026-09-24T17:47:44+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+   "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+   "desc": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared f",
+   "image": "",
+   "date": "2026-09-24T15:52:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+   "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+   "desc": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg",
+   "date": "2026-09-24T15:27:32+00:00",
+   "iocs": "iocs/e32e04002703.txt",
+   "ioc_count": 19
+  },
+  {
+   "source": "Dark Reading",
+   "title": "3 Cyber Threats That Defined the Summer of 2026",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+   "desc": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It ",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-24T14:44:12+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
@@ -339,22 +409,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
-   "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-   "desc": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder appeared first o",
-   "image": "",
-   "date": "2026-09-23T19:32:49+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
-   "link": "https://therecord.media/trump-harris-election-meddling-russia",
-   "desc": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment.",
-   "image": "",
-   "date": "2026-09-23T19:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers start exploiting critical WordPress flaw for code execution",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
@@ -485,40 +539,6 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-   "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-   "desc": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Tool",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5quc0dmRWhh6WOC80Gx9QoHTMYyq5srnXBXjybOKZk_qoUn1Q2nKLE9MifqCEyRIha_NFvRsyr8Nx5EyxGIREXaTb5Fh59cz4Ln8yZj9Zv7piqM49wmm7rfmchW1cVlss1wn47qNypaYarZUVNHBO8rzXaYTvRMi9u1phgfXVd8OZx8_Vjxm34684BE/s1600/cpanel-0day.jpg",
-   "date": "2026-09-23T12:16:00+00:00",
-   "iocs": "iocs/879d2dbbe17d.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-   "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-   "desc": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a lis",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio2c14ELRJEhvTuDrxQmhUG4G9aGoVRrooBMMfuK7LyHPKW6HuJbI9PkKF-WG_5HlEz8NKcuj08XRmv1jNqfBtiDwXmC7e9P9lxoSHK5nUz023YCgoLQuo0BI_9hX4U9Vv97bGJejb4W0jvgv_3btkfj6BWnXwalfyI3k34wveC6n3k47ZdoGq2P0Yaw0/s1600/main.png",
-   "date": "2026-09-23T11:47:19+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-   "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-   "desc": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ytuRh_WTu4R3TBnroGXO6IUgATMIi9vgx8DA7j0JJ0e_cTfAjlUIS6zAjb2q9EPdTI8gLwby7r2fijYkH83j2SwisKf-ANFKr6YTdwAHeds99dYrng0QN3nmkqDtIvSHoK8m47e_V0x01B0PuzIezcqtnc2VZlUCVYErOkaKQF7pbk0l35uLwmTl8Is1/s1600/CLAUDE-CHATGPT.jpg",
-   "date": "2026-09-23T11:47:13+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: September Windows updates break Always On VPN connections",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-   "desc": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-   "image": "",
-   "date": "2026-09-23T11:18:13+00:00"
-  },
-  {
    "source": "Socket",
    "title": "MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack",
    "link": "https://socket.dev/blog/memtensor-compromise?utm_medium=feed",
@@ -637,14 +657,6 @@
    "desc": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-22T12:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
-   "desc": "Threat actors stole the contents of 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69385daa466aeca3/6ab2586609bf6b1d17c9b926/sandworms_FlixPix_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-22T10:22:37+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1177,14 +1189,6 @@
    "date": "2026-08-25T10:00:57+00:00",
    "iocs": "iocs/b08d58b5f870.txt",
    "ioc_count": 12
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI",
-   "link": "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
-   "desc": "As frontier AI models become increasingly restrictive, security teams are facing a \"safety penalty\" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure t",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar-1.jpg",
-   "date": "2026-08-25T10:00:22+00:00"
   },
   {
    "source": "Unit 42",
