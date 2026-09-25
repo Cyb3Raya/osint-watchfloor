@@ -1,0 +1,11 @@
+IOC EXTRACTION - Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+Source: https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
+Extracted: 2026-09-25 16:51:08 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+t[.]m-kosche[.]com

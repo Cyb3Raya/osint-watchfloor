@@ -1,0 +1,12 @@
+IOC EXTRACTION - PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence
+Source: https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html
+Extracted: 2026-09-25 16:51:10 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+wavel[.]app
+wavel[.]apple03cloudstore[.]com
