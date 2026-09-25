@@ -1,0 +1,12 @@
+IOC EXTRACTION - WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV
+Source: https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html
+Extracted: 2026-09-25 11:41:37 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-5430
+CVE-2026-71362

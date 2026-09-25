@@ -1,9 +1,107 @@
 {
- "generated": "2026-09-25T05:57:49.098247+00:00",
+ "generated": "2026-09-25T11:41:54.546891+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
+   "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+   "desc": "Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows, Linux, Android File Notification Systems Leak User Activity appeared first",
+   "image": "",
+   "date": "2026-09-25T10:53:32+00:00",
+   "iocs": "iocs/efebb502530d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+   "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+   "desc": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp; \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthori",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg",
+   "date": "2026-09-25T10:35:55+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+   "desc": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+   "image": "",
+   "date": "2026-09-25T10:30:38+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+   "desc": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authe",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg",
+   "date": "2026-09-25T10:14:02+00:00",
+   "iocs": "iocs/8479bfbd51e5.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+   "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+   "desc": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post &#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data E",
+   "image": "",
+   "date": "2026-09-25T09:27:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+   "desc": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+   "image": "",
+   "date": "2026-09-25T08:33:44+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
+   "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+   "desc": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-25T07:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+   "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+   "desc": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-25T06:57:40+00:00",
+   "iocs": "iocs/d1f0d307ae3b.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SANS ISC",
+   "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33368",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-09-25T06:45:47+00:00",
+   "iocs": "iocs/693b298a0b94.txt",
+   "ioc_count": 13
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+   "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+   "desc": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg",
+   "date": "2026-09-25T04:49:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+   "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg",
+   "date": "2026-09-25T04:46:34+00:00",
+   "iocs": "iocs/9b34a9a8785c.txt",
+   "ioc_count": 2
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
@@ -309,24 +407,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-   "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-   "desc": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-24T10:40:40+00:00",
-   "iocs": "iocs/8a7204a51136.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-   "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-   "desc": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on Securit",
-   "image": "",
-   "date": "2026-09-24T09:56:04+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
    "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
@@ -341,14 +421,6 @@
    "desc": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg",
    "date": "2026-09-24T09:14:21+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
-   "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-   "desc": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-24T08:38:29+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -485,22 +557,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-   "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-   "desc": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start C",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg",
-   "date": "2026-09-23T16:53:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-   "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-   "desc": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-   "image": "",
-   "date": "2026-09-23T16:20:54+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
    "link": "https://isc.sans.edu/diary/rss/33360",
@@ -509,16 +565,6 @@
    "date": "2026-09-23T16:14:37+00:00",
    "iocs": "iocs/04580046f1de.txt",
    "ioc_count": 13
-  },
-  {
-   "source": "The Hacker News",
-   "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-   "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-   "desc": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg",
-   "date": "2026-09-23T16:06:41+00:00",
-   "iocs": "iocs/20d13eec11e1.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -543,36 +589,6 @@
    "desc": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc4ade55d77fb4ff/6ab3b76557365fe244f410ae/chatbot_khunkornStudio_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-23T14:47:09+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "InfraTrust report warns network management systems under attack",
-   "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-   "desc": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-   "image": "",
-   "date": "2026-09-23T14:35:26+00:00",
-   "iocs": "iocs/957f7dd38517.txt",
-   "ioc_count": 15
-  },
-  {
-   "source": "The Hacker News",
-   "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-   "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-   "desc": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows creden",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg",
-   "date": "2026-09-23T14:17:58+00:00",
-   "iocs": "iocs/1e2c3d8631df.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-   "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-   "desc": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Window",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFThFSFsti-2SIka75bNuMKpyJHtOW2ZPrZtcSjbjFQ64GCNn0WtdssYuWlVTbhaLB5cAJ0vu8FgyNmNsDa8g0Ijy-D1zP4FW7ihVfAjk9xWMYDMMdfZPICGyVdjeDwH3-jyKLHOUnjfaXBJIMxGn_3ngeXFsbb4CLnOibRd4fbwXHYpBkMQTcBQAf0edq/s1600/npm-pypi.jpg",
-   "date": "2026-09-23T13:52:46+00:00",
-   "iocs": "iocs/344fcd62c82a.txt",
-   "ioc_count": 1
   },
   {
    "source": "Aikido",
@@ -649,14 +665,6 @@
    "desc": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3163f248ce2f1013/6ab2d46dc8295fafe642a234/skull_coins-breakermaximus-GettyImages-2092767456.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-22T20:02:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
-   "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9245dc925814d35b/6ab2e08efc4382617e907669/GettyImages-533045396.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-22T19:59:24+00:00"
   },
   {
    "source": "SANS ISC",
@@ -745,14 +753,6 @@
    "desc": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IA",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-09-21T10:00:13+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33354",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-21T05:15:12+00:00"
   },
   {
    "source": "Socket",

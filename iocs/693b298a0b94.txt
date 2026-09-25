@@ -1,0 +1,29 @@
+IOC EXTRACTION - A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)
+Source: https://isc.sans.edu/diary/rss/33368
+Extracted: 2026-09-25 11:41:32 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+45[.]131[.]215[.]56
+95[.]163[.]153[.]80
+
+URLs (6)
+----------------------------------------
+hxxp://45[.]131[.]215[.]56/4e04813226b1b93?force=1
+hxxp://45[.]131[.]215[.]56/8031e818c7a46?force=1
+hxxp://45[.]131[.]215[.]56/a7a11f95?force=1
+hxxp://95[.]163[.]153[.]80:8133/api/credentials
+hxxp://95[.]163[.]153[.]80:8133/api/shell/agent
+hxxp://95[.]163[.]153[.]80:8133/api/t
+
+SHA256 (5)
+----------------------------------------
+3e26e006210ed398f98c090e9f1c982e76b3b73f1ce3e04ee1bf8d45c56e1a89
+457ed02b0a63ccf872e8459c91e2d1d6844a75414358849333f518cc538055b7
+4a5952849232691849ed900609d7ff271ce296fe3cee4a81b58c28f2839fb5b6
+5a2242b862ef52fe7a08af596198412a7676c948bcd64a25ce5d2e6d4b35c6fb
+c6da028e0a8a25a35efa28ba508a556d1b53d1e61113c0aaebf31a49a5668912

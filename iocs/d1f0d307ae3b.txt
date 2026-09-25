@@ -1,0 +1,14 @@
+IOC EXTRACTION - Roundcube Webmail Vulnerability in Attackers’ Crosshairs
+Source: https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/
+Extracted: 2026-09-25 11:41:48 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2024-37383
+CVE-2025-49113
+CVE-2025-68461
+CVE-2026-48842

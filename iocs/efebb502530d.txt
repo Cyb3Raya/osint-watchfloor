@@ -1,0 +1,11 @@
+IOC EXTRACTION - Windows, Linux, Android File Notification Systems Leak User Activity
+Source: https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/
+Extracted: 2026-09-25 11:41:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-68788
