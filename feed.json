@@ -1,9 +1,51 @@
 {
- "generated": "2026-09-25T16:51:34.087242+00:00",
+ "generated": "2026-09-25T20:19:27.078272+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+   "link": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+   "desc": "Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’ c",
+   "image": "",
+   "date": "2026-09-25T19:35:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+   "desc": "When autonomous AI agents &quot;escape the sandbox,&quot; the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33c1376950d82e3b/6ab6c3109aed719a106d58d7/sandbox-almaphoto-Getty-2255089996.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-25T18:39:32+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Elementor WordPress flaw lets attackers create admin accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+   "desc": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+   "image": "",
+   "date": "2026-09-25T18:13:33+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: Google Gemini Joins the AI Escape Party",
+   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+   "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b2c9d6b9326d649/6ab5930f4df1903bce49b5db/aibots-Gremlin-Getty-1494693841.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-25T17:56:23+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider W",
+   "image": "",
+   "date": "2026-09-25T17:24:20+00:00",
+   "iocs": "iocs/2e9b76e63d00.txt",
+   "ioc_count": 4
+  },
   {
    "source": "BleepingComputer",
    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
@@ -297,14 +339,6 @@
    "date": "2026-09-24T20:30:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
-   "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
-   "desc": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw C",
-   "image": "",
-   "date": "2026-09-24T20:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
    "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
@@ -404,7 +438,7 @@
    "source": "Dark Reading",
    "title": "How to Build a SASE Framework for Modern Cybersecurity",
    "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-   "desc": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward.",
+   "desc": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-24T14:02:43+00:00"
   },
@@ -477,24 +511,6 @@
    "date": "2026-09-24T11:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-   "desc": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-   "image": "",
-   "date": "2026-09-24T10:42:37+00:00",
-   "iocs": "iocs/f5dd20ff54d8.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-   "desc": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as p",
-   "image": "",
-   "date": "2026-09-24T09:38:53+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
    "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
@@ -532,7 +548,7 @@
    "source": "Dark Reading",
    "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
    "link": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
-   "desc": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls.",
+   "desc": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls. (Second in a three-part series.)",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1aba9e4e1417374b/6ab51eee31241669d655f164/SASE-Zoonar_GmbH_via_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-23T22:29:10+00:00"
   },
@@ -647,22 +663,6 @@
    "desc": "The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2b9c23f0ccc248b43814b_CRA_Live_Feature.png",
    "date": "2026-09-23T01:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-   "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-   "desc": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt74d88c8c5a1d995f/6ab4237757365f832ef41284/proxy_Josie_Elias_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-22T21:12:37+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-   "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-   "desc": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impac",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98594c897c0149d/6ab3b59c4df190afb349b1ae/CIO-CMO_iStock_BraunS-80244351.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-22T20:55:53+00:00"
   },
   {
    "source": "SANS ISC",
