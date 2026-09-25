@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-25T00:48:10.582654+00:00",
+ "generated": "2026-09-25T05:57:49.098247+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33370",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-25T03:45:12+00:00"
+  },
   {
    "source": "Socket",
    "title": "Re-Enabled GitHub Actions Expose Thousands of Repositories to Mini Shai-Hulud",
@@ -69,6 +77,14 @@
    "desc": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
    "image": "",
    "date": "2026-09-24T20:10:48+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top CodeQL alternatives in 2026",
+   "link": "https://www.aikido.dev/blog/top-codeql-alternatives",
+   "desc": "Top CodeQL alternatives compared on noise, fixes, cost, and more: Aikido Security, Semgrep, Snyk Code, SonarQube, Checkmarx, and Veracode Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-24T19:12:00+00:00"
   },
   {
    "source": "RF The Record",
@@ -513,6 +529,14 @@
    "date": "2026-09-23T16:01:00+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Top Greptile alternatives in 2026",
+   "link": "https://www.aikido.dev/blog/top-greptile-alternatives",
+   "desc": "We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AI Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-09-23T16:01:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
    "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
@@ -729,14 +753,6 @@
    "desc": "",
    "image": "",
    "date": "2026-09-21T05:15:12+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33352",
-   "desc": "In June 2026 the IETF published RFC 10008&#x5b;1&#x5d;, defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010",
-   "image": "",
-   "date": "2026-09-19T04:51:46+00:00"
   },
   {
    "source": "Socket",
@@ -991,16 +1007,6 @@
    "date": "2026-09-08T18:48:00+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "Compromised Flutter package on pub.dev contains XCSSET malware",
-   "link": "https://www.aikido.dev/blog/compromised-flutter-package-on-pub-dev-contains-xcsset-malware",
-   "desc": "We detected XCSSET malware inside a compromised Flutter package on pub.dev. Here is a full breakdown of the infection chain, propagation modules, and stealer logic we found inside. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aa033f31c176445cbd8f03e_compromised-flutter-package-on-pub-dev-contains-xcsset-malware.jpg",
-   "date": "2026-09-08T16:12:00+00:00",
-   "iocs": "iocs/095349f91fc9.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Google GTIG",
    "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
@@ -1027,16 +1033,6 @@
    "date": "2026-09-08T10:00:38+00:00",
    "iocs": "iocs/50c4b3e56fdb.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Aikido",
-   "title": "Shai-Hulud Rises From the Dead after 111 days",
-   "link": "https://www.aikido.dev/blog/shai-hulud-npm-resurfaces",
-   "desc": "A known Shai-Hulud worm payload sat dormant for 111 days, then republished to npm, right past the malware scanning meant to catch it. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ea5fefa68864c1a4f66d2_%5BShai-title%5D_Feature.jpg",
-   "date": "2026-09-07T11:55:00+00:00",
-   "iocs": "iocs/b210a640c374.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",
