@@ -1,0 +1,11 @@
+IOC EXTRACTION - ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw
+Source: https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/
+Extracted: 2026-09-25 23:21:13 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-42608
