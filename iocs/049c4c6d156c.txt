@@ -1,0 +1,17 @@
+IOC EXTRACTION - SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild
+Source: https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html
+Extracted: 2026-09-26 12:26:20 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-65660
+CVE-2026-67279
+CVE-2026-86060
+
+Domains (1)
+----------------------------------------
+third-party[.]com

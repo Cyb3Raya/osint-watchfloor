@@ -1,9 +1,55 @@
 {
- "generated": "2026-09-26T07:30:24.730492+00:00",
+ "generated": "2026-09-26T12:26:30.296743+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+   "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+   "desc": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-26T12:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+   "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+   "desc": "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model ",
+   "image": "",
+   "date": "2026-09-26T10:15:41+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+   "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+   "desc": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg",
+   "date": "2026-09-26T09:55:22+00:00",
+   "iocs": "iocs/087d84aa6c29.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg",
+   "date": "2026-09-26T08:49:53+00:00",
+   "iocs": "iocs/049c4c6d156c.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+   "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+   "desc": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg",
+   "date": "2026-09-26T07:48:33+00:00",
+   "iocs": "iocs/16e6f1ff0925.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Unit 42",
    "title": "3 Consulting Myths Debunked by Unit 42 Experts",
@@ -445,14 +491,6 @@
    "date": "2026-09-24T17:47:44+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-   "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-   "desc": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared f",
-   "image": "",
-   "date": "2026-09-24T15:52:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
    "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
@@ -469,14 +507,6 @@
    "desc": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It ",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-24T14:44:12+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
-   "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-   "desc": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data appeared first on SecurityWe",
-   "image": "",
-   "date": "2026-09-24T14:43:13+00:00"
   },
   {
    "source": "The Hacker News",
@@ -537,30 +567,6 @@
    "date": "2026-09-24T12:05:27+00:00",
    "iocs": "iocs/00d7c4958ac5.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-   "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-   "desc": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8mLbRmwaAgvJunom4dBxBYMz50LUutLJiS6Yz7RPCbZQO1aYXAqFWOga4dCKD3AoenZHxYLpPexLEQ2swJO67vy4xl2_uw1g08lRtETN3hTMLpvafmn5WD4VK2ilpuFaYAdMHHPBRG2yYsyDBins15huubgt2b6pDVnnhW92It8lKHBqOifOLTaNSwho/s1600/keeper.png",
-   "date": "2026-09-24T11:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-   "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-   "desc": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg",
-   "date": "2026-09-24T09:14:21+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-   "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-   "desc": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said. The portal publishes aggregate figures, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1600/openai-agents.jpg",
-   "date": "2026-09-24T07:07:25+00:00"
   },
   {
    "source": "SANS ISC",
