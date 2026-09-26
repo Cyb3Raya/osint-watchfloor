@@ -1,0 +1,11 @@
+IOC EXTRACTION - ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks
+Source: https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/
+Extracted: 2026-09-26 19:36:17 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-35273

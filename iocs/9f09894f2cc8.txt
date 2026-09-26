@@ -1,0 +1,24 @@
+IOC EXTRACTION - Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
+Source: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+Extracted: 2026-09-26 19:36:15 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2023-20598
+
+IPv4 (1)
+----------------------------------------
+193[.]178[.]159[.]128
+
+Domains (6)
+----------------------------------------
+account-sams-club[.]com
+ibraq-perfumes[.]com
+namshi-uae[.]com
+teamwork-recover-password[.]com
+third-party[.]com
+whatsappbusineses[.]com
