@@ -1,0 +1,19 @@
+IOC EXTRACTION - Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
+Source: https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
+Extracted: 2026-09-26 16:44:45 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-35273
+
+IPv4 (1)
+----------------------------------------
+162[.]219[.]30[.]165
+
+Domains (1)
+----------------------------------------
+third-party[.]com

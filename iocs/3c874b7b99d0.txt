@@ -1,0 +1,11 @@
+IOC EXTRACTION - Zero Trust for AI Agents Starts With Fixing Zero Visibility
+Source: https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html
+Extracted: 2026-09-26 16:44:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

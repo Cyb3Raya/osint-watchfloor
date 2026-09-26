@@ -1,9 +1,41 @@
 {
- "generated": "2026-09-26T12:26:30.296743+00:00",
+ "generated": "2026-09-26T16:44:57.269818+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+   "desc": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+   "image": "",
+   "date": "2026-09-26T16:26:58+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+   "desc": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+   "image": "",
+   "date": "2026-09-26T15:50:38+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+   "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+   "desc": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+   "image": "",
+   "date": "2026-09-26T14:19:46+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+   "desc": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+   "image": "",
+   "date": "2026-09-26T12:28:41+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
@@ -11,6 +43,26 @@
    "desc": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-26T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+   "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+   "desc": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg",
+   "date": "2026-09-26T11:46:40+00:00",
+   "iocs": "iocs/124ca5b2bbe4.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+   "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+   "desc": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much producti",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg",
+   "date": "2026-09-26T10:30:00+00:00",
+   "iocs": "iocs/3c874b7b99d0.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -415,14 +467,6 @@
    "date": "2026-09-24T21:04:03+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-   "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-   "desc": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-   "image": "",
-   "date": "2026-09-24T20:53:35+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
    "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
@@ -437,14 +481,6 @@
    "desc": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb62b34e9ee11beba/6ab57fc3bdd2950319376ffa/rat-maljalen-Getty-186306387.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-24T20:32:50+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-   "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-   "desc": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-   "image": "",
-   "date": "2026-09-24T20:10:48+00:00"
   },
   {
    "source": "Aikido",
@@ -483,14 +519,6 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "Exposed GitLab project email addresses let attackers push code",
-   "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-   "desc": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-   "image": "",
-   "date": "2026-09-24T17:47:44+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
    "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
@@ -509,30 +537,12 @@
    "date": "2026-09-24T14:44:12+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-   "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-   "desc": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information ste",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg",
-   "date": "2026-09-24T14:29:06+00:00",
-   "iocs": "iocs/f6922c0e9c4b.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Dark Reading",
    "title": "How to Build a SASE Framework for Modern Cybersecurity",
    "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
    "desc": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-24T14:02:43+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-   "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-   "desc": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadlin",
-   "image": "",
-   "date": "2026-09-24T14:02:12+00:00"
   },
   {
    "source": "Google GTIG",
@@ -557,16 +567,6 @@
    "desc": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-24T13:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-   "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-   "desc": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitRqKj3-JlcQ69xxlsxJs80aq7MNxgAc_VrV-TCrHGTVEwdWKIdvAiwB4szXMT3cRKpkzCRVObZxAO47CLl3JWLRerxVSITKy9xorsP-XY212M07JzDkZ7VXOA-r0maycB0jMv0r5Kl3q0VgrxpoeYfHJ_gkeXbzXLKz_3gAhDGy1ML06lfta_5w8u_Xo/s1600/1000110893.jpg",
-   "date": "2026-09-24T12:05:27+00:00",
-   "iocs": "iocs/00d7c4958ac5.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
