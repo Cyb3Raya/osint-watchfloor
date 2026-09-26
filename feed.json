@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T23:21:24.686981+00:00",
+ "generated": "2026-09-26T01:58:09.646127+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -173,6 +173,16 @@
    "desc": "Bitget’s security systems caught the unauthorized transfers on September 24, and some wallet addresses linked to the attacker have been frozen. The post North Korea Suspected in $351 Million Bitget Crypto Heist appeared ",
    "image": "",
    "date": "2026-09-25T14:16:18+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
+   "desc": "Introduction As an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_3_PSEMHUB_WAF_bypass.max-1000x1000.png",
+   "date": "2026-09-25T14:00:00+00:00",
+   "iocs": "iocs/0d4d5cdcaf33.txt",
+   "ioc_count": 9
   },
   {
    "source": "The Hacker News",
@@ -1487,16 +1497,6 @@
    "date": "2026-06-25T14:00:00+00:00",
    "iocs": "iocs/97310fabbf13.txt",
    "ioc_count": 58
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/",
-   "desc": "Written by: Chester Sng, Pete Boonyakarn, Logeswaran Nadarajan, Lukasz Lamparski Introduction In early 2026, Mandiant identified a threat actor targeting SD-WAN infrastructure at a service provider. After gaining initial",
-   "image": "",
-   "date": "2026-06-24T11:00:00+00:00",
-   "iocs": "iocs/d2fd2edad7ca.txt",
-   "ioc_count": 12
   }
  ]
 }

@@ -1,0 +1,28 @@
+IOC EXTRACTION - ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft
+Source: https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/
+Extracted: 2026-09-26 01:58:07 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-35273
+
+IPv4 (1)
+----------------------------------------
+162[.]219[.]30[.]165
+
+Domains (2)
+----------------------------------------
+java[.]io
+os[.]name
+
+SHA256 (5)
+----------------------------------------
+2bee941fb40519d0d1ec52bd79a8f63fc65aac6455c8f2d6b668e3360dfdb5d7
+3ba215692665513abfffd4e815c5c45f2d41e5dcc4283a2a3b740930c5c417c3
+419c571ee38b7e7266d130c4b6bbc4dd0ef44d6e5f3bc02cc2cf73b762f07c86
+48b4a0827da7bbfce9fb52464f8a659dea7a035189c52c506c0bfb4b1c3fe494
+ba14419beb2ec0bb94cab6298c14d7fb3e1d819366fe378290c0c2a4d97f7e07
