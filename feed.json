@@ -1,9 +1,29 @@
 {
- "generated": "2026-09-27T06:24:06.224254+00:00",
+ "generated": "2026-09-27T12:25:50.816138+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+   "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+   "desc": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-27T09:23:09+00:00",
+   "iocs": "iocs/d4088d0eb40e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+   "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+   "desc": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg",
+   "date": "2026-09-27T07:47:57+00:00",
+   "iocs": "iocs/1e494cdab5bb.txt",
+   "ioc_count": 2
+  },
   {
    "source": "BleepingComputer",
    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
@@ -433,16 +453,6 @@
    "date": "2026-09-25T07:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-   "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-   "desc": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-09-25T06:57:40+00:00",
-   "iocs": "iocs/d1f0d307ae3b.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "The Hacker News",
    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
@@ -519,16 +529,6 @@
    "date": "2026-09-24T18:00:37+00:00",
    "iocs": "iocs/afe182113006.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-   "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-   "desc": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg",
-   "date": "2026-09-24T17:52:43+00:00",
-   "iocs": "iocs/37f6b04fa6f0.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
