@@ -1,10 +1,8 @@
 {
- "generated": "2026-09-27T00:41:44.776765+00:00",
- "sources_ok": 13,
+ "generated": "2026-09-27T06:24:06.224254+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
@@ -177,6 +175,22 @@
    "ioc_count": 1
   },
   {
+   "source": "RF The Record",
+   "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
+   "link": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+   "desc": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kitework",
+   "image": "",
+   "date": "2026-09-25T20:19:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+   "link": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+   "desc": "Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’ c",
+   "image": "",
+   "date": "2026-09-25T19:35:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
@@ -219,6 +233,14 @@
    "date": "2026-09-25T16:00:00+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
+   "link": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
+   "desc": "The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses.",
+   "image": "",
+   "date": "2026-09-25T15:15:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
    "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
@@ -227,6 +249,14 @@
    "date": "2026-09-25T15:07:31+00:00",
    "iocs": "iocs/273ba4981624.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyberattack hits Welsh police force, may have affected staff data",
+   "link": "https://therecord.media/wales-cyberattack-police-breach",
+   "desc": "Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information.",
+   "image": "",
+   "date": "2026-09-25T15:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -323,6 +353,14 @@
    "desc": "Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services. The post Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-25T12:16:27+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+   "link": "https://therecord.media/openai-australia-breach-cyber",
+   "desc": "Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenti",
+   "image": "",
+   "date": "2026-09-25T12:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
