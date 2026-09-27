@@ -1,9 +1,45 @@
 {
- "generated": "2026-09-27T12:25:50.816138+00:00",
- "sources_ok": 14,
+ "generated": "2026-09-27T17:16:31.035264+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+   "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+   "desc": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead",
+   "image": "",
+   "date": "2026-09-27T16:02:37+00:00",
+   "iocs": "iocs/0954e8dba9d8.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
+   "link": "https://isc.sans.edu/diary/rss/33372",
+   "desc": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.&#xd;",
+   "image": "",
+   "date": "2026-09-27T15:04:49+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+   "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+   "desc": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+   "image": "",
+   "date": "2026-09-27T14:13:31+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+   "desc": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+   "image": "",
+   "date": "2026-09-27T13:38:40+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
@@ -18,7 +54,7 @@
    "source": "The Hacker News",
    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
    "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-   "desc": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.",
+   "desc": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six ot",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg",
    "date": "2026-09-27T07:47:57+00:00",
    "iocs": "iocs/1e494cdab5bb.txt",
@@ -195,22 +231,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
-   "link": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
-   "desc": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kitework",
-   "image": "",
-   "date": "2026-09-25T20:19:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
-   "link": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
-   "desc": "Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’ c",
-   "image": "",
-   "date": "2026-09-25T19:35:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
@@ -253,14 +273,6 @@
    "date": "2026-09-25T16:00:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
-   "link": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
-   "desc": "The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses.",
-   "image": "",
-   "date": "2026-09-25T15:15:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
    "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
@@ -269,14 +281,6 @@
    "date": "2026-09-25T15:07:31+00:00",
    "iocs": "iocs/273ba4981624.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyberattack hits Welsh police force, may have affected staff data",
-   "link": "https://therecord.media/wales-cyberattack-police-breach",
-   "desc": "Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information.",
-   "image": "",
-   "date": "2026-09-25T15:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -351,14 +355,6 @@
    "ioc_count": 13
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft plans to deprecate Windows Deployment Services",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-   "desc": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-   "image": "",
-   "date": "2026-09-25T12:40:59+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
    "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
@@ -373,24 +369,6 @@
    "desc": "Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services. The post Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-25T12:16:27+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
-   "link": "https://therecord.media/openai-australia-breach-cyber",
-   "desc": "Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenti",
-   "image": "",
-   "date": "2026-09-25T12:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-   "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-   "desc": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-   "image": "",
-   "date": "2026-09-25T11:35:14+00:00",
-   "iocs": "iocs/e20c79b40799.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -417,14 +395,6 @@
    "desc": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp; \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthori",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg",
    "date": "2026-09-25T10:35:55+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-   "desc": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-   "image": "",
-   "date": "2026-09-25T10:30:38+00:00"
   },
   {
    "source": "The Hacker News",
@@ -777,16 +747,6 @@
    "desc": "Aikido Altar is a compressed, open-weight AI model built for sovereign security intelligence, powering Aikido Machine's on-prem, air-gapped pentesting. Category: Product & Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab12534d3c3a04263e9ff28_Were-going-to-fight-AI-with-AI_Feature.png",
    "date": "2026-09-21T13:30:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33318",
-   "desc": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is th",
-   "image": "",
-   "date": "2026-09-21T10:33:53+00:00",
-   "iocs": "iocs/17eab563c981.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",

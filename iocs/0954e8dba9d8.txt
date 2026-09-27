@@ -1,0 +1,12 @@
+IOC EXTRACTION - Citrix admins warned to shut down NetScalers over 2 exploited zero-days
+Source: https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/
+Extracted: 2026-09-27 17:16:16 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-19489
+CVE-2026-19490
