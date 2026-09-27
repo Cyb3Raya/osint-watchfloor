@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T20:13:17.730159+00:00",
+ "generated": "2026-09-27T23:07:48.513108+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -227,6 +227,14 @@
    "date": "2026-09-25T20:57:55+00:00",
    "iocs": "iocs/6e342a8a97cf.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+   "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+   "desc": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1682014f9a4fac6c/6762e3fbfe28e22e7d279cce/CFO_(1800)_Dzmitry_Skazau_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-25T20:28:10+00:00"
   },
   {
    "source": "RF The Record",
@@ -655,14 +663,6 @@
    "desc": "We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AI Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-23T16:01:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
-   "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-   "desc": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc4ade55d77fb4ff/6ab3b76557365fe244f410ae/chatbot_khunkornStudio_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-23T14:47:09+00:00"
   },
   {
    "source": "Aikido",
