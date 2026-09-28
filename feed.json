@@ -1,9 +1,17 @@
 {
- "generated": "2026-09-27T23:07:48.513108+00:00",
+ "generated": "2026-09-28T01:45:11.238670+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+   "desc": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+   "image": "",
+   "date": "2026-09-27T23:40:39+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
@@ -327,14 +335,6 @@
    "desc": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
    "image": "",
    "date": "2026-09-25T14:54:33+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-   "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-   "desc": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created",
-   "image": "",
-   "date": "2026-09-25T14:51:10+00:00"
   },
   {
    "source": "Dark Reading",
