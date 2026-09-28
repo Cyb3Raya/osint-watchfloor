@@ -1,0 +1,11 @@
+IOC EXTRACTION - Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent
+Source: https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html
+Extracted: 2026-09-28 16:59:48 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

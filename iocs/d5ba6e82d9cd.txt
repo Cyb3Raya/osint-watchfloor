@@ -1,0 +1,11 @@
+IOC EXTRACTION - Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog
+Source: https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/
+Extracted: 2026-09-28 17:00:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

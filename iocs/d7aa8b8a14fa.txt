@@ -1,0 +1,27 @@
+IOC EXTRACTION - Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild
+Source: https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
+Extracted: 2026-09-28 17:00:09 UTC
+Total indicators: 17
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (17)
+----------------------------------------
+CVE-2023-33538
+CVE-2025-40947
+CVE-2025-40948
+CVE-2026-0257
+CVE-2026-0300
+CVE-2026-1281
+CVE-2026-1340
+CVE-2026-1731
+CVE-2026-31431
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88773
+CVE-2026-88774
+CVE-2026-88775
+CVE-2026-88776
+CVE-2026-88777
+CVE-2026-88778

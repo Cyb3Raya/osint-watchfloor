@@ -1,0 +1,11 @@
+IOC EXTRACTION - New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections
+Source: https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/
+Extracted: 2026-09-28 17:00:05 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

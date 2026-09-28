@@ -1,0 +1,12 @@
+IOC EXTRACTION - Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign
+Source: https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/
+Extracted: 2026-09-28 17:00:03 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-35273
+CVE-2026-65660

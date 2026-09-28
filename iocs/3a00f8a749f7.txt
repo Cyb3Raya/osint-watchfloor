@@ -1,0 +1,11 @@
+IOC EXTRACTION - Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability
+Source: https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/
+Extracted: 2026-09-28 17:00:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

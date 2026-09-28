@@ -1,0 +1,15 @@
+IOC EXTRACTION - JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources
+Source: https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html
+Extracted: 2026-09-28 16:59:49 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-3248
+
+Domains (1)
+----------------------------------------
+third-party[.]com

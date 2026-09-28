@@ -1,0 +1,16 @@
+IOC EXTRACTION - CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally
+Source: https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html
+Extracted: 2026-09-28 16:59:50 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772
+
+Domains (1)
+----------------------------------------
+third-party[.]com

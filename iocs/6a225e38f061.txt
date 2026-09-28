@@ -1,0 +1,11 @@
+IOC EXTRACTION - DC Health Agency Exposes 400,000 Beneficiary Records
+Source: https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/
+Extracted: 2026-09-28 17:00:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon
+Source: https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/
+Extracted: 2026-09-28 17:00:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660
