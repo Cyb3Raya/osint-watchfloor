@@ -1,0 +1,27 @@
+IOC EXTRACTION - RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims
+Source: https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html
+Extracted: 2026-09-28 22:30:02 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+8[.]231[.]120[.]246
+
+Domains (2)
+----------------------------------------
+admin[.]rathat[.]live
+third-party[.]com
+
+URLs (2)
+----------------------------------------
+hxxps://dramaspoolcoa[.]com/en[.]html
+hxxps://rathat[.]me/app-release-rat-hat-live[.]apk
+
+MD5 (3)
+----------------------------------------
+116346cace7f00ba557034b534d40791
+8fdc21e25097a46528211274e54330e1
+f83357b2d47c7d38ee53943373961211

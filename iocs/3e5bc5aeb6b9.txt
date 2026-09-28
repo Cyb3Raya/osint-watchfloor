@@ -1,0 +1,16 @@
+IOC EXTRACTION - Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
+Source: https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html
+Extracted: 2026-09-28 22:29:56 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20700
+CVE-2026-86950
+
+Domains (1)
+----------------------------------------
+third-party[.]com

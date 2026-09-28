@@ -1,0 +1,11 @@
+IOC EXTRACTION - Apple Emergency Patch for iOS 26/macOS26/macOS15 (CVE-2026-86950), (Mon, Sep 28th)
+Source: https://isc.sans.edu/diary/rss/33376
+Extracted: 2026-09-28 22:29:55 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-86950

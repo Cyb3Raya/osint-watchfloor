@@ -1,0 +1,11 @@
+IOC EXTRACTION - One Packet Can Crash OT Servers in Industrial Sectors
+Source: https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine
+Extracted: 2026-09-28 22:30:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-42542

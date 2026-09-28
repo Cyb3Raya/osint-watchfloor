@@ -1,0 +1,11 @@
+IOC EXTRACTION - Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M
+Source: https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html
+Extracted: 2026-09-28 22:30:00 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com
