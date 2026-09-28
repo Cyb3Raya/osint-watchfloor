@@ -1,9 +1,45 @@
 {
- "generated": "2026-09-28T01:45:11.238670+00:00",
+ "generated": "2026-09-28T08:25:25.309331+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+   "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+   "desc": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+   "image": "",
+   "date": "2026-09-28T07:30:15+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+   "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
+   "desc": "Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772. The post Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug appeared first on SecurityW",
+   "image": "",
+   "date": "2026-09-28T07:29:51+00:00",
+   "iocs": "iocs/8742de811d75.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-09-28T06:24:19+00:00",
+   "iocs": "iocs/2e6e934ea7b8.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33374",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-28T02:00:02+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
@@ -295,14 +331,6 @@
    "ioc_count": 4
   },
   {
-   "source": "BleepingComputer",
-   "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-   "desc": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-   "image": "",
-   "date": "2026-09-25T16:00:00+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
    "link": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
@@ -327,14 +355,6 @@
    "desc": "Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information.",
    "image": "",
    "date": "2026-09-25T15:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-   "desc": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-   "image": "",
-   "date": "2026-09-25T14:54:33+00:00"
   },
   {
    "source": "Dark Reading",
@@ -451,14 +471,6 @@
    "date": "2026-09-25T10:14:02+00:00",
    "iocs": "iocs/8479bfbd51e5.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
-   "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-   "desc": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post &#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data E",
-   "image": "",
-   "date": "2026-09-25T09:27:51+00:00"
   },
   {
    "source": "Dark Reading",
@@ -769,14 +781,6 @@
    "desc": "Lovable’s OJ rewrites Vite’s dev server in Rust, reducing memory use and preview times as AI lowers the cost of open source reimplementation.",
    "image": "",
    "date": "2026-09-22T05:48:11+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33356",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-22T03:50:10+00:00"
   },
   {
    "source": "Aikido",

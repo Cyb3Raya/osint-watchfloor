@@ -1,0 +1,15 @@
+IOC EXTRACTION - Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug
+Source: https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/
+Extracted: 2026-09-28 08:25:19 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-19490
+CVE-2026-65660
+CVE-2026-8452
+CVE-2026-88771
+CVE-2026-88772
