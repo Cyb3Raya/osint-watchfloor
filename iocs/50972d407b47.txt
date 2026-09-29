@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot
+Source: https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html
+Extracted: 2026-09-29 08:43:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

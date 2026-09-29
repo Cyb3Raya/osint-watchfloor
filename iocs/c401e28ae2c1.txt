@@ -1,0 +1,11 @@
+IOC EXTRACTION - Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
+Source: https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
+Extracted: 2026-09-29 08:43:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

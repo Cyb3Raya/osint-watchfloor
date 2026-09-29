@@ -1,0 +1,14 @@
+IOC EXTRACTION - Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’
+Source: https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/
+Extracted: 2026-09-29 08:43:15 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-43300
+CVE-2025-55177
+CVE-2026-65660
+CVE-2026-86950

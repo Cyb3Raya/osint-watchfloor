@@ -1,0 +1,19 @@
+IOC EXTRACTION - Apple patches CoreGraphics zero-day flaw exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/
+Extracted: 2026-09-29 08:43:11 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2025-14174
+CVE-2025-20701
+CVE-2025-24085
+CVE-2025-24200
+CVE-2025-24201
+CVE-2025-31200
+CVE-2025-31201
+CVE-2025-43529
+CVE-2026-20700
