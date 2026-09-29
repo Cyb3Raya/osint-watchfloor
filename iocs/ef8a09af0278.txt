@@ -1,0 +1,11 @@
+IOC EXTRACTION - Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
+Source: https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html
+Extracted: 2026-09-29 15:29:55 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

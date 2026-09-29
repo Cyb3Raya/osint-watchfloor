@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training
+Source: https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/
+Extracted: 2026-09-29 15:30:16 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

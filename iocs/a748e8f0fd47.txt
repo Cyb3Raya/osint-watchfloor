@@ -1,0 +1,11 @@
+IOC EXTRACTION - 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent
+Source: https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
+Extracted: 2026-09-29 15:29:56 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

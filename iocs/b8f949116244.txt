@@ -1,0 +1,15 @@
+IOC EXTRACTION - Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
+Source: https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html
+Extracted: 2026-09-29 15:29:57 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-35273
+
+Domains (1)
+----------------------------------------
+third-party[.]com

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers
+Source: https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix
+Extracted: 2026-09-29 15:30:07 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772

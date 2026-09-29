@@ -1,0 +1,11 @@
+IOC EXTRACTION - Pentagon Personnel Agency Data Breach Impacts 3 Million People
+Source: https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/
+Extracted: 2026-09-29 15:30:12 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

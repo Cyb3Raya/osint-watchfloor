@@ -1,0 +1,11 @@
+IOC EXTRACTION - Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation
+Source: https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/
+Extracted: 2026-09-29 15:30:17 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-35273

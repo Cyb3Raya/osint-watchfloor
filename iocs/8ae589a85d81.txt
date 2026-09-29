@@ -1,0 +1,12 @@
+IOC EXTRACTION - Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances
+Source: https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/
+Extracted: 2026-09-29 15:30:24 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772
