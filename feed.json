@@ -1,16 +1,24 @@
 {
- "generated": "2026-09-28T22:30:24.794682+00:00",
+ "generated": "2026-09-29T02:17:38.884308+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
    "source": "SANS ISC",
-   "title": "Apple Emergency Patch for iOS 26/macOS26/macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
+   "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33378",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-29T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
    "link": "https://isc.sans.edu/diary/rss/33376",
    "desc": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploite",
    "image": "",
-   "date": "2026-09-28T22:04:14+00:00",
+   "date": "2026-09-28T22:35:35+00:00",
    "iocs": "iocs/47eb4c83c66d.txt",
    "ioc_count": 1
   },
@@ -785,14 +793,6 @@
    "desc": "The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2b9c23f0ccc248b43814b_CRA_Live_Feature.png",
    "date": "2026-09-23T01:30:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33358",
-   "desc": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a",
-   "image": "",
-   "date": "2026-09-22T19:06:15+00:00"
   },
   {
    "source": "Aikido",
