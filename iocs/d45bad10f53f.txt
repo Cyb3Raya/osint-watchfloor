@@ -1,0 +1,11 @@
+IOC EXTRACTION - French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
+Source: https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
+Extracted: 2026-09-29 20:12:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

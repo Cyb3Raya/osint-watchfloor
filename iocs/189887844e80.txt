@@ -1,0 +1,12 @@
+IOC EXTRACTION - New Spectre v2 attack variant leaks Linux root password hash in minutes
+Source: https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/
+Extracted: 2026-09-29 20:12:47 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-64507
+CVE-2026-64508

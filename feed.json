@@ -1,9 +1,133 @@
 {
- "generated": "2026-09-29T15:30:29.523197+00:00",
+ "generated": "2026-09-29T20:13:05.954517+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+   "desc": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+   "image": "",
+   "date": "2026-09-29T20:09:55+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
+   "link": "https://therecord.media/openai-apologizes-australia-medicare-breach",
+   "desc": "The artificial intelligence giant acknowledged it botched its response to the incidents and should have done more to promptly notify and work with the Australian government in the days after it discovered the breaches.",
+   "image": "",
+   "date": "2026-09-29T19:48:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+   "desc": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+   "image": "",
+   "date": "2026-09-29T18:37:12+00:00",
+   "iocs": "iocs/3cb734ba29cf.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Former US Air Force members sent to prison over BEC attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+   "desc": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+   "image": "",
+   "date": "2026-09-29T18:09:39+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+   "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+   "desc": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cyber",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg",
+   "date": "2026-09-29T17:47:01+00:00",
+   "iocs": "iocs/d45bad10f53f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 2026 Update released, here's everything you need to know",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+   "desc": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+   "image": "",
+   "date": "2026-09-29T17:37:40+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+   "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+   "desc": "The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software. The post DARPA Selects Xint to Use ",
+   "image": "",
+   "date": "2026-09-29T17:24:04+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+   "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+   "desc": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg",
+   "date": "2026-09-29T17:20:17+00:00",
+   "iocs": "iocs/f429d2e637ac.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+   "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+   "desc": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft. The campaigns, aimed at people and o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg",
+   "date": "2026-09-29T17:20:08+00:00",
+   "iocs": "iocs/ca7def1fee7c.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+   "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+   "desc": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
+   "image": "",
+   "date": "2026-09-29T17:10:11+00:00",
+   "iocs": "iocs/189887844e80.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
+   "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
+   "desc": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-29T17:02:16+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+   "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+   "desc": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks ",
+   "image": "",
+   "date": "2026-09-29T17:00:00+00:00",
+   "iocs": "iocs/3389cc4b540c.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+   "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+   "desc": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+   "image": "",
+   "date": "2026-09-29T15:39:19+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "upm Launches as a Fast, Tiny Package Manager Written in TypeScript",
+   "link": "https://socket.dev/blog/upm-package-manager?utm_medium=feed",
+   "desc": "upm uses Node.js to deliver fast npm installs in about 250 KB, with a JavaScript API and security defaults.",
+   "image": "",
+   "date": "2026-09-29T15:38:50+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
@@ -19,6 +143,16 @@
    "desc": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Offensive Operations Platform appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-29T14:38:07+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
+   "desc": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-29T14:19:43+00:00",
+   "iocs": "iocs/c7a5b95ceb99.txt",
+   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -161,14 +295,6 @@
    "date": "2026-09-29T10:00:36+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
-   "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-   "desc": "The malware framework uses a modular architecture and a custom executable file format for long-term persistence. The post Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft appeared first on SecurityW",
-   "image": "",
-   "date": "2026-09-29T09:46:13+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Kiteworks patches critical flaw, brings customer systems online",
    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
@@ -195,16 +321,6 @@
    "date": "2026-09-29T07:33:12+00:00",
    "iocs": "iocs/bfc2554a53b3.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-   "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-   "desc": "Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team. The post Apple Patches Zero-Day Linked to &#8216;Extremely Sophisticated Attack&#8217; app",
-   "image": "",
-   "date": "2026-09-29T06:18:27+00:00",
-   "iocs": "iocs/cb061ceb53a9.txt",
-   "ioc_count": 4
   },
   {
    "source": "The Hacker News",
@@ -266,13 +382,11 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-   "desc": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-28T21:19:43+00:00",
-   "iocs": "iocs/c7a5b95ceb99.txt",
-   "ioc_count": 2
+   "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
+   "link": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
+   "desc": "The Open Agent Safety Platform relies on both hardware and software components to monitor agent activities and quarantine unruly agents before they cause harm.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2af591c5bd6c4586/6abbc44b643a94805c0c2f8c/restrict-ai-Andrii-Yalanskyi-Getty-2257906560.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-28T22:02:46+00:00"
   },
   {
    "source": "Dark Reading",
@@ -409,16 +523,6 @@
    "date": "2026-09-28T16:51:25+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
-   "link": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
-   "desc": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabil",
-   "image": "",
-   "date": "2026-09-28T16:19:00+00:00",
-   "iocs": "iocs/f211a09cf6a9.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "BleepingComputer",
    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
@@ -473,94 +577,12 @@
    "ioc_count": 65
   },
   {
-   "source": "BleepingComputer",
-   "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-   "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-   "desc": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI ",
-   "image": "",
-   "date": "2026-09-28T14:00:10+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-   "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-   "desc": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to hum",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibRtgg2jeMV3szE5OkdAQtqtUYgPjYEf96vKrzXPpd8_9XDiXOC9iTBfh-neWto1RsFBY0qXpLpc71bz9OwQQ8agSkvr6zYzcqwI157keOyKgX-_L-mwGdLJxLrGhbV_yK4wQn2Jc4E72zhY7XPa05O61GOgFR3-9cpbgYbACE-dR9CqqHuavdrJV8GVg/s1600/webinar-agents.jpg",
-   "date": "2026-09-28T11:58:00+00:00",
-   "iocs": "iocs/e51480e96d84.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-   "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-   "desc": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1600/hermes-telegram.jpg",
-   "date": "2026-09-28T11:46:00+00:00",
-   "iocs": "iocs/a2739f1e6c8a.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-   "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-   "desc": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-   "image": "",
-   "date": "2026-09-28T09:25:29+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-   "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-   "desc": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg",
-   "date": "2026-09-28T09:08:21+00:00",
-   "iocs": "iocs/6170da865280.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-   "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-   "desc": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-   "image": "",
-   "date": "2026-09-28T07:30:15+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-   "image": "",
-   "date": "2026-09-28T06:24:19+00:00",
-   "iocs": "iocs/2e6e934ea7b8.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
    "link": "https://isc.sans.edu/diary/rss/33374",
    "desc": "",
    "image": "",
    "date": "2026-09-28T02:00:02+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-   "desc": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-   "image": "",
-   "date": "2026-09-27T23:40:39+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-   "desc": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the fl",
-   "image": "",
-   "date": "2026-09-27T16:02:37+00:00",
-   "iocs": "iocs/0954e8dba9d8.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -683,14 +705,6 @@
    "date": "2026-09-24T21:04:03+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-   "desc": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb62b34e9ee11beba/6ab57fc3bdd2950319376ffa/rat-maljalen-Getty-186306387.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-24T20:32:50+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top CodeQL alternatives in 2026",
    "link": "https://www.aikido.dev/blog/top-codeql-alternatives",
@@ -707,14 +721,6 @@
    "date": "2026-09-24T18:00:37+00:00",
    "iocs": "iocs/afe182113006.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Dark Reading",
-   "title": "3 Cyber Threats That Defined the Summer of 2026",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-   "desc": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It ",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-24T14:44:12+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1023,16 +1029,6 @@
    "desc": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to A",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/12_Cloud_cybersecurity_research_Overview_1920x900-2.jpg",
    "date": "2026-09-14T10:00:01+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Twitch Browser Extension Exposes 30,000 Users’ OAuth Tokens to Russian Bot Service",
-   "link": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed",
-   "desc": "A Twitch browser extension on Chrome and Firefox forwards users’ live OAuth session tokens through proxies controlled by a Russian bot service.",
-   "image": "",
-   "date": "2026-09-11T14:23:33+00:00",
-   "iocs": "iocs/f1042696b335.txt",
-   "ioc_count": 20
   },
   {
    "source": "Cisco Talos",

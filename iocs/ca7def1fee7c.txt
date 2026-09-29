@@ -1,0 +1,16 @@
+IOC EXTRACTION - Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor
+Source: https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html
+Extracted: 2026-09-29 20:12:40 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+103[.]160[.]59[.]97
+
+Domains (2)
+----------------------------------------
+secure-dns-hub[.]com
+third-party[.]com

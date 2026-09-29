@@ -1,0 +1,16 @@
+IOC EXTRACTION - New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
+Source: https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
+Extracted: 2026-09-29 20:12:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-64507
+CVE-2026-64508
+
+Domains (1)
+----------------------------------------
+third-party[.]com
