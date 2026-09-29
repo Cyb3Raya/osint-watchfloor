@@ -1,9 +1,69 @@
 {
- "generated": "2026-09-29T20:13:05.954517+00:00",
+ "generated": "2026-09-29T23:46:47.521947+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+   "desc": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-29T21:31:29+00:00",
+   "iocs": "iocs/d49e0531691d.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Signal adds encypted local backup support to iOS, desktop apps",
+   "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+   "desc": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+   "image": "",
+   "date": "2026-09-29T21:30:08+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+   "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+   "desc": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-29T21:08:42+00:00",
+   "iocs": "iocs/b9ebd84c7b27.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "RF The Record",
+   "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
+   "link": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
+   "desc": "According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June.",
+   "image": "",
+   "date": "2026-09-29T21:01:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+   "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+   "desc": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+   "image": "",
+   "date": "2026-09-29T20:59:39+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Controversial spyware firm Paragon to go public by end of year",
+   "link": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
+   "desc": "The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.",
+   "image": "",
+   "date": "2026-09-29T20:35:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+   "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+   "desc": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeare",
+   "image": "",
+   "date": "2026-09-29T20:14:44+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
@@ -173,6 +233,16 @@
    "date": "2026-09-29T14:01:11+00:00"
   },
   {
+   "source": "Google GTIG",
+   "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
+   "desc": "Introduction In late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC",
+   "image": "",
+   "date": "2026-09-29T14:00:00+00:00",
+   "iocs": "iocs/8ae589a85d81.txt",
+   "ioc_count": 2
+  },
+  {
    "source": "The Hacker News",
    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
    "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
@@ -267,16 +337,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-   "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-   "desc": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them. The post Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation appeared first on Securit",
-   "image": "",
-   "date": "2026-09-29T11:01:55+00:00",
-   "iocs": "iocs/befd262f6ca7.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Unit 42",
    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
    "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
@@ -341,16 +401,6 @@
    "date": "2026-09-29T05:12:32+00:00",
    "iocs": "iocs/710938735c9f.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-   "desc": "Introduction In late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC",
-   "image": "",
-   "date": "2026-09-29T05:00:00+00:00",
-   "iocs": "iocs/8ae589a85d81.txt",
-   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -431,16 +481,6 @@
    "date": "2026-09-28T19:49:10+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
-   "link": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
-   "desc": "A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site.",
-   "image": "",
-   "date": "2026-09-28T19:30:00+00:00",
-   "iocs": "iocs/ebc12d55e12a.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
    "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
@@ -449,14 +489,6 @@
    "date": "2026-09-28T19:18:01+00:00",
    "iocs": "iocs/3e5bc5aeb6b9.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-   "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-   "desc": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-   "image": "",
-   "date": "2026-09-28T18:50:59+00:00"
   },
   {
    "source": "Dark Reading",
@@ -507,28 +539,12 @@
    "ioc_count": 8
   },
   {
-   "source": "RF The Record",
-   "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
-   "link": "https://therecord.media/facebook-new-mexico-privacy",
-   "desc": "A New Mexico jury found Facebook violated the law nearly 44 million times by lying to consumers about its data privacy practices.",
-   "image": "",
-   "date": "2026-09-28T17:15:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
    "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
    "desc": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt58ef6fb504edd4a8/6ab6fbfc80fa6786057ac6ea/Spying-DrAfter123-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-28T16:51:25+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-   "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-   "desc": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-   "image": "",
-   "date": "2026-09-28T15:49:27+00:00"
   },
   {
    "source": "Aikido",
@@ -671,14 +687,6 @@
    "ioc_count": 13
   },
   {
-   "source": "Dark Reading",
-   "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-   "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-   "desc": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-25T07:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
    "link": "https://isc.sans.edu/diary/rss/33370",
@@ -695,14 +703,6 @@
    "date": "2026-09-24T21:14:48+00:00",
    "iocs": "iocs/ca9735f3d9c0.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-   "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-   "desc": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte47deb12795d1329/6ab55cc6323c1e2e79062eb7/Cloud_painting-Igor_Miller-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-24T21:04:03+00:00"
   },
   {
    "source": "Aikido",

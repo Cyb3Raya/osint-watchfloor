@@ -1,0 +1,13 @@
+IOC EXTRACTION - Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution
+Source: https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution
+Extracted: 2026-09-29 23:46:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-46432
+CVE-2026-4944
+CVE-2026-6859

@@ -1,0 +1,13 @@
+IOC EXTRACTION - Apple Zero-Day Vulnerability Weaponized in Targeted Attacks
+Source: https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks
+Extracted: 2026-09-29 23:46:37 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-43300
+CVE-2025-55177
+CVE-2026-86950
