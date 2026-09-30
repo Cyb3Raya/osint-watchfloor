@@ -1,9 +1,33 @@
 {
- "generated": "2026-09-29T23:46:47.521947+00:00",
+ "generated": "2026-09-30T04:43:44.317716+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
+   "link": "https://isc.sans.edu/diary/rss/33384",
+   "desc": "",
+   "image": "",
+   "date": "2026-09-30T02:00:03+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+   "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+   "desc": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development appeared first on Secur",
+   "image": "",
+   "date": "2026-09-30T01:48:21+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft is rolling out Linux container support to WSL",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+   "desc": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+   "image": "",
+   "date": "2026-09-30T00:40:57+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
@@ -327,16 +351,6 @@
    "date": "2026-09-29T11:30:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
-   "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
-   "desc": "The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training appeared first on",
-   "image": "",
-   "date": "2026-09-29T11:15:59+00:00",
-   "iocs": "iocs/ef750d68396c.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Unit 42",
    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
    "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
@@ -471,14 +485,6 @@
    "desc": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-28T20:23:58+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-   "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-   "desc": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
-   "image": "",
-   "date": "2026-09-28T19:49:10+00:00"
   },
   {
    "source": "The Hacker News",
@@ -757,16 +763,6 @@
    "date": "2026-09-23T21:37:15+00:00",
    "iocs": "iocs/06f42acfff32.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33360",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-09-23T16:14:37+00:00",
-   "iocs": "iocs/04580046f1de.txt",
-   "ioc_count": 13
   },
   {
    "source": "Aikido",
