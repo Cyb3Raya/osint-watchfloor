@@ -1,0 +1,16 @@
+IOC EXTRACTION - Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution
+Source: https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
+Extracted: 2026-09-30 10:59:48 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772
+
+Domains (1)
+----------------------------------------
+third-party[.]com

@@ -1,0 +1,17 @@
+IOC EXTRACTION - OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
+Source: https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
+Extracted: 2026-09-30 10:59:47 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-75806
+CVE-2026-84782
+CVE-2026-84783
+
+Domains (1)
+----------------------------------------
+third-party[.]com

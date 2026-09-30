@@ -1,9 +1,83 @@
 {
- "generated": "2026-09-30T04:43:44.317716+00:00",
+ "generated": "2026-09-30T11:00:02.559145+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+   "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+   "desc": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks appeared first o",
+   "image": "",
+   "date": "2026-09-30T10:59:30+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+   "link": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
+   "desc": "In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant After FBI Calls on Members to Come Forward appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-09-30T10:20:02+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
+   "link": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
+   "desc": "Cisco Talos uncovered a cluster of activity we track as UAT-11587 targeting government and policy organizations across Asia, including in Taiwan, India, the Philippines, and Cambodia, to deliver a previously undocumented",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/antino-header.jpg",
+   "date": "2026-09-30T10:00:01+00:00",
+   "iocs": "iocs/9feb01b189f0.txt",
+   "ioc_count": 129
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+   "desc": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg",
+   "date": "2026-09-30T08:24:35+00:00",
+   "iocs": "iocs/7595f834fb9c.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+   "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+   "desc": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, rese",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Po53IuyRAhsYzbs5KKPp_UBpklONBiOzoLWgXrklvrgDn5xnpjuRjU8UYoyLuImSmiPtOHQK3ExgQk5zhxlqsAcUmTLRFowkQXzan2RD955Gw-sumsvmwzLBTViUBRhyphenhyphenHCnETV23Qbt01RwaovTe1ogMeMYDSGxmF5n84NKZOB3EiWz6VAHUlfDm5YE/s1600/openssl-memory.jpg",
+   "date": "2026-09-30T08:09:28+00:00",
+   "iocs": "iocs/1b25f217f425.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "Dark Reading",
+   "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+   "desc": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4eff7c6bb4fca152/6abc296fa6381769c5d9ff08/johannesburg-airport-south-africa-EQRoy-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-30T07:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+   "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+   "desc": "Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. The post High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-30T06:55:50+00:00",
+   "iocs": "iocs/1f4a09fc7aa0.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+   "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+   "desc": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg",
+   "date": "2026-09-30T05:30:30+00:00",
+   "iocs": "iocs/a2c9b41769a0.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
@@ -317,38 +391,12 @@
    "date": "2026-09-29T12:27:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
-   "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-   "desc": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on ",
-   "image": "",
-   "date": "2026-09-29T12:25:12+00:00",
-   "iocs": "iocs/afea0a2971b1.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
-   "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
-   "desc": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on SecurityW",
-   "image": "",
-   "date": "2026-09-29T12:00:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
    "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
    "desc": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
    "image": "",
    "date": "2026-09-29T11:41:53+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Four Cyber Threats Harboring Big Plans for the Future",
-   "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
-   "desc": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations. The post Four Cyber Threats Harboring Big Plans ",
-   "image": "",
-   "date": "2026-09-29T11:30:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -525,26 +573,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-   "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-   "desc": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8s-yMULxIXnKcHnHw7w1dF9pt58MDYc_-_wfJPo8ifPgGoD0GZcgE408ZdC1GbZvjp2wOOEYrlR8obpFEXZ-KUSjIBXFFb3LcswKfAd3EODISE5hSkU-QplYeZDnK95i0QrJhNZKcKEVgedmkKjAme9PV4vDLV-OY7Bh9KhCINbGuglY49greoPLCJQ/s1600/bitget-hacker.jpg",
-   "date": "2026-09-28T17:42:18+00:00",
-   "iocs": "iocs/cb8a6ba8d949.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-   "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-   "desc": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp;of that console sin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGUhf2JsmovUtvjDk66AKULOtbtRwTqgcT_6lr5l8AEuwc-12IQTTWfvjKCYEn6-wwc4ZLDWAWh6Edv3-XcPDL1HHPFwRkwY1Nc_BUItyEO8iCXBDKEitrgYapLi__gpKnYqtFNm1M2c4tGiY3qrS_CgRG5ZF5qnqVUv4Gx9Pqk_cPz4N05KVwUNgTcw/s1600/gemini-malware.jpg",
-   "date": "2026-09-28T17:38:33+00:00",
-   "iocs": "iocs/4ca847aa2cb1.txt",
-   "ioc_count": 8
-  },
-  {
    "source": "Dark Reading",
    "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
    "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
@@ -587,16 +615,6 @@
    "date": "2026-09-28T15:02:04+00:00",
    "iocs": "iocs/d7aa8b8a14fa.txt",
    "ioc_count": 17
-  },
-  {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-   "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-   "desc": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into l",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg",
-   "date": "2026-09-28T14:00:53+00:00",
-   "iocs": "iocs/92a47b18db9b.txt",
-   "ioc_count": 65
   },
   {
    "source": "SANS ISC",
@@ -663,14 +681,6 @@
    "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b2c9d6b9326d649/6ab5930f4df1903bce49b5db/aibots-Gremlin-Getty-1494693841.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-25T17:56:23+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Stopping IT Worker Scams Requires Revamped HR Process",
-   "link": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-   "desc": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf21a6316df171b0e/6ab67c37f1423b08bb4916ee/IT-worker-silouette-manufacturing-DC_Studio-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-25T14:46:13+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1239,16 +1249,6 @@
    "desc": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In",
    "image": "",
    "date": "2026-08-27T11:04:15+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "JavaScript obfuscation: From party trick to phishing kit",
-   "link": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
-   "desc": "Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/tool_talk.jpg",
-   "date": "2026-08-27T10:00:27+00:00",
-   "iocs": "iocs/d63df2b1a848.txt",
-   "ioc_count": 3
   },
   {
    "source": "Unit 42",

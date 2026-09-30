@@ -1,0 +1,16 @@
+IOC EXTRACTION - High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL
+Source: https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/
+Extracted: 2026-09-30 10:59:56 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-65660
+CVE-2026-84782
+CVE-2026-84783
+CVE-2026-89102
+CVE-2026-89136
+CVE-2026-93302

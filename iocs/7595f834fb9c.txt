@@ -1,0 +1,16 @@
+IOC EXTRACTION - Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT
+Source: https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
+Extracted: 2026-09-30 10:59:46 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772
+
+Domains (1)
+----------------------------------------
+third-party[.]com
