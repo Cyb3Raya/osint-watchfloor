@@ -1,0 +1,13 @@
+IOC EXTRACTION - WatchGuard Patches Critical Fireware OS Code Injection Vulnerability
+Source: https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/
+Extracted: 2026-09-30 16:47:50 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-101891
+CVE-2026-86102
+CVE-2026-86131

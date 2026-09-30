@@ -1,0 +1,17 @@
+IOC EXTRACTION - Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures
+Source: https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html
+Extracted: 2026-09-30 16:47:32 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+chatgpt[.]com
+third-party[.]com
+
+MD5 (2)
+----------------------------------------
+6ab595ad6554819181b686d4876efb80
+6ab6ba039440819185ed491740b11cf8

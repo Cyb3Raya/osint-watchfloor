@@ -1,0 +1,11 @@
+IOC EXTRACTION - US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access
+Source: https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html
+Extracted: 2026-09-30 16:47:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

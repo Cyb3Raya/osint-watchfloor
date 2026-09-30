@@ -1,0 +1,11 @@
+IOC EXTRACTION - Chrome, Firefox Updates Patch Over 100 Vulnerabilities
+Source: https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/
+Extracted: 2026-09-30 16:47:52 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-102331

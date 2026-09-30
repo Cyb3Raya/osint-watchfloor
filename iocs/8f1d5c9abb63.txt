@@ -1,0 +1,15 @@
+IOC EXTRACTION - Cisco warns of new SD-WAN zero-day exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/
+Extracted: 2026-09-30 16:47:38 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-20127
+CVE-2026-20182
+CVE-2026-20245
+CVE-2026-20262
+CVE-2026-76504

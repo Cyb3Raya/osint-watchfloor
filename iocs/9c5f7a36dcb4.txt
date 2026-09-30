@@ -1,0 +1,11 @@
+IOC EXTRACTION - Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit
+Source: https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/
+Extracted: 2026-09-30 16:47:53 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-65660

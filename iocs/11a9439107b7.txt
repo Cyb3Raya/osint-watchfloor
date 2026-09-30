@@ -1,0 +1,12 @@
+IOC EXTRACTION - Google: AI Is Changing the Pace and Profile of Vulnerability Discovery
+Source: https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/
+Extracted: 2026-09-30 16:47:48 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-1731
+CVE-2026-65660

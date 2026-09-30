@@ -1,0 +1,13 @@
+IOC EXTRACTION - Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks
+Source: https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/
+Extracted: 2026-09-30 16:47:51 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-65660
+CVE-2026-88771
+CVE-2026-88772

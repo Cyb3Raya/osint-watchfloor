@@ -1,0 +1,18 @@
+IOC EXTRACTION - Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager
+Source: https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html
+Extracted: 2026-09-30 16:47:30 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-20182
+CVE-2026-20245
+CVE-2026-20262
+CVE-2026-76504
+
+Domains (1)
+----------------------------------------
+third-party[.]com
