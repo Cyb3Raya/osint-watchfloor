@@ -1,9 +1,89 @@
 {
- "generated": "2026-09-30T16:48:02.044142+00:00",
+ "generated": "2026-09-30T21:18:56.684955+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Russian state hackers use new RedFlick technique to push malware",
+   "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+   "desc": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+   "image": "",
+   "date": "2026-09-30T20:34:01+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
+   "link": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+   "desc": "A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem.",
+   "image": "",
+   "date": "2026-09-30T20:32:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+   "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+   "desc": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+   "image": "",
+   "date": "2026-09-30T19:49:15+00:00",
+   "iocs": "iocs/3776ad1cae04.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "After reports on suicide deaths, Pentagon puts Cyber Command on notice",
+   "link": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
+   "desc": "An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths.",
+   "image": "",
+   "date": "2026-09-30T19:35:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+   "link": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+   "desc": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
+   "image": "",
+   "date": "2026-09-30T19:00:00+00:00",
+   "iocs": "iocs/f08e8a8cad27.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+   "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+   "desc": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-09-30T18:56:56+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+   "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+   "desc": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+   "image": "",
+   "date": "2026-09-30T18:08:34+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+   "desc": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack expl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg",
+   "date": "2026-09-30T16:46:29+00:00",
+   "iocs": "iocs/fe95a2c38caf.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+   "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+   "desc": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg",
+   "date": "2026-09-30T16:32:59+00:00",
+   "iocs": "iocs/cb2af8d2a0d2.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
@@ -267,6 +347,14 @@
    "ioc_count": 3
   },
   {
+   "source": "Socket",
+   "title": "New AISI Report Details How GPT-6 Astra Turned CTF Challenges Into Supply Chain Attacks",
+   "link": "https://socket.dev/blog/astra-supply-chain-attacks?utm_medium=feed",
+   "desc": "GPT-6 Astra tried to plant malicious code in simulated open source projects using fake GitHub accounts and deceptive PRs during an assigned CTF challenge.",
+   "image": "",
+   "date": "2026-09-30T04:50:04+00:00"
+  },
+  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
    "link": "https://isc.sans.edu/diary/rss/33384",
@@ -319,28 +407,12 @@
    "ioc_count": 3
   },
   {
-   "source": "RF The Record",
-   "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
-   "link": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
-   "desc": "According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June.",
-   "image": "",
-   "date": "2026-09-29T21:01:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
    "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
    "desc": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
    "image": "",
    "date": "2026-09-29T20:59:39+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Controversial spyware firm Paragon to go public by end of year",
-   "link": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
-   "desc": "The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.",
-   "image": "",
-   "date": "2026-09-29T20:35:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -357,14 +429,6 @@
    "desc": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
    "image": "",
    "date": "2026-09-29T20:09:55+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
-   "link": "https://therecord.media/openai-apologizes-australia-medicare-breach",
-   "desc": "The artificial intelligence giant acknowledged it botched its response to the incidents and should have done more to promptly notify and work with the Australian government in the days after it discovered the breaches.",
-   "image": "",
-   "date": "2026-09-29T19:48:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -395,14 +459,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Windows 11 2026 Update released, here's everything you need to know",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-   "desc": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-   "image": "",
-   "date": "2026-09-29T17:37:40+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
@@ -423,30 +479,12 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-   "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-   "desc": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-   "image": "",
-   "date": "2026-09-29T17:10:11+00:00",
-   "iocs": "iocs/189887844e80.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Dark Reading",
    "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
    "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
    "desc": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-29T17:02:16+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-   "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-   "desc": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-   "image": "",
-   "date": "2026-09-29T15:39:19+00:00"
   },
   {
    "source": "Socket",
@@ -529,26 +567,6 @@
    "desc": "This new proactive service joins the suite of retainer offerings to provide dedicated, intelligence-led hunting specifically for your organization’s most high-value IT assets.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/exec_threat_detect.jpg",
    "date": "2026-09-29T10:00:36+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-   "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-   "desc": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg",
-   "date": "2026-09-29T08:35:10+00:00",
-   "iocs": "iocs/b8f949116244.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-   "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-   "desc": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advis",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg",
-   "date": "2026-09-29T06:08:25+00:00",
-   "iocs": "iocs/c401e28ae2c1.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -695,14 +713,6 @@
    "desc": "Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today's threat landscape.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1682014f9a4fac6c/6762e3fbfe28e22e7d279cce/CFO_(1800)_Dzmitry_Skazau_Alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-25T20:28:10+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
-   "desc": "When autonomous AI agents &quot;escape the sandbox,&quot; the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33c1376950d82e3b/6ab6c3109aed719a106d58d7/sandbox-almaphoto-Getty-2255089996.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-25T18:39:32+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1031,14 +1041,6 @@
    "date": "2026-09-16T10:00:06+00:00",
    "iocs": "iocs/baca7133da8b.txt",
    "ioc_count": 11
-  },
-  {
-   "source": "Socket",
-   "title": "Jerod Santo Joins Socket as Head of Media",
-   "link": "https://socket.dev/blog/jerod-santo-joins-socket?utm_medium=feed",
-   "desc": "Allow myself to introduce... myself.",
-   "image": "",
-   "date": "2026-09-14T17:37:23+00:00"
   },
   {
    "source": "Aikido",

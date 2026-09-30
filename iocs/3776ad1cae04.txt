@@ -1,0 +1,12 @@
+IOC EXTRACTION - DIVD says Zammad zero-days enabled AI-driven network breach
+Source: https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/
+Extracted: 2026-09-30 21:18:41 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102489
+CVE-2026-102490

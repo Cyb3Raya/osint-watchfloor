@@ -1,0 +1,20 @@
+IOC EXTRACTION - Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets
+Source: https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html
+Extracted: 2026-09-30 21:18:37 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-73570
+
+Domains (2)
+----------------------------------------
+third-party[.]com
+wsweb03[.]blob[.]core[.]windows[.]net
+
+URLs (1)
+----------------------------------------
+hxxps://aka[.]ms/downloadazcopy-v10-linux

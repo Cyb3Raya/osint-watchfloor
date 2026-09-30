@@ -1,0 +1,11 @@
+IOC EXTRACTION - Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation
+Source: https://therecord.media/google-vulnerabilities-cyberattacks-ai
+Extracted: 2026-09-30 21:18:52 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-1731
