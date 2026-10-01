@@ -1,0 +1,11 @@
+IOC EXTRACTION - Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+Source: https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
+Extracted: 2026-10-01 19:19:49 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com

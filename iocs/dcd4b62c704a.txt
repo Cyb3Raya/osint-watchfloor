@@ -1,0 +1,15 @@
+IOC EXTRACTION - WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory
+Source: https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html
+Extracted: 2026-10-01 19:19:52 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-1581
+
+Domains (1)
+----------------------------------------
+third-party[.]com

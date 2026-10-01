@@ -1,0 +1,17 @@
+IOC EXTRACTION - ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
+Source: https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html
+Extracted: 2026-10-01 19:19:51 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-4632
+CVE-2026-102489
+CVE-2026-102490
+
+Domains (1)
+----------------------------------------
+third-party[.]com
