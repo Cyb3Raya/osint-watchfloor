@@ -1,0 +1,11 @@
+IOC EXTRACTION - Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability
+Source: https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/
+Extracted: 2026-10-01 13:53:13 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-76504

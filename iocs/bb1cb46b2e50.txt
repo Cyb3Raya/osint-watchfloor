@@ -1,0 +1,11 @@
+IOC EXTRACTION - Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure
+Source: https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/
+Extracted: 2026-10-01 13:53:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-73570

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Kiteworks patches max severity code injection vulnerability
+Source: https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/
+Extracted: 2026-10-01 13:52:59 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-54154

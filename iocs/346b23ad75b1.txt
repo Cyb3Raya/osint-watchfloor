@@ -1,0 +1,15 @@
+IOC EXTRACTION - CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV
+Source: https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
+Extracted: 2026-10-01 13:52:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-76504
+
+Domains (1)
+----------------------------------------
+third-party[.]com

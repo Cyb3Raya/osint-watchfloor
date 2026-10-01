@@ -1,0 +1,15 @@
+IOC EXTRACTION - Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path
+Source: https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html
+Extracted: 2026-10-01 13:52:57 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-86950
+
+Domains (1)
+----------------------------------------
+third-party[.]com

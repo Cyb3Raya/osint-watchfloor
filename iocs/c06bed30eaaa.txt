@@ -1,0 +1,12 @@
+IOC EXTRACTION - Zammad Zero-Days Exploited in AI-Powered DIVD Hack
+Source: https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/
+Extracted: 2026-10-01 13:53:10 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102489
+CVE-2026-102490
