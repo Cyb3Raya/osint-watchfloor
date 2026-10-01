@@ -1,9 +1,41 @@
 {
- "generated": "2026-09-30T21:18:56.684955+00:00",
+ "generated": "2026-10-01T00:37:51.185524+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers",
+   "link": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
+   "desc": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-09-30T23:43:51+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US sanctions 10 over ATM malware scheme tied to Tren de Aragua",
+   "link": "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua",
+   "desc": "Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs.",
+   "image": "",
+   "date": "2026-09-30T22:35:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+   "desc": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38e8d6d5f0f61c59/6abd6454845395465ad1a6df/rat-GlobalP-GettyImages-1413873422.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-30T21:25:47+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
+   "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
+   "desc": "The new White House Accord on so-called &quot;Super Intelligence&quot; calls on companies to implement greater controls and oversight over AI safety.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted75aa7be03abe55/6abd84dda482eccacf21ff51/whitehouse_VideoFlow_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-09-30T20:51:15+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Russian state hackers use new RedFlick technique to push malware",
@@ -19,6 +51,16 @@
    "desc": "A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem.",
    "image": "",
    "date": "2026-09-30T20:32:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+   "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+   "desc": "Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. The post Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/06_Vulnerabilities_1920x900-5.jpg",
+   "date": "2026-09-30T20:00:04+00:00",
+   "iocs": "iocs/d7aa8b8a14fa.txt",
+   "ioc_count": 17
   },
   {
    "source": "BleepingComputer",
@@ -217,14 +259,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters",
-   "link": "https://therecord.media/russia-hackers-ukraine-blizzard",
-   "desc": "The Russian state-backed hacking group Star Blizzard has expanded its phishing operations this year, using a new technique that makes it easier to infect victims with malware.",
-   "image": "",
-   "date": "2026-09-30T12:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
    "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
@@ -413,14 +447,6 @@
    "desc": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
    "image": "",
    "date": "2026-09-29T20:59:39+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
-   "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-   "desc": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeare",
-   "image": "",
-   "date": "2026-09-29T20:14:44+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -637,14 +663,6 @@
    "date": "2026-09-28T15:41:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-   "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-   "desc": "The &quot;agentic threat actor&quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-28T15:33:21+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
    "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -653,16 +671,6 @@
    "date": "2026-09-28T15:08:57+00:00",
    "iocs": "iocs/c919c2b059f3.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Unit 42",
-   "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
-   "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
-   "desc": "Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. The post Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/06_Vulnerabilities_1920x900-5.jpg",
-   "date": "2026-09-28T15:02:04+00:00",
-   "iocs": "iocs/d7aa8b8a14fa.txt",
-   "ioc_count": 17
   },
   {
    "source": "SANS ISC",
@@ -705,14 +713,6 @@
    "desc": "Socket is joining the OpenJS Security Stewardship Program to fund Node.js vulnerability research, maintainer remediation, and security releases.",
    "image": "",
    "date": "2026-09-25T20:59:05+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Why the CISO-CFO Relationship Is a Key to Cybersecurity Success",
-   "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
-   "desc": "Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today's threat landscape.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1682014f9a4fac6c/6762e3fbfe28e22e7d279cce/CFO_(1800)_Dzmitry_Skazau_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-25T20:28:10+00:00"
   },
   {
    "source": "Google GTIG",
