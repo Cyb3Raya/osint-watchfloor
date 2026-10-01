@@ -1,14 +1,70 @@
 {
- "generated": "2026-10-01T00:37:51.185524+00:00",
+ "generated": "2026-10-01T06:33:19.733584+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
+   "source": "SANS ISC",
+   "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33388",
+   "desc": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...&#xd;",
+   "image": "",
+   "date": "2026-10-01T05:32:13+00:00",
+   "iocs": "iocs/5af31d29d4e7.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+   "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+   "desc": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg",
+   "date": "2026-10-01T05:21:10+00:00",
+   "iocs": "iocs/b4409a570832.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+   "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+   "desc": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination wit",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg",
+   "date": "2026-10-01T05:10:09+00:00",
+   "iocs": "iocs/65e6681dca63.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+   "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+   "desc": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlu",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg",
+   "date": "2026-10-01T04:35:34+00:00",
+   "iocs": "iocs/87574535fedc.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "Socket",
+   "title": "Insecure Agents Podcast: How to Keep AI Agents From Bypassing Security Controls",
+   "link": "https://socket.dev/blog/insecure-agents-security-controls?utm_medium=feed",
+   "desc": "Socket CTO Ahmad Nassri discusses how to keep AI agents from bypassing package blocks, limit credential access, and monitor their actions.",
+   "image": "",
+   "date": "2026-10-01T03:38:06+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33386",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-01T02:00:02+00:00"
+  },
+  {
    "source": "SecurityWeek",
-   "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers",
+   "title": "FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers",
    "link": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
-   "desc": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers appeared first on SecurityWeek.",
+   "desc": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-09-30T23:43:51+00:00"
   },
@@ -495,16 +551,6 @@
    "ioc_count": 3
   },
   {
-   "source": "The Hacker News",
-   "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-   "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-   "desc": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft. The campaigns, aimed at people and o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg",
-   "date": "2026-09-29T17:20:08+00:00",
-   "iocs": "iocs/ca7def1fee7c.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
    "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
@@ -539,16 +585,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-   "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-   "desc": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg",
-   "date": "2026-09-29T14:13:20+00:00",
-   "iocs": "iocs/ef8a09af0278.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Google GTIG",
    "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
@@ -557,16 +593,6 @@
    "date": "2026-09-29T14:00:00+00:00",
    "iocs": "iocs/8ae589a85d81.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-   "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-   "desc": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg",
-   "date": "2026-09-29T13:45:10+00:00",
-   "iocs": "iocs/a748e8f0fd47.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -779,24 +805,6 @@
    "date": "2026-09-24T14:00:00+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33366",
-   "desc": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:&#xd",
-   "image": "",
-   "date": "2026-09-24T06:25:06+00:00",
-   "iocs": "iocs/3a25ac1d245c.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-   "link": "https://isc.sans.edu/diary/rss/33364",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-24T03:50:11+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts",
    "link": "https://socket.dev/blog/firefox-google-account-takeover?utm_medium=feed",
@@ -997,14 +1005,6 @@
    "desc": "The best Qodo alternatives for AI code review in 2026, compared across noise, security, and cost, so you can pick the tool that fits your team. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ad49d5e1202b92a43d705_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-16T21:55:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "GitHub Actions Adds cache-mode to Limit Cache Poisoning Risk",
-   "link": "https://socket.dev/blog/github-actions-cache-mode?utm_medium=feed",
-   "desc": "GitHub Actions now supports cache-mode, a least-privilege control on the Actions cache aimed at the cache poisoning technique behind recent compromises.",
-   "image": "",
-   "date": "2026-09-16T19:36:23+00:00"
   },
   {
    "source": "Krebs on Security",

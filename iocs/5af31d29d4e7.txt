@@ -1,0 +1,15 @@
+IOC EXTRACTION - ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)
+Source: https://isc.sans.edu/diary/rss/33388
+Extracted: 2026-10-01 06:33:06 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://thelittlecupandsaucer[.]com[.]au/ScreenConnect[.]ClientSetup[.]exe
+
+Emails (1)
+----------------------------------------
+contact@mejuri.com

@@ -1,0 +1,11 @@
+IOC EXTRACTION - MetaMask Security Incident Prompts Exit of Affected Ethereum Validators
+Source: https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html
+Extracted: 2026-10-01 06:33:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+third-party[.]com
