@@ -1,9 +1,47 @@
 {
- "generated": "2026-10-02T02:19:25.790302+00:00",
+ "generated": "2026-10-02T08:41:31.126246+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+   "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+   "desc": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL Injection at US and Canadian Government Sites appeared first",
+   "image": "",
+   "date": "2026-10-02T08:38:46+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+   "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+   "desc": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first",
+   "image": "",
+   "date": "2026-10-02T08:07:33+00:00",
+   "iocs": "iocs/37b7c89f6a86.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+   "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+   "desc": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android ap",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
+   "date": "2026-10-02T08:01:30+00:00",
+   "iocs": "iocs/e9bd716f670a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+   "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
+   "date": "2026-10-02T05:49:50+00:00",
+   "iocs": "iocs/da984ff8e8ff.txt",
+   "ioc_count": 11
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
@@ -269,24 +307,6 @@
    "date": "2026-10-01T11:14:28+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
-   "link": "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/",
-   "desc": "The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware Developer and His Network appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-01T10:51:39+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
-   "link": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
-   "desc": "The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in AI-Powered DIVD Hack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-01T10:42:49+00:00",
-   "iocs": "iocs/c06bed30eaaa.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
    "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
@@ -497,32 +517,12 @@
    "ioc_count": 3
   },
   {
-   "source": "The Hacker News",
-   "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-   "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-   "desc": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. The flaw, CVE-2",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg",
-   "date": "2026-09-30T15:24:54+00:00",
-   "iocs": "iocs/9475c717ac1e.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Dark Reading",
    "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
    "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
    "desc": "The APT actor is using a new tactic, dubbed &quot;RedFlick,&quot; against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f6d60565804fe81/6abcff0189b51bddd40e0d6e/snowflakes-Ulrick-T-Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-30T15:02:25+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-   "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-   "desc": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg",
-   "date": "2026-09-30T15:00:15+00:00",
-   "iocs": "iocs/72dbeeb1790c.txt",
-   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",

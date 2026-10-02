@@ -1,0 +1,27 @@
+IOC EXTRACTION - Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
+Source: https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
+Extracted: 2026-10-02 08:41:21 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-104286
+CVE-2026-76504
+CVE-2026-85102
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-93616
+CVE-2026-93952
+CVE-2026-94127
+
+IPv4 (2)
+----------------------------------------
+45[.]129[.]0[.]192
+79[.]141[.]169[.]187
+
+Domains (1)
+----------------------------------------
+third-party[.]com

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action
+Source: https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/
+Extracted: 2026-10-02 08:41:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-104286
