@@ -1,9 +1,25 @@
 {
- "generated": "2026-10-02T20:07:35.122037+00:00",
+ "generated": "2026-10-02T23:51:27.750257+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
+   "link": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+   "desc": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.",
+   "image": "",
+   "date": "2026-10-02T20:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+   "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+   "desc": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T20:18:37+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
@@ -171,6 +187,14 @@
    "date": "2026-10-02T13:00:00+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Top vulnerability remediation tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-vulnerability-remediation-tools",
+   "desc": "We compare the top vulnerability remediation tools in 2026: Aikido Security, Snyk, GitHub Advanced Security, Tenable, Qualys, and Wiz Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-02T12:58:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
    "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
@@ -333,14 +357,6 @@
    "desc": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity whi",
    "image": "",
    "date": "2026-10-01T19:32:47+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
-   "link": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
-   "desc": "The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI’s software.",
-   "image": "",
-   "date": "2026-10-01T19:25:00+00:00"
   },
   {
    "source": "Aikido",
@@ -658,16 +674,6 @@
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-29T21:31:29+00:00",
    "iocs": "iocs/d49e0531691d.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-   "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-   "desc": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-29T21:08:42+00:00",
-   "iocs": "iocs/b9ebd84c7b27.txt",
    "ioc_count": 3
   },
   {
@@ -1039,16 +1045,6 @@
    "desc": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent",
    "image": "",
    "date": "2026-09-16T18:14:22+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top Aqua Security alternatives for cloud-native security in 2026",
-   "link": "https://www.aikido.dev/blog/aqua-security-alternatives",
-   "desc": "Compare the best Aqua Security alternatives in 2026: Aikido, Wiz, Prisma Cloud, Sysdig, Orca, and CrowdStrike, on coverage, deployment, pricing, and fit. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aaa9f82c54914b57bc3a69d_OG_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-09-16T13:53:00+00:00",
-   "iocs": "iocs/7fccf97a3721.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
