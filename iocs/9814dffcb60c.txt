@@ -1,0 +1,12 @@
+IOC EXTRACTION - GitLab warns of critical RCE vulnerability in AI Gateway service
+Source: https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/
+Extracted: 2026-10-02 20:07:21 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-85706
+CVE-2026-90970

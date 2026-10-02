@@ -1,0 +1,15 @@
+IOC EXTRACTION - Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response
+Source: https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response
+Extracted: 2026-10-02 20:07:24 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-19489
+CVE-2026-19490
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88778

@@ -1,0 +1,16 @@
+IOC EXTRACTION - GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
+Source: https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
+Extracted: 2026-10-02 20:07:14 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-1868
+CVE-2026-90970
+
+Domains (1)
+----------------------------------------
+third-party[.]com

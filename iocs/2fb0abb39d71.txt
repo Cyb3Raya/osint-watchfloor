@@ -1,0 +1,12 @@
+IOC EXTRACTION - Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign
+Source: https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+Extracted: 2026-10-02 20:07:15 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+rsproxy[.]cn
+third-party[.]com

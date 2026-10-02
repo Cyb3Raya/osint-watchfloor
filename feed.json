@@ -1,9 +1,111 @@
 {
- "generated": "2026-10-02T15:32:20.471715+00:00",
+ "generated": "2026-10-02T20:07:35.122037+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
+   "link": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+   "desc": "Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader bill",
+   "image": "",
+   "date": "2026-10-02T19:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Frontline Education breach exposes school district employee data",
+   "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+   "desc": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including So",
+   "image": "",
+   "date": "2026-10-02T19:01:40+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+   "desc": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+   "image": "",
+   "date": "2026-10-02T18:33:01+00:00",
+   "iocs": "iocs/e611cb20ae49.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+   "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+   "desc": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that conn",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg",
+   "date": "2026-10-02T17:33:31+00:00",
+   "iocs": "iocs/5ef20bc51467.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+   "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+   "desc": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE3s79KuB4kHE3Kf6kjA84HqdcQ2TTVyJCgIkLcSnpbMr6vCwjaLjJVE1KiXT2lZfcx_CbKlHjiX9PrEppf53uaTvQ_Vyicl447mGIkdz1ZOzmGR1hPJzgODM2J_lnsbKPhTBvvTgdDcSS4V1JzJ-feSpyJFDyDkKS0BfK7AXTCNWaL9DZ60tmWVysyVo0/s1600/ms-cyber.jpg",
+   "date": "2026-10-02T17:33:16+00:00",
+   "iocs": "iocs/2fb0abb39d71.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+   "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+   "desc": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are liste",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiypcfC3W6keUc31zSJympZfpI6eLwDhyphenhyphen4uy_0M3VFljfoSn2pjzBmS3yyAZTzILPxi_sXeOx2jyeu6mdSPKqjiFv7LAMd2mn6Q8GvIRq6yVXUoQm5MiXeEs96i9IT-ZCP2W7hAzR08B9JOuOJv8NNI7o7DfCSa7cplzrsT_x_0R0dPVSQxKmdLP8NvAsnp/s1600/dell.jpg",
+   "date": "2026-10-02T17:02:12+00:00",
+   "iocs": "iocs/5f13530361d7.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
+   "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+   "desc": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f39295ab2cc8617/6abec652493aca7db2e138d1/hear-no-evil-see-no-evil-monkeys-robert_lemos.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T16:56:30+00:00",
+   "iocs": "iocs/c85075d09d16.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "Dark Reading",
+   "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
+   "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+   "desc": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb2cd941ab8738/6abfc2b68e913fc976ab5ea7/USB-years-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T16:27:54+00:00",
+   "iocs": "iocs/f071bbafdb42.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+   "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+   "desc": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+   "image": "",
+   "date": "2026-10-02T16:20:05+00:00",
+   "iocs": "iocs/9814dffcb60c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
+   "link": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+   "desc": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T16:01:22+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+   "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+   "desc": "&quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious inten",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T15:51:33+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
@@ -249,14 +351,6 @@
    "date": "2026-10-01T18:48:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Researchers find Chinese hacking campaigns targeting AI firms, Asian governments",
-   "link": "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
-   "desc": "Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western experts.",
-   "image": "",
-   "date": "2026-10-01T18:16:00+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Give yourself room to be human",
    "link": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
@@ -435,14 +529,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Metamask discloses security incident affecting its infrastructure",
-   "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-   "desc": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-   "image": "",
-   "date": "2026-10-01T07:33:57+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
    "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
@@ -461,36 +547,6 @@
    "date": "2026-10-01T05:32:13+00:00",
    "iocs": "iocs/5af31d29d4e7.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-   "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-   "desc": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg",
-   "date": "2026-10-01T05:21:10+00:00",
-   "iocs": "iocs/b4409a570832.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-   "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-   "desc": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination wit",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg",
-   "date": "2026-10-01T05:10:09+00:00",
-   "iocs": "iocs/65e6681dca63.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-   "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-   "desc": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlu",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg",
-   "date": "2026-10-01T04:35:34+00:00",
-   "iocs": "iocs/87574535fedc.txt",
-   "ioc_count": 7
   },
   {
    "source": "Socket",
@@ -525,14 +581,6 @@
    "date": "2026-09-30T20:51:15+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Russian state hackers use new RedFlick technique to push malware",
-   "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-   "desc": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-   "image": "",
-   "date": "2026-09-30T20:34:01+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
    "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
@@ -541,16 +589,6 @@
    "date": "2026-09-30T20:00:04+00:00",
    "iocs": "iocs/d7aa8b8a14fa.txt",
    "ioc_count": 17
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-   "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-   "desc": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-   "image": "",
-   "date": "2026-09-30T19:49:15+00:00",
-   "iocs": "iocs/3776ad1cae04.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
@@ -633,38 +671,12 @@
    "ioc_count": 3
   },
   {
-   "source": "Dark Reading",
-   "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
-   "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-   "desc": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-29T17:02:16+00:00"
-  },
-  {
    "source": "Socket",
    "title": "upm Launches as a Fast, Tiny Package Manager Written in TypeScript",
    "link": "https://socket.dev/blog/upm-package-manager?utm_medium=feed",
    "desc": "upm uses Node.js to deliver fast npm installs in about 250 KB, with a JavaScript API and security defaults.",
    "image": "",
    "date": "2026-09-29T15:38:50+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
-   "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-   "desc": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt587de2f4ce0cd974/6abba097ef266a69c6555f1a/Valentin_Baciu-preying-mantis-shutterstock.png?width=720&quality=80&disable=upscale",
-   "date": "2026-09-29T15:12:39+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-   "desc": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-29T14:19:43+00:00",
-   "iocs": "iocs/c7a5b95ceb99.txt",
-   "ioc_count": 2
   },
   {
    "source": "Google GTIG",
@@ -719,14 +731,6 @@
    "date": "2026-09-28T22:35:35+00:00",
    "iocs": "iocs/47eb4c83c66d.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
-   "link": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
-   "desc": "The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2af591c5bd6c4586/6abbc44b643a94805c0c2f8c/restrict-ai-Andrii-Yalanskyi-Getty-2257906560.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-28T22:02:46+00:00"
   },
   {
    "source": "Aikido",

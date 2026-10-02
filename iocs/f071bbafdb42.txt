@@ -1,0 +1,15 @@
+IOC EXTRACTION - SWIFT Banking &amp; Government Middleware Enables RCE
+Source: https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce
+Extracted: 2026-10-02 20:07:25 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-18397
+
+Domains (1)
+----------------------------------------
+lowtpills[.]com
