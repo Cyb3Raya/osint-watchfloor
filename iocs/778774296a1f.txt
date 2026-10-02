@@ -1,0 +1,18 @@
+IOC EXTRACTION - Dell asks admins to patch max severity CSM flaws as soon as possible
+Source: https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/
+Extracted: 2026-10-02 15:32:00 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2021-21551
+CVE-2026-22769
+CVE-2026-54472
+CVE-2026-61421
+CVE-2026-63688
+CVE-2026-63692
+CVE-2026-67269
+CVE-2026-67273

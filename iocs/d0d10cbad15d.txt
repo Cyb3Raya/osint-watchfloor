@@ -1,0 +1,16 @@
+IOC EXTRACTION - Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks
+Source: https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/
+Extracted: 2026-10-02 15:32:10 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-32201
+CVE-2026-45659
+CVE-2026-50522
+CVE-2026-55040
+CVE-2026-56164
+CVE-2026-58644

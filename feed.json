@@ -1,9 +1,139 @@
 {
- "generated": "2026-10-02T08:41:31.126246+00:00",
+ "generated": "2026-10-02T15:32:20.471715+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+   "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+   "desc": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+   "image": "",
+   "date": "2026-10-02T15:20:53+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
+   "link": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
+   "desc": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws. The post In Other News: $15K iCloud ",
+   "image": "",
+   "date": "2026-10-02T14:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Mississippi mayor says ransomware incident led city to shut down systems",
+   "link": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
+   "desc": "Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating.",
+   "image": "",
+   "date": "2026-10-02T14:06:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries",
+   "link": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
+   "desc": "The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team.",
+   "image": "",
+   "date": "2026-10-02T14:05:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+   "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+   "desc": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and wh",
+   "image": "",
+   "date": "2026-10-02T14:00:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Vulnerability Backlogs Are an Ownership Problem",
+   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+   "desc": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7af7ba810dddd22/6abeaceed099771c4068c437/key_-_igoriss-getty-1276829944.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
+   "link": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+   "desc": "The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime. The post macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor appea",
+   "image": "",
+   "date": "2026-10-02T13:15:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
+   "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
+   "desc": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-02T13:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+   "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+   "desc": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+   "image": "",
+   "date": "2026-10-02T12:37:40+00:00",
+   "iocs": "iocs/778774296a1f.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+   "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+   "desc": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for viola",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjuuIAEhjBjrbXQna97zki-AKSZ9hVcu2CHSFRronvsVxEcHsfg66bldy7UzBETlNj1wTjKhkE11aFSmOxTjmR-XVp7qwzM2rBM745vy0Jy2n_CDoWQowbrzcQ7pVMubxWXNxVhOptHQiV5nMSGf24ZpI2wdpr40A0ez16cO3IH6peI6A2L07_UuOHbaJ/s1600/openai-servers.jpg",
+   "date": "2026-10-02T12:23:15+00:00",
+   "iocs": "iocs/e5ad3ab89f77.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
+   "link": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
+   "desc": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft&#8217;s Official X Account appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-02T11:46:10+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+   "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+   "desc": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spread",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1600/ciso-ready.jpg",
+   "date": "2026-10-02T11:30:00+00:00",
+   "iocs": "iocs/43a11e7cfe0b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
+   "link": "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/",
+   "desc": "Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad. The post In Rare Move, Alleged Iranian State Hacker Ext",
+   "image": "",
+   "date": "2026-10-02T11:14:34+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
+   "link": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
+   "desc": "The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-02T09:34:41+00:00",
+   "iocs": "iocs/d0d10cbad15d.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+   "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+   "desc": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+   "image": "",
+   "date": "2026-10-02T09:29:56+00:00",
+   "iocs": "iocs/b8b4a1085f35.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
@@ -41,6 +171,16 @@
    "date": "2026-10-02T05:49:50+00:00",
    "iocs": "iocs/da984ff8e8ff.txt",
    "ioc_count": 11
+  },
+  {
+   "source": "Socket",
+   "title": "Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX",
+   "link": "https://socket.dev/blog/glassworm-vscode-themes?utm_medium=feed",
+   "desc": "Socket uncovered two malicious VS Code themes in a GlassWorm-linked cluster with thousands of installs across VS Code Marketplace and Open VSX.",
+   "image": "",
+   "date": "2026-10-02T03:44:40+00:00",
+   "iocs": "iocs/da2231050ee3.txt",
+   "ioc_count": 15
   },
   {
    "source": "SANS ISC",
@@ -163,14 +303,6 @@
    "ioc_count": 4
   },
   {
-   "source": "RF The Record",
-   "title": "Police disrupt KillSec ransomware, arrest suspected teenage leader",
-   "link": "https://therecord.media/killsec-ransomware-raas-arrests-europe",
-   "desc": "European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect.",
-   "image": "",
-   "date": "2026-10-01T15:55:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
    "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
@@ -189,28 +321,12 @@
    "date": "2026-10-01T14:30:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
-   "link": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
-   "desc": "PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures. The post Enterprises Struggle to Prepare for AI and Quantu",
-   "image": "",
-   "date": "2026-10-01T14:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
    "desc": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ",
    "image": "",
    "date": "2026-10-01T14:25:14+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
-   "link": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
-   "desc": "Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims. The post Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-01T14:17:07+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -231,14 +347,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
-   "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-   "desc": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. The post AI Has Changed Attack Speed, Not Security",
-   "image": "",
-   "date": "2026-10-01T13:15:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
@@ -255,30 +363,12 @@
    "date": "2026-10-01T12:58:10+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
-   "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-   "desc": "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction. The post Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure appeared first on SecurityWe",
-   "image": "",
-   "date": "2026-10-01T12:55:57+00:00",
-   "iocs": "iocs/bb1cb46b2e50.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "Top endpoint security tools for developers in 2026",
    "link": "https://www.aikido.dev/blog/top-endpoint-security-tools",
    "desc": "Comparing the top endpoint security tools for developers in 2026. We look at Aikido Security, GitGuardian Developer Endpoint Protection, Koi Security, Socket, and CrowdStrike Falcon Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-01T12:40:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyberattack on major Polish invoicing platform exposes customer data",
-   "link": "https://therecord.media/poland-cyberattack-invoice-software",
-   "desc": "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.",
-   "image": "",
-   "date": "2026-10-01T12:30:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -289,14 +379,6 @@
    "date": "2026-10-01T11:45:00+00:00",
    "iocs": "iocs/1866931397ea.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation",
-   "link": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
-   "desc": "The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch. The post Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuati",
-   "image": "",
-   "date": "2026-10-01T11:40:51+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -479,68 +561,12 @@
    "date": "2026-09-30T18:56:56+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-   "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-   "desc": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-   "image": "",
-   "date": "2026-09-30T18:08:34+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-   "desc": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack expl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg",
-   "date": "2026-09-30T16:46:29+00:00",
-   "iocs": "iocs/fe95a2c38caf.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-   "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-   "desc": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg",
-   "date": "2026-09-30T16:32:59+00:00",
-   "iocs": "iocs/cb2af8d2a0d2.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-   "image": "",
-   "date": "2026-09-30T15:49:29+00:00",
-   "iocs": "iocs/37d3b9649bea.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
    "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
    "desc": "The APT actor is using a new tactic, dubbed &quot;RedFlick,&quot; against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f6d60565804fe81/6abcff0189b51bddd40e0d6e/snowflakes-Ulrick-T-Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-09-30T15:02:25+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-   "desc": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-   "image": "",
-   "date": "2026-09-30T14:46:40+00:00",
-   "iocs": "iocs/8f1d5c9abb63.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-   "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-   "desc": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities",
-   "image": "",
-   "date": "2026-09-30T14:01:11+00:00"
   },
   {
    "source": "Google GTIG",
@@ -701,24 +727,6 @@
    "desc": "The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2af591c5bd6c4586/6abbc44b643a94805c0c2f8c/restrict-ai-Andrii-Yalanskyi-Getty-2257906560.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-09-28T22:02:46+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "One Packet Can Crash OT Servers in Industrial Sectors",
-   "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
-   "desc": "A high-severity vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments, and orgs should patch right away.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a4e2e84866c963b/6abad9206f2a1229af4c529c/bugconcept_Elena_Abrazhevich_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-28T21:13:04+00:00",
-   "iocs": "iocs/ae5b26793ac1.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
-   "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
-   "desc": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-09-28T20:23:58+00:00"
   },
   {
    "source": "Aikido",
@@ -949,14 +957,6 @@
    "desc": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IA",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-09-21T10:00:13+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Happy Birthday, Shai-Hulud",
-   "link": "https://socket.dev/blog/happy-birthday-shai-hulud?utm_medium=feed",
-   "desc": "It has been one year since Shai-Hulud made its first appearance on npm.",
-   "image": "",
-   "date": "2026-09-18T18:46:45+00:00"
   },
   {
    "source": "Unit 42",
