@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-03T18:34:44.915471+00:00",
+ "generated": "2026-10-03T21:44:29.346841+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+   "desc": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+   "image": "",
+   "date": "2026-10-03T19:09:38+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
@@ -537,14 +545,6 @@
    "date": "2026-10-01T11:45:00+00:00",
    "iocs": "iocs/1866931397ea.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft enables Windows settings backup by default for orgs",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-   "desc": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-   "image": "",
-   "date": "2026-10-01T11:14:28+00:00"
   },
   {
    "source": "The Hacker News",
