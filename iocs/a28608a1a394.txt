@@ -1,0 +1,13 @@
+IOC EXTRACTION - Fortra Patches Critical Vulnerabilities in BoKS
+Source: https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/
+Extracted: 2026-10-03 14:45:28 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-12627
+CVE-2026-79898
+CVE-2026-79901

@@ -1,9 +1,53 @@
 {
- "generated": "2026-10-03T10:02:46.165901+00:00",
+ "generated": "2026-10-03T14:45:33.687562+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
+   "link": "https://isc.sans.edu/diary/rss/33392",
+   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.21.0 release brings 5 improvements and 4 bugfixes.&#xd;",
+   "image": "",
+   "date": "2026-10-03T14:40:21+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Danish university DTU breach exposes data of up to 200,000 people",
+   "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+   "desc": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [.",
+   "image": "",
+   "date": "2026-10-03T14:35:20+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+   "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+   "desc": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on ",
+   "image": "",
+   "date": "2026-10-03T11:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Fortra Patches Critical Vulnerabilities in BoKS",
+   "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+   "desc": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-03T11:34:00+00:00",
+   "iocs": "iocs/a28608a1a394.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+   "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+   "desc": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and int",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg",
+   "date": "2026-10-03T11:00:00+00:00",
+   "iocs": "iocs/71c997ccf55f.txt",
+   "ioc_count": 1
+  },
   {
    "source": "RF The Record",
    "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
@@ -385,14 +429,6 @@
    "date": "2026-10-01T18:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
-   "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-   "desc": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains appeared first on Se",
-   "image": "",
-   "date": "2026-10-01T17:16:41+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
    "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
@@ -421,14 +457,6 @@
    "date": "2026-10-01T14:37:35+00:00",
    "iocs": "iocs/dcd4b62c704a.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-   "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-   "desc": "Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says. The post Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass appeared first on Securit",
-   "image": "",
-   "date": "2026-10-01T14:30:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -527,14 +555,6 @@
    "date": "2026-10-01T10:00:05+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers stole Pentagon personnel records of over 3 million people",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-   "desc": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-   "image": "",
-   "date": "2026-10-01T09:44:28+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
    "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
@@ -543,16 +563,6 @@
    "date": "2026-10-01T07:49:36+00:00",
    "iocs": "iocs/0a705b1644e1.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-   "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-   "desc": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a malici",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg",
-   "date": "2026-10-01T05:54:41+00:00",
-   "iocs": "iocs/43ea94fc4334.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -807,16 +817,6 @@
    "date": "2026-09-25T14:00:00+00:00",
    "iocs": "iocs/0d4d5cdcaf33.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "SANS ISC",
-   "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33368",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-09-25T12:45:19+00:00",
-   "iocs": "iocs/693b298a0b94.txt",
-   "ioc_count": 13
   },
   {
    "source": "Socket",
