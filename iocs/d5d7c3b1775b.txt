@@ -1,0 +1,16 @@
+IOC EXTRACTION - Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
+Source: https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+Extracted: 2026-10-03 18:34:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-1055
+
+Domains (2)
+----------------------------------------
+third-party[.]com
+wasabisys[.]com

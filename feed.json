@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T14:45:33.687562+00:00",
+ "generated": "2026-10-03T18:34:44.915471+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -11,6 +11,26 @@
    "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.21.0 release brings 5 improvements and 4 bugfixes.&#xd;",
    "image": "",
    "date": "2026-10-03T14:40:21+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+   "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+   "desc": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Servic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KoVLnFX9RE7BlsBeUJOBw_ZTBGsbwsb8-BY7UjzndcwMCcGmakXl6gOYzYAf_D46lO0rs6ud3i8PmehY4hbb4B8lcXCMUj4UtcZpzaox7_y3waVRwVPmRYvOd-dB5AaIXL3lmBAkQp0ZIwcES5__hiZlqeoqkp0IjqjRWe2mUUY1HiYVYVtK7bs9oPYJ/s1600/china-fund.jpg",
+   "date": "2026-10-03T14:38:46+00:00",
+   "iocs": "iocs/515631664ea5.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+   "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+   "desc": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speak",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
+   "date": "2026-10-03T14:36:33+00:00",
+   "iocs": "iocs/d5d7c3b1775b.txt",
+   "ioc_count": 3
   },
   {
    "source": "BleepingComputer",
@@ -537,32 +557,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-   "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg",
-   "date": "2026-10-01T10:33:16+00:00",
-   "iocs": "iocs/346b23ad75b1.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Cisco Talos",
    "title": "The Fine Art of Frustrating the Adversary",
    "link": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
    "desc": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier. From deception and behavioral detection to breaking attack dependencies and resisting ma",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAM26-BlogHeader.jpg",
    "date": "2026-10-01T10:00:05+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-   "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-   "desc": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers fronti",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg",
-   "date": "2026-10-01T07:49:36+00:00",
-   "iocs": "iocs/0a705b1644e1.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
