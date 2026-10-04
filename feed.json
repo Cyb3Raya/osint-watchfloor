@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-03T21:44:29.346841+00:00",
+ "generated": "2026-10-04T00:24:01.951718+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+   "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+   "desc": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+   "image": "",
+   "date": "2026-10-03T23:12:34+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
@@ -501,16 +509,6 @@
    "desc": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begi",
    "image": "",
    "date": "2026-10-01T14:01:11+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Kiteworks patches max severity code injection vulnerability",
-   "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-   "desc": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-   "image": "",
-   "date": "2026-10-01T13:51:08+00:00",
-   "iocs": "iocs/3e59dcb3b502.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
