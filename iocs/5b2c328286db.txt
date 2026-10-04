@@ -1,0 +1,12 @@
+IOC EXTRACTION - ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+Source: https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
+Extracted: 2026-10-04 12:35:53 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+apply[.]fbijobs[.]gov
+third-party[.]com
