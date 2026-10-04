@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-04T12:36:02.338863+00:00",
+ "generated": "2026-10-04T17:01:39.756214+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
+   "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
+   "desc": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force appeared first on",
+   "image": "",
+   "date": "2026-10-04T14:57:25+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Anthropic asks Claude users to share voice data for AI model training",
@@ -493,14 +501,6 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
-   "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
-   "desc": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks ap",
-   "image": "",
-   "date": "2026-10-01T18:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
    "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
@@ -779,6 +779,14 @@
    "desc": "",
    "image": "",
    "date": "2026-09-28T02:00:02+00:00"
+  },
+  {
+   "source": "Wiz Threats",
+   "title": "JADEPUFFER Agentic Ransomware Targeting Cloud Environments (Campaign)",
+   "link": "https://threats.wiz.io/all-incidents/jadepuffer-agentic-ransomware-targeting-cloud-environments",
+   "desc": "Multiple sources reported malicious activity linked to JADEPUFFER (Storm-3168), an agentic ransomware operation, during June 2026. This attacker has been observed leveraging exposed secrets and exploiting vulnerabilities",
+   "image": "https://www.wiz.io/rss_feed_logo.jpg",
+   "date": "2026-09-26T00:00:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -1487,14 +1495,6 @@
    "desc": "A malicious version of the Jscrambler npm package, jscrambler@8.14.0, was published at 15:12 UTC on 11 July 2026. The compromised release executed a dropper via an npm preinstall hook that detected the host operating sys",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-11T00:00:00+00:00"
-  },
-  {
-   "source": "Wiz Threats",
-   "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)",
-   "link": "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys",
-   "desc": "A malicious version of the @injectivelabs/sdk-ts npm package (version 1.20.21) was briefly published to the official Injective Labs npm namespace after a contributor account was compromised. The package contained credent",
-   "image": "https://www.wiz.io/rss_feed_logo.jpg",
-   "date": "2026-07-09T00:00:00+00:00"
   },
   {
    "source": "Google GTIG",
