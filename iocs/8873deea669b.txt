@@ -1,0 +1,16 @@
+IOC EXTRACTION - Citrix patches NetScaler SAML zero-day exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/
+Extracted: 2026-10-04 23:17:20 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-6543
+CVE-2026-88779
+
+IPv4 (1)
+----------------------------------------
+213[.]209[.]159[.]55

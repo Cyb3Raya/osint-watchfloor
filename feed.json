@@ -1,9 +1,19 @@
 {
- "generated": "2026-10-04T20:14:08.192374+00:00",
+ "generated": "2026-10-04T23:17:27.361620+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+   "desc": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be explo",
+   "image": "",
+   "date": "2026-10-04T21:58:01+00:00",
+   "iocs": "iocs/8873deea669b.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SecurityWeek",
    "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
@@ -529,14 +539,6 @@
    "date": "2026-10-01T14:37:35+00:00",
    "iocs": "iocs/dcd4b62c704a.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-   "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-   "desc": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ",
-   "image": "",
-   "date": "2026-10-01T14:25:14+00:00"
   },
   {
    "source": "Dark Reading",
