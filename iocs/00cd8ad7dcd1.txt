@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE
+Source: https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+Extracted: 2026-10-05 18:34:21 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2024-23692
+CVE-2026-61500
+CVE-2026-88772

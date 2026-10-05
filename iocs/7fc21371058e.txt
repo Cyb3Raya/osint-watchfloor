@@ -1,0 +1,13 @@
+IOC EXTRACTION - US, Australia warn of latest Citrix vulnerability after NetScaler advisory
+Source: https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability
+Extracted: 2026-10-05 18:34:46 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88779

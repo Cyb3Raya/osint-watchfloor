@@ -1,0 +1,19 @@
+IOC EXTRACTION - New Dell System Update flaw lets hackers gain root privileges
+Source: https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/
+Extracted: 2026-10-05 18:34:26 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2021-21551
+CVE-2026-22769
+CVE-2026-63688
+CVE-2026-63692
+CVE-2026-63697
+CVE-2026-71168
+CVE-2026-86360
+CVE-2026-86361
+CVE-2026-86362

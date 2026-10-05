@@ -1,0 +1,12 @@
+IOC EXTRACTION - Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access
+Source: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
+Extracted: 2026-10-05 18:34:20 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-100754
+CVE-2026-88772

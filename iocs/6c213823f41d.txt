@@ -1,0 +1,11 @@
+IOC EXTRACTION - The Credential Layer Is Expanding Faster Than Security Teams Can See It
+Source: https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html
+Extracted: 2026-10-05 18:34:18 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

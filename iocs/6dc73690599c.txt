@@ -1,0 +1,11 @@
+IOC EXTRACTION - Exploitation Hits Rejetto HFS Vulnerability Discovered by AI
+Source: https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/
+Extracted: 2026-10-05 18:34:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-61500

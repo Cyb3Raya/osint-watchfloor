@@ -1,0 +1,12 @@
+IOC EXTRACTION - Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+Source: https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html
+Extracted: 2026-10-05 18:34:15 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-88772
+CVE-2026-96940

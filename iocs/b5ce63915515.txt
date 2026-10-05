@@ -1,0 +1,52 @@
+IOC EXTRACTION - Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2
+Source: https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html
+Extracted: 2026-10-05 18:34:19 UTC
+Total indicators: 39
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (33)
+----------------------------------------
+CVE-2014-8361
+CVE-2016-10372
+CVE-2016-20016
+CVE-2019-17621
+CVE-2019-7256
+CVE-2021-35394
+CVE-2021-36380
+CVE-2022-26289
+CVE-2022-35555
+CVE-2022-36553
+CVE-2022-37055
+CVE-2023-1389
+CVE-2023-26801
+CVE-2023-41011
+CVE-2023-46805
+CVE-2024-10914
+CVE-2024-10915
+CVE-2024-21887
+CVE-2024-23624
+CVE-2024-23625
+CVE-2024-32281
+CVE-2024-32292
+CVE-2024-32314
+CVE-2024-35340
+CVE-2024-3721
+CVE-2024-46048
+CVE-2024-7029
+CVE-2025-34035
+CVE-2025-34037
+CVE-2025-67038
+CVE-2026-36356
+CVE-2026-87827
+CVE-2026-88772
+
+IPv4 (6)
+----------------------------------------
+112[.]151[.]157[.]222
+145[.]249[.]115[.]184
+147[.]185[.]221[.]129
+192[.]170[.]240[.]137
+23[.]81[.]40[.]193
+74[.]125[.]250[.]129
