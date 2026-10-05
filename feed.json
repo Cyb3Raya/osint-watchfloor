@@ -1,9 +1,45 @@
 {
- "generated": "2026-10-05T02:07:25.712765+00:00",
+ "generated": "2026-10-05T09:13:57.247422+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Google halts open-source bug bounty program amid AI spam surge",
+   "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+   "desc": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+   "image": "",
+   "date": "2026-10-05T08:27:46+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Alleged ShinyHunters Leader Arrested in Jordan",
+   "link": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
+   "desc": "Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group. The post Alleged ShinyHunters Leader Arrested in Jordan appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-05T07:16:53+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+   "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+   "desc": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg",
+   "date": "2026-10-05T06:40:19+00:00",
+   "iocs": "iocs/6f62c8557a69.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+   "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+   "desc": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earl",
+   "image": "",
+   "date": "2026-10-05T05:14:48+00:00",
+   "iocs": "iocs/07ebf181729c.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
@@ -413,24 +449,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
-   "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
-   "desc": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL Injection at US and Canadian Government Sites appeared first",
-   "image": "",
-   "date": "2026-10-02T08:38:46+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
-   "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-   "desc": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first",
-   "image": "",
-   "date": "2026-10-02T08:07:33+00:00",
-   "iocs": "iocs/37b7c89f6a86.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
    "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
@@ -503,14 +521,6 @@
    "date": "2026-10-01T20:15:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft says threat actors are ahead in the early AI race",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-   "desc": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity whi",
-   "image": "",
-   "date": "2026-10-01T19:32:47+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top threat intelligence feeds in 2026",
    "link": "https://www.aikido.dev/blog/top-threat-intelligence-feeds",
@@ -547,16 +557,6 @@
    "date": "2026-10-01T16:45:38+00:00",
    "iocs": "iocs/ab51ae9f2bbe.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-   "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-   "desc": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg",
-   "date": "2026-10-01T14:37:35+00:00",
-   "iocs": "iocs/dcd4b62c704a.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",

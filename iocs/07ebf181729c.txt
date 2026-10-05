@@ -1,0 +1,13 @@
+IOC EXTRACTION - Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier
+Source: https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/
+Extracted: 2026-10-05 09:13:51 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88779
