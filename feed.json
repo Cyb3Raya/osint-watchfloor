@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-04T23:17:27.361620+00:00",
+ "generated": "2026-10-05T02:07:25.712765+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33398",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-05T02:00:02+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
+   "link": "https://isc.sans.edu/diary/rss/33396",
+   "desc": "For an experiment, I created a script &#x5b;1&#x5d; that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are ",
+   "image": "",
+   "date": "2026-10-05T00:15:00+00:00",
+   "iocs": "iocs/e30c5b945143.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
@@ -747,16 +765,6 @@
    "date": "2026-09-29T02:00:02+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33376",
-   "desc": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploite",
-   "image": "",
-   "date": "2026-09-28T22:35:35+00:00",
-   "iocs": "iocs/47eb4c83c66d.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "Aikido funds Node.js security",
    "link": "https://www.aikido.dev/blog/aikido-openjs-ssp-node-security",
@@ -773,14 +781,6 @@
    "date": "2026-09-28T15:08:57+00:00",
    "iocs": "iocs/c919c2b059f3.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33374",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-28T02:00:02+00:00"
   },
   {
    "source": "Wiz Threats",
