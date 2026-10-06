@@ -1,0 +1,11 @@
+IOC EXTRACTION - Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
+Source: https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+Extracted: 2026-10-06 23:06:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

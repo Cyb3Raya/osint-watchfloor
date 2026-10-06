@@ -1,0 +1,17 @@
+IOC EXTRACTION - Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan
+Source: https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
+Extracted: 2026-10-06 23:06:31 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2023-2868
+CVE-2023-7102
+CVE-2026-88772
+
+Domains (1)
+----------------------------------------
+mx[.]zxopfds[.]com

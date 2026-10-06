@@ -1,9 +1,73 @@
 {
- "generated": "2026-10-06T19:03:58.740340+00:00",
+ "generated": "2026-10-06T23:06:45.105560+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+   "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+   "desc": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...",
+   "image": "",
+   "date": "2026-10-06T21:00:27+00:00",
+   "iocs": "iocs/e4f906202657.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Dark Reading",
+   "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+   "desc": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ab5c3db5bfeb9c5/6ac54ab0a727c6201593319b/Alligator_below_water-SushiSu-GettyImages-2215955885.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-06T20:32:58+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+   "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+   "desc": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt977a5014497395dd/6ac55a748f3ecad0e70f76ba/healthcare_greenbutterfly_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-06T20:30:27+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+   "desc": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+   "image": "",
+   "date": "2026-10-06T19:21:53+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Introducing Socket Scanning for VS Code Marketplace Extensions",
+   "link": "https://socket.dev/blog/vscode-extensions?utm_medium=feed",
+   "desc": "Socket now scans VS Code extensions, giving teams early detection of risky behaviors, hidden capabilities, and supply chain threats in developer tools.",
+   "image": "",
+   "date": "2026-10-06T19:07:23+00:00",
+   "iocs": "iocs/6e30bcb51f64.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+   "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+   "desc": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png",
+   "date": "2026-10-06T18:38:55+00:00",
+   "iocs": "iocs/5024a2a66cac.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+   "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+   "desc": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors ar",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42ncE2ZMHIbAm_fj5U9fqCYUvPwhyUiNbARM3CC5IxhnMXjIZ2ENa99UDGeaZqGPlqn53A7y7Nkz1ZxzzyykKxEb4GT0jxWhrar9Q5yPmBN1NL6599HRdbzbLSYf3WPuU7tkkY5eOsvhAT9dw-24DXuusztPyRr2H66840cWZx17MZ0B-rB877W19bgX1/s1600/linux-spam.jpg",
+   "date": "2026-10-06T18:24:25+00:00",
+   "iocs": "iocs/4bb0cd016daf.txt",
+   "ioc_count": 4
+  },
   {
    "source": "Dark Reading",
    "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
@@ -399,22 +463,6 @@
    "ioc_count": 141
   },
   {
-   "source": "BleepingComputer",
-   "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-   "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-   "desc": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate susp",
-   "image": "",
-   "date": "2026-10-05T13:33:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-   "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-   "desc": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-   "image": "",
-   "date": "2026-10-05T13:01:45+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
    "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
@@ -467,26 +515,6 @@
    "date": "2026-10-05T10:38:50+00:00",
    "iocs": "iocs/b4cc986e4abe.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-   "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-   "desc": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session f",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg",
-   "date": "2026-10-05T08:09:23+00:00",
-   "iocs": "iocs/00cd8ad7dcd1.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-   "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-   "desc": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, ca",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg",
-   "date": "2026-10-05T06:40:19+00:00",
-   "iocs": "iocs/6f62c8557a69.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -609,14 +637,6 @@
    "date": "2026-10-02T02:00:02+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-   "desc": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-01T21:37:50+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top threat intelligence feeds in 2026",
    "link": "https://www.aikido.dev/blog/top-threat-intelligence-feeds",
@@ -633,14 +653,6 @@
    "date": "2026-10-01T18:00:52+00:00",
    "iocs": "iocs/9683c1445650.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-   "desc": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-01T13:00:00+00:00"
   },
   {
    "source": "Socket",
@@ -961,14 +973,6 @@
    "desc": "Talos is releasing CAIRN, a research toolkit for hunting, classifying, and tracking emerging AI-integrated malware.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAIRN-TechBlog-Header.jpg",
    "date": "2026-09-22T10:00:25+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Lovable’s OJ Rewrites Vite’s Dev Server in Rust as AI Lowers the Cost of Forking Open Source",
-   "link": "https://socket.dev/blog/oj-vite-rust?utm_medium=feed",
-   "desc": "Lovable’s OJ rewrites Vite’s dev server in Rust, reducing memory use and preview times as AI lowers the cost of open source reimplementation.",
-   "image": "",
-   "date": "2026-09-22T05:48:11+00:00"
   },
   {
    "source": "Aikido",
