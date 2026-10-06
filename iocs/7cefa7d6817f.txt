@@ -1,0 +1,11 @@
+IOC EXTRACTION - Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers
+Source: https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html
+Extracted: 2026-10-06 13:36:14 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

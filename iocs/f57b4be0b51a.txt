@@ -1,0 +1,13 @@
+IOC EXTRACTION - Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products
+Source: https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
+Extracted: 2026-10-06 13:36:16 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2021-26086
+CVE-2026-21589
+CVE-2026-88772

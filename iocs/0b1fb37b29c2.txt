@@ -1,0 +1,11 @@
+IOC EXTRACTION - Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports
+Source: https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html
+Extracted: 2026-10-06 13:36:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

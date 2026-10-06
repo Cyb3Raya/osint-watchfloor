@@ -1,0 +1,24 @@
+IOC EXTRACTION - More RMM Tools In the Wild, (Tue, Oct 6th)
+Source: https://isc.sans.edu/diary/rss/33400
+Extracted: 2026-10-06 13:36:08 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+server[.]na-2[.]action1[.]com
+
+URLs (3)
+----------------------------------------
+hxxps://up-theta-rose[.]vercel[.]app/action1[.]msi
+hxxps://up-theta-rose[.]vercel[.]app/adobe_new_update[.]vbs
+hxxps://update-two-tau[.]vercel[.]app/adobe-ne
+
+SHA256 (4)
+----------------------------------------
+1b19115d5ebdc216e0ab3adf2c643648cfc70a385f4caf0217c679f9f3b20342
+941695d20d82dd5d62f74b0111feb23720637202f6c797df2a02e2cb6cb6e8e3
+996b01e15f85e165899630721a141b178a9c372b6e878012180ec9e9d4e7bd06
+eaff35d250c9b04f51c971e70082740dbfeee5dd846829d541f588ad43378727

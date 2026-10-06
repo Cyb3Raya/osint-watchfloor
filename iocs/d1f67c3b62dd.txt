@@ -1,0 +1,11 @@
+IOC EXTRACTION - Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
+Source: https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
+Extracted: 2026-10-06 13:36:13 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

@@ -1,0 +1,12 @@
+IOC EXTRACTION - FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach
+Source: https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html
+Extracted: 2026-10-06 13:36:17 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-35273
+CVE-2026-88772

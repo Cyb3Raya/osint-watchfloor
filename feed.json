@@ -1,9 +1,185 @@
 {
- "generated": "2026-10-06T06:34:45.176847+00:00",
+ "generated": "2026-10-06T13:36:40.888171+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "Aikido Security achieves FedRAMP Moderate authorization",
+   "link": "https://www.aikido.dev/blog/aikido-fedramp-moderate-authorization",
+   "desc": "Aikido has achieved FedRAMP Moderate authorization, bringing AI-native, automated vulnerability remediation to U.S. federal agencies. Category: Company Updates",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aba6eeec72706a3ea875aae_FEDRAMP_moderate_authroize_Feature(2).png",
+   "date": "2026-10-06T13:42:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
+   "link": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
+   "desc": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer.",
+   "image": "",
+   "date": "2026-10-06T13:17:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33400",
+   "desc": "It seems that a trend started&#x26;#xe2;&#x26;#x80;&#x26;#xa6; I continue my journey discovering more RMM (\"Remote Management &#x26; Monitoring\") tools abused by threat actors&#x21; A few days ago, I wrote a diary&#x5b;1",
+   "image": "",
+   "date": "2026-10-06T13:16:02+00:00",
+   "iocs": "iocs/3a8c72da9819.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
+   "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+   "desc": "An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026. The post FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware",
+   "image": "",
+   "date": "2026-10-06T12:47:57+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+   "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+   "desc": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVdFxWk-OP9_vpIdzp0S9ffqMNnyAMbRWKklSryVockcistDlpX5ZcfLGluaqpHqdsu_DoOaFq2J1z5jTVNatxS8aoQjMNS1PoEYOAZrj1V1Spdk67LUZgSlSPlqeEULSVSbHZfkCimWV56E2HKs_IUNrJaYFrPPq0YaXS2sEMBVZNJM0f2ydfUMFREw/s1600/office-sheet.jpg",
+   "date": "2026-10-06T11:57:00+00:00",
+   "iocs": "iocs/0d2a51b21028.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
+   "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
+   "desc": "Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls. The post Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-06T11:48:59+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33402",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-06T11:45:11+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+   "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+   "desc": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+   "image": "",
+   "date": "2026-10-06T11:31:48+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+   "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+   "desc": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, an",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg",
+   "date": "2026-10-06T11:26:25+00:00",
+   "iocs": "iocs/d1f67c3b62dd.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+   "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+   "desc": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterpri",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg",
+   "date": "2026-10-06T11:02:30+00:00",
+   "iocs": "iocs/7cefa7d6817f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+   "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+   "desc": "Significant cybersecurity M&#038;A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind. The post Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026 appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-06T11:01:35+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+   "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+   "desc": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-06T10:34:25+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+   "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
+   "desc": "Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure. The post Blinder Tunnel Campaign Targets Iraqi Infrastructure appear",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/05_Malware_Category_1920x900-1.jpg",
+   "date": "2026-10-06T10:00:33+00:00",
+   "iocs": "iocs/7669d3486c54.txt",
+   "ioc_count": 21
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+   "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+   "desc": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on Sec",
+   "image": "",
+   "date": "2026-10-06T09:38:30+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+   "desc": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+   "image": "",
+   "date": "2026-10-06T09:25:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+   "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+   "desc": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg",
+   "date": "2026-10-06T09:21:47+00:00",
+   "iocs": "iocs/0b1fb37b29c2.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Social Engineering Detection Moves Into the Live Conversation",
+   "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+   "desc": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation appe",
+   "image": "",
+   "date": "2026-10-06T08:38:14+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+   "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+   "desc": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [..",
+   "image": "",
+   "date": "2026-10-06T08:19:24+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+   "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+   "desc": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must alr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg",
+   "date": "2026-10-06T06:58:56+00:00",
+   "iocs": "iocs/f57b4be0b51a.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+   "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+   "desc": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's accord",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVB4YaCEMdO6UU6llRwDBMNe82j6s6myWlT8Y92f808ntjdWsPEFgXBpFhGxoAZdkFq5DVA4_XaQpbwvJFjpEUxrRjjRVITahCSGSxmi3qkad2fk-kZ1oXnoxKaFHNs2aRQl7LQ6r2Ljt57IZNaFvwejEQ20us7fMVpNYptJxoVCyol8BlVaXyLkkaeHQI/s1600/fbi-breach.jpg",
+   "date": "2026-10-06T06:56:57+00:00",
+   "iocs": "iocs/e8fc3bf6b8bd.txt",
+   "ioc_count": 2
+  },
   {
    "source": "The Hacker News",
    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
@@ -23,6 +199,14 @@
    "date": "2026-10-06T05:22:55+00:00",
    "iocs": "iocs/fe8af18cdfe3.txt",
    "ioc_count": 4
+  },
+  {
+   "source": "RF The Record",
+   "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
+   "link": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
+   "desc": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.",
+   "image": "",
+   "date": "2026-10-06T04:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -87,14 +271,6 @@
    "date": "2026-10-05T17:19:53+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-   "link": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-   "desc": "Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website.",
-   "image": "",
-   "date": "2026-10-05T17:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
    "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
@@ -111,14 +287,6 @@
    "desc": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf878ef49e6dc7feb/6ac3a43f41e90542981ec9b7/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-05T15:52:59+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-   "link": "https://therecord.media/ransomware-university-illinois-chicago",
-   "desc": "A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.",
-   "image": "",
-   "date": "2026-10-05T15:30:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -235,14 +403,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
-   "link": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-   "desc": "More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach. The post Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity appeared first on Se",
-   "image": "",
-   "date": "2026-10-05T10:42:19+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
    "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
@@ -287,14 +447,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "Alleged ShinyHunters Leader Arrested in Jordan",
-   "link": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-   "desc": "Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group. The post Alleged ShinyHunters Leader Arrested in Jordan appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-05T07:16:53+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
    "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
@@ -302,16 +454,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg",
    "date": "2026-10-05T06:40:19+00:00",
    "iocs": "iocs/6f62c8557a69.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-   "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-   "desc": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earl",
-   "image": "",
-   "date": "2026-10-05T05:14:48+00:00",
-   "iocs": "iocs/07ebf181729c.txt",
    "ioc_count": 3
   },
   {
@@ -343,64 +485,12 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-   "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-   "desc": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force appeared first on",
-   "image": "",
-   "date": "2026-10-04T14:57:25+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Anthropic asks Claude users to share voice data for AI model training",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-   "desc": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-   "image": "",
-   "date": "2026-10-04T10:53:21+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
    "link": "https://isc.sans.edu/diary/rss/33394",
    "desc": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.&#xd;",
    "image": "",
    "date": "2026-10-04T07:58:51+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-   "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-   "desc": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1600/shinyhunters-arrested.jpg",
-   "date": "2026-10-04T07:22:05+00:00",
-   "iocs": "iocs/5b2c328286db.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-   "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-   "desc": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg",
-   "date": "2026-10-04T07:20:32+00:00",
-   "iocs": "iocs/aac5cc1a7d26.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-   "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-   "desc": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-   "image": "",
-   "date": "2026-10-03T23:12:34+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-   "desc": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-   "image": "",
-   "date": "2026-10-03T19:09:38+00:00"
   },
   {
    "source": "SANS ISC",
@@ -411,70 +501,12 @@
    "date": "2026-10-03T14:40:21+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-   "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-   "desc": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Servic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KoVLnFX9RE7BlsBeUJOBw_ZTBGsbwsb8-BY7UjzndcwMCcGmakXl6gOYzYAf_D46lO0rs6ud3i8PmehY4hbb4B8lcXCMUj4UtcZpzaox7_y3waVRwVPmRYvOd-dB5AaIXL3lmBAkQp0ZIwcES5__hiZlqeoqkp0IjqjRWe2mUUY1HiYVYVtK7bs9oPYJ/s1600/china-fund.jpg",
-   "date": "2026-10-03T14:38:46+00:00",
-   "iocs": "iocs/515631664ea5.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-   "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-   "desc": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speak",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
-   "date": "2026-10-03T14:36:33+00:00",
-   "iocs": "iocs/d5d7c3b1775b.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-   "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-   "desc": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on ",
-   "image": "",
-   "date": "2026-10-03T11:45:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-   "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-   "desc": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-03T11:34:00+00:00",
-   "iocs": "iocs/a28608a1a394.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-   "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-   "desc": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and int",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg",
-   "date": "2026-10-03T11:00:00+00:00",
-   "iocs": "iocs/71c997ccf55f.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
    "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
    "desc": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-02T20:18:37+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-   "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-   "desc": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that conn",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg",
-   "date": "2026-10-02T17:33:31+00:00",
-   "iocs": "iocs/5ef20bc51467.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -727,14 +759,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SANS ISC",
-   "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
-   "link": "https://isc.sans.edu/diary/rss/33382",
-   "desc": "Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-w",
-   "image": "",
-   "date": "2026-09-29T13:29:33+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
    "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
@@ -751,14 +775,6 @@
    "desc": "This new proactive service joins the suite of retainer offerings to provide dedicated, intelligence-led hunting specifically for your organization’s most high-value IT assets.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/exec_threat_detect.jpg",
    "date": "2026-09-29T10:00:36+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
-   "link": "https://isc.sans.edu/diary/rss/33378",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-29T02:00:02+00:00"
   },
   {
    "source": "Aikido",
@@ -1035,14 +1051,6 @@
    "ioc_count": 3
   },
   {
-   "source": "Aikido",
-   "title": "Top Qodo Alternatives for AI-Powered Code Assistance",
-   "link": "https://www.aikido.dev/blog/qodo-alternatives",
-   "desc": "The best Qodo alternatives for AI code review in 2026, compared across noise, security, and cost, so you can pick the tool that fits your team. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ad49d5e1202b92a43d705_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-09-16T21:55:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
    "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -1261,16 +1269,6 @@
    "desc": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In",
    "image": "",
    "date": "2026-08-27T11:04:15+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
-   "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
-   "desc": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abus",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/AdobeStock_1270203474-2-1.png",
-   "date": "2026-08-25T10:00:57+00:00",
-   "iocs": "iocs/b08d58b5f870.txt",
-   "ioc_count": 12
   },
   {
    "source": "Google GTIG",
