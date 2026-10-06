@@ -1,0 +1,11 @@
+IOC EXTRACTION - Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account
+Source: https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html
+Extracted: 2026-10-06 06:34:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
