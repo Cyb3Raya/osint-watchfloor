@@ -1,0 +1,11 @@
+IOC EXTRACTION - Rejetto HFS servers now actively scanned for critical RCE flaw
+Source: https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/
+Extracted: 2026-10-06 00:19:08 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-61500

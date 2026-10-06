@@ -1,0 +1,14 @@
+IOC EXTRACTION - ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes
+Source: https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes
+Extracted: 2026-10-06 00:19:09 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2014-8361
+CVE-2021-36380
+CVE-2026-36356
+CVE-2026-87827
