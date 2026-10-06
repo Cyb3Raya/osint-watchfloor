@@ -1,0 +1,13 @@
+IOC EXTRACTION - How to secure RMM software: 8 controls MSPs should test
+Source: https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/
+Extracted: 2026-10-06 19:03:42 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-53770
+CVE-2025-53771
+CVE-2026-86218
