@@ -1,0 +1,11 @@
+IOC EXTRACTION - Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany
+Source: https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/
+Extracted: 2026-10-07 16:38:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-50751

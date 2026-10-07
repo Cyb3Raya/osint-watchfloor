@@ -1,0 +1,12 @@
+IOC EXTRACTION - PoeLLM malware infects exposed AI servers in cryptomining attacks
+Source: https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/
+Extracted: 2026-10-07 16:38:42 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-42271
+CVE-2026-48710

@@ -1,9 +1,269 @@
 {
- "generated": "2026-10-07T09:13:58.968945+00:00",
+ "generated": "2026-10-07T16:39:17.122104+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Outlook to block MSIX attachments starting November",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+   "desc": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+   "image": "",
+   "date": "2026-10-07T15:44:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+   "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+   "desc": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is availabl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s1600/lm.jpg",
+   "date": "2026-10-07T15:34:53+00:00",
+   "iocs": "iocs/4d160aba1a13.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+   "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+   "desc": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg",
+   "date": "2026-10-07T15:33:51+00:00",
+   "iocs": "iocs/99a195ea8900.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+   "desc": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+   "image": "",
+   "date": "2026-10-07T15:04:08+00:00",
+   "iocs": "iocs/3c3ca0f12e61.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "Oklahoma judge’s Flock ruling shows the power of Supreme Court’s digital evidence decision",
+   "link": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
+   "desc": "How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case.",
+   "image": "",
+   "date": "2026-10-07T15:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+   "link": "https://isc.sans.edu/diary/rss/33406",
+   "desc": "On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23&#x3b;x26&#x3b;&#x2",
+   "image": "",
+   "date": "2026-10-07T14:59:33+00:00",
+   "iocs": "iocs/394be2a0c7c9.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+   "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+   "desc": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T14:15:20+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyber experts call on CISA to create mandatory federal OT rules",
+   "link": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
+   "desc": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.",
+   "image": "",
+   "date": "2026-10-07T14:03:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ransomware has a new target. Is your backup ready?",
+   "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+   "desc": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested b",
+   "image": "",
+   "date": "2026-10-07T14:01:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach",
+   "link": "https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach",
+   "desc": "The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.",
+   "image": "",
+   "date": "2026-10-07T13:49:00+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+   "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+   "desc": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb",
+   "image": "",
+   "date": "2026-10-07T13:48:45+00:00",
+   "iocs": "iocs/2c4e6a4177d1.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+   "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+   "desc": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T13:47:12+00:00",
+   "iocs": "iocs/c8213cf695f3.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker",
+   "link": "https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie",
+   "desc": "A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.",
+   "image": "",
+   "date": "2026-10-07T13:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+   "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+   "desc": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first o",
+   "image": "",
+   "date": "2026-10-07T13:06:10+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI, Secret Service add to warnings of FortiBleed credential stealing campaign",
+   "link": "https://therecord.media/fortibleed-warning-fbi-secret-service",
+   "desc": "Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says.",
+   "image": "",
+   "date": "2026-10-07T12:50:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+   "desc": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+   "image": "",
+   "date": "2026-10-07T12:49:01+00:00",
+   "iocs": "iocs/4e5e4a2f6d27.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+   "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+   "desc": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on Securit",
+   "image": "",
+   "date": "2026-10-07T12:37:24+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+   "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+   "desc": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1600/Proofpoint.png",
+   "date": "2026-10-07T11:57:05+00:00",
+   "iocs": "iocs/a1f84e38ce83.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+   "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+   "desc": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1600/forti-admin.jpg",
+   "date": "2026-10-07T11:56:56+00:00",
+   "iocs": "iocs/98f167473783.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+   "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+   "desc": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s1600/jira-attack.jpg",
+   "date": "2026-10-07T11:49:26+00:00",
+   "iocs": "iocs/b144badd2c91.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+   "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+   "desc": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a rea",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s1600/picus.jpg",
+   "date": "2026-10-07T11:42:24+00:00",
+   "iocs": "iocs/b3468b5f887d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+   "desc": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+   "image": "",
+   "date": "2026-10-07T11:37:07+00:00",
+   "iocs": "iocs/a4a095890425.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chrome 155 Update Patches 247 Vulnerabilities",
+   "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+   "desc": "Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track. The post Chrome 155 Update Patches 247 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T10:51:57+00:00",
+   "iocs": "iocs/d086aedd3dc3.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+   "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+   "desc": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [..",
+   "image": "",
+   "date": "2026-10-07T10:35:15+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Advantest confirms personal information stolen in ransomware attack",
+   "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+   "desc": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+   "image": "",
+   "date": "2026-10-07T10:27:52+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
+   "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+   "desc": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models. The post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appe",
+   "image": "",
+   "date": "2026-10-07T10:07:09+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "One breach, please, and make no mistakes",
+   "link": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+   "desc": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/OneBreachPlease-BlogHeader.jpg",
+   "date": "2026-10-07T10:00:25+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ASOS Confirms Cyberattack, Data Breach",
+   "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+   "desc": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T09:46:20+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+   "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+   "desc": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg",
+   "date": "2026-10-07T08:07:38+00:00",
+   "iocs": "iocs/ecbf8c73de94.txt",
+   "ioc_count": 3
+  },
   {
    "source": "SecurityWeek",
    "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
@@ -47,14 +307,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-07T02:00:02+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
-   "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
-   "desc": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System appeared firs",
-   "image": "",
-   "date": "2026-10-07T01:32:58+00:00"
   },
   {
    "source": "Aikido",
@@ -171,44 +423,12 @@
    "date": "2026-10-06T16:33:54+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
-   "link": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
-   "desc": "Aguirre was added to the FBI’s “Top 10 Most Wanted Fugitives” list in March, becoming the first cybercriminal added to the list.",
-   "image": "",
-   "date": "2026-10-06T15:53:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "South Korean officials believe AI agents were used to hack several banks",
-   "link": "https://therecord.media/south-korean-bank-hacks-ai-agents",
-   "desc": "The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks’ systems",
-   "image": "",
-   "date": "2026-10-06T15:29:22+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
    "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
    "desc": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
    "image": "",
    "date": "2026-10-06T15:16:44+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
-   "link": "https://therecord.media/osaka-university-cancels-classes-ransomware",
-   "desc": "Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable.",
-   "image": "",
-   "date": "2026-10-06T14:52:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
-   "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-   "desc": "The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees. The post FBI Blames Contractor&#8217;s Missed Patch for ShinyHunters Breach appeared firs",
-   "image": "",
-   "date": "2026-10-06T14:15:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -229,14 +449,6 @@
    "date": "2026-10-06T13:42:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
-   "link": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
-   "desc": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer.",
-   "image": "",
-   "date": "2026-10-06T13:17:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
    "link": "https://isc.sans.edu/diary/rss/33400",
@@ -247,14 +459,6 @@
    "ioc_count": 8
   },
   {
-   "source": "SecurityWeek",
-   "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
-   "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
-   "desc": "An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026. The post FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware",
-   "image": "",
-   "date": "2026-10-06T12:47:57+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
    "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
@@ -263,14 +467,6 @@
    "date": "2026-10-06T11:57:00+00:00",
    "iocs": "iocs/0d2a51b21028.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
-   "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
-   "desc": "Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls. The post Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-06T11:48:59+00:00"
   },
   {
    "source": "SANS ISC",
@@ -309,22 +505,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
-   "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
-   "desc": "Significant cybersecurity M&#038;A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind. The post Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026 appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-06T11:01:35+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
-   "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
-   "desc": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-06T10:34:25+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
    "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
@@ -333,14 +513,6 @@
    "date": "2026-10-06T10:00:33+00:00",
    "iocs": "iocs/7669d3486c54.txt",
    "ioc_count": 21
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
-   "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
-   "desc": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on Sec",
-   "image": "",
-   "date": "2026-10-06T09:38:30+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -361,14 +533,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-   "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-   "desc": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [..",
-   "image": "",
-   "date": "2026-10-06T08:19:24+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
    "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
@@ -377,52 +541,6 @@
    "date": "2026-10-06T06:58:56+00:00",
    "iocs": "iocs/f57b4be0b51a.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-   "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-   "desc": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's accord",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVB4YaCEMdO6UU6llRwDBMNe82j6s6myWlT8Y92f808ntjdWsPEFgXBpFhGxoAZdkFq5DVA4_XaQpbwvJFjpEUxrRjjRVITahCSGSxmi3qkad2fk-kZ1oXnoxKaFHNs2aRQl7LQ6r2Ljt57IZNaFvwejEQ20us7fMVpNYptJxoVCyol8BlVaXyLkkaeHQI/s1600/fbi-breach.jpg",
-   "date": "2026-10-06T06:56:57+00:00",
-   "iocs": "iocs/e8fc3bf6b8bd.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-   "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-   "desc": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization m",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyl-dsAiVrN_a0ie2xM1-2S8GDtnp-OYIAY1Cd_nhYhGkY3q0VeVEvEInjHAYCJTtnRYkXag2mY_iFjcEkFjeLQ7LrF6JqbTQ6eLZQM7aVzTHQsZ37a7PMIWPNkPvc8yTvHgWRLhdnoXbHZSlYfXJMAgfKkPcgSWD6JVb6kBYfzz9LB3SQPx357xqsr8o/s1600/cpr.jpg",
-   "date": "2026-10-06T06:00:30+00:00",
-   "iocs": "iocs/4a058ff83e7c.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-   "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-   "desc": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg",
-   "date": "2026-10-06T05:22:55+00:00",
-   "iocs": "iocs/fe8af18cdfe3.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "RF The Record",
-   "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
-   "link": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
-   "desc": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.",
-   "image": "",
-   "date": "2026-10-06T04:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-   "desc": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
-   "image": "",
-   "date": "2026-10-05T22:46:33+00:00"
   },
   {
    "source": "Dark Reading",
@@ -435,34 +553,6 @@
    "ioc_count": 4
   },
   {
-   "source": "BleepingComputer",
-   "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-   "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-   "desc": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-   "image": "",
-   "date": "2026-10-05T20:20:05+00:00",
-   "iocs": "iocs/243a0ed18472.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-   "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-   "desc": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymizati",
-   "image": "",
-   "date": "2026-10-05T17:19:53+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-   "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-   "desc": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s1600/ms-emails.jpg",
-   "date": "2026-10-05T16:21:52+00:00",
-   "iocs": "iocs/00260114e730.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Dark Reading",
    "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
@@ -471,68 +561,12 @@
    "date": "2026-10-05T15:52:59+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Denmark population registry data breach affects 8.8 million people",
-   "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-   "desc": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-   "image": "",
-   "date": "2026-10-05T15:21:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Dell System Update flaw lets hackers gain root privileges",
-   "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-   "desc": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-   "image": "",
-   "date": "2026-10-05T14:53:06+00:00",
-   "iocs": "iocs/8529f42bd2dd.txt",
-   "ioc_count": 9
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-   "desc": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-   "image": "",
-   "date": "2026-10-05T14:22:12+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-   "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-   "desc": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. Th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1600/infosec-recap.jpg",
-   "date": "2026-10-05T14:20:43+00:00",
-   "iocs": "iocs/634898ddff2f.txt",
-   "ioc_count": 141
-  },
-  {
    "source": "Dark Reading",
    "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
    "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
    "desc": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt805a291660c85e6c/6abfd753b06065c7488d51a1/fighterjet-Asanka_Ratnayake-GettyImages-2207309883.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-05T13:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-   "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-   "desc": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMENqm_uSfWzk7VlgN5LXTaqUnYGOAelJ9aFsc6s57oUV43awGRScfhyphenhyphenaOYpv1eWkCfunH00lWMH6uUS9sUav8nBmwSHh9w_e3VL1F5AvjF9tpbUeFHCu6ohHZbqOqujA75PEZo_DbtWTv1NtQOKLwaIwJvGZw8rdFDEMcCm_0DvIOfeVPzW8ITMmVwg/s1600/git.gif",
-   "date": "2026-10-05T11:55:00+00:00",
-   "iocs": "iocs/6c213823f41d.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-   "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-   "desc": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not becau",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg",
-   "date": "2026-10-05T11:46:25+00:00",
-   "iocs": "iocs/b5ce63915515.txt",
-   "ioc_count": 39
   },
   {
    "source": "SANS ISC",
@@ -692,7 +726,7 @@
    "source": "Cisco Talos",
    "title": "The Fine Art of Frustrating the Adversary",
    "link": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
-   "desc": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier. From deception and behavioral detection to breaking attack dependencies and resisting ma",
+   "desc": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier, from deception and behavioral detection to breaking attack dependencies and resisting ma",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAM26-BlogHeader.jpg",
    "date": "2026-10-01T10:00:05+00:00"
   },
@@ -713,14 +747,6 @@
    "desc": "Socket CTO Ahmad Nassri discusses how to keep AI agents from bypassing package blocks, limit credential access, and monitor their actions.",
    "image": "",
    "date": "2026-10-01T03:38:06+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33386",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-01T02:00:02+00:00"
   },
   {
    "source": "Unit 42",
@@ -1167,16 +1193,6 @@
    "ioc_count": 22
   },
   {
-   "source": "Cisco Talos",
-   "title": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2",
-   "link": "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-   "desc": "Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and inje",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight.jpg",
-   "date": "2026-09-08T10:00:38+00:00",
-   "iocs": "iocs/50c4b3e56fdb.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Unit 42",
    "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
    "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
@@ -1389,16 +1405,6 @@
    "desc": "",
    "image": "",
    "date": "2026-07-30T23:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Read This Before You Buy That TV Streaming Stick",
-   "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-   "desc": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio",
-   "image": "",
-   "date": "2026-07-30T16:49:00+00:00",
-   "iocs": "iocs/f62495d07518.txt",
-   "ioc_count": 1
   },
   {
    "source": "Google GTIG",

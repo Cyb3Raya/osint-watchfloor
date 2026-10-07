@@ -1,0 +1,11 @@
+IOC EXTRACTION - PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet
+Source: https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html
+Extracted: 2026-10-07 16:38:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

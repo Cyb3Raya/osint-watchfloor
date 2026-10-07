@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hackers exploit critical Atlassian flaw after public PoC release
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/
+Extracted: 2026-10-07 16:38:45 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-21589
+
+IPv4 (3)
+----------------------------------------
+146[.]70[.]187[.]234
+159[.]26[.]119[.]225
+38[.]60[.]157[.]86

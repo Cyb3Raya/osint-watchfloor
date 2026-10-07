@@ -1,0 +1,11 @@
+IOC EXTRACTION - FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
+Source: https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html
+Extracted: 2026-10-07 16:38:37 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

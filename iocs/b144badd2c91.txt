@@ -1,0 +1,18 @@
+IOC EXTRACTION - Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details
+Source: https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html
+Extracted: 2026-10-07 16:38:38 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-21589
+CVE-2026-88772
+
+IPv4 (3)
+----------------------------------------
+146[.]70[.]187[.]234
+159[.]26[.]119[.]225
+38[.]60[.]157[.]86

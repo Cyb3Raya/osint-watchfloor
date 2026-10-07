@@ -1,0 +1,13 @@
+IOC EXTRACTION - Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely
+Source: https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html
+Extracted: 2026-10-07 16:38:33 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-105192
+CVE-2026-105756
+CVE-2026-88772

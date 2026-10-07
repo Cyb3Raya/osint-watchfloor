@@ -1,0 +1,11 @@
+IOC EXTRACTION - Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)
+Source: https://isc.sans.edu/diary/rss/33406
+Extracted: 2026-10-07 16:38:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-21589

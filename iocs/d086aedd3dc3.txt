@@ -1,0 +1,14 @@
+IOC EXTRACTION - Chrome 155 Update Patches 247 Vulnerabilities
+Source: https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/
+Extracted: 2026-10-07 16:38:57 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-106197
+CVE-2026-106347
+CVE-2026-106358
+CVE-2026-106382

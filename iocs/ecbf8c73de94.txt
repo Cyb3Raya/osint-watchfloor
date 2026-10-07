@@ -1,0 +1,13 @@
+IOC EXTRACTION - Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws
+Source: https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html
+Extracted: 2026-10-07 16:38:40 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-26980
+CVE-2026-61500
+CVE-2026-88772
