@@ -1,9 +1,33 @@
 {
- "generated": "2026-10-06T23:06:45.105560+00:00",
+ "generated": "2026-10-07T02:28:15.912475+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
+   "link": "https://isc.sans.edu/diary/rss/33404",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-07T02:00:02+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+   "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+   "desc": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System appeared firs",
+   "image": "",
+   "date": "2026-10-07T01:32:58+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "How Aikido helps you meet SOC 2 Type 1 and Type 2",
+   "link": "https://www.aikido.dev/blog/soc-2-compliance-type-1-and-type-2",
+   "desc": "Learn how Aikido maps to SOC 2 Type 1 and Type 2 audits, with SLA tracking, CI/CD gates, and cloud checks that produce exportable audit evidence. Category: Compliance",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac537efb9bbac7ac51a517c_ISO-42001-compliant_Feature.jpg",
+   "date": "2026-10-07T00:00:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
@@ -479,14 +503,6 @@
    "date": "2026-10-05T13:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-   "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-   "desc": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-05T12:35:15+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
    "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
@@ -741,14 +757,6 @@
    "desc": "GPT-6 Astra tried to plant malicious code in simulated open source projects using fake GitHub accounts and deceptive PRs during an assigned CTF challenge.",
    "image": "",
    "date": "2026-09-30T04:50:04+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
-   "link": "https://isc.sans.edu/diary/rss/33384",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-30T02:00:03+00:00"
   },
   {
    "source": "Socket",
@@ -1033,14 +1041,6 @@
    "desc": "",
    "image": "",
    "date": "2026-09-17T14:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Aikido achieves AWS Security Competency for Application Security",
-   "link": "https://www.aikido.dev/blog/aws-security-competency-announcement",
-   "desc": "AWS has recognized Aikido with its Security Competency for Application Security, validating how Aikido secures applications from code to cloud to runtime. Category: Company Updates",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aabc1a58f6c7841d786535d_Feature_%5BAWS2%5D_16x9.png",
-   "date": "2026-09-17T12:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
