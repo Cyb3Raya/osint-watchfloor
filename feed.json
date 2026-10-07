@@ -1,9 +1,45 @@
 {
- "generated": "2026-10-07T02:28:15.912475+00:00",
+ "generated": "2026-10-07T09:13:58.968945+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
+   "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
+   "desc": "Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations The post Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T07:58:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+   "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+   "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fqqLhgtSTncznc3k2vTS6LJlp8_v3RMx7LaYawiUYEMDuhQ1pOdqrYqlFeyAG5TPBmEnbkLI8vu43GMDxPvaZX6kABd1zQGpIAbVpD2pwtl5v4TohuwbBjlz4dMcjYUv11ogWwPoMoOFJn0aHmxX46xc5Y3ocuxOrg7ix9RrzPzfHtjlW2rAElAV-9-p/s1600/cf-malware.jpg",
+   "date": "2026-10-07T06:57:54+00:00",
+   "iocs": "iocs/3836fc91e22e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Android’s October 2026 Updates Patch 25 Vulnerabilities",
+   "link": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
+   "desc": "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation. The post Android&#8217;s October 2026 Updates Patch 25 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T06:55:52+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+   "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+   "desc": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-07T06:37:16+00:00",
+   "iocs": "iocs/5b271f17f9e8.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
@@ -77,7 +113,7 @@
    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
    "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
    "desc": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0zSahkV9zcg01XiHIrV4cYRCzxV9MLlvvX9vRW5e0Nd5Kg0aXGPgWR2oqqdHAAcrmm5r66m5Aj8VF9HYZtgTJv_X1HOaijWEoB_6m8ieYd-F9ytUtmn-1GgX4B-BWo6LXQgzVzr0nTiXsicD-3eTf02ZvrTwPsOCFt8yYGvuxTHfIYxwErOI1w99uekRz/s1600/muse-ai.jpg",
    "date": "2026-10-06T18:38:55+00:00",
    "iocs": "iocs/5024a2a66cac.txt",
    "ioc_count": 1
@@ -325,14 +361,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Social Engineering Detection Moves Into the Live Conversation",
-   "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
-   "desc": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation appe",
-   "image": "",
-   "date": "2026-10-06T08:38:14+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Engineer sentenced for locking over 3,000 devices on employer network",
    "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
@@ -461,14 +489,6 @@
    "ioc_count": 9
   },
   {
-   "source": "SecurityWeek",
-   "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
-   "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
-   "desc": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automate",
-   "image": "",
-   "date": "2026-10-05T14:26:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
    "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
@@ -495,14 +515,6 @@
    "date": "2026-10-05T13:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-   "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-   "desc": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-05T13:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
    "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
@@ -521,16 +533,6 @@
    "date": "2026-10-05T11:46:25+00:00",
    "iocs": "iocs/b5ce63915515.txt",
    "ioc_count": 39
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-   "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-   "desc": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg",
-   "date": "2026-10-05T10:38:50+00:00",
-   "iocs": "iocs/b4cc986e4abe.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",

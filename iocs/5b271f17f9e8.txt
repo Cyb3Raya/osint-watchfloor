@@ -1,0 +1,11 @@
+IOC EXTRACTION - Atlassian Patches Critical Vulnerability Affecting 8 Products
+Source: https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/
+Extracted: 2026-10-07 09:13:53 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-21589

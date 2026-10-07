@@ -1,0 +1,11 @@
+IOC EXTRACTION - 100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer
+Source: https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html
+Extracted: 2026-10-07 09:13:49 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
