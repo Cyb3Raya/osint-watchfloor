@@ -1,0 +1,45 @@
+IOC EXTRACTION - 16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials
+Source: https://socket.dev/blog/firefox-crypto-wallet-stealers?utm_medium=feed
+Extracted: 2026-10-07 21:36:00 UTC
+Total indicators: 29
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (3)
+----------------------------------------
+fondationanimalaidrelief[.]workers[.]dev
+icy-star-f45c[.]workers[.]dev
+workers[.]dev
+
+URLs (5)
+----------------------------------------
+hxxps://flat-wildflower-f954[.]fondationanimalaidrelief[.]workers[.]dev/
+hxxps://green-firefly-ab28[.]icy-star-f45c[.]workers[.]dev/
+hxxps://silent-wind-get[.]icy-star-f45c
+hxxps://silent-wind-get[.]icy-star-f45c[.]workers[.]dev/
+hxxps://small-boat-969c[.]icy-star-f45c[.]workers[.]dev/
+
+SHA256 (21)
+----------------------------------------
+0aed5f24ce625ee6b9422083302766f74b0b9a57e1b18213328b950cc7057e35
+225f5d6c5d70a7e7f3abf62ea0dda1cf8bf8e70565f7db748b0d8fa602da939b
+2f9270269e631bc4fd634d741afcfc3df8f54e43e40b16f38660fe8ce6c26f51
+4512389444a767f12211beeb5f2ad165aca4a558e88e8f111affb30b77ed6a5a
+458e7255438f15aaede02fd7f8fcfdf762aa6e08608b9546fe8aa8aa399c76b7
+635b31b4a19b5673fcbe0fedeb3f7ed2c27fddb739685f19ca5f3d1f1d7f0083
+6b53369fb868efb92b60af40fbd5906fa3d3d8785a7878b4af6e4efd333a4de8
+71ec70479ab78efb1e1f9507f8ff7348d5711c837cc50a0120f3a188c340f3f4
+7d9d7e80ed52350616be0215a7ded10aaeb9aaa64e34ff8af7f9177c8c855799
+8906dd85b0991fac14e5973b3f3f61d93ef1101504cb5867a004c762ee184ef7
+9fea0ee3c81047f5e50eeb3a2ab2a7cd70357f3e49944b7079ab3e90c9ea0e8b
+b02ae1d5a0d2a5b28f8baa2afcdc7d7090fab051536303cba3ba1f17860da980
+bb8f60b3f77d96adc93bf0515b34df7c5f1f560a9f6d0c353b7d849609e3557d
+be246ca5cb1372394e0443df45454f88ca39eb4a8dcfc4a99cb8865100fb4897
+c550f0860012e0dfab14ed65a9425961e22025e0ab23fd9d69d294a8aa34db2f
+d9432e41e0401715bce4ce11f4a7104d94fab1ec89be553ba57a2097e418c1a1
+da447fe02e4577da97144a4d92b395078954fde1ff196746413837e1e4a20bcd
+e5c9a29d5ba0f53a49d8b333bfab17bf9878f94e8c3f325f5afacad44bb26fb5
+e96c75cd0c9b35000b4a3ec12d5dd23ca157e94aee7271a0fe8d8d7c9f2e9096
+eb134bbf73046800c8177383754cf754b8776ec30cf5cc8a13655d259e49a4bf
+faf174414ddc7099360c4ae4d16497b9846cfae71ffad5bbab820bba657f94d3

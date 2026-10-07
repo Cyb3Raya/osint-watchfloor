@@ -1,0 +1,17 @@
+IOC EXTRACTION - Microsoft, Adobe, Apple, and Foxit vulnerabilities
+Source: https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/
+Extracted: 2026-10-07 21:35:51 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-48388
+CVE-2026-49177
+CVE-2026-50475
+CVE-2026-57256
+CVE-2026-58613
+CVE-2026-80093
+CVE-2026-91799

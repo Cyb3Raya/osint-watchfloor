@@ -1,9 +1,105 @@
 {
- "generated": "2026-10-07T16:39:17.122104+00:00",
+ "generated": "2026-10-07T21:36:02.833636+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+   "desc": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+   "image": "",
+   "date": "2026-10-07T21:28:54+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+   "desc": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-07T20:51:25+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers hijack Google domains after breaching ccTLD registries",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+   "desc": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party o",
+   "image": "",
+   "date": "2026-10-07T20:50:13+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
+   "link": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+   "desc": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
+   "image": "",
+   "date": "2026-10-07T19:50:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+   "desc": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2541a007c47b0f0b/6ac62adf05f346dc373093cd/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-07T19:34:08+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
+   "link": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
+   "desc": "Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft.The vulnerabilities mentioned in this blog post have been patched by their r",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/vuln_roundup.jpg",
+   "date": "2026-10-07T19:27:08+00:00",
+   "iocs": "iocs/fcda532ac204.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+   "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+   "desc": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6. Google's own systems were not breached, but any ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg",
+   "date": "2026-10-07T18:48:17+00:00",
+   "iocs": "iocs/d19160e8f030.txt",
+   "ioc_count": 13
+  },
+  {
+   "source": "RF The Record",
+   "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
+   "link": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
+   "desc": "Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation.",
+   "image": "",
+   "date": "2026-10-07T18:35:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Arizona courts say hackers stole info on more than 1.3 million people",
+   "link": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
+   "desc": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffi",
+   "image": "",
+   "date": "2026-10-07T18:31:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+   "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+   "desc": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg",
+   "date": "2026-10-07T17:43:20+00:00",
+   "iocs": "iocs/39f490a9561d.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+   "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+   "desc": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s1600/sonicwall.png",
+   "date": "2026-10-07T16:17:44+00:00",
+   "iocs": "iocs/6e23ba3132bb.txt",
+   "ioc_count": 9
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft Outlook to block MSIX attachments starting November",
@@ -11,6 +107,16 @@
    "desc": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
    "image": "",
    "date": "2026-10-07T15:44:22+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials",
+   "link": "https://socket.dev/blog/firefox-crypto-wallet-stealers?utm_medium=feed",
+   "desc": "Socket found 16 malicious Firefox extensions designed to steal crypto wallet recovery phrases and private keys using cloned Rabby and OKX interfaces.",
+   "image": "",
+   "date": "2026-10-07T15:43:09+00:00",
+   "iocs": "iocs/d564801aa660.txt",
+   "ioc_count": 29
   },
   {
    "source": "The Hacker News",
@@ -85,14 +191,6 @@
    "date": "2026-10-07T14:01:11+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach",
-   "link": "https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach",
-   "desc": "The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.",
-   "image": "",
-   "date": "2026-10-07T13:49:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
    "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -113,28 +211,12 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker",
-   "link": "https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie",
-   "desc": "A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.",
-   "image": "",
-   "date": "2026-10-07T13:30:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
    "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
    "desc": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first o",
    "image": "",
    "date": "2026-10-07T13:06:10+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "FBI, Secret Service add to warnings of FortiBleed credential stealing campaign",
-   "link": "https://therecord.media/fortibleed-warning-fbi-secret-service",
-   "desc": "Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says.",
-   "image": "",
-   "date": "2026-10-07T12:50:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -338,7 +420,7 @@
    "source": "Dark Reading",
    "title": "Critical Healthcare Systems Aren't Quantum-Ready",
    "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-   "desc": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+   "desc": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt977a5014497395dd/6ac55a748f3ecad0e70f76ba/healthcare_greenbutterfly_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-06T20:30:27+00:00"
   },
@@ -477,14 +559,6 @@
    "date": "2026-10-06T11:45:11+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-   "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-   "desc": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-   "image": "",
-   "date": "2026-10-06T11:31:48+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
    "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
@@ -492,16 +566,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg",
    "date": "2026-10-06T11:26:25+00:00",
    "iocs": "iocs/d1f67c3b62dd.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-   "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-   "desc": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterpri",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg",
-   "date": "2026-10-06T11:02:30+00:00",
-   "iocs": "iocs/7cefa7d6817f.txt",
    "ioc_count": 1
   },
   {
@@ -513,34 +577,6 @@
    "date": "2026-10-06T10:00:33+00:00",
    "iocs": "iocs/7669d3486c54.txt",
    "ioc_count": 21
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-   "desc": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-   "image": "",
-   "date": "2026-10-06T09:25:50+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-   "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-   "desc": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg",
-   "date": "2026-10-06T09:21:47+00:00",
-   "iocs": "iocs/0b1fb37b29c2.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-   "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-   "desc": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must alr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg",
-   "date": "2026-10-06T06:58:56+00:00",
-   "iocs": "iocs/f57b4be0b51a.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",
@@ -645,22 +681,6 @@
    "desc": "&quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious inten",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-02T15:51:33+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Vulnerability Backlogs Are an Ownership Problem",
-   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-   "desc": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7af7ba810dddd22/6abeaceed099771c4068c437/key_-_igoriss-getty-1276829944.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
-   "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-   "desc": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T13:00:00+00:00"
   },
   {
    "source": "Aikido",
@@ -947,16 +967,6 @@
    "date": "2026-09-23T13:00:00+00:00"
   },
   {
-   "source": "Socket",
-   "title": "MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack",
-   "link": "https://socket.dev/blog/memtensor-compromise?utm_medium=feed",
-   "desc": "The compromise affects MemTensor's MemOS, an open source memory framework for large language models (LLMs) and AI agents. Both npm package @memtensor/memos-cloud-openclaw-plugin and the PyPI package MemoryOS are compromi",
-   "image": "",
-   "date": "2026-09-23T09:16:58+00:00",
-   "iocs": "iocs/65a27eab56c9.txt",
-   "ioc_count": 22
-  },
-  {
    "source": "Aikido",
    "title": "Novel supplychain.local Go worm appears",
    "link": "https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi",
@@ -1181,16 +1191,6 @@
    "desc": "Executive Summary Since the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from ba",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png",
    "date": "2026-09-08T14:00:00+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-   "link": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-   "desc": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight-1.jpg",
-   "date": "2026-09-08T10:01:07+00:00",
-   "iocs": "iocs/320a2c58ac73.txt",
-   "ioc_count": 22
   },
   {
    "source": "Unit 42",

@@ -1,0 +1,19 @@
+IOC EXTRACTION - SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances
+Source: https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html
+Extracted: 2026-10-07 21:35:43 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-102255
+CVE-2026-102256
+CVE-2026-102257
+CVE-2026-102258
+CVE-2026-15409
+CVE-2026-15410
+CVE-2026-83548
+CVE-2026-83549
+CVE-2026-88772

@@ -1,0 +1,26 @@
+IOC EXTRACTION - Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+Source: https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
+Extracted: 2026-10-07 21:35:41 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+SHA256 (12)
+----------------------------------------
+0357032e1214ae11d7da8e00f6b89fb7694e240b17d05f2f47feaf43e96aa7d8
+2e1f6d7f24650b0720636efe48f2ccf59704ee6f11ffa52b5a4c4afcc474fe91
+491f453d208bbb7923626c208df93c95fdfae3b78b738b996c8dafda9d00619a
+5b7c491c8784eb438b1634981f1ea6333d3557431268233c2a7a92173ca17122
+607afd2745b84c4332e028262937be35f25316aadf584340269d23a3dbcd37ef
+798079c762496d26ce99d3a9113cb24715e31ec8a69a6cdcffa70f5001e19df0
+8886ca2b71501a6729f1ae868bd7d7b9b53c5cb6b5c7d851d041db4d6206945d
+986d36b1c68c3e800596c4680dd6c67c42118955e08b472f641793c59dcd347b
+a10d3b5dbc142d040e6ae772ab41dc44b0e94659237709d1241fdefdd36f7b35
+b7ea8c77695cf9791a9d45f17c33ebb9bd5f68d4c96df6f56136dc6a834576d2
+e1667fe4e4ea98427960ea2eda7c53af1246ec58ac22282a6877d394a0957065
+e1e4fd74f673f1df9c039ae6424b36868a0475a043abea2dedd1f6f12a365ebf

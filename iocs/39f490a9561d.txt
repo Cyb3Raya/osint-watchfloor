@@ -1,0 +1,13 @@
+IOC EXTRACTION - Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
+Source: https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html
+Extracted: 2026-10-07 21:35:42 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-60137
+CVE-2026-63030
+CVE-2026-88772
