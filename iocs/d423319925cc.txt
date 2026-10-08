@@ -1,0 +1,19 @@
+IOC EXTRACTION - Making sure the checks get printed
+Source: https://blog.talosintelligence.com/making-sure-the-checks-get-printed/
+Extracted: 2026-10-08 20:34:47 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88779
+
+MD5 (5)
+----------------------------------------
+207d9d891ac756b2bfad88aba5682c65
+2915b3f8b703eb744fc54c81f4a9c67f
+38de5b216c33833af710e88f7f64fc98
+63f3351cfdf618bec6045f60203e7978
+f1fe671bcefd4630e5ed8b87c9283534

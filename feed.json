@@ -1,16 +1,166 @@
 {
- "generated": "2026-10-08T14:56:13.716700+00:00",
+ "generated": "2026-10-08T20:34:58.592386+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
    "source": "RF The Record",
-   "title": "Leaked chats show Russian extortion gang sending ‘agents’ into US law firms",
-   "link": "https://therecord.media/leaked-chats-show-russian-extortion-gang-sending-agents-to-law-firms",
-   "desc": "In leaked chats, members track dozens of victims, haggle over multimillion-dollar payments and direct operatives based in the United States whom they call “agents.”",
+   "title": "Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal",
+   "link": "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
+   "desc": "The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records and payroll and tax information, Rep. Steven Horsford (D-NV) said in a p",
    "image": "",
-   "date": "2026-10-08T14:46:00+00:00"
+   "date": "2026-10-08T20:27:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+   "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+   "desc": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part o",
+   "image": "",
+   "date": "2026-10-08T20:09:45+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Low-cost Android phones ship with residential proxy malware",
+   "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+   "desc": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud,",
+   "image": "",
+   "date": "2026-10-08T19:20:33+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "International coalition seizes tools used by cyber firm behind Flax Typhoon",
+   "link": "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
+   "desc": "The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed \"widespread vulnerability scanning and, in some cases, intrusions\" as part of the Flax Typhoon campaign.",
+   "image": "",
+   "date": "2026-10-08T19:20:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+   "desc": "The first cybercriminal to ever make the FBI's &quot;10 Most Wanted Fugitives&quot; list allegedly infused Tren de Aragua's violent criminal operations with cash.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-08T19:08:16+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+   "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+   "desc": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other count",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg",
+   "date": "2026-10-08T18:32:21+00:00",
+   "iocs": "iocs/92f3696e1648.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+   "desc": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9326a6a1bce6d31/6ac6bf347f984a40d88b6862/matchboil_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-08T18:01:50+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Making sure the checks get printed",
+   "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+   "desc": "Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source.jpg",
+   "date": "2026-10-08T18:00:29+00:00",
+   "iocs": "iocs/d423319925cc.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+   "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+   "desc": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, kee",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg",
+   "date": "2026-10-08T17:58:02+00:00",
+   "iocs": "iocs/d4fcba26f342.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+   "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+   "desc": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+   "image": "",
+   "date": "2026-10-08T17:10:55+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
+   "link": "https://therecord.media/ransomware-recovery-charges-doj",
+   "desc": "The owner of a ransomware recovery firm was hit with wire fraud charges for allegedly making secret ransom payments while overcharging the victims of attacks.",
+   "image": "",
+   "date": "2026-10-08T17:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "ASOS: Hackers tricked way into employee account before sending rogue push notification",
+   "link": "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
+   "desc": "The company said its investigation, carried out with external experts, found the attackers had accessed “some personal information, including names and contact details, and certain non-personal account related informatio",
+   "image": "",
+   "date": "2026-10-08T16:57:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
+   "link": "https://isc.sans.edu/diary/rss/33410",
+   "desc": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x",
+   "image": "",
+   "date": "2026-10-08T16:52:53+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+   "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+   "desc": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, whic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg",
+   "date": "2026-10-08T15:45:56+00:00",
+   "iocs": "iocs/16fe04c34c07.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "RF The Record",
+   "title": "Crypto thief who splurged on gold grills sentenced in London",
+   "link": "https://therecord.media/cryptocurrency-sim-swap-london",
+   "desc": "A 25-year-old man who helped steal nearly $260,000 in cryptocurrency through a SIM-swapping fraud scheme was sentenced to two and a half years in prison at a London court.",
+   "image": "",
+   "date": "2026-10-08T15:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Patches a Dozen Critical Vulnerabilities",
+   "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
+   "desc": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityW",
+   "image": "",
+   "date": "2026-10-08T15:28:06+00:00",
+   "iocs": "iocs/cf3dc8c29cd0.txt",
+   "ioc_count": 17
+  },
+  {
+   "source": "The Hacker News",
+   "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+   "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+   "desc": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg",
+   "date": "2026-10-08T15:26:56+00:00",
+   "iocs": "iocs/7624a715a1f8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+   "desc": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+   "image": "",
+   "date": "2026-10-08T15:26:33+00:00",
+   "iocs": "iocs/484d290f7ef1.txt",
+   "ioc_count": 9
   },
   {
    "source": "SecurityWeek",
@@ -19,6 +169,16 @@
    "desc": "All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable. The post Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink appeared first o",
    "image": "",
    "date": "2026-10-08T14:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+   "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+   "desc": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg",
+   "date": "2026-10-08T14:12:34+00:00",
+   "iocs": "iocs/50bd0eed8979.txt",
+   "ioc_count": 3
   },
   {
    "source": "SecurityWeek",
@@ -39,28 +199,12 @@
    "date": "2026-10-08T14:00:10+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers target two South Korean megachurches, potentially exposing congregant data",
-   "link": "https://therecord.media/south-korea-hackers-megachurches",
-   "desc": "Two of South Korea's largest Protestant churches are investigating cyberattacks that may have exposed sensitive information about hundreds of thousands of members, including personal details, financial records and intern",
-   "image": "",
-   "date": "2026-10-08T13:55:56+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
    "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
    "desc": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
    "image": "",
    "date": "2026-10-08T13:18:36+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Thousands of cheap Android phones shipped with ad-fraud malware",
-   "link": "https://therecord.media/cheap-androids-shipped-with-ad-fraud-malware",
-   "desc": "\"It’s on the phone before the owner switches it on for the first time, and it can’t be uninstalled,\" researchers at Bitdefender said about ad fraud malware found on thousands of cheap Android devices.",
-   "image": "",
-   "date": "2026-10-08T13:00:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -81,14 +225,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Russian-aligned spies upgrade malware used in attacks on Ukrainian transport, energy firms",
-   "link": "https://therecord.media/russia-ukraine-malware-transportation",
-   "desc": "Russian-aligned hackers have targeted Ukrainian transportation, manufacturing and energy companies with a constantly evolving malware strain designed to harvest system data, according to new research.",
-   "image": "",
-   "date": "2026-10-08T12:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft Teams to get support for third-party deepfake detection tools",
    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
@@ -102,14 +238,6 @@
    "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
    "desc": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f221f33ee9fe4e1/6ac6b6b1015fc88b126ddd85/New_Chapter_CharlieAJA_Getty_Images.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-08T12:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Major Yandex data center in Russia hit by Ukrainian drone strike",
-   "link": "https://therecord.media/yandex-russia-drone-ukraine",
-   "desc": "A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly falling to around 70 percent of normal levels.",
-   "image": "",
    "date": "2026-10-08T12:00:00+00:00"
   },
   {
@@ -437,22 +565,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
-   "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-   "desc": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T14:15:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ransomware has a new target. Is your backup ready?",
-   "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-   "desc": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested b",
-   "image": "",
-   "date": "2026-10-07T14:01:11+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
    "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -463,90 +575,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-   "desc": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
-   "image": "",
-   "date": "2026-10-07T12:49:01+00:00",
-   "iocs": "iocs/4e5e4a2f6d27.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-   "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-   "desc": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1600/Proofpoint.png",
-   "date": "2026-10-07T11:57:05+00:00",
-   "iocs": "iocs/a1f84e38ce83.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-   "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-   "desc": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1600/forti-admin.jpg",
-   "date": "2026-10-07T11:56:56+00:00",
-   "iocs": "iocs/98f167473783.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-   "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-   "desc": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s1600/jira-attack.jpg",
-   "date": "2026-10-07T11:49:26+00:00",
-   "iocs": "iocs/b144badd2c91.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-   "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-   "desc": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a rea",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s1600/picus.jpg",
-   "date": "2026-10-07T11:42:24+00:00",
-   "iocs": "iocs/b3468b5f887d.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-   "desc": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-   "image": "",
-   "date": "2026-10-07T11:37:07+00:00",
-   "iocs": "iocs/a4a095890425.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-   "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-   "desc": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [..",
-   "image": "",
-   "date": "2026-10-07T10:35:15+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "One breach, please, and make no mistakes",
    "link": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
    "desc": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/OneBreachPlease-BlogHeader.jpg",
    "date": "2026-10-07T10:00:25+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-   "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-   "desc": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg",
-   "date": "2026-10-07T08:07:38+00:00",
-   "iocs": "iocs/ecbf8c73de94.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -711,24 +745,6 @@
    "date": "2026-10-03T14:40:21+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-   "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-   "desc": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T20:18:37+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
-   "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-   "desc": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f39295ab2cc8617/6abec652493aca7db2e138d1/hear-no-evil-see-no-evil-monkeys-robert_lemos.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T16:56:30+00:00",
-   "iocs": "iocs/c85075d09d16.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Aikido",
    "title": "Top vulnerability remediation tools in 2026",
    "link": "https://www.aikido.dev/blog/top-vulnerability-remediation-tools",
@@ -745,14 +761,6 @@
    "date": "2026-10-02T03:44:40+00:00",
    "iocs": "iocs/da2231050ee3.txt",
    "ioc_count": 15
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
-   "link": "https://isc.sans.edu/diary/rss/33390",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-02T02:00:02+00:00"
   },
   {
    "source": "Aikido",
@@ -1141,16 +1149,6 @@
    "desc": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to A",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/12_Cloud_cybersecurity_research_Overview_1920x900-2.jpg",
    "date": "2026-09-14T10:00:01+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "We've got one word for it, and it's usually the wrong one",
-   "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
-   "desc": "In this week's Threat Source newsletter, Joe explores why the word \"burnout\" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-1.jpg",
-   "date": "2026-09-10T18:00:15+00:00",
-   "iocs": "iocs/4225d58888ea.txt",
-   "ioc_count": 7
   },
   {
    "source": "Unit 42",

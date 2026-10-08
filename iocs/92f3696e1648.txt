@@ -1,0 +1,24 @@
+IOC EXTRACTION - FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
+Source: https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html
+Extracted: 2026-10-08 20:34:29 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2014-6278
+CVE-2015-3306
+CVE-2015-5477
+CVE-2016-3081
+CVE-2019-11510
+CVE-2021-22205
+CVE-2021-3199
+CVE-2023-22894
+CVE-2026-88772
+
+Domains (2)
+----------------------------------------
+dns[.]studiocloud[.]xyz
+natcloudservice[.]com

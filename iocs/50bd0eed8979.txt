@@ -1,0 +1,19 @@
+IOC EXTRACTION - ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms
+Source: https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html
+Extracted: 2026-10-08 20:34:34 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+IPv4 (1)
+----------------------------------------
+38[.]244[.]50[.]120
+
+Domains (1)
+----------------------------------------
+xcai[.]pro

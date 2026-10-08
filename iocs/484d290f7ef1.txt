@@ -1,0 +1,19 @@
+IOC EXTRACTION - Cisco warns of critical flaws allowing Nexus switch takeover
+Source: https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/
+Extracted: 2026-10-08 20:34:41 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-76465
+CVE-2026-76471
+CVE-2026-76480
+CVE-2026-76482
+CVE-2026-76483
+CVE-2026-76484
+CVE-2026-76485
+CVE-2026-76486
+CVE-2026-76501

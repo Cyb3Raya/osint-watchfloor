@@ -1,0 +1,23 @@
+IOC EXTRACTION - Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
+Source: https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
+Extracted: 2026-10-08 20:34:32 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-72898
+CVE-2026-88772
+
+IPv4 (8)
+----------------------------------------
+172[.]86[.]91[.]7
+210[.]149[.]87[.]120
+213[.]163[.]202[.]171
+221[.]216[.]140[.]129
+221[.]216[.]140[.]49
+3[.]112[.]252[.]14
+54[.]95[.]112[.]6
+69[.]10[.]51[.]162

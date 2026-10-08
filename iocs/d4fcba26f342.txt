@@ -1,0 +1,22 @@
+IOC EXTRACTION - ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
+Source: https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
+Extracted: 2026-10-08 20:34:31 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+IPv4 (3)
+----------------------------------------
+151[.]243[.]232[.]123
+45[.]138[.]12[.]177
+80[.]78[.]27[.]252
+
+Domains (2)
+----------------------------------------
+c2[.]installscenter[.]com
+painel[.]installscenter[.]com
