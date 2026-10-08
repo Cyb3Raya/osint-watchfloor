@@ -1,0 +1,15 @@
+IOC EXTRACTION - 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
+Source: https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
+Extracted: 2026-10-08 14:55:37 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+Domains (1)
+----------------------------------------
+icy-star-f45c[.]workers[.]dev

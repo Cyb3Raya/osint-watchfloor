@@ -1,9 +1,233 @@
 {
- "generated": "2026-10-08T07:33:19.690798+00:00",
+ "generated": "2026-10-08T14:56:13.716700+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Leaked chats show Russian extortion gang sending ‘agents’ into US law firms",
+   "link": "https://therecord.media/leaked-chats-show-russian-extortion-gang-sending-agents-to-law-firms",
+   "desc": "In leaked chats, members track dozens of victims, haggle over multimillion-dollar payments and direct operatives based in the United States whom they call “agents.”",
+   "image": "",
+   "date": "2026-10-08T14:46:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
+   "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
+   "desc": "All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable. The post Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink appeared first o",
+   "image": "",
+   "date": "2026-10-08T14:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+   "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+   "desc": "Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products. The post Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication ap",
+   "image": "",
+   "date": "2026-10-08T14:04:44+00:00",
+   "iocs": "iocs/63a35d9d1236.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+   "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+   "desc": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and ",
+   "image": "",
+   "date": "2026-10-08T14:00:10+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hackers target two South Korean megachurches, potentially exposing congregant data",
+   "link": "https://therecord.media/south-korea-hackers-megachurches",
+   "desc": "Two of South Korea's largest Protestant churches are investigating cyberattacks that may have exposed sensitive information about hundreds of thousands of members, including personal details, financial records and intern",
+   "image": "",
+   "date": "2026-10-08T13:55:56+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+   "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+   "desc": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+   "image": "",
+   "date": "2026-10-08T13:18:36+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Thousands of cheap Android phones shipped with ad-fraud malware",
+   "link": "https://therecord.media/cheap-androids-shipped-with-ad-fraud-malware",
+   "desc": "\"It’s on the phone before the owner switches it on for the first time, and it can’t be uninstalled,\" researchers at Bitdefender said about ad fraud malware found on thousands of cheap Android devices.",
+   "image": "",
+   "date": "2026-10-08T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
+   "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+   "desc": "Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026. The post US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-08T12:46:21+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
+   "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+   "desc": "Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The post SonicWall and Splunk Patch Critical Vulnerabilities appeared first",
+   "image": "",
+   "date": "2026-10-08T12:37:32+00:00",
+   "iocs": "iocs/b55507a2ae44.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian-aligned spies upgrade malware used in attacks on Ukrainian transport, energy firms",
+   "link": "https://therecord.media/russia-ukraine-malware-transportation",
+   "desc": "Russian-aligned hackers have targeted Ukrainian transportation, manufacturing and energy companies with a constantly evolving malware strain designed to harvest system data, according to new research.",
+   "image": "",
+   "date": "2026-10-08T12:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+   "desc": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+   "image": "",
+   "date": "2026-10-08T12:08:16+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Writing the Next Chapter",
+   "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+   "desc": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f221f33ee9fe4e1/6ac6b6b1015fc88b126ddd85/New_Chapter_CharlieAJA_Getty_Images.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-08T12:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Major Yandex data center in Russia hit by Ukrainian drone strike",
+   "link": "https://therecord.media/yandex-russia-drone-ukraine",
+   "desc": "A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly falling to around 70 percent of normal levels.",
+   "image": "",
+   "date": "2026-10-08T12:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ASOS links data breach to social engineering attack, credential theft",
+   "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+   "desc": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+   "image": "",
+   "date": "2026-10-08T11:42:46+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
+   "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
+   "desc": "The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million to Guard AI Agents at Runtime appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-08T11:11:28+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+   "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+   "desc": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrast",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlTrJzuyuM3FgdyTkx-JLieOXeR9fK_hENZFrdItZ09E4ZFhk8UYOPslpbGGidTUGCDgcTHqY7wvYrThg-Hwl24MQhL63GIfmRsBLy9MJ7iDXn1XbbX1W_EgGFw9eRyT4LOJq0aoyWhmOHF3O5a9L5LcKNS1IJxQqs_UBwmOnPRmx3fXwUPpKeYdARVE/s1600/anyrun.jpg",
+   "date": "2026-10-08T10:30:00+00:00",
+   "iocs": "iocs/e8a1c9ded2dd.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Owner of Empire cybercrime market gets 40 years in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+   "desc": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+   "image": "",
+   "date": "2026-10-08T10:29:19+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
+   "link": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
+   "desc": "SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states. The post TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws appeared first on SecurityW",
+   "image": "",
+   "date": "2026-10-08T10:24:04+00:00",
+   "iocs": "iocs/5ab6a58edb94.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
+   "link": "https://blog.talosintelligence.com/uat-11985/",
+   "desc": "Cisco Talos identified an APT spear-phishing campaign against individuals affiliated with Taiwan research organizations. The operation leveraged legitimate public event themes and impersonated reputable academic and poli",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_spotlight.jpg",
+   "date": "2026-10-08T10:01:06+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware",
+   "link": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
+   "desc": "“AI-analysis evasion” encapsulates the real-world techniques malware authors are developing in attempt to obstruct or defeat any layers of automated AI analysis.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/CAIRN-TechBlog-Header.jpg",
+   "date": "2026-10-08T10:00:14+00:00",
+   "iocs": "iocs/fac3ffd80016.txt",
+   "ioc_count": 12
+  },
+  {
+   "source": "The Hacker News",
+   "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+   "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+   "desc": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet po",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg",
+   "date": "2026-10-08T09:46:32+00:00",
+   "iocs": "iocs/0a0a43d53f75.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
+   "link": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
+   "desc": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on S",
+   "image": "",
+   "date": "2026-10-08T09:27:55+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
+   "link": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
+   "desc": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications. The post Oracle Health Data Breach Tally Climbs to Nearly 20 Million appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-08T08:23:31+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
+   "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
+   "desc": "Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access. The post FortiBleed Attackers Locking Victims Out of Fortinet Devices appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-08T07:52:33+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+   "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+   "desc": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchang",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg",
+   "date": "2026-10-08T07:42:04+00:00",
+   "iocs": "iocs/6ea1ec6e49a1.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+   "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+   "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg",
+   "date": "2026-10-08T07:41:44+00:00",
+   "iocs": "iocs/9d4247f226b7.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
@@ -107,14 +331,6 @@
    "date": "2026-10-07T20:50:13+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
-   "link": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
-   "desc": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
-   "image": "",
-   "date": "2026-10-07T19:50:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
@@ -141,22 +357,6 @@
    "date": "2026-10-07T18:48:17+00:00",
    "iocs": "iocs/d19160e8f030.txt",
    "ioc_count": 13
-  },
-  {
-   "source": "RF The Record",
-   "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
-   "link": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
-   "desc": "Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation.",
-   "image": "",
-   "date": "2026-10-07T18:35:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Arizona courts say hackers stole info on more than 1.3 million people",
-   "link": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
-   "desc": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffi",
-   "image": "",
-   "date": "2026-10-07T18:31:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -227,14 +427,6 @@
    "ioc_count": 2
   },
   {
-   "source": "RF The Record",
-   "title": "Oklahoma judge’s Flock ruling shows the power of Supreme Court’s digital evidence decision",
-   "link": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
-   "desc": "How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case.",
-   "image": "",
-   "date": "2026-10-07T15:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
    "link": "https://isc.sans.edu/diary/rss/33406",
@@ -251,14 +443,6 @@
    "desc": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-10-07T14:15:20+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyber experts call on CISA to create mandatory federal OT rules",
-   "link": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
-   "desc": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.",
-   "image": "",
-   "date": "2026-10-07T14:03:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -279,24 +463,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-   "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-   "desc": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T13:47:12+00:00",
-   "iocs": "iocs/c8213cf695f3.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
-   "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
-   "desc": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first o",
-   "image": "",
-   "date": "2026-10-07T13:06:10+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
@@ -305,14 +471,6 @@
    "date": "2026-10-07T12:49:01+00:00",
    "iocs": "iocs/4e5e4a2f6d27.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
-   "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-   "desc": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on Securit",
-   "image": "",
-   "date": "2026-10-07T12:37:24+00:00"
   },
   {
    "source": "The Hacker News",
@@ -365,38 +523,12 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chrome 155 Update Patches 247 Vulnerabilities",
-   "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
-   "desc": "Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track. The post Chrome 155 Update Patches 247 Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T10:51:57+00:00",
-   "iocs": "iocs/d086aedd3dc3.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "BleepingComputer",
    "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
    "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
    "desc": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [..",
    "image": "",
    "date": "2026-10-07T10:35:15+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Advantest confirms personal information stolen in ransomware attack",
-   "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-   "desc": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-   "image": "",
-   "date": "2026-10-07T10:27:52+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
-   "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
-   "desc": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models. The post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appe",
-   "image": "",
-   "date": "2026-10-07T10:07:09+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -407,14 +539,6 @@
    "date": "2026-10-07T10:00:25+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "ASOS Confirms Cyberattack, Data Breach",
-   "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
-   "desc": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T09:46:20+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
    "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
@@ -423,42 +547,6 @@
    "date": "2026-10-07T08:07:38+00:00",
    "iocs": "iocs/ecbf8c73de94.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
-   "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
-   "desc": "Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations The post Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T07:58:22+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-   "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-   "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fqqLhgtSTncznc3k2vTS6LJlp8_v3RMx7LaYawiUYEMDuhQ1pOdqrYqlFeyAG5TPBmEnbkLI8vu43GMDxPvaZX6kABd1zQGpIAbVpD2pwtl5v4TohuwbBjlz4dMcjYUv11ogWwPoMoOFJn0aHmxX46xc5Y3ocuxOrg7ix9RrzPzfHtjlW2rAElAV-9-p/s1600/cf-malware.jpg",
-   "date": "2026-10-07T06:57:54+00:00",
-   "iocs": "iocs/3836fc91e22e.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Android’s October 2026 Updates Patch 25 Vulnerabilities",
-   "link": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
-   "desc": "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation. The post Android&#8217;s October 2026 Updates Patch 25 Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T06:55:52+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
-   "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
-   "desc": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-07T06:37:16+00:00",
-   "iocs": "iocs/5b271f17f9e8.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -477,16 +565,6 @@
    "date": "2026-10-07T00:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-   "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-   "desc": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...",
-   "image": "",
-   "date": "2026-10-06T21:00:27+00:00",
-   "iocs": "iocs/e4f906202657.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
@@ -503,14 +581,6 @@
    "date": "2026-10-06T20:30:27+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-   "desc": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-   "image": "",
-   "date": "2026-10-06T19:21:53+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Introducing Socket Scanning for VS Code Marketplace Extensions",
    "link": "https://socket.dev/blog/vscode-extensions?utm_medium=feed",
@@ -521,42 +591,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-   "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-   "desc": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0zSahkV9zcg01XiHIrV4cYRCzxV9MLlvvX9vRW5e0Nd5Kg0aXGPgWR2oqqdHAAcrmm5r66m5Aj8VF9HYZtgTJv_X1HOaijWEoB_6m8ieYd-F9ytUtmn-1GgX4B-BWo6LXQgzVzr0nTiXsicD-3eTf02ZvrTwPsOCFt8yYGvuxTHfIYxwErOI1w99uekRz/s1600/muse-ai.jpg",
-   "date": "2026-10-06T18:38:55+00:00",
-   "iocs": "iocs/5024a2a66cac.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-   "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-   "desc": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors ar",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42ncE2ZMHIbAm_fj5U9fqCYUvPwhyUiNbARM3CC5IxhnMXjIZ2ENa99UDGeaZqGPlqn53A7y7Nkz1ZxzzyykKxEb4GT0jxWhrar9Q5yPmBN1NL6599HRdbzbLSYf3WPuU7tkkY5eOsvhAT9dw-24DXuusztPyRr2H66840cWZx17MZ0B-rB877W19bgX1/s1600/linux-spam.jpg",
-   "date": "2026-10-06T18:24:25+00:00",
-   "iocs": "iocs/4bb0cd016daf.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Dark Reading",
    "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
    "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
    "desc": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
    "date": "2026-10-06T17:56:29+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-   "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-   "desc": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbuck",
-   "image": "",
-   "date": "2026-10-06T17:34:59+00:00",
-   "iocs": "iocs/17c788dbd3c4.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -575,14 +615,6 @@
    "date": "2026-10-06T16:59:24+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-   "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-   "desc": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [..",
-   "image": "",
-   "date": "2026-10-06T16:33:54+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido Security achieves FedRAMP Moderate authorization",
    "link": "https://www.aikido.dev/blog/aikido-fedramp-moderate-authorization",
@@ -599,16 +631,6 @@
    "date": "2026-10-06T13:16:02+00:00",
    "iocs": "iocs/3a8c72da9819.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-   "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-   "desc": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVdFxWk-OP9_vpIdzp0S9ffqMNnyAMbRWKklSryVockcistDlpX5ZcfLGluaqpHqdsu_DoOaFq2J1z5jTVNatxS8aoQjMNS1PoEYOAZrj1V1Spdk67LUZgSlSPlqeEULSVSbHZfkCimWV56E2HKs_IUNrJaYFrPPq0YaXS2sEMBVZNJM0f2ydfUMFREw/s1600/office-sheet.jpg",
-   "date": "2026-10-06T11:57:00+00:00",
-   "iocs": "iocs/0d2a51b21028.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -705,16 +727,6 @@
    "date": "2026-10-02T16:56:30+00:00",
    "iocs": "iocs/c85075d09d16.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Dark Reading",
-   "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
-   "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-   "desc": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb2cd941ab8738/6abfc2b68e913fc976ab5ea7/USB-years-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T16:27:54+00:00",
-   "iocs": "iocs/f071bbafdb42.txt",
-   "ioc_count": 2
   },
   {
    "source": "Aikido",
@@ -1151,16 +1163,6 @@
    "ioc_count": 4
   },
   {
-   "source": "Cisco Talos",
-   "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
-   "link": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/",
-   "desc": "Cisco Talos is actively tracking the exploitation of two vulnerabilities in Cisco’s Secure Firewall Management Center (FMC) Software.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_advisory.jpg",
-   "date": "2026-09-09T16:08:59+00:00",
-   "iocs": "iocs/0ef308ce9d4e.txt",
-   "ioc_count": 14
-  },
-  {
    "source": "Unit 42",
    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
    "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
@@ -1169,16 +1171,6 @@
    "date": "2026-09-09T10:00:55+00:00",
    "iocs": "iocs/654fcccd2a96.txt",
    "ioc_count": 273
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
-   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
-   "desc": "Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as \"critical.\"",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/patch_tuesday.jpg",
-   "date": "2026-09-08T22:16:35+00:00",
-   "iocs": "iocs/e9b628c083a5.txt",
-   "ioc_count": 165
   },
   {
    "source": "Krebs on Security",

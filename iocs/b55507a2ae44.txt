@@ -1,0 +1,11 @@
+IOC EXTRACTION - SonicWall and Splunk Patch Critical Vulnerabilities
+Source: https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/
+Extracted: 2026-10-08 14:55:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-102255

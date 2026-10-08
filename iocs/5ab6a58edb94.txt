@@ -1,0 +1,15 @@
+IOC EXTRACTION - TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws
+Source: https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/
+Extracted: 2026-10-08 14:55:57 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2025-30237
+CVE-2025-30238
+CVE-2025-30239
+CVE-2025-30240
+CVE-2025-30241

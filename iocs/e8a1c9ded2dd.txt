@@ -1,0 +1,17 @@
+IOC EXTRACTION - Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
+Source: https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html
+Extracted: 2026-10-08 14:55:36 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+Domains (3)
+----------------------------------------
+boegl-krysl[.]eu
+check[.]boegl-krysl[.]eu
+workers[.]dev

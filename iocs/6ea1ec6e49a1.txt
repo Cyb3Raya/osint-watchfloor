@@ -1,0 +1,11 @@
+IOC EXTRACTION - U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
+Source: https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html
+Extracted: 2026-10-08 14:55:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
