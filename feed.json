@@ -1,9 +1,33 @@
 {
- "generated": "2026-10-07T21:36:02.833636+00:00",
+ "generated": "2026-10-08T01:18:21.671574+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Ransomware recovery CEO charged over secret ransom payments",
+   "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+   "desc": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to rec",
+   "image": "",
+   "date": "2026-10-07T23:04:37+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+   "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
+   "desc": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments The post Evolution of Web3 in Cloud Supply Chain Attacks appeared first on Unit ",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/10_Myth-Busting_Category_1505x922.jpg",
+   "date": "2026-10-07T22:00:16+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+   "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+   "desc": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-07T21:42:55+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
@@ -11,6 +35,14 @@
    "desc": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
    "image": "",
    "date": "2026-10-07T21:28:54+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+   "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+   "desc": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c15df6e8c5aa81c/6ac6ac875987721c1d044af4/masssurveillance-J_Studios-Getty-2259137560.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-07T21:25:13+00:00"
   },
   {
    "source": "Dark Reading",
@@ -513,16 +545,6 @@
    "date": "2026-10-06T15:16:44+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "How to secure RMM software: 8 controls MSPs should test",
-   "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-   "desc": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patchi",
-   "image": "",
-   "date": "2026-10-06T14:00:10+00:00",
-   "iocs": "iocs/5c72c383e194.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Aikido",
    "title": "Aikido Security achieves FedRAMP Moderate authorization",
    "link": "https://www.aikido.dev/blog/aikido-fedramp-moderate-authorization",
@@ -665,22 +687,6 @@
    "date": "2026-10-02T16:27:54+00:00",
    "iocs": "iocs/f071bbafdb42.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
-   "link": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-   "desc": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T16:01:22+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
-   "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
-   "desc": "&quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious inten",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-02T15:51:33+00:00"
   },
   {
    "source": "Aikido",
@@ -1265,14 +1271,6 @@
    "date": "2026-08-31T10:00:36+00:00",
    "iocs": "iocs/0befd8aa6b74.txt",
    "ioc_count": 77
-  },
-  {
-   "source": "Unit 42",
-   "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
-   "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
-   "desc": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safe",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg",
-   "date": "2026-08-28T22:00:07+00:00"
   },
   {
    "source": "Wiz Threats",
