@@ -1,0 +1,12 @@
+IOC EXTRACTION - TensorLake npm SDK Compromised in ChainDrop Shai-Hulud Credential-Stealing Attack
+Source: https://socket.dev/blog/tensorlake-compromise?utm_medium=feed
+Extracted: 2026-10-08 07:33:18 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA256 (2)
+----------------------------------------
+25a0735d0db7dc40e5d45ce42d9c106067e6a66e184d967cfecfab17c3bcb5ef
+b50a00900399ba99fb6ce1fc151519cb99d44320ef2a631f2237e1aea0ad6fec

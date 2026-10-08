@@ -1,9 +1,55 @@
 {
- "generated": "2026-10-08T01:18:21.671574+00:00",
+ "generated": "2026-10-08T07:33:19.690798+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+   "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+   "desc": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-10-08T06:32:16+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+   "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+   "desc": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg",
+   "date": "2026-10-08T05:46:20+00:00",
+   "iocs": "iocs/a947937fc68c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Aikido",
+   "title": "tensorlake NPM package compromised with Shai Hulud worm",
+   "link": "https://www.aikido.dev/blog/tensorlake-npm-package-compromised",
+   "desc": "malicious code detected in tensorlake 0.5.144 Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac73ec1ba843571435aaf6e_%5BShai-title%5D_Feature.jpg",
+   "date": "2026-10-08T03:32:00+00:00",
+   "iocs": "iocs/bf48eb472a9e.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Socket",
+   "title": "TensorLake npm SDK Compromised in ChainDrop Shai-Hulud Credential-Stealing Attack",
+   "link": "https://socket.dev/blog/tensorlake-compromise?utm_medium=feed",
+   "desc": "Tensorlake npm SDK version 0.5.144 was compromised in a ChainDrop / Shai-Hulud attack, delivering credential-stealing malware.",
+   "image": "",
+   "date": "2026-10-08T02:54:50+00:00",
+   "iocs": "iocs/b38f3b21a330.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
+   "link": "https://isc.sans.edu/diary/rss/33408",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-08T02:00:02+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Ransomware recovery CEO charged over secret ransom payments",
@@ -537,14 +583,6 @@
    "date": "2026-10-06T16:33:54+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-   "desc": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-   "image": "",
-   "date": "2026-10-06T15:16:44+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido Security achieves FedRAMP Moderate authorization",
    "link": "https://www.aikido.dev/blog/aikido-fedramp-moderate-authorization",
@@ -579,16 +617,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-06T11:45:11+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-   "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-   "desc": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, an",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg",
-   "date": "2026-10-06T11:26:25+00:00",
-   "iocs": "iocs/d1f67c3b62dd.txt",
-   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -755,16 +783,6 @@
    "desc": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier, from deception and behavioral detection to breaking attack dependencies and resisting ma",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAM26-BlogHeader.jpg",
    "date": "2026-10-01T10:00:05+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-   "link": "https://isc.sans.edu/diary/rss/33388",
-   "desc": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...&#xd;",
-   "image": "",
-   "date": "2026-10-01T05:32:13+00:00",
-   "iocs": "iocs/5af31d29d4e7.txt",
-   "ioc_count": 2
   },
   {
    "source": "Socket",
@@ -947,16 +965,6 @@
    "date": "2026-09-24T14:00:00+00:00"
   },
   {
-   "source": "Socket",
-   "title": "Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts",
-   "link": "https://socket.dev/blog/firefox-google-account-takeover?utm_medium=feed",
-   "desc": "A malicious Firefox extension fetches its payload after installation to evade detection, steal Google session cookies, and automate account takeover.",
-   "image": "",
-   "date": "2026-09-23T21:37:15+00:00",
-   "iocs": "iocs/06f42acfff32.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "Aikido",
    "title": "Top Greptile alternatives in 2026",
    "link": "https://www.aikido.dev/blog/top-greptile-alternatives",
@@ -1051,14 +1059,6 @@
    "date": "2026-09-18T10:00:36+00:00",
    "iocs": "iocs/9529d84cbb12.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "Top on-prem AI pentesting tools in 2026",
-   "link": "https://www.aikido.dev/blog/top-on-prem-pentesting-tools",
-   "desc": "The best on-prem AI pentesting tools of 2026 for regulated teams, compared on air-gap support, whitebox depth, and application coverage Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a5a5f3b4dd7e16062696671_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-09-17T22:40:00+00:00"
   },
   {
    "source": "Unit 42",

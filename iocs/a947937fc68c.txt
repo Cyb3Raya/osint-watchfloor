@@ -1,0 +1,15 @@
+IOC EXTRACTION - Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
+Source: https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html
+Extracted: 2026-10-08 07:33:05 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+Domains (1)
+----------------------------------------
+iseekaigogo[.]com
