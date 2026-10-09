@@ -1,9 +1,53 @@
 {
- "generated": "2026-10-09T19:35:04.423368+00:00",
+ "generated": "2026-10-09T23:28:54.369105+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+   "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+   "desc": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-09T21:07:46+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+   "desc": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-09T20:58:32+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+   "desc": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+   "image": "",
+   "date": "2026-10-09T20:31:37+00:00",
+   "iocs": "iocs/944cba0b0c14.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+   "desc": "Welcome to another gangbuster year for strategic M&amp;A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b8b5144c2f800e/6ac8017e3277a45cef5b830f/Q3-MandA-deals-cybersecurity-Momentum_Cyber.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-09T19:26:26+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+   "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+   "desc": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Usi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg",
+   "date": "2026-10-09T19:14:28+00:00",
+   "iocs": "iocs/bf89595af7c3.txt",
+   "ioc_count": 2
+  },
   {
    "source": "RF The Record",
    "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
@@ -477,26 +521,6 @@
    "date": "2026-10-08T16:52:53+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-   "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-   "desc": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, whic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg",
-   "date": "2026-10-08T15:45:56+00:00",
-   "iocs": "iocs/16fe04c34c07.txt",
-   "ioc_count": 10
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-   "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-   "desc": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityW",
-   "image": "",
-   "date": "2026-10-08T15:28:06+00:00",
-   "iocs": "iocs/cf3dc8c29cd0.txt",
-   "ioc_count": 17
-  },
-  {
    "source": "BleepingComputer",
    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
@@ -505,14 +529,6 @@
    "date": "2026-10-08T15:26:33+00:00",
    "iocs": "iocs/484d290f7ef1.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-   "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-   "desc": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and ",
-   "image": "",
-   "date": "2026-10-08T14:00:10+00:00"
   },
   {
    "source": "Dark Reading",
@@ -697,22 +713,6 @@
    "date": "2026-10-06T19:07:23+00:00",
    "iocs": "iocs/6e30bcb51f64.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
-   "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-   "desc": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
-   "date": "2026-10-06T17:56:29+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
-   "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-   "desc": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95a7a25767db3b0f/6ac41c0b1d3e914583f43264/budgeting1800_PeopleImages_GettyImages.jpeg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-06T17:15:24+00:00"
   },
   {
    "source": "Aikido",
