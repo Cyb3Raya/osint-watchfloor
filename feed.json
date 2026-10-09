@@ -1,9 +1,51 @@
 {
- "generated": "2026-10-09T00:38:19.849906+00:00",
+ "generated": "2026-10-09T06:44:49.778155+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+   "link": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+   "desc": "Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia.",
+   "image": "",
+   "date": "2026-10-10T00:55:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+   "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+   "desc": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,00",
+   "image": "",
+   "date": "2026-10-09T06:39:55+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+   "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+   "desc": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1600/china-hacker.jpg",
+   "date": "2026-10-09T06:39:29+00:00",
+   "iocs": "iocs/de0aa2292fa3.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+   "desc": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+   "image": "",
+   "date": "2026-10-09T05:41:04+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
+   "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
+   "desc": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared",
+   "image": "",
+   "date": "2026-10-09T04:12:38+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
@@ -71,6 +113,14 @@
    "date": "2026-10-08T18:32:21+00:00",
    "iocs": "iocs/92f3696e1648.txt",
    "ioc_count": 11
+  },
+  {
+   "source": "Aikido",
+   "title": "Top FedRAMP-compliant security tools in 2026",
+   "link": "https://www.aikido.dev/blog/top-fedramp-security-compliance-tools",
+   "desc": "We compare the top FedRAMP-compliant security tools in 2026: Aikido for Government, Checkmarx One for Government, Qualys, Rapid7 InsightGovCloud, Snyk for Government, Tenable, Wiz for Government Category: DevSec Tools & ",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-08T18:27:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -141,14 +191,6 @@
    "date": "2026-10-08T15:45:56+00:00",
    "iocs": "iocs/16fe04c34c07.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "RF The Record",
-   "title": "Crypto thief who splurged on gold grills sentenced in London",
-   "link": "https://therecord.media/cryptocurrency-sim-swap-london",
-   "desc": "A 25-year-old man who helped steal nearly $260,000 in cryptocurrency through a SIM-swapping fraud scheme was sentenced to two and a half years in prison at a London court.",
-   "image": "",
-   "date": "2026-10-08T15:45:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -339,22 +381,6 @@
    "date": "2026-10-08T09:27:55+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
-   "link": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-   "desc": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications. The post Oracle Health Data Breach Tally Climbs to Nearly 20 Million appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-08T08:23:31+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
-   "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-   "desc": "Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access. The post FortiBleed Attackers Locking Victims Out of Fortinet Devices appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-08T07:52:33+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
    "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
@@ -525,14 +551,6 @@
    "ioc_count": 9
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft Outlook to block MSIX attachments starting November",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-   "desc": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
-   "image": "",
-   "date": "2026-10-07T15:44:22+00:00"
-  },
-  {
    "source": "Socket",
    "title": "16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials",
    "link": "https://socket.dev/blog/firefox-crypto-wallet-stealers?utm_medium=feed",
@@ -551,16 +569,6 @@
    "date": "2026-10-07T15:34:53+00:00",
    "iocs": "iocs/4d160aba1a13.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-   "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-   "desc": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg",
-   "date": "2026-10-07T15:33:51+00:00",
-   "iocs": "iocs/99a195ea8900.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -1053,14 +1061,6 @@
    "desc": "Talos is releasing CAIRN, a research toolkit for hunting, classifying, and tracking emerging AI-integrated malware.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAIRN-TechBlog-Header.jpg",
    "date": "2026-09-22T10:00:25+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Introducing Aikido Altar: the model that makes sovereign security intelligence possible",
-   "link": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
-   "desc": "Aikido Altar is a compressed, open-weight AI model built for sovereign security intelligence, powering Aikido Machine's on-prem, air-gapped pentesting. Category: Company Updates",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab12534d3c3a04263e9ff28_Were-going-to-fight-AI-with-AI_Feature.png",
-   "date": "2026-09-21T13:30:00+00:00"
   },
   {
    "source": "Unit 42",

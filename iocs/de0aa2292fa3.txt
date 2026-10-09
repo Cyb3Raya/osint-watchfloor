@@ -1,0 +1,27 @@
+IOC EXTRACTION - FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions
+Source: https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html
+Extracted: 2026-10-09 06:44:36 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772
+
+IPv4 (2)
+----------------------------------------
+198[.]13[.]53[.]226
+202[.]182[.]109[.]151
+
+Domains (8)
+----------------------------------------
+98aiblog[.]com
+98aicai[.]com
+98aicode[.]com
+c0cc[.]cc
+linkedinns[.]net
+outlook3650[.]com
+w8510[.]com
+youtubecard[.]com
