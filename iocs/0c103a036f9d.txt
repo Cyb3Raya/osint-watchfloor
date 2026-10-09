@@ -1,0 +1,16 @@
+IOC EXTRACTION - Citrix warns admins to patch new NetScaler RCE flaw immediately
+Source: https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/
+Extracted: 2026-10-09 19:34:46 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-107406
+CVE-2026-3055
+CVE-2026-4368
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88779

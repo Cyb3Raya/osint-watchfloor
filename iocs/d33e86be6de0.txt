@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge
+Source: https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
+Extracted: 2026-10-09 19:34:39 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-105133
+CVE-2026-105134
+CVE-2026-88772

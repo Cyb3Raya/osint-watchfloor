@@ -1,0 +1,11 @@
+IOC EXTRACTION - Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects
+Source: https://thehackernews.com/2026/10/anthropic-launches-free-ai.html
+Extracted: 2026-10-09 19:34:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

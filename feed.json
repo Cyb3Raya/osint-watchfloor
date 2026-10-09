@@ -1,9 +1,119 @@
 {
- "generated": "2026-10-09T14:14:04.073583+00:00",
+ "generated": "2026-10-09T19:35:04.423368+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+   "link": "https://therecord.media/japan-germany-ransomware-arrest",
+   "desc": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
+   "image": "",
+   "date": "2026-10-09T18:45:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+   "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+   "desc": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X. ShinyHunters is the extortion group that said in September it had&nbsp;breached the FB",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRCTw1H9kT8UEVJYmaRrhHvMQEYFuE2TZqB62Wnxz8y4RIYOMald4OYO45ujfgSp0ixhgWVKb3_nJzoKV6gNuu_cKaN2Evnr9u7FlnwsPTPm9TPpikkUR-83UL3VrknNBzITPeFC8f1PKpYMwvH_AbBAFWcbPl61vUXJK1m0xJ_C5QYDIAGi_Ya-A5Tc/s1600/kash.jpg",
+   "date": "2026-10-09T17:45:26+00:00",
+   "iocs": "iocs/30dc1b1f3fca.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+   "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+   "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7326c761c708ed3/654e39e8a2ed90040a1595a2/FBI_hoody_jvphoto_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-09T17:21:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+   "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+   "desc": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+   "image": "",
+   "date": "2026-10-09T17:17:23+00:00",
+   "iocs": "iocs/5912f0c9922d.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+   "desc": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+   "image": "",
+   "date": "2026-10-09T17:02:29+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+   "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+   "desc": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg",
+   "date": "2026-10-09T16:29:55+00:00",
+   "iocs": "iocs/2d8b2a661271.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+   "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+   "desc": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-09T16:25:05+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+   "link": "https://therecord.media/irhythm-data-breach-reports",
+   "desc": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
+   "image": "",
+   "date": "2026-10-09T16:06:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+   "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+   "desc": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.",
+   "image": "",
+   "date": "2026-10-09T16:06:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI touts another ShinyHunters arrest in response to data breach",
+   "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+   "desc": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
+   "image": "",
+   "date": "2026-10-09T15:41:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+   "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+   "desc": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+   "image": "",
+   "date": "2026-10-09T15:38:56+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "arXiv Is Rate Limiting Authors Following a Flood of AI Slop Submissions",
+   "link": "https://socket.dev/blog/arxiv-rate-limiting-slop?utm_medium=feed",
+   "desc": "arXiv now limits authors to two submissions a month as AI slop overwhelms moderators, delays good papers, and sparks debate over applying the limit to everyone.",
+   "image": "",
+   "date": "2026-10-09T14:44:50+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
+   "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+   "desc": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
+   "image": "",
+   "date": "2026-10-09T14:40:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "How to keep AI agents within their permissions",
@@ -13,12 +123,14 @@
    "date": "2026-10-09T14:01:11+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT",
-   "link": "https://therecord.media/openai-disrupts-russian-iranian-operations-chatgpt",
-   "desc": "A Latin American propaganda operation run by Russians and a cluster of Iranian fake journalist identities each had help from now-closed ChatGPT accounts, OpenAI's safety team said.",
-   "image": "",
-   "date": "2026-10-09T13:50:00+00:00"
+   "source": "The Hacker News",
+   "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+   "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+   "desc": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyer",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXm446RUyCxv1-oRtdkXFCb2Hax0UsQEnanQtli1OViTiFpjV4Jb96qpsy94Td6DK6LDrre8q2masVzeA9X1hQE8ct3TEChlzZmNTaqux1CDT52o1A_6cuQYY4-inbvKDNYN4rqTGNrmrit-YcGBZbTppW5RUxNvcom2OV9pS8jU8twPWsj_Vtwgjqvg/s1600/tp.jpg",
+   "date": "2026-10-09T13:22:53+00:00",
+   "iocs": "iocs/691c52c7547c.txt",
+   "ioc_count": 7
   },
   {
    "source": "Dark Reading",
@@ -27,6 +139,36 @@
    "desc": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt509529652bae6ba5/6ac7de6c3ada349d7f093787/Digital_face-imaginima-GettyImages-2228383398.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-09T13:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+   "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+   "desc": "Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk pa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUnGcAOHQNX9naCpXjsvEAI4YXmS_pbFwgn9i_YTjR8esP-PpNXc0s-jOWo3r_M4S-an0mnZA4PwDjt3lOihJqWP60TMj3F37iIno8hynwj5xXex2Voy3Khj3QraiYO7oyeEgNtZtjB5q-FYXg9E0hNk93q7mTKdhBdPNGr0p1I35R0wxuY0IOmAlG_E/s1600/anyrun.gif",
+   "date": "2026-10-09T12:59:22+00:00",
+   "iocs": "iocs/b8e2f39fd129.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+   "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+   "desc": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio2imi6QlJLQlD8KAZaktPeycFFCAWdkRp7q1TNwNHKUibXYACipc5GG2rDcZtmUR8TftkRHNTrdEXLXsGxcGoTDrTY5Eye77n1OFyeFbHP-VGUTwlhIoaHNoMGVIsUWBk07kSc-Gi3y_U0OuS-6gWBjYJEj8pxJVQ9lkEJfI_we3rVvZtAMXp0i8qs7t/s1600/oss-scanner.jpg",
+   "date": "2026-10-09T12:47:28+00:00",
+   "iocs": "iocs/6df49761e69e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+   "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+   "desc": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg",
+   "date": "2026-10-09T12:47:26+00:00",
+   "iocs": "iocs/d33e86be6de0.txt",
+   "ioc_count": 3
   },
   {
    "source": "BleepingComputer",
@@ -146,7 +288,9 @@
    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
    "desc": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
    "image": "",
-   "date": "2026-10-09T08:27:42+00:00"
+   "date": "2026-10-09T08:27:42+00:00",
+   "iocs": "iocs/0c103a036f9d.txt",
+   "ioc_count": 6
   },
   {
    "source": "The Hacker News",
@@ -229,14 +373,6 @@
    "date": "2026-10-09T04:12:38+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
-   "link": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
-   "desc": "Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of bitcoin and several properties in Virginia.",
-   "image": "",
-   "date": "2026-10-09T00:55:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -248,19 +384,11 @@
   },
   {
    "source": "Dark Reading",
-   "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+   "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
    "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-   "desc": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+   "desc": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T20:39:44+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal",
-   "link": "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
-   "desc": "The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records and payroll and tax information, Rep. Steven Horsford (D-NV) said in a p",
-   "image": "",
-   "date": "2026-10-08T20:27:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -277,14 +405,6 @@
    "desc": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud,",
    "image": "",
    "date": "2026-10-08T19:20:33+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "International coalition seizes tools used by cyber firm behind Flax Typhoon",
-   "link": "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
-   "desc": "The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed \"widespread vulnerability scanning and, in some cases, intrusions\" as part of the Flax Typhoon campaign.",
-   "image": "",
-   "date": "2026-10-08T19:20:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -349,14 +469,6 @@
    "date": "2026-10-08T17:10:55+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
-   "link": "https://therecord.media/ransomware-recovery-charges-doj",
-   "desc": "The owner of a ransomware recovery firm was hit with wire fraud charges for allegedly making secret ransom payments while overcharging the victims of attacks.",
-   "image": "",
-   "date": "2026-10-08T17:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
    "link": "https://isc.sans.edu/diary/rss/33410",
@@ -385,16 +497,6 @@
    "ioc_count": 17
   },
   {
-   "source": "The Hacker News",
-   "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-   "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-   "desc": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg",
-   "date": "2026-10-08T15:26:56+00:00",
-   "iocs": "iocs/7624a715a1f8.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
@@ -405,16 +507,6 @@
    "ioc_count": 9
   },
   {
-   "source": "The Hacker News",
-   "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-   "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-   "desc": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg",
-   "date": "2026-10-08T14:12:34+00:00",
-   "iocs": "iocs/50bd0eed8979.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "BleepingComputer",
    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
    "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
@@ -423,46 +515,12 @@
    "date": "2026-10-08T14:00:10+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-   "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-   "desc": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-   "image": "",
-   "date": "2026-10-08T13:18:36+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-   "desc": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-   "image": "",
-   "date": "2026-10-08T12:08:16+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Writing the Next Chapter",
    "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
    "desc": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f221f33ee9fe4e1/6ac6b6b1015fc88b126ddd85/New_Chapter_CharlieAJA_Getty_Images.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T12:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ASOS links data breach to social engineering attack, credential theft",
-   "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-   "desc": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
-   "image": "",
-   "date": "2026-10-08T11:42:46+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-   "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-   "desc": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrast",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlTrJzuyuM3FgdyTkx-JLieOXeR9fK_hENZFrdItZ09E4ZFhk8UYOPslpbGGidTUGCDgcTHqY7wvYrThg-Hwl24MQhL63GIfmRsBLy9MJ7iDXn1XbbX1W_EgGFw9eRyT4LOJq0aoyWhmOHF3O5a9L5LcKNS1IJxQqs_UBwmOnPRmx3fXwUPpKeYdARVE/s1600/anyrun.jpg",
-   "date": "2026-10-08T10:30:00+00:00",
-   "iocs": "iocs/e8a1c9ded2dd.txt",
-   "ioc_count": 4
   },
   {
    "source": "Cisco Talos",
@@ -481,36 +539,6 @@
    "date": "2026-10-08T10:00:14+00:00",
    "iocs": "iocs/fac3ffd80016.txt",
    "ioc_count": 12
-  },
-  {
-   "source": "The Hacker News",
-   "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-   "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-   "desc": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet po",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg",
-   "date": "2026-10-08T09:46:32+00:00",
-   "iocs": "iocs/0a0a43d53f75.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-   "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-   "desc": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchang",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg",
-   "date": "2026-10-08T07:42:04+00:00",
-   "iocs": "iocs/6ea1ec6e49a1.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-   "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg",
-   "date": "2026-10-08T07:41:44+00:00",
-   "iocs": "iocs/9d4247f226b7.txt",
-   "ioc_count": 1
   },
   {
    "source": "Aikido",
@@ -687,14 +715,6 @@
    "date": "2026-10-06T17:15:24+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
-   "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
-   "desc": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3886ee964b5d16f1/6ac4000875ac86196ed5f175/broken_hard_drive-Bryngelzon-GettyImages-115958814.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-06T16:59:24+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido Security achieves FedRAMP Moderate authorization",
    "link": "https://www.aikido.dev/blog/aikido-fedramp-moderate-authorization",
@@ -729,16 +749,6 @@
    "date": "2026-10-06T10:00:33+00:00",
    "iocs": "iocs/7669d3486c54.txt",
    "ioc_count": 21
-  },
-  {
-   "source": "Dark Reading",
-   "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
-   "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-   "desc": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt233af9606aed0447/6ac404da1ba7958c12dbbcbc/stungun_Nikola_Fific_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-05T21:25:08+00:00",
-   "iocs": "iocs/21b3021a2bfd.txt",
-   "ioc_count": 4
   },
   {
    "source": "SANS ISC",
@@ -951,14 +961,6 @@
    "date": "2026-09-25T21:44:40+00:00",
    "iocs": "iocs/5569bca5352e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Socket",
-   "title": "Socket Joins New OpenJS Program to Fund Node.js Security Work",
-   "link": "https://socket.dev/blog/openjs-nodejs-security?utm_medium=feed",
-   "desc": "Socket is joining the OpenJS Security Stewardship Program to fund Node.js vulnerability research, maintainer remediation, and security releases.",
-   "image": "",
-   "date": "2026-09-25T20:59:05+00:00"
   },
   {
    "source": "Google GTIG",

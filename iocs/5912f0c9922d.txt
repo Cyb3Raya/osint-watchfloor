@@ -1,0 +1,12 @@
+IOC EXTRACTION - Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto
+Source: https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/
+Extracted: 2026-10-09 19:34:41 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-105133
+CVE-2026-105134

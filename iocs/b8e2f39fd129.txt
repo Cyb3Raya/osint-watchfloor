@@ -1,0 +1,12 @@
+IOC EXTRACTION - Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access
+Source: https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
+Extracted: 2026-10-09 19:34:37 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-27918
+CVE-2026-88772

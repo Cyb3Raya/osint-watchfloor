@@ -1,0 +1,17 @@
+IOC EXTRACTION - TP-Link Sued by Four More U.S. States Over Router Security and China Ties
+Source: https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html
+Extracted: 2026-10-09 19:34:36 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2023-50224
+CVE-2025-30237
+CVE-2025-30238
+CVE-2025-30239
+CVE-2025-30240
+CVE-2025-30241
+CVE-2026-88772

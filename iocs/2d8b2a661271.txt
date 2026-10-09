@@ -1,0 +1,24 @@
+IOC EXTRACTION - P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
+Source: https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+Extracted: 2026-10-09 19:34:35 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-24201
+CVE-2025-31200
+CVE-2026-31001
+CVE-2026-88772
+
+IPv4 (7)
+----------------------------------------
+156[.]239[.]230[.]120
+166[.]88[.]95[.]90
+182[.]239[.]114[.]223
+183[.]154[.]173[.]30
+23[.]148[.]212[.]237
+43[.]134[.]165[.]205
+47[.]102[.]192[.]23
