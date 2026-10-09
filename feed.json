@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-08T20:34:58.592386+00:00",
+ "generated": "2026-10-09T00:38:19.849906+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+   "desc": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organiza",
+   "image": "",
+   "date": "2026-10-08T21:42:51+00:00",
+   "iocs": "iocs/00e313529b90.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+   "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+   "desc": "A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-08T20:39:44+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal",
@@ -545,16 +563,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
-   "desc": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
-   "image": "",
-   "date": "2026-10-07T15:04:08+00:00",
-   "iocs": "iocs/3c3ca0f12e61.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
    "link": "https://isc.sans.edu/diary/rss/33406",
@@ -701,14 +709,6 @@
    "desc": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf878ef49e6dc7feb/6ac3a43f41e90542981ec9b7/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-05T15:52:59+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
-   "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
-   "desc": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt805a291660c85e6c/6abfd753b06065c7488d51a1/fighterjet-Asanka_Ratnayake-GettyImages-2207309883.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-05T13:00:00+00:00"
   },
   {
    "source": "SANS ISC",

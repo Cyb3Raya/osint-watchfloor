@@ -1,0 +1,18 @@
+IOC EXTRACTION - FBI disrupts Chinese hacking tools used to breach critical infrastructure
+Source: https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/
+Extracted: 2026-10-09 00:38:11 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2014-6278
+CVE-2015-3306
+CVE-2015-5477
+CVE-2016-3081
+CVE-2019-11510
+CVE-2021-22205
+CVE-2021-3199
+CVE-2023-22894
