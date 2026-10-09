@@ -1,0 +1,16 @@
+IOC EXTRACTION - New GhostAction Wave Hits Hundreds of Repos, Expanding Beyond CI/CD Secrets to Cloud Credentials
+Source: https://socket.dev/blog/ghostaction-cloud-credentials?utm_medium=feed
+Extracted: 2026-10-09 14:14:01 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+193[.]32[.]204[.]199
+
+URLs (2)
+----------------------------------------
+hxxp://193[.]32[.]204[.]199
+hxxp://193[.]32[.]204[.]199/?c=monami

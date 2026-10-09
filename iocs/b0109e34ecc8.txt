@@ -1,0 +1,12 @@
+IOC EXTRACTION - Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own
+Source: https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
+Extracted: 2026-10-09 14:13:36 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-58704
+CVE-2026-88772

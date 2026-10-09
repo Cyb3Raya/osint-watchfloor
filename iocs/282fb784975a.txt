@@ -1,0 +1,12 @@
+IOC EXTRACTION - Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments
+Source: https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html
+Extracted: 2026-10-09 14:13:37 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-107406
+CVE-2026-88772

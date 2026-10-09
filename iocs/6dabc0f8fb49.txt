@@ -1,0 +1,15 @@
+IOC EXTRACTION - Max severity SonicWall SMA1000 flaw now exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/
+Extracted: 2026-10-09 14:13:41 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-102255
+CVE-2026-15409
+CVE-2026-15410
+CVE-2026-83548
+CVE-2026-83549

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Citrix Urges Immediate Patching of Critical NetScaler Vulnerability
+Source: https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/
+Extracted: 2026-10-09 14:13:55 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-107406
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88779

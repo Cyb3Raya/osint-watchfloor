@@ -1,0 +1,12 @@
+IOC EXTRACTION - Unpatched AhsayCBS Vulnerabilities Exploited in the Wild
+Source: https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/
+Extracted: 2026-10-09 14:13:51 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-105133
+CVE-2026-105134
