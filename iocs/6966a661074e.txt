@@ -1,0 +1,11 @@
+IOC EXTRACTION - The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
+Source: https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html
+Extracted: 2026-10-10 15:33:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

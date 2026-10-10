@@ -1,0 +1,11 @@
+IOC EXTRACTION - Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
+Source: https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
+Extracted: 2026-10-10 15:33:52 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-88772

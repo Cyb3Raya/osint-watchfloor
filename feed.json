@@ -1,9 +1,63 @@
 {
- "generated": "2026-10-10T09:34:39.259465+00:00",
+ "generated": "2026-10-10T15:34:03.719269+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+   "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+   "desc": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacki",
+   "image": "",
+   "date": "2026-10-10T15:07:54+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+   "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+   "desc": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+   "image": "",
+   "date": "2026-10-10T14:16:17+00:00",
+   "iocs": "iocs/c1d0598b6854.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+   "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+   "desc": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discov",
+   "image": "",
+   "date": "2026-10-10T12:30:39+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+   "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+   "desc": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructu",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif",
+   "date": "2026-10-10T11:00:00+00:00",
+   "iocs": "iocs/6966a661074e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+   "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+   "desc": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Eng",
+   "image": "",
+   "date": "2026-10-10T11:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+   "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+   "desc": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg",
+   "date": "2026-10-10T09:18:45+00:00",
+   "iocs": "iocs/efd24bc6b147.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
@@ -14,7 +68,7 @@
   },
   {
    "source": "Krebs on Security",
-   "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+   "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
    "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
    "desc": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th",
    "image": "",
@@ -443,14 +497,6 @@
    "date": "2026-10-09T05:41:04+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-   "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-   "desc": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared",
-   "image": "",
-   "date": "2026-10-09T04:12:38+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -477,30 +523,12 @@
    "date": "2026-10-08T20:09:45+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Low-cost Android phones ship with residential proxy malware",
-   "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-   "desc": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud,",
-   "image": "",
-   "date": "2026-10-08T19:20:33+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
    "desc": "The first cybercriminal to ever make the FBI's &quot;10 Most Wanted Fugitives&quot; list allegedly infused Tren de Aragua's violent criminal operations with cash.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-08T19:08:16+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-   "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-   "desc": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other count",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg",
-   "date": "2026-10-08T18:32:21+00:00",
-   "iocs": "iocs/92f3696e1648.txt",
-   "ioc_count": 11
   },
   {
    "source": "Aikido",
@@ -529,40 +557,12 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-   "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-   "desc": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, kee",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg",
-   "date": "2026-10-08T17:58:02+00:00",
-   "iocs": "iocs/d4fcba26f342.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-   "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-   "desc": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-   "image": "",
-   "date": "2026-10-08T17:10:55+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
    "link": "https://isc.sans.edu/diary/rss/33410",
    "desc": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x",
    "image": "",
    "date": "2026-10-08T16:52:53+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-   "desc": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-   "image": "",
-   "date": "2026-10-08T15:26:33+00:00",
-   "iocs": "iocs/484d290f7ef1.txt",
-   "ioc_count": 9
   },
   {
    "source": "Dark Reading",
