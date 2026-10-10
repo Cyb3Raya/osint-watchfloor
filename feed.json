@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-09T23:28:54.369105+00:00",
+ "generated": "2026-10-10T02:44:41.511535+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Krebs on Security",
+   "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+   "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+   "desc": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th",
+   "image": "",
+   "date": "2026-10-10T00:17:42+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
@@ -93,6 +101,16 @@
    "date": "2026-10-09T17:02:29+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "What is vulnerability remediation?",
+   "link": "https://www.aikido.dev/blog/vulnerability-remediation",
+   "desc": "Learn how vulnerability remediation works for each type of flaw and what to do when upgrading a dependency breaks your build or isn't an option. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac9195bd69e4de1b0c261a4_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-09T16:41:00+00:00",
+   "iocs": "iocs/bea804398975.txt",
+   "ioc_count": 2
+  },
+  {
    "source": "The Hacker News",
    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
    "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
@@ -165,6 +183,14 @@
    "desc": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-speci",
    "image": "",
    "date": "2026-10-09T14:01:11+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top 6 developer security tools for enterprise teams in 2026",
+   "link": "https://www.aikido.dev/blog/top-developer-security-platforms-enterprise",
+   "desc": "We compare the top developer security tools for enterprise teams on signal quality, governance, and remediation: Aikido Security, Snyk, GitHub Advanced Security, SonarQube, Checkmarx, and Endor Labs Category: DevSec Tool",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-09T14:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -1033,24 +1059,6 @@
    "date": "2026-09-23T06:00:00+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "Cyber Resilience Act is here! Myth busting and first impressions",
-   "link": "https://www.aikido.dev/blog/cyber-resilience-act-myth-busting-first-impressions",
-   "desc": "The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2b9c23f0ccc248b43814b_CRA_Live_Feature.png",
-   "date": "2026-09-23T01:30:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Graphalgo campaign spreads to Terraform providers and Go Modules",
-   "link": "https://www.aikido.dev/blog/graphalgo-terraform-go-modules",
-   "desc": "Aikido found Graphalgo-linked Go malware in Terraform providers and Go Modules, using targeted triggers, Slack, and blockchain C2. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab298cf4c2e3413064c11e1_Gemini_Feature.jpg",
-   "date": "2026-09-22T12:18:00+00:00",
-   "iocs": "iocs/f3914ec2075d.txt",
-   "ioc_count": 10
-  },
-  {
    "source": "Cisco Talos",
    "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
    "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
@@ -1349,14 +1357,6 @@
    "desc": "The attack begins with phishing emails impersonating voicemail notifications that direct victims through a multi-stage redirect chain abusing legitimate services, including Google Meet, Google Ads infrastructure, and Ama",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-08-07T00:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-   "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-   "desc": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the",
-   "image": "",
-   "date": "2026-08-06T17:00:56+00:00"
   },
   {
    "source": "Google GTIG",
