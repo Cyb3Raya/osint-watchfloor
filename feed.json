@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-10T02:44:41.511535+00:00",
+ "generated": "2026-10-10T09:34:39.259465+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
+   "link": "https://isc.sans.edu/diary/rss/33414",
+   "desc": "The Traffic Light Protocol (TLP)&#x5b;1&#x5d;, which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).&#xd;",
+   "image": "",
+   "date": "2026-10-10T09:11:34+00:00"
+  },
   {
    "source": "Krebs on Security",
    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
@@ -793,14 +801,6 @@
    "date": "2026-10-05T00:15:00+00:00",
    "iocs": "iocs/e30c5b945143.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-   "link": "https://isc.sans.edu/diary/rss/33394",
-   "desc": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.&#xd;",
-   "image": "",
-   "date": "2026-10-04T07:58:51+00:00"
   },
   {
    "source": "Aikido",
