@@ -1,10 +1,8 @@
 {
- "generated": "2026-10-11T15:04:04.380550+00:00",
- "sources_ok": 13,
+ "generated": "2026-10-11T19:35:57.043192+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
@@ -139,6 +137,14 @@
    "ioc_count": 2
   },
   {
+   "source": "RF The Record",
+   "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+   "link": "https://therecord.media/japan-germany-ransomware-arrest",
+   "desc": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
+   "image": "",
+   "date": "2026-10-09T18:45:00+00:00"
+  },
+  {
    "source": "The Hacker News",
    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
    "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
@@ -193,6 +199,30 @@
    "date": "2026-10-09T16:25:05+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+   "link": "https://therecord.media/irhythm-data-breach-reports",
+   "desc": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
+   "image": "",
+   "date": "2026-10-09T16:06:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+   "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+   "desc": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.",
+   "image": "",
+   "date": "2026-10-09T16:06:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI touts another ShinyHunters arrest in response to data breach",
+   "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+   "desc": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
+   "image": "",
+   "date": "2026-10-09T15:41:00+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
    "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
@@ -207,6 +237,14 @@
    "desc": "arXiv now limits authors to two submissions a month as AI slop overwhelms moderators, delays good papers, and sparks debate over applying the limit to everyone.",
    "image": "",
    "date": "2026-10-09T14:44:50+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
+   "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+   "desc": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
+   "image": "",
+   "date": "2026-10-09T14:40:00+00:00"
   },
   {
    "source": "BleepingComputer",
