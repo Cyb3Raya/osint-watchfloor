@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical SonicWall Vulnerability Exploited Days After Disclosure
+Source: https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/
+Extracted: 2026-10-12 09:44:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-102255

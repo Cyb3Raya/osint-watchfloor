@@ -1,0 +1,23 @@
+IOC EXTRACTION - CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records
+Source: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+Extracted: 2026-10-12 09:44:16 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2020-1938
+CVE-2021-4034
+CVE-2022-28368
+CVE-2023-7028
+CVE-2024-1086
+CVE-2026-0257
+CVE-2026-4815
+CVE-2026-60137
+CVE-2026-63030
+
+IPv4 (1)
+----------------------------------------
+46[.]21[.]250[.]135

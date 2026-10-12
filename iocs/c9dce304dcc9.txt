@@ -1,0 +1,31 @@
+IOC EXTRACTION - Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE
+Source: https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+Extracted: 2026-10-12 09:44:14 UTC
+Total indicators: 15
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2016-15042
+CVE-2019-9879
+CVE-2023-28121
+CVE-2024-28000
+CVE-2025-3102
+CVE-2026-85097
+CVE-2026-93836
+CVE-2026-94504
+
+IPv4 (6)
+----------------------------------------
+150[.]109[.]16[.]166
+153[.]75[.]90[.]146
+177[.]75[.]57[.]20
+23[.]97[.]62[.]146
+38[.]154[.]185[.]97
+84[.]247[.]60[.]125
+
+URLs (1)
+----------------------------------------
+hxxps://example[.]com/wp-content/uploads/bricksforge/tmp/img_example[.]php
