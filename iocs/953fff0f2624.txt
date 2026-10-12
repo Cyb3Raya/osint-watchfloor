@@ -1,0 +1,12 @@
+IOC EXTRACTION - Cyberattack shuts down refrigerators at French supermarkets
+Source: https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/
+Extracted: 2026-10-12 19:41:08 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-41450
+CVE-2025-41451
