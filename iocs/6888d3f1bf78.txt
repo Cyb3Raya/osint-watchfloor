@@ -1,0 +1,16 @@
+IOC EXTRACTION - GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code
+Source: https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html
+Extracted: 2026-10-13 17:00:11 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-14814
+CVE-2026-16301
+CVE-2026-85706
+CVE-2026-90970
+CVE-2026-92883
+CVE-2026-97229

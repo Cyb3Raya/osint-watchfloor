@@ -1,0 +1,11 @@
+IOC EXTRACTION - Docker Hub flaw let attackers impersonate users, tamper with images
+Source: https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/
+Extracted: 2026-10-13 17:00:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-105445

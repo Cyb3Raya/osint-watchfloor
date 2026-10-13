@@ -1,0 +1,31 @@
+IOC EXTRACTION - Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control
+Source: https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html
+Extracted: 2026-10-13 17:00:09 UTC
+Total indicators: 21
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (21)
+----------------------------------------
+CVE-2026-85947
+CVE-2026-85948
+CVE-2026-85949
+CVE-2026-85951
+CVE-2026-85952
+CVE-2026-85953
+CVE-2026-85954
+CVE-2026-85955
+CVE-2026-85956
+CVE-2026-85957
+CVE-2026-85958
+CVE-2026-85959
+CVE-2026-85960
+CVE-2026-85961
+CVE-2026-85962
+CVE-2026-85963
+CVE-2026-85964
+CVE-2026-85972
+CVE-2026-85975
+CVE-2026-9191
+CVE-2026-9192

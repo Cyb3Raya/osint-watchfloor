@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers
+Source: https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html
+Extracted: 2026-10-13 17:00:08 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-41450
+CVE-2025-41451
+CVE-2025-41452

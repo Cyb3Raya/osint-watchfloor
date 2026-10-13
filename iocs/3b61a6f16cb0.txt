@@ -1,0 +1,15 @@
+IOC EXTRACTION - SAP warns of maximum severity OAuth2 SSRF security flaw
+Source: https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/
+Extracted: 2026-10-13 17:00:18 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-44756
+CVE-2026-58231
+CVE-2026-89108
+CVE-2026-89110
+CVE-2026-89111
