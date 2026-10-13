@@ -1,0 +1,13 @@
+IOC EXTRACTION - Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack
+Source: https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack
+Extracted: 2026-10-13 01:53:29 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-102255
+CVE-2026-15409
+CVE-2026-15410

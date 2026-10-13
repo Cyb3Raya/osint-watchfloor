@@ -1,9 +1,35 @@
 {
- "generated": "2026-10-12T19:41:31.418965+00:00",
+ "generated": "2026-10-13T01:53:36.344865+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+   "desc": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ff00aa0ccf043c/685b010d7bd6c2cb5e6d4834/SonicWall_sign_Michael_Vi_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-12T21:42:42+00:00",
+   "iocs": "iocs/e65d97444d56.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+   "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+   "desc": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. ",
+   "image": "",
+   "date": "2026-10-12T20:13:52+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+   "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+   "desc": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-12T20:00:53+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Yandex confirms service outage as users lose access to cloud files",
@@ -405,14 +431,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-   "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-   "desc": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-   "image": "",
-   "date": "2026-10-09T17:02:29+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "What is vulnerability remediation?",
    "link": "https://www.aikido.dev/blog/vulnerability-remediation",
@@ -655,22 +673,6 @@
    "desc": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c15df6e8c5aa81c/6ac6ac875987721c1d044af4/masssurveillance-J_Studios-Getty-2259137560.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-07T21:25:13+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-   "desc": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-07T20:51:25+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
-   "desc": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2541a007c47b0f0b/6ac62adf05f346dc373093cd/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-10-07T19:34:08+00:00"
   },
   {
    "source": "Cisco Talos",
