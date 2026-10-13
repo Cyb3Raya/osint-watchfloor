@@ -1,9 +1,33 @@
 {
- "generated": "2026-10-13T01:53:36.344865+00:00",
+ "generated": "2026-10-13T09:06:49.583436+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+   "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+   "desc": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared fi",
+   "image": "",
+   "date": "2026-10-13T08:28:51+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+   "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+   "desc": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg",
+   "date": "2026-10-13T06:00:11+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+   "link": "https://isc.sans.edu/diary/rss/33418",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-13T02:00:02+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
@@ -351,14 +375,6 @@
    "date": "2026-10-10T00:17:42+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-   "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-   "desc": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-09T21:07:46+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
@@ -517,16 +533,6 @@
    "date": "2026-10-09T12:47:28+00:00",
    "iocs": "iocs/6df49761e69e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-   "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-   "desc": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg",
-   "date": "2026-10-09T12:47:26+00:00",
-   "iocs": "iocs/d33e86be6de0.txt",
-   "ioc_count": 3
   },
   {
    "source": "Socket",
@@ -783,14 +789,6 @@
    "date": "2026-10-06T10:00:33+00:00",
    "iocs": "iocs/7669d3486c54.txt",
    "ioc_count": 21
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
-   "link": "https://isc.sans.edu/diary/rss/33398",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-05T02:00:02+00:00"
   },
   {
    "source": "Aikido",
