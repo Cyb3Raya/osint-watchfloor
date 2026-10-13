@@ -1,0 +1,17 @@
+IOC EXTRACTION - Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
+Source: https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
+Extracted: 2026-10-13 21:47:42 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-104935
+CVE-2026-106042
+CVE-2026-109412
+
+IPv4 (1)
+----------------------------------------
+108[.]165[.]147[.]64

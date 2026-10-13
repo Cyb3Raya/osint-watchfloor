@@ -1,0 +1,11 @@
+IOC EXTRACTION - Ghostscript flaw lets hackers hijack servers via PDF uploads
+Source: https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/
+Extracted: 2026-10-13 21:47:44 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-39919

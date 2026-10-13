@@ -1,0 +1,11 @@
+IOC EXTRACTION - Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another
+Source: https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html
+Extracted: 2026-10-13 21:47:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-105445

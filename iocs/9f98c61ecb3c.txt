@@ -1,0 +1,11 @@
+IOC EXTRACTION - SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft
+Source: https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html
+Extracted: 2026-10-13 21:47:43 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-89111

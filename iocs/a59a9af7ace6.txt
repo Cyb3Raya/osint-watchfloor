@@ -1,0 +1,11 @@
+IOC EXTRACTION - Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN
+Source: https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/
+Extracted: 2026-10-13 21:47:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-104935

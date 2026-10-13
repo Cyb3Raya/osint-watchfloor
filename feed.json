@@ -1,9 +1,201 @@
 {
- "generated": "2026-10-13T17:00:37.864278+00:00",
+ "generated": "2026-10-13T21:48:12.816289+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+   "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+   "desc": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+   "image": "",
+   "date": "2026-10-13T21:33:26+00:00",
+   "iocs": "iocs/521975252a51.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "North Korea Phishes Ukrainians for War Intel",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+   "desc": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-13T21:24:45+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+   "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+   "desc": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relyi",
+   "image": "",
+   "date": "2026-10-13T21:16:34+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
+   "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
+   "desc": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.",
+   "image": "",
+   "date": "2026-10-13T20:55:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
+   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+   "desc": "Blog post covering the vulnerabilities disclosed during Microsoft Patch Tuesday.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/patch_tuesday.png",
+   "date": "2026-10-13T20:37:58+00:00",
+   "iocs": "iocs/a36e0090ff0e.txt",
+   "ioc_count": 193
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic Finds Ingredients for Future AI Worms",
+   "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+   "desc": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-13T20:35:23+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide",
+   "link": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
+   "desc": "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint.",
+   "image": "",
+   "date": "2026-10-13T20:12:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+   "desc": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+   "image": "",
+   "date": "2026-10-13T19:56:09+00:00",
+   "iocs": "iocs/6d5f004d3883.txt",
+   "ioc_count": 1764
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+   "desc": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+   "image": "",
+   "date": "2026-10-13T19:47:30+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
+   "link": "https://isc.sans.edu/diary/rss/33422",
+   "desc": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&&#x2",
+   "image": "",
+   "date": "2026-10-13T19:25:52+00:00",
+   "iocs": "iocs/ad2386183113.txt",
+   "ioc_count": 1416
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+   "desc": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+   "image": "",
+   "date": "2026-10-13T19:04:38+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "North Korean IT Workers Expanding Use of Facilitators, Broadening Recruitment",
+   "link": "https://www.ic3.gov/PSA/2026/PSA261013",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-13T19:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+   "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+   "desc": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN app",
+   "image": "",
+   "date": "2026-10-13T18:43:43+00:00",
+   "iocs": "iocs/a59a9af7ace6.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+   "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+   "desc": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The front",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg",
+   "date": "2026-10-13T18:20:57+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "UK Housing Ombudsman Service investigates 'security incident'",
+   "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+   "desc": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
+   "image": "",
+   "date": "2026-10-13T18:19:44+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+   "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+   "desc": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg",
+   "date": "2026-10-13T18:03:18+00:00",
+   "iocs": "iocs/f459c5923c1f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "Agent Baseline Publishes Security Reference Architecture for Software Factories",
+   "link": "https://socket.dev/blog/agent-baseline-software-factory?utm_medium=feed",
+   "desc": "Agent Baseline’s new reference architecture shows how to secure software factories with four boundaries enforced outside the AI agent.",
+   "image": "",
+   "date": "2026-10-13T17:54:48+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+   "desc": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+   "image": "",
+   "date": "2026-10-13T17:49:38+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+   "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+   "desc": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg",
+   "date": "2026-10-13T17:33:11+00:00",
+   "iocs": "iocs/ea27b5cc9be9.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+   "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+   "desc": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg",
+   "date": "2026-10-13T17:28:50+00:00",
+   "iocs": "iocs/9f98c61ecb3c.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+   "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+   "desc": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-13T17:14:42+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+   "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+   "desc": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-13T17:00:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
@@ -89,22 +281,6 @@
    "date": "2026-10-13T13:51:02+00:00",
    "iocs": "iocs/3b61a6f16cb0.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
-   "link": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
-   "desc": "One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video conferenci",
-   "image": "",
-   "date": "2026-10-13T13:20:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-   "link": "https://therecord.media/ledger-cryptocurrency-wallet-implant-theft",
-   "desc": "Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.",
-   "image": "",
-   "date": "2026-10-13T13:18:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -283,24 +459,6 @@
    "date": "2026-10-12T18:27:25+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-   "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-   "desc": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-   "image": "",
-   "date": "2026-10-12T16:27:23+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Cyberattack shuts down refrigerators at French supermarkets",
-   "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-   "desc": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-   "image": "",
-   "date": "2026-10-12T15:23:34+00:00",
-   "iocs": "iocs/953fff0f2624.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "The Hacker News",
    "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
    "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
@@ -311,72 +469,12 @@
    "ioc_count": 56
   },
   {
-   "source": "SecurityWeek",
-   "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-   "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-   "desc": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-12T14:25:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-   "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-   "desc": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, ",
-   "image": "",
-   "date": "2026-10-12T14:00:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-   "desc": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-   "image": "",
-   "date": "2026-10-12T13:51:07+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-   "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-   "desc": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on Security",
-   "image": "",
-   "date": "2026-10-12T13:14:37+00:00",
-   "iocs": "iocs/1c16974ba9b7.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "GitLab warns of max severity code execution vulnerability",
-   "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-   "desc": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
-   "image": "",
-   "date": "2026-10-12T13:09:09+00:00",
-   "iocs": "iocs/768e82c2b3a2.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
    "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
    "desc": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-12T12:30:58+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-   "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-   "desc": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-12T11:58:39+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-   "desc": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
-   "image": "",
-   "date": "2026-10-12T11:58:33+00:00"
   },
   {
    "source": "The Hacker News",
@@ -387,58 +485,12 @@
    "date": "2026-10-12T11:55:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-   "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-   "desc": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg",
-   "date": "2026-10-12T11:21:48+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-   "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-   "desc": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg",
-   "date": "2026-10-12T10:36:56+00:00",
-   "iocs": "iocs/c7baac5e718b.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-   "desc": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS scor",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg",
-   "date": "2026-10-12T09:02:14+00:00",
-   "iocs": "iocs/c9dce304dcc9.txt",
-   "ioc_count": 15
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-   "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-   "desc": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Uk",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg",
-   "date": "2026-10-12T07:26:12+00:00",
-   "iocs": "iocs/7e4ca9da0522.txt",
-   "ioc_count": 10
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
    "link": "https://isc.sans.edu/diary/rss/33416",
    "desc": "",
    "image": "",
    "date": "2026-10-12T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-   "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-   "desc": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
-   "image": "",
-   "date": "2026-10-11T14:23:46+00:00"
   },
   {
    "source": "SANS ISC",
@@ -653,22 +705,6 @@
    "date": "2026-10-07T22:00:16+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-   "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-   "desc": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-07T21:42:55+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
-   "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
-   "desc": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c15df6e8c5aa81c/6ac6ac875987721c1d044af4/masssurveillance-J_Studios-Getty-2259137560.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-07T21:25:13+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
    "link": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
@@ -759,14 +795,6 @@
    "date": "2026-10-06T13:16:02+00:00",
    "iocs": "iocs/3a8c72da9819.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
-   "link": "https://isc.sans.edu/diary/rss/33402",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-06T11:45:11+00:00"
   },
   {
    "source": "Unit 42",
@@ -883,14 +911,6 @@
    "desc": "GPT-6 Astra tried to plant malicious code in simulated open source projects using fake GitHub accounts and deceptive PRs during an assigned CTF challenge.",
    "image": "",
    "date": "2026-09-30T04:50:04+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "upm Launches as a Fast, Tiny Package Manager Written in TypeScript",
-   "link": "https://socket.dev/blog/upm-package-manager?utm_medium=feed",
-   "desc": "upm uses Node.js to deliver fast npm installs in about 250 KB, with a JavaScript API and security defaults.",
-   "image": "",
-   "date": "2026-09-29T15:38:50+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1113,14 +1133,6 @@
    "desc": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent",
    "image": "",
    "date": "2026-09-16T18:14:22+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Securing the unpatchable in an age of AI-driven vulnerabilities",
-   "link": "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/",
-   "desc": "Advances in AI technology will continue to identify vulnerabilities that in some circumstances are difficult, or effectively impossible, to patch. Appropriate network segmentation, rigorous visibility, and the deployment",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/on_the_radar.jpg",
-   "date": "2026-09-16T10:00:36+00:00"
   },
   {
    "source": "Unit 42",
@@ -1367,14 +1379,6 @@
    "desc": "Microsoft Threat Intelligence identified CaptiveCrunch, an ongoing cyberespionage campaign conducted by Storm-2945, a subgroup of the Russian state-sponsored actor Midnight Blizzard. The campaign compromises hospitality-",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-31T00:00:00+00:00"
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "Malicious Cyber Actors Targeting Water and Wastewater Sector Internet Facing Programmable Logic Controllers, Causing Operational Disruptions",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260730.pdf",
-   "desc": "",
-   "image": "",
-   "date": "2026-07-30T23:00:00+00:00"
   },
   {
    "source": "Google GTIG",
