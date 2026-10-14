@@ -1,0 +1,17 @@
+IOC EXTRACTION - Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday
+Source: https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday
+Extracted: 2026-10-14 00:57:29 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-102866
+CVE-2026-105016
+CVE-2026-108398
+CVE-2026-21413
+CVE-2026-65674
+CVE-2026-70242
+CVE-2026-96951

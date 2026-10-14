@@ -1,9 +1,53 @@
 {
- "generated": "2026-10-13T21:48:12.816289+00:00",
+ "generated": "2026-10-14T00:57:39.088654+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Krebs on Security",
+   "title": "Microsoft Patches More Than 1,400 Security Flaws",
+   "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+   "desc": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was alre",
+   "image": "",
+   "date": "2026-10-13T23:24:53+00:00",
+   "iocs": "iocs/0fbd64ca10e3.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+   "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+   "desc": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-13T23:07:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+   "desc": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+   "image": "",
+   "date": "2026-10-13T22:33:02+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+   "desc": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-13T22:29:57+00:00",
+   "iocs": "iocs/d22f26b7e502.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "Unit 42",
+   "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+   "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+   "desc": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/07_Listicle_Category_1505x922.jpg",
+   "date": "2026-10-13T22:00:04+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
@@ -385,14 +429,6 @@
    "ioc_count": 6
   },
   {
-   "source": "SecurityWeek",
-   "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-   "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-   "desc": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared fi",
-   "image": "",
-   "date": "2026-10-13T08:28:51+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
    "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
@@ -441,14 +477,6 @@
    "desc": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
    "image": "",
    "date": "2026-10-12T19:23:01+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-   "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-   "desc": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local ",
-   "image": "",
-   "date": "2026-10-12T18:51:59+00:00"
   },
   {
    "source": "Dark Reading",
@@ -641,14 +669,6 @@
    "desc": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x",
    "image": "",
    "date": "2026-10-08T16:52:53+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Writing the Next Chapter",
-   "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-   "desc": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f221f33ee9fe4e1/6ac6b6b1015fc88b126ddd85/New_Chapter_CharlieAJA_Getty_Images.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-08T12:00:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1255,16 +1275,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Unit 42",
-   "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
-   "link": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/",
-   "desc": "Learn how the Spring Ring campaign abuses Microsoft Teams and voice phishing to deploy malware and target enterprise domain controllers. The post Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/01_Malware_Category_1920x900-5.jpg",
-   "date": "2026-08-31T10:00:36+00:00",
-   "iocs": "iocs/0befd8aa6b74.txt",
-   "ioc_count": 77
-  },
-  {
    "source": "Wiz Threats",
    "title": "@7nohe/openapi-react-query-codegen Compromised in Supply Chain Attack (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/7noheopenapi-react-query-codegen-compromised-in-supply-chain-attack",
@@ -1319,16 +1329,6 @@
    "date": "2026-08-14T11:24:35+00:00",
    "iocs": "iocs/669791ec854c.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Microsoft Plugs Nearly 400 Security Holes",
-   "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-   "desc": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others tha",
-   "image": "",
-   "date": "2026-08-11T21:28:35+00:00",
-   "iocs": "iocs/215b91448d4d.txt",
-   "ioc_count": 3
   },
   {
    "source": "IC3 PSA",
