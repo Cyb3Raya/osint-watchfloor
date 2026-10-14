@@ -1,9 +1,43 @@
 {
- "generated": "2026-10-14T00:57:39.088654+00:00",
+ "generated": "2026-10-14T06:00:09.994844+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+   "desc": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-14T05:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+   "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+   "desc": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 1",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg",
+   "date": "2026-10-14T04:34:43+00:00",
+   "iocs": "iocs/9917fb9c5e95.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33424",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-14T02:00:03+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+   "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+   "desc": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg",
+   "date": "2026-10-14T01:59:25+00:00"
+  },
   {
    "source": "Krebs on Security",
    "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -226,9 +260,9 @@
   },
   {
    "source": "SecurityWeek",
-   "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+   "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
    "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-   "desc": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek.",
+   "desc": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-10-13T17:14:42+00:00"
   },
@@ -487,14 +521,12 @@
    "date": "2026-10-12T18:27:25+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-   "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-   "desc": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg",
-   "date": "2026-10-12T15:16:26+00:00",
-   "iocs": "iocs/6297931f11be.txt",
-   "ioc_count": 56
+   "source": "Aikido",
+   "title": "Aikido Security is now CREST accredited",
+   "link": "https://www.aikido.dev/blog/aikido-security-is-now-crest-accredited",
+   "desc": "Selling to banks or government? Aikido now offers CREST-accredited penetration testing, plus AI pentesting between audits. Category: Compliance",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6acec1b5df3ac464d01d8950_Aikido-is-now-CREST-accredited_Feature.png",
+   "date": "2026-10-12T13:47:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -503,14 +535,6 @@
    "desc": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-12T12:30:58+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-   "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-   "desc": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror sto",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg",
-   "date": "2026-10-12T11:55:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -643,14 +667,6 @@
    "desc": "We compare the top FedRAMP-compliant security tools in 2026: Aikido for Government, Checkmarx One for Government, Qualys, Rapid7 InsightGovCloud, Snyk for Government, Tenable, Wiz for Government Category: DevSec Tools & ",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-08T18:27:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-   "desc": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9326a6a1bce6d31/6ac6bf347f984a40d88b6862/matchboil_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-08T18:01:50+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -805,16 +821,6 @@
    "desc": "Aikido has achieved FedRAMP Moderate authorization, bringing AI-native, automated vulnerability remediation to U.S. federal agencies. Category: Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aba6eeec72706a3ea875aae_FEDRAMP_moderate_authroize_Feature(2).png",
    "date": "2026-10-06T13:42:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
-   "link": "https://isc.sans.edu/diary/rss/33400",
-   "desc": "It seems that a trend started&#x26;#xe2;&#x26;#x80;&#x26;#xa6; I continue my journey discovering more RMM (\"Remote Management &#x26; Monitoring\") tools abused by threat actors&#x21; A few days ago, I wrote a diary&#x5b;1",
-   "image": "",
-   "date": "2026-10-06T13:16:02+00:00",
-   "iocs": "iocs/3a8c72da9819.txt",
-   "ioc_count": 8
   },
   {
    "source": "Unit 42",
@@ -1065,14 +1071,6 @@
    "date": "2026-09-23T07:41:00+00:00",
    "iocs": "iocs/86ff0038290a.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "Aikido",
-   "title": "Send GitLab an email, push to main",
-   "link": "https://www.aikido.dev/blog/gitlab-email-push-to-main",
-   "desc": "GitLab gives you a private email address to create issues. If leaked, anyone who has it can push code, execute CI/CD jobs, and bypass IP restrictions across all of your public and private projects. Category: Research",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab2aa0e074d3ad47235f137_GitLab_Feature.jpg",
-   "date": "2026-09-23T06:00:00+00:00"
   },
   {
    "source": "Cisco Talos",

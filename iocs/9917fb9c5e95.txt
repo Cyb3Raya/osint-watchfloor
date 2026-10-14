@@ -1,0 +1,14 @@
+IOC EXTRACTION - Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
+Source: https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html
+Extracted: 2026-10-14 05:59:54 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-108398
+CVE-2026-21413
+CVE-2026-92707
+CVE-2026-96951
