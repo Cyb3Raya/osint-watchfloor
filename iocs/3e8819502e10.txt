@@ -1,0 +1,12 @@
+IOC EXTRACTION - Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations
+Source: https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/
+Extracted: 2026-10-14 16:48:50 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-25257
+CVE-2025-8088

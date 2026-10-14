@@ -1,0 +1,11 @@
+IOC EXTRACTION - The Blind Spots of Agentic Pentesting and How to Close Them
+Source: https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/
+Extracted: 2026-10-14 16:48:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-33032

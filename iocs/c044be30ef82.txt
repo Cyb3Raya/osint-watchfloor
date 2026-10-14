@@ -1,0 +1,12 @@
+IOC EXTRACTION - CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records
+Source: https://therecord.media/new-ivanti-microsoft-bugs-exploitation
+Extracted: 2026-10-14 16:48:57 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-104935
+CVE-2026-96951

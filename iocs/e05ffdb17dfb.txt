@@ -1,0 +1,16 @@
+IOC EXTRACTION - CISA warns admins to immediately fix Ivanti flaw exploited as zero-day
+Source: https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/
+Extracted: 2026-10-14 16:48:39 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2023-46805
+CVE-2024-21887
+CVE-2024-21893
+CVE-2025-0282
+CVE-2025-22457
+CVE-2026-104935

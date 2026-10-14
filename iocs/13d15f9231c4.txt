@@ -1,0 +1,18 @@
+IOC EXTRACTION - CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts
+Source: https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html
+Extracted: 2026-10-14 16:48:31 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-104935
+
+IPv4 (4)
+----------------------------------------
+216[.]73[.]160[.]210
+216[.]73[.]160[.]59
+216[.]73[.]160[.]61
+45[.]8[.]19[.]111

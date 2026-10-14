@@ -1,0 +1,11 @@
+IOC EXTRACTION - curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution
+Source: https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html
+Extracted: 2026-10-14 16:48:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-92392
