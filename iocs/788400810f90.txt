@@ -1,0 +1,11 @@
+IOC EXTRACTION - Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles
+Source: https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching
+Extracted: 2026-10-14 23:26:00 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-104935

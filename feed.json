@@ -1,9 +1,71 @@
 {
- "generated": "2026-10-14T20:30:52.385391+00:00",
+ "generated": "2026-10-14T23:26:12.938631+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+   "desc": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+   "image": "",
+   "date": "2026-10-14T22:56:47+00:00",
+   "iocs": "iocs/10dada637c3e.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "Unit 42",
+   "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+   "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+   "desc": "We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware. The post Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant ap",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/09_Vulnerabilities_1920x900.jpg",
+   "date": "2026-10-14T22:00:44+00:00",
+   "iocs": "iocs/d73bcf51f60e.txt",
+   "ioc_count": 24
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+   "desc": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-14T21:20:13+00:00",
+   "iocs": "iocs/788400810f90.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
+   "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
+   "desc": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.",
+   "image": "",
+   "date": "2026-10-14T21:10:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Yam Store: The Phishing Network Behind a Billion Messages",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+   "desc": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-14T20:57:16+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
+   "link": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
+   "desc": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.",
+   "image": "",
+   "date": "2026-10-14T20:33:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+   "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+   "desc": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-14T20:09:42+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
@@ -207,24 +269,6 @@
    "date": "2026-10-14T12:58:07+00:00",
    "iocs": "iocs/e05ffdb17dfb.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "RF The Record",
-   "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
-   "link": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
-   "desc": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.",
-   "image": "",
-   "date": "2026-10-14T12:35:00+00:00",
-   "iocs": "iocs/c044be30ef82.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "RF The Record",
-   "title": "Congressional probe faults Match Group for failing to rein in dating app scams",
-   "link": "https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams",
-   "desc": "The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group.",
-   "image": "",
-   "date": "2026-10-14T12:32:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -515,14 +559,6 @@
    "ioc_count": 1416
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-   "desc": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-   "image": "",
-   "date": "2026-10-13T19:04:38+00:00"
-  },
-  {
    "source": "IC3 PSA",
    "title": "North Korean IT Workers Expanding Use of Facilitators, Broadening Recruitment",
    "link": "https://www.ic3.gov/PSA/2026/PSA261013",
@@ -655,14 +691,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Dark Reading",
-   "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-   "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-   "desc": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf758cd9fb1671a68/6acfcadc6632e6b387874fb3/remotework-family-insta_photos-Alamy_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-09T16:25:05+00:00"
-  },
-  {
    "source": "Socket",
    "title": "arXiv Is Rate Limiting Authors Following a Flood of AI Slop Submissions",
    "link": "https://socket.dev/blog/arxiv-rate-limiting-slop?utm_medium=feed",
@@ -677,14 +705,6 @@
    "desc": "We compare the top developer security tools for enterprise teams on signal quality, governance, and remediation: Aikido Security, Snyk, GitHub Advanced Security, SonarQube, Checkmarx, and Endor Labs Category: DevSec Tool",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-09T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Social Engineering AI Agents: The New BEC for 2026",
-   "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-   "desc": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt509529652bae6ba5/6ac7de6c3ada349d7f093787/Digital_face-imaginima-GettyImages-2228383398.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-09T13:00:00+00:00"
   },
   {
    "source": "Socket",
@@ -703,14 +723,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-09T07:52:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
-   "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-   "desc": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-08T20:39:44+00:00"
   },
   {
    "source": "Aikido",
@@ -1235,14 +1247,6 @@
    "date": "2026-09-03T10:00:58+00:00",
    "iocs": "iocs/4a6e6a0c559c.txt",
    "ioc_count": 16
-  },
-  {
-   "source": "Unit 42",
-   "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
-   "link": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
-   "desc": "Using autonomous AI agents, an attacker breached an enterprise network in a matter of hours. Understand how to address and defend against agentic attacks. The post An AI-Assisted Cyber Attack: Inside a Unit 42 Investigat",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/07_Opinion_Overview_1920x900-1.jpg",
-   "date": "2026-09-02T10:00:46+00:00"
   },
   {
    "source": "Krebs on Security",
