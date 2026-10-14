@@ -1,9 +1,95 @@
 {
- "generated": "2026-10-14T16:49:03.264273+00:00",
+ "generated": "2026-10-14T20:30:52.385391+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+   "desc": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker sc",
+   "image": "",
+   "date": "2026-10-14T19:41:43+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+   "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+   "desc": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker send",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg",
+   "date": "2026-10-14T18:38:56+00:00",
+   "iocs": "iocs/402aaeff71af.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+   "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+   "desc": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigat",
+   "image": "",
+   "date": "2026-10-14T17:46:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+   "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+   "desc": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg",
+   "date": "2026-10-14T17:38:31+00:00",
+   "iocs": "iocs/2720649a8fdd.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+   "desc": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+   "image": "",
+   "date": "2026-10-14T17:29:14+00:00",
+   "iocs": "iocs/9960150300a6.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+   "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+   "desc": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg",
+   "date": "2026-10-14T17:09:15+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Front Lines Podcast: What Founders Get Wrong When Pitching CISOs",
+   "link": "https://socket.dev/blog/front-lines-pitching-cisos?utm_medium=feed",
+   "desc": "On Front Lines’ Early Adopters: CISO podcast, Andrew Becherer shares lessons from Datadog, weighs the long-term costs of AI-built tools, and explains how founders can actually gain a CISO’s trust.",
+   "image": "",
+   "date": "2026-10-14T17:06:13+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Spyware manufacturer had access to data harvested by former Polish government, current PM says",
+   "link": "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
+   "desc": "Prime Minister Donald Tusk, who ordered the investigation, on Monday called the sprawling spyware operation spearheaded by the country’s previous ruling party “one of the biggest scandals in Polish history since the fall",
+   "image": "",
+   "date": "2026-10-14T16:50:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+   "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+   "desc": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg",
+   "date": "2026-10-14T16:34:31+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
+   "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
+   "desc": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar ",
+   "image": "",
+   "date": "2026-10-14T16:00:00+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
@@ -331,22 +417,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
-   "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-   "desc": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-13T23:07:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
-   "link": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
-   "desc": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.",
-   "image": "",
-   "date": "2026-10-13T23:00:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
@@ -469,74 +539,12 @@
    "date": "2026-10-13T18:20:57+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "UK Housing Ombudsman Service investigates 'security incident'",
-   "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-   "desc": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-   "image": "",
-   "date": "2026-10-13T18:19:44+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-   "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-   "desc": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg",
-   "date": "2026-10-13T18:03:18+00:00",
-   "iocs": "iocs/f459c5923c1f.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Socket",
    "title": "Agent Baseline Publishes Security Reference Architecture for Software Factories",
    "link": "https://socket.dev/blog/agent-baseline-software-factory?utm_medium=feed",
    "desc": "Agent Baseline’s new reference architecture shows how to secure software factories with four boundaries enforced outside the AI agent.",
    "image": "",
    "date": "2026-10-13T17:54:48+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-   "desc": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-   "image": "",
-   "date": "2026-10-13T17:49:38+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-   "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-   "desc": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg",
-   "date": "2026-10-13T17:33:11+00:00",
-   "iocs": "iocs/ea27b5cc9be9.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-   "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-   "desc": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg",
-   "date": "2026-10-13T17:28:50+00:00",
-   "iocs": "iocs/9f98c61ecb3c.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-   "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-   "desc": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-   "image": "",
-   "date": "2026-10-13T16:44:18+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-   "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-   "desc": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's pack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg",
-   "date": "2026-10-13T16:18:18+00:00"
   },
   {
    "source": "SANS ISC",
@@ -651,7 +659,7 @@
    "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
    "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
    "desc": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf758cd9fb1671a68/6acfcadc6632e6b387874fb3/remotework-family-insta_photos-Alamy_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-09T16:25:05+00:00"
   },
   {
@@ -927,14 +935,6 @@
    "desc": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier, from deception and behavioral detection to breaking attack dependencies and resisting ma",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAM26-BlogHeader.jpg",
    "date": "2026-10-01T10:00:05+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Insecure Agents Podcast: How to Keep AI Agents From Bypassing Security Controls",
-   "link": "https://socket.dev/blog/insecure-agents-security-controls?utm_medium=feed",
-   "desc": "Socket CTO Ahmad Nassri discusses how to keep AI agents from bypassing package blocks, limit credential access, and monitor their actions.",
-   "image": "",
-   "date": "2026-10-01T03:38:06+00:00"
   },
   {
    "source": "Unit 42",

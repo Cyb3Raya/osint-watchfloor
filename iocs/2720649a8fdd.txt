@@ -1,0 +1,25 @@
+IOC EXTRACTION - Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App
+Source: https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html
+Extracted: 2026-10-14 20:30:35 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-66208
+CVE-2026-110447
+
+IPv4 (2)
+----------------------------------------
+139[.]28[.]18[.]122
+89[.]38[.]98[.]50
+
+Domains (1)
+----------------------------------------
+webhook[.]site
+
+SHA256 (1)
+----------------------------------------
+4b9fbd0663fbfd6028fc216ed18e0d6ef3ae498a7fdc97083e4b0ce3cec40562
