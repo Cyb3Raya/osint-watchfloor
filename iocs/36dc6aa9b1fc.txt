@@ -1,0 +1,13 @@
+IOC EXTRACTION - Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day
+Source: https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/
+Extracted: 2026-10-14 11:42:03 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-108398
+CVE-2026-92707
+CVE-2026-96951

@@ -1,9 +1,127 @@
 {
- "generated": "2026-10-14T06:00:09.994844+00:00",
+ "generated": "2026-10-14T11:42:13.465460+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hirudo Android malware replaces banking apps to evade security checks",
+   "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+   "desc": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+   "image": "",
+   "date": "2026-10-14T11:41:20+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+   "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+   "desc": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg",
+   "date": "2026-10-14T11:19:02+00:00",
+   "iocs": "iocs/2c2810e8b4ea.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+   "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+   "desc": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg",
+   "date": "2026-10-14T11:08:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+   "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+   "desc": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication byp",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg",
+   "date": "2026-10-14T11:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+   "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+   "desc": "Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms appeared first on Sec",
+   "image": "",
+   "date": "2026-10-14T10:55:21+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+   "desc": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+   "image": "",
+   "date": "2026-10-14T10:48:09+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+   "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+   "desc": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg",
+   "date": "2026-10-14T07:46:57+00:00",
+   "iocs": "iocs/dce2d98112cc.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+   "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+   "desc": "Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements. The post Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise appeared f",
+   "image": "",
+   "date": "2026-10-14T07:38:51+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+   "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+   "desc": "Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products appeared first",
+   "image": "",
+   "date": "2026-10-14T07:26:35+00:00",
+   "iocs": "iocs/283a883f37c7.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+   "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+   "desc": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared ",
+   "image": "",
+   "date": "2026-10-14T07:16:12+00:00",
+   "iocs": "iocs/36dc6aa9b1fc.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33420",
+   "desc": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg).&#xd;",
+   "image": "",
+   "date": "2026-10-14T06:49:46+00:00",
+   "iocs": "iocs/ec26e3c9fb04.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
+   "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+   "desc": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-14T06:12:10+00:00",
+   "iocs": "iocs/20e9f6d65963.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+   "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+   "desc": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg",
+   "date": "2026-10-14T05:52:28+00:00",
+   "iocs": "iocs/0c18f2a3df01.txt",
+   "ioc_count": 2
+  },
   {
    "source": "Dark Reading",
    "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -34,7 +152,7 @@
    "source": "The Hacker News",
    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
    "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-   "desc": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations",
+   "desc": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg",
    "date": "2026-10-14T01:59:25+00:00"
   },
@@ -55,6 +173,14 @@
    "desc": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-10-13T23:07:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
+   "link": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+   "desc": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.",
+   "image": "",
+   "date": "2026-10-13T23:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -335,14 +461,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
-   "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
-   "desc": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
-   "image": "",
-   "date": "2026-10-13T15:15:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "The MFA Gaps Attackers are Still Exploiting",
    "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
@@ -369,14 +487,6 @@
    "date": "2026-10-13T13:12:32+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
-   "link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-   "desc": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns ",
-   "image": "",
-   "date": "2026-10-13T11:58:29+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
    "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
@@ -385,90 +495,12 @@
    "date": "2026-10-13T11:57:06+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "XWorm RAT Evolves Into Surveillance Platform",
-   "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-   "desc": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWe",
-   "image": "",
-   "date": "2026-10-13T11:13:10+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
    "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
    "desc": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to&nbsp;an",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg",
    "date": "2026-10-13T11:09:10+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
-   "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-   "desc": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-13T11:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
-   "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-   "desc": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers. The post $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-13T10:36:05+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-   "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-   "desc": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list. Someone downl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg",
-   "date": "2026-10-13T10:30:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-   "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-   "desc": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-13T09:37:12+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-   "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-   "desc": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg",
-   "date": "2026-10-13T08:48:41+00:00",
-   "iocs": "iocs/08cfd38e9d13.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-   "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-   "desc": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the company says. Progress p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg",
-   "date": "2026-10-13T08:44:01+00:00",
-   "iocs": "iocs/81cc829d876c.txt",
-   "ioc_count": 21
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-   "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-   "desc": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg",
-   "date": "2026-10-13T08:43:37+00:00",
-   "iocs": "iocs/6888d3f1bf78.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-   "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-   "desc": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg",
-   "date": "2026-10-13T06:00:11+00:00"
   },
   {
    "source": "SANS ISC",
@@ -489,28 +521,12 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-   "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-   "desc": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. ",
-   "image": "",
-   "date": "2026-10-12T20:13:52+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
    "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
    "desc": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-12T20:00:53+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Yandex confirms service outage as users lose access to cloud files",
-   "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-   "desc": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-   "image": "",
-   "date": "2026-10-12T19:23:01+00:00"
   },
   {
    "source": "Dark Reading",
@@ -787,14 +803,6 @@
    "desc": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/OneBreachPlease-BlogHeader.jpg",
    "date": "2026-10-07T10:00:25+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
-   "link": "https://isc.sans.edu/diary/rss/33404",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-07T02:00:02+00:00"
   },
   {
    "source": "Aikido",

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave
+Source: https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html
+Extracted: 2026-10-14 11:41:53 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2023-36880
+CVE-2026-83498

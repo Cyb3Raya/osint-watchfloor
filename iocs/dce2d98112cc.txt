@@ -1,0 +1,11 @@
+IOC EXTRACTION - AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host
+Source: https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html
+Extracted: 2026-10-14 11:41:52 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-74580

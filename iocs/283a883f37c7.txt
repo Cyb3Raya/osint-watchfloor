@@ -1,0 +1,15 @@
+IOC EXTRACTION - Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products
+Source: https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/
+Extracted: 2026-10-14 11:42:02 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-104935
+CVE-2026-106042
+CVE-2026-106173
+CVE-2026-107656
+CVE-2026-109412

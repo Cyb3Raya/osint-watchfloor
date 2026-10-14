@@ -1,0 +1,14 @@
+IOC EXTRACTION - SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities
+Source: https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/
+Extracted: 2026-10-14 11:42:04 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-89107
+CVE-2026-89108
+CVE-2026-89110
+CVE-2026-89111
