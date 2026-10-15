@@ -1,9 +1,73 @@
 {
- "generated": "2026-10-15T17:40:27.620542+00:00",
+ "generated": "2026-10-15T20:32:57.402631+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+   "desc": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+   "image": "",
+   "date": "2026-10-15T20:25:04+00:00",
+   "iocs": "iocs/d0b52638beda.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Android gets AI defenses against messaging scams, fake calls",
+   "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+   "desc": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+   "image": "",
+   "date": "2026-10-15T19:48:43+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Zero-click spyware infecting devices through online ads, researchers say",
+   "link": "https://therecord.media/spyware-citizen-lab-advertising",
+   "desc": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
+   "image": "",
+   "date": "2026-10-15T19:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+   "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+   "desc": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg",
+   "date": "2026-10-15T18:49:33+00:00",
+   "iocs": "iocs/06720af8fb48.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+   "desc": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+   "image": "",
+   "date": "2026-10-15T18:20:59+00:00",
+   "iocs": "iocs/f6df72ea2abc.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
+   "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
+   "desc": "Is the cybersecurity world really facing a \"Bugmageddon?\" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source-1.jpg",
+   "date": "2026-10-15T18:00:00+00:00",
+   "iocs": "iocs/6a2b482f3811.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Context Is King in the Fight Against Modern Cyberattacks",
+   "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
+   "desc": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on Security",
+   "image": "",
+   "date": "2026-10-15T17:42:50+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Fake Arch Linux packages push malware with root privileges",
@@ -63,6 +127,14 @@
    "desc": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-10-15T14:22:34+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Anthropic Gives Open Source Maintainers a Fast Track to Mythos Vulnerability Findings",
+   "link": "https://socket.dev/blog/anthropic-oss-scanner?utm_medium=feed",
+   "desc": "Anthropic’s free OSS Scanner uses Mythos and other Claude models to find open source vulnerabilities and send maintainers reports with proposed fixes.",
+   "image": "",
+   "date": "2026-10-15T14:13:04+00:00"
   },
   {
    "source": "The Hacker News",
@@ -274,7 +346,7 @@
    "source": "Dark Reading",
    "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
    "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-   "desc": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+   "desc": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-15T07:00:00+00:00",
    "iocs": "iocs/a87219e382bc.txt",
@@ -381,14 +453,6 @@
    "date": "2026-10-14T20:57:16+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
-   "link": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
-   "desc": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.",
-   "image": "",
-   "date": "2026-10-14T20:33:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
    "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
@@ -423,16 +487,6 @@
    "date": "2026-10-14T17:46:50+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-   "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-   "desc": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logg",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg",
-   "date": "2026-10-14T17:38:31+00:00",
-   "iocs": "iocs/2720649a8fdd.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "BleepingComputer",
    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
@@ -449,14 +503,6 @@
    "desc": "On Front Lines’ Early Adopters: CISO podcast, Andrew Becherer shares lessons from Datadog, weighs the long-term costs of AI-built tools, and explains how founders can actually gain a CISO’s trust.",
    "image": "",
    "date": "2026-10-14T17:06:13+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
-   "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
-   "desc": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar ",
-   "image": "",
-   "date": "2026-10-14T16:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -503,38 +549,12 @@
    "date": "2026-10-14T13:56:18+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Global takedown hits network behind 1 billion phishing messages",
-   "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-   "desc": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-   "image": "",
-   "date": "2026-10-14T13:12:52+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Russian Influence Operation Widely Targets Latin America",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
    "desc": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-14T13:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-   "image": "",
-   "date": "2026-10-14T12:58:07+00:00",
-   "iocs": "iocs/e05ffdb17dfb.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hirudo Android malware replaces banking apps to evade security checks",
-   "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-   "desc": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-   "image": "",
-   "date": "2026-10-14T11:41:20+00:00"
   },
   {
    "source": "SANS ISC",
@@ -951,14 +971,6 @@
    "ioc_count": 5
   },
   {
-   "source": "Socket",
-   "title": "Securing the Financial Frontier: How Capital One Uses Socket for Open Source Security",
-   "link": "https://socket.dev/blog/capital-one-open-source-security?utm_medium=feed",
-   "desc": "Capital One is partnering with Socket to proactively secure its open source supply chain.",
-   "image": "",
-   "date": "2026-10-01T12:58:10+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top endpoint security tools for developers in 2026",
    "link": "https://www.aikido.dev/blog/top-endpoint-security-tools",
@@ -1181,16 +1193,6 @@
    "desc": "Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment P",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/01_Myth-Busting_Overview_1920x900_Resized.jpg",
    "date": "2026-09-17T22:00:33+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Should you care about an “AI slowdown?”",
-   "link": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
-   "desc": "In this week's Threat Source, David talks about why focusing on your security basics is still your best bet, even in a world with rapid AI advancements.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-2.jpg",
-   "date": "2026-09-17T18:00:23+00:00",
-   "iocs": "iocs/f5d7c097713a.txt",
-   "ioc_count": 5
   },
   {
    "source": "IC3 PSA",

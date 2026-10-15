@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/
+Extracted: 2026-10-15 20:32:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-110447

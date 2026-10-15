@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth
+Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/
+Extracted: 2026-10-15 20:32:44 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2021-44228
+CVE-2024-3272
+CVE-2024-3273
+CVE-2025-31324

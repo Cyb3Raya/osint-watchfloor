@@ -1,0 +1,20 @@
+IOC EXTRACTION - ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
+Source: https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
+Extracted: 2026-10-15 20:32:40 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2026-0257
+CVE-2026-101337
+CVE-2026-101338
+CVE-2026-101339
+CVE-2026-101341
+CVE-2026-106931
+CVE-2026-108065
+CVE-2026-110392
+CVE-2026-47595
+CVE-2026-79610

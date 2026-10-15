@@ -1,0 +1,20 @@
+IOC EXTRACTION - The Q3 Vulnerability Pulse: Discovery ≠ Exploitation
+Source: https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/
+Extracted: 2026-10-15 20:32:49 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2014-125110
+CVE-2015-1000013
+CVE-2026-104935
+
+MD5 (4)
+----------------------------------------
+207d9d891ac756b2bfad88aba5682c65
+2915b3f8b703eb744fc54c81f4a9c67f
+63f3351cfdf618bec6045f60203e7978
+f1fe671bcefd4630e5ed8b87c9283534
