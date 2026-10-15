@@ -1,0 +1,12 @@
+IOC EXTRACTION - AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches
+Source: https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html
+Extracted: 2026-10-15 12:42:50 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-105133
+CVE-2026-105134

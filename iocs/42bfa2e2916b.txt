@@ -1,0 +1,14 @@
+IOC EXTRACTION - Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules
+Source: https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html
+Extracted: 2026-10-15 12:42:42 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-108097
+CVE-2026-108099
+CVE-2026-108514
+CVE-2026-108515

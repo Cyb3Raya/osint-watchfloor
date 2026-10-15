@@ -1,0 +1,21 @@
+IOC EXTRACTION - Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts
+Source: https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html
+Extracted: 2026-10-15 12:42:48 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-0768
+CVE-2026-105697
+CVE-2026-105740
+CVE-2026-55255
+CVE-2026-69255
+CVE-2026-9198
+
+IPv4 (2)
+----------------------------------------
+146[.]70[.]211[.]112
+192[.]255[.]229[.]92
