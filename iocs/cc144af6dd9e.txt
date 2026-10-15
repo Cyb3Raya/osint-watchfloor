@@ -1,0 +1,18 @@
+IOC EXTRACTION - Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
+Source: https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
+Extracted: 2026-10-15 07:08:09 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-0322
+CVE-2026-76519
+
+IPv4 (3)
+----------------------------------------
+149[.]248[.]47[.]234
+208[.]83[.]239[.]114
+66[.]42[.]72[.]14

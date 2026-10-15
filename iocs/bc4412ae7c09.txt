@@ -1,0 +1,11 @@
+IOC EXTRACTION - Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution
+Source: https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/
+Extracted: 2026-10-15 07:08:12 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-0322

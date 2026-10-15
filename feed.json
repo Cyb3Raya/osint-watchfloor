@@ -1,9 +1,57 @@
 {
- "generated": "2026-10-15T01:49:45.024245+00:00",
+ "generated": "2026-10-15T07:08:19.133928+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+   "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+   "desc": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-15T07:00:00+00:00",
+   "iocs": "iocs/a87219e382bc.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+   "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+   "desc": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on ",
+   "image": "",
+   "date": "2026-10-15T06:59:54+00:00",
+   "iocs": "iocs/bc4412ae7c09.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+   "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+   "desc": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges. The post Cisco Warns of Exploited Secure Email Gateway Vulnerability appeared first on Secu",
+   "image": "",
+   "date": "2026-10-15T06:34:15+00:00",
+   "iocs": "iocs/c52508bc08a7.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+   "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+   "desc": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of rem",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg",
+   "date": "2026-10-15T06:17:58+00:00",
+   "iocs": "iocs/cc144af6dd9e.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
+   "link": "https://isc.sans.edu/diary/rss/33428",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-15T02:00:03+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
@@ -148,7 +196,7 @@
    "source": "The Hacker News",
    "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
    "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a ",
+   "desc": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indic",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg",
    "date": "2026-10-14T16:34:31+00:00"
   },
@@ -385,16 +433,6 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
-   "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-   "desc": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared ",
-   "image": "",
-   "date": "2026-10-14T07:16:12+00:00",
-   "iocs": "iocs/36dc6aa9b1fc.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "SANS ISC",
    "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
    "link": "https://isc.sans.edu/diary/rss/33420",
@@ -403,16 +441,6 @@
    "date": "2026-10-14T06:49:46+00:00",
    "iocs": "iocs/ec26e3c9fb04.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-   "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-   "desc": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-14T06:12:10+00:00",
-   "iocs": "iocs/20e9f6d65963.txt",
-   "ioc_count": 4
   },
   {
    "source": "The Hacker News",
@@ -575,14 +603,6 @@
    "date": "2026-10-13T19:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-   "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-   "desc": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The front",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg",
-   "date": "2026-10-13T18:20:57+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Agent Baseline Publishes Security Reference Architecture for Software Factories",
    "link": "https://socket.dev/blog/agent-baseline-software-factory?utm_medium=feed",
@@ -679,14 +699,6 @@
    "desc": "Welcome to another gangbuster year for strategic M&amp;A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt465d1df1337deefb/6accd5bc4116728fc82a34f3/mergers-Jacob_Wackerhausen-Getty-2047978266.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-09T19:26:26+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-   "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-   "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7326c761c708ed3/654e39e8a2ed90040a1595a2/FBI_hoody_jvphoto_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-09T17:21:00+00:00"
   },
   {
    "source": "Aikido",
@@ -795,14 +807,6 @@
    "date": "2026-10-08T02:54:50+00:00",
    "iocs": "iocs/b38f3b21a330.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
-   "link": "https://isc.sans.edu/diary/rss/33408",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-08T02:00:02+00:00"
   },
   {
    "source": "Unit 42",

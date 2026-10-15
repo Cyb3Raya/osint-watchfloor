@@ -1,0 +1,13 @@
+IOC EXTRACTION - Cisco Warns of Exploited Secure Email Gateway Vulnerability
+Source: https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/
+Extracted: 2026-10-15 07:08:13 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-76440
+CVE-2026-76461
+CVE-2026-76519
