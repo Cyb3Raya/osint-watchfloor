@@ -1,0 +1,18 @@
+IOC EXTRACTION - ARMORY CASTLE Exploits BeyondTrust
+Source: https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/
+Extracted: 2026-10-15 23:17:08 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2023-46805
+CVE-2024-21887
+CVE-2026-102764
+
+SHA256 (2)
+----------------------------------------
+1f19b9a27d79c11bda00a1e8faf74a7fdd683d38ccef1b60df2fd0307e3aa462
+dc14e215269a93fdbc4c1a80b984c23faf7af0911c6dbb85309796a6f2ae95fb

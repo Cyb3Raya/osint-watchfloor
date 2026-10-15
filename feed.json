@@ -1,9 +1,59 @@
 {
- "generated": "2026-10-15T20:32:57.402631+00:00",
+ "generated": "2026-10-15T23:17:12.044396+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33426",
+   "desc": "&#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+   "image": "",
+   "date": "2026-10-15T23:03:42+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+   "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+   "desc": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-15T22:10:08+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+   "link": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
+   "desc": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infr",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/AdobeStock_637057734.jpg",
+   "date": "2026-10-15T22:00:09+00:00",
+   "iocs": "iocs/acb8dfd16f4d.txt",
+   "ioc_count": 36
+  },
+  {
+   "source": "Dark Reading",
+   "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+   "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+   "desc": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-15T21:55:07+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+   "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+   "desc": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
+   "image": "",
+   "date": "2026-10-15T20:46:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+   "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+   "desc": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-15T20:43:20+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
@@ -12,6 +62,16 @@
    "image": "",
    "date": "2026-10-15T20:25:04+00:00",
    "iocs": "iocs/d0b52638beda.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+   "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+   "desc": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Verce",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg",
+   "date": "2026-10-15T20:24:36+00:00",
+   "iocs": "iocs/e2089d243155.txt",
    "ioc_count": 1
   },
   {
@@ -153,6 +213,16 @@
    "desc": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both a",
    "image": "",
    "date": "2026-10-15T14:01:11+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "ARMORY CASTLE Exploits BeyondTrust",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
+   "desc": "Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTr",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_ARMORY_CASTLE_BeyondTrust_comprom.max-1000x1000.jpg",
+   "date": "2026-10-15T14:00:00+00:00",
+   "iocs": "iocs/7294a4c7f8b6.txt",
+   "ioc_count": 5
   },
   {
    "source": "RF The Record",
@@ -391,14 +461,6 @@
    "date": "2026-10-15T02:00:03+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
-   "link": "https://isc.sans.edu/diary/rss/33426",
-   "desc": "&#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-10-15T01:10:57+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
    "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
@@ -437,14 +499,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-   "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-   "desc": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.",
-   "image": "",
-   "date": "2026-10-14T21:10:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Yam Store: The Phishing Network Behind a Billion Messages",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
@@ -467,16 +521,6 @@
    "desc": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker sc",
    "image": "",
    "date": "2026-10-14T19:41:43+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-   "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-   "desc": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker send",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg",
-   "date": "2026-10-14T18:38:56+00:00",
-   "iocs": "iocs/402aaeff71af.txt",
-   "ioc_count": 8
   },
   {
    "source": "BleepingComputer",
@@ -689,28 +733,12 @@
    "date": "2026-10-12T20:00:53+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-   "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-   "desc": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-12T18:27:25+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido Security is now CREST accredited",
    "link": "https://www.aikido.dev/blog/aikido-security-is-now-crest-accredited",
    "desc": "Selling to banks or government? Aikido now offers CREST-accredited penetration testing, plus AI pentesting between audits. Category: Compliance",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6acec1b5df3ac464d01d8950_Aikido-is-now-CREST-accredited_Feature.png",
    "date": "2026-10-12T13:47:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-   "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-   "desc": "Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-12T12:30:58+00:00"
   },
   {
    "source": "SANS ISC",
@@ -735,14 +763,6 @@
    "desc": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th",
    "image": "",
    "date": "2026-10-10T00:17:42+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-   "desc": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-09T20:58:32+00:00"
   },
   {
    "source": "Aikido",
@@ -1267,16 +1287,6 @@
    "date": "2026-09-08T14:00:00+00:00"
   },
   {
-   "source": "Unit 42",
-   "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
-   "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
-   "desc": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post Attackers Expose Ongoing AI Tool Use Targeting Organizations",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/AdobeStock_768915868-2-1.jpg",
-   "date": "2026-09-03T10:00:58+00:00",
-   "iocs": "iocs/4a6e6a0c559c.txt",
-   "ioc_count": 16
-  },
-  {
    "source": "Krebs on Security",
    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
    "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -1497,14 +1507,6 @@
    "desc": "Written by: Shebin Mathew Introduction The \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for thr",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ghost-database-fig1.max-1000x1000.png",
    "date": "2026-07-07T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/",
-   "desc": "Background Today, in coordination with the FBI, Lumen, and others, Google took action against the NetNut residential proxy network, also known as Popa. This action builds on our disruption of the IPIDEA proxy network tha",
-   "image": "",
-   "date": "2026-07-02T14:00:00+00:00"
   }
  ]
 }
