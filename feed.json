@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-14T23:26:12.938631+00:00",
+ "generated": "2026-10-15T01:49:45.024245+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
+   "link": "https://isc.sans.edu/diary/rss/33426",
+   "desc": "&#x5b;This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+   "image": "",
+   "date": "2026-10-15T01:10:57+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
@@ -823,16 +831,6 @@
    "date": "2026-10-07T15:43:09+00:00",
    "iocs": "iocs/d564801aa660.txt",
    "ioc_count": 29
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-   "link": "https://isc.sans.edu/diary/rss/33406",
-   "desc": "On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23&#x3b;x26&#x3b;&#x2",
-   "image": "",
-   "date": "2026-10-07T14:59:33+00:00",
-   "iocs": "iocs/394be2a0c7c9.txt",
-   "ioc_count": 1
   },
   {
    "source": "Krebs on Security",
