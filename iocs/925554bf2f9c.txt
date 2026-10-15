@@ -1,0 +1,15 @@
+IOC EXTRACTION - Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads
+Source: https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html
+Extracted: 2026-10-15 17:40:02 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+mtrtb[.]com
+
+SHA256 (1)
+----------------------------------------
+255869de85e2a171993fc5eb8a556d873a1b8966e040f6f55926f2fa2d595cc8

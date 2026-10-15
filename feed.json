@@ -1,12 +1,160 @@
 {
- "generated": "2026-10-15T12:43:10.586388+00:00",
+ "generated": "2026-10-15T17:40:27.620542+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
+   "source": "BleepingComputer",
+   "title": "Fake Arch Linux packages push malware with root privileges",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+   "desc": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+   "image": "",
+   "date": "2026-10-15T17:12:31+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
+   "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+   "desc": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Availa",
+   "image": "",
+   "date": "2026-10-15T16:51:34+00:00"
+  },
+  {
    "source": "The Hacker News",
-   "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+   "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+   "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+   "desc": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg",
+   "date": "2026-10-15T16:01:57+00:00",
+   "iocs": "iocs/925554bf2f9c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+   "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+   "desc": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through Au",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s1600/winrar-hacker.jpg",
+   "date": "2026-10-15T16:00:26+00:00",
+   "iocs": "iocs/c4b7926adcfb.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+   "desc": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-15T15:17:18+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
+   "link": "https://therecord.media/uk-legal-aid-cyberattack-data",
+   "desc": "A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.",
+   "image": "",
+   "date": "2026-10-15T14:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
+   "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
+   "desc": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-15T14:22:34+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+   "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+   "desc": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is asse",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp2enQeK-5xZuEo_rLQje9W_odynVLALJCEvTyaMSolIfwVonZGMceQWA8yq9xPMD-C_RkIp-V03EqEBVTM5yMq9IHWRRfSHxWWDS6kCJVcVAsmlFXt5wD2pK7Bk-A6iBIDFS2o811n8e48B1Psni_qvrkJ0HMXtJlhaLwx7jkxEG-e0XDgtcAMUMLiNFV/s1600/hot.jpg",
+   "date": "2026-10-15T14:11:36+00:00",
+   "iocs": "iocs/3d53c1d5457e.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Is AI pentesting as good as a human pentester?",
+   "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+   "desc": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both a",
+   "image": "",
+   "date": "2026-10-15T14:01:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
+   "link": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
+   "desc": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.",
+   "image": "",
+   "date": "2026-10-15T13:55:00+00:00",
+   "iocs": "iocs/1b773b19f141.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+   "desc": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+   "image": "",
+   "date": "2026-10-15T13:18:36+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Scammers Exploit 2026 U.S. Midterm Election to Perpetrate Multiple Fraud Schemes",
+   "link": "https://www.ic3.gov/PSA/2026/PSA261015-3",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "FBI Warns Voters on Election Crimes Ahead of the November 2026 Midterm Election",
+   "link": "https://www.ic3.gov/PSA/2026/PSA261015-2",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "FBI Cautions About Threats to Election Workers Ahead of the November 2026 Midterm Election",
+   "link": "https://www.ic3.gov/PSA/2026/PSA261015",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+   "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+   "desc": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says coul",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg",
+   "date": "2026-10-15T12:58:05+00:00",
+   "iocs": "iocs/b1e071119d1a.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
+   "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
+   "desc": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-10-15T12:50:42+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+   "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+   "desc": "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg",
+   "date": "2026-10-15T12:28:13+00:00",
+   "iocs": "iocs/5263188b31ce.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
    "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
    "desc": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg",
@@ -295,14 +443,6 @@
    "ioc_count": 4
   },
   {
-   "source": "The Hacker News",
-   "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-   "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-   "desc": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg",
-   "date": "2026-10-14T17:09:15+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Front Lines Podcast: What Founders Get Wrong When Pitching CISOs",
    "link": "https://socket.dev/blog/front-lines-pitching-cisos?utm_medium=feed",
@@ -311,36 +451,12 @@
    "date": "2026-10-14T17:06:13+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Spyware manufacturer had access to data harvested by former Polish government, current PM says",
-   "link": "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
-   "desc": "Prime Minister Donald Tusk, who ordered the investigation, on Monday called the sprawling spyware operation spearheaded by the country’s previous ruling party “one of the biggest scandals in Polish history since the fall",
-   "image": "",
-   "date": "2026-10-14T16:50:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-   "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-   "desc": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg",
-   "date": "2026-10-14T16:34:31+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
    "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
    "desc": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar ",
    "image": "",
    "date": "2026-10-14T16:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
-   "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
-   "desc": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. The post ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw appeared first on Securi",
-   "image": "",
-   "date": "2026-10-14T15:15:15+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -357,14 +473,6 @@
    "desc": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud a",
    "image": "",
    "date": "2026-10-14T14:22:49+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Harmonic Security Raises $50 Million for Workforce AI Protection",
-   "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
-   "desc": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK. The post Harmonic Security Raises $50 Million for Workforce AI Protection appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-14T14:09:51+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -387,28 +495,12 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Virtual Event Today: Zero Trust Strategies Summit",
-   "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-   "desc": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Virtual Event Today: Zero Trust Strategies Summit appeared first on",
-   "image": "",
-   "date": "2026-10-14T13:56:36+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Socket for Origin Now Available",
    "link": "https://socket.dev/blog/socket-for-origin?utm_medium=feed",
    "desc": "Socket for Origin scans dependency changes in pull requests and flags security risks based on your team’s policies. Now available in Cursor’s App Marketplace.",
    "image": "",
    "date": "2026-10-14T13:56:18+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals",
-   "link": "https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms",
-   "desc": "The tech giant worked with Japan’s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying",
-   "image": "",
-   "date": "2026-10-14T13:18:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -420,7 +512,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Russian Influence Operation Widely Targeting Latin America",
+   "title": "Russian Influence Operation Widely Targets Latin America",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
    "desc": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -437,48 +529,12 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-   "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version follo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg",
-   "date": "2026-10-14T12:30:42+00:00",
-   "iocs": "iocs/13d15f9231c4.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-   "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-   "desc": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl pro",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg",
-   "date": "2026-10-14T12:13:36+00:00",
-   "iocs": "iocs/05d981a16f27.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-   "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-   "desc": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg",
-   "date": "2026-10-14T11:50:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hirudo Android malware replaces banking apps to evade security checks",
    "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
    "desc": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
    "image": "",
    "date": "2026-10-14T11:41:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-   "desc": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-   "image": "",
-   "date": "2026-10-14T10:48:09+00:00"
   },
   {
    "source": "SANS ISC",
@@ -517,18 +573,10 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-   "desc": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-   "image": "",
-   "date": "2026-10-13T22:33:02+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
    "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-   "desc": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.",
+   "desc": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-13T22:29:57+00:00",
    "iocs": "iocs/d22f26b7e502.txt",
@@ -541,16 +589,6 @@
    "desc": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/07_Listicle_Category_1505x922.jpg",
    "date": "2026-10-13T22:00:04+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-   "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-   "desc": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-   "image": "",
-   "date": "2026-10-13T21:33:26+00:00",
-   "iocs": "iocs/521975252a51.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -574,7 +612,7 @@
    "source": "Dark Reading",
    "title": "Anthropic Finds Ingredients for Future AI Worms",
    "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-   "desc": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
+   "desc": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-13T20:35:23+00:00"
   },
@@ -650,7 +688,7 @@
    "source": "Dark Reading",
    "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
    "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-   "desc": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
+   "desc": "Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-12T12:30:58+00:00"
   },
@@ -685,14 +723,6 @@
    "desc": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-09T20:58:32+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-   "desc": "Welcome to another gangbuster year for strategic M&amp;A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt465d1df1337deefb/6accd5bc4116728fc82a34f3/mergers-Jacob_Wackerhausen-Getty-2047978266.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-09T19:26:26+00:00"
   },
   {
    "source": "Aikido",
@@ -1263,14 +1293,6 @@
    "ioc_count": 28
   },
   {
-   "source": "IC3 PSA",
-   "title": "Malicious Cyber Actors Gain Access to Victim Accounts Through Consent Phishing",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260901",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-01T14:00:00+00:00"
-  },
-  {
    "source": "Wiz Threats",
    "title": "Coder Module Registry Compromise Leads to Credential-Stealing Malware Distribution (Incident)",
    "link": "https://threats.wiz.io/all-incidents/coder-module-registry-compromise-leads-to-credential-stealing-malware-distribution",
@@ -1337,14 +1359,6 @@
    "ioc_count": 2
   },
   {
-   "source": "IC3 PSA",
-   "title": "Sexual Exploitation Actors Stealing and Leaking Explicit Content",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260810",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-10T14:00:00+00:00"
-  },
-  {
    "source": "Wiz Threats",
    "title": "Payroll Pirates Phishing Campaign Targets Microsoft 365 Financial Workflows (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/payroll-pirates-phishing-campaign-targets-microsoft-365-financial-workflows",
@@ -1361,14 +1375,6 @@
    "date": "2026-08-06T14:00:00+00:00",
    "iocs": "iocs/7b5a120ec555.txt",
    "ioc_count": 76
-  },
-  {
-   "source": "IC3 PSA",
-   "title": "Ongoing Threats of Swatting and Indicators for Community Members",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260804",
-   "desc": "",
-   "image": "",
-   "date": "2026-08-04T13:00:00+00:00"
   },
   {
    "source": "Wiz Threats",

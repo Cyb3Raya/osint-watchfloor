@@ -1,0 +1,12 @@
+IOC EXTRACTION - Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks
+Source: https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html
+Extracted: 2026-10-15 17:40:03 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-25257
+CVE-2025-8088

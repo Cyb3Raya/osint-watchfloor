@@ -1,0 +1,11 @@
+IOC EXTRACTION - Suspected Kazakhstan-linked hackers target governments across former Soviet states
+Source: https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage
+Extracted: 2026-10-15 17:40:22 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-8088

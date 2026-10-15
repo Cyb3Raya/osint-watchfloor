@@ -1,0 +1,20 @@
+IOC EXTRACTION - NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks
+Source: https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html
+Extracted: 2026-10-15 17:40:05 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2025-23419
+CVE-2026-101019
+CVE-2026-101025
+CVE-2026-15176
+CVE-2026-42533
+CVE-2026-42945
+CVE-2026-93479
+CVE-2026-95101
+CVE-2026-97205
+CVE-2026-97629
