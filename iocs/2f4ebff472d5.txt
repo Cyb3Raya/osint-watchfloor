@@ -1,0 +1,15 @@
+IOC EXTRACTION - China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
+Source: https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
+Extracted: 2026-10-16 11:53:26 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2023-46805
+CVE-2023-4966
+CVE-2024-21887
+CVE-2025-0282
+CVE-2026-102764

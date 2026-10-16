@@ -1,0 +1,16 @@
+IOC EXTRACTION - Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day
+Source: https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/
+Extracted: 2026-10-16 11:53:33 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2023-46805
+CVE-2023-4966
+CVE-2024-21887
+CVE-2025-0282
+CVE-2026-102764
+CVE-2026-22769

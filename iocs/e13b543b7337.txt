@@ -1,0 +1,13 @@
+IOC EXTRACTION - F5, Juniper Networks Patch Critical Vulnerabilities
+Source: https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/
+Extracted: 2026-10-16 11:53:35 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-15176
+CVE-2026-93479
+CVE-2026-97205
