@@ -1,0 +1,14 @@
+IOC EXTRACTION - Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day
+Source: https://therecord.media/beyond-trust-cyberattack-china
+Extracted: 2026-10-16 16:19:12 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2023-46805
+CVE-2024-21887
+CVE-2025-0282
+CVE-2026-102764

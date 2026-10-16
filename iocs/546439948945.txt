@@ -1,0 +1,11 @@
+IOC EXTRACTION - In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit
+Source: https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/
+Extracted: 2026-10-16 16:19:03 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-105740

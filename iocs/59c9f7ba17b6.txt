@@ -1,0 +1,49 @@
+IOC EXTRACTION - Investigating Ephemeral Supply Chain Tampering
+Source: https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/
+Extracted: 2026-10-16 16:19:07 UTC
+Total indicators: 30
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+14[.]10[.]1[.]0
+8[.]210[.]84[.]56
+8[.]2[.]5[.]0
+
+URLs (3)
+----------------------------------------
+hxxps://promotion[.]storage-data[.]com/config/component[.]zip
+hxxps://promotion[.]storage-data[.]com/download/abpopup/upgrade-now[.]zip
+hxxps://www2[.]aomeisoftware[.]com/download/abpopup/upgrade-now[.]zip
+
+SHA256 (21)
+----------------------------------------
+11e576df44e9c9eef72b9f5b699291bcdb200a19130778ec231e5b0987b913ad
+14b31918075e6130b9123158743db0a81e2d7bfcf6d39731ee7d9200a98cd591
+286e0d8c7bdfaa7c251a3e8f0f2fefbe25c67586c0149d39b1095c89dc6023c8
+2d99e9d732ff9304d97c7856b052ca520ae689fec1ce86df724de741913afa4b
+4b4d25b3501519476f9a62a88a781e4f446f669280eb5e98c6b96eb6d3743431
+4c0a75e0f62ddc0bb350c224fe996f3b2ab08dcb0d288231c61ffe9406c7045b
+5837bc26a73cfb46ffd466cf889f03ce2f6a48f1f3fd42ec8be22189d51cab1e
+6670ab3f0434a42f33416f8354150b1701e7615f3cfa2f1635e54f8df0f6eec7
+7b252be444dee2fb2a57043a823dc5b5e1fae970aea91ee2c8339aa70329969d
+8c8090aca8ddb1cf968d2b810457e0cfce97c03cd721f70d2eca7f37f2681fc4
+8fbaa74b27dc1e89abfc694e834378746f0ad37a688098c5f8f511410157c8b8
+924ad92d89dde577d5858b2ebc5703a485467842d78e98b75019b2e2e0ac3fe6
+9a58e8f49edf5644e5728f74cf36f560d3d486fa51db4db69d927963c7aca450
+9ed503c6a9a3a493fb859401e9ed469eed77ab9927341964d6dbfbfa6255aeba
+b360b6db0c2b668317edc1504a7c39ef047f0d925c8f113b521f6724c157ae21
+d167bc898e856da8a4003cb4dfc7de55fea109eee3cd64fc8999710314109464
+d2f9ef2429312667f0512504b6a19ba4a9cc5514f1b2933923dd42f75a1c5934
+d71a119b4950ee88dd36205176d989a64df5248ac268591d4bbb78621a73acbd
+d7cfa659d224928e7b72c806dcf2169594d993ecf6422e6efcdcf251190f2e7c
+dad559ae9bc977783c7251591eeb7aa432b860ce821ccf10b1260fd0e650c951
+f2a7d0a4c8613a9cdd31ede6131b27040c0571ca97970b245a710191806d7ac4
+
+MD5 (3)
+----------------------------------------
+31323e7e738230fa6a8deef2b7894666
+bf73c4391b58ca95220ce3ae03f66dcf
+ee89c99f3753231771170f5d9cbbae1e

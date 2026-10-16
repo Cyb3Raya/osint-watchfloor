@@ -1,9 +1,101 @@
 {
- "generated": "2026-10-16T11:53:44.007280+00:00",
+ "generated": "2026-10-16T16:19:16.076991+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+   "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+   "desc": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
+   "image": "",
+   "date": "2026-10-16T14:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+   "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+   "desc": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hack",
+   "image": "",
+   "date": "2026-10-16T14:09:51+00:00",
+   "iocs": "iocs/546439948945.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+   "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+   "desc": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg",
+   "date": "2026-10-16T14:03:04+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "When Your Ransomware Negotiator Works for the Other Side",
+   "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+   "desc": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T14:00:00+00:00"
+  },
+  {
+   "source": "IC3 PSA",
+   "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
+   "link": "https://www.ic3.gov/PSA/2026/PSA261016",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-16T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+   "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+   "desc": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI",
+   "image": "",
+   "date": "2026-10-16T13:50:59+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+   "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
+   "desc": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
+   "image": "",
+   "date": "2026-10-16T13:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Baltimore suburb confirms August data breach after ransomware claims",
+   "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+   "desc": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
+   "image": "",
+   "date": "2026-10-16T13:05:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+   "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+   "desc": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+   "link": "https://therecord.media/beyond-trust-cyberattack-china",
+   "desc": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
+   "image": "",
+   "date": "2026-10-16T13:00:00+00:00",
+   "iocs": "iocs/700cff3a3f4e.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Burger King Japan data breach exposes 11 million customer records",
+   "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+   "desc": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+   "image": "",
+   "date": "2026-10-16T12:01:29+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
@@ -11,6 +103,14 @@
    "desc": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts app",
    "image": "",
    "date": "2026-10-16T11:46:40+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+   "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+   "desc": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ann",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg",
+   "date": "2026-10-16T11:30:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -205,14 +305,6 @@
    "date": "2026-10-15T19:48:43+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Zero-click spyware infecting devices through online ads, researchers say",
-   "link": "https://therecord.media/spyware-citizen-lab-advertising",
-   "desc": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
-   "image": "",
-   "date": "2026-10-15T19:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
    "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
@@ -295,14 +387,6 @@
    "date": "2026-10-15T15:17:18+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
-   "link": "https://therecord.media/uk-legal-aid-cyberattack-data",
-   "desc": "A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.",
-   "image": "",
-   "date": "2026-10-15T14:30:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
    "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
@@ -347,16 +431,6 @@
    "ioc_count": 5
   },
   {
-   "source": "RF The Record",
-   "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
-   "link": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
-   "desc": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.",
-   "image": "",
-   "date": "2026-10-15T13:55:00+00:00",
-   "iocs": "iocs/1b773b19f141.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
@@ -397,14 +471,6 @@
    "date": "2026-10-15T12:58:05+00:00",
    "iocs": "iocs/b1e071119d1a.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-   "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-   "desc": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-10-15T12:50:42+00:00"
   },
   {
    "source": "The Hacker News",
@@ -453,20 +519,14 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "Why AI Confidence Is Not Validation",
-   "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-   "desc": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg",
-   "date": "2026-10-15T11:04:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-   "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-   "desc": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyJOEj0MfpVvrP-qAXhuoM2BBSjZ6TwPYR-nMG_g-tBvu7Er2cMlvMoVkJOUP1qE2sleu3a21YjvdCQ9u80FSBTx7NNP3cZNfradprnGu-EnIURCxZK4sA0cXbROZpdW8CJxZcxRfhJyhbIXa_Au_sha3mh5pFe-7k5EIimZQlUGIs_mGGKHGKArej6il7/s1600/4g.jpg",
-   "date": "2026-10-15T10:42:16+00:00"
+   "source": "Google GTIG",
+   "title": "Investigating Ephemeral Supply Chain Tampering",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+   "desc": "Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology betw",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_AOMEI_Update_Mechanism.max-1000x1000.png",
+   "date": "2026-10-15T11:00:00+00:00",
+   "iocs": "iocs/59c9f7ba17b6.txt",
+   "ioc_count": 30
   },
   {
    "source": "BleepingComputer",
@@ -501,14 +561,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-15T02:00:03+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
-   "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
-   "desc": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the f",
-   "image": "",
-   "date": "2026-10-14T23:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -555,22 +607,6 @@
    "desc": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-14T20:09:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-   "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-   "desc": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker sc",
-   "image": "",
-   "date": "2026-10-14T19:41:43+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-   "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-   "desc": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigat",
-   "image": "",
-   "date": "2026-10-14T17:46:50+00:00"
   },
   {
    "source": "Socket",
@@ -727,24 +763,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-13T02:00:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-   "desc": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ff00aa0ccf043c/685b010d7bd6c2cb5e6d4834/SonicWall_sign_Michael_Vi_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-12T21:42:42+00:00",
-   "iocs": "iocs/e65d97444d56.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-   "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-   "desc": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-12T20:00:53+00:00"
   },
   {
    "source": "Aikido",
@@ -1213,14 +1231,6 @@
    "date": "2026-09-17T22:00:33+00:00"
   },
   {
-   "source": "IC3 PSA",
-   "title": "Scammers Impersonating Law Enforcement and Government Officials in Fraud Schemes",
-   "link": "https://www.ic3.gov/PSA/2026/PSA260917",
-   "desc": "",
-   "image": "",
-   "date": "2026-09-17T14:00:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
    "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -1497,14 +1507,6 @@
    "desc": "A malicious version of the Jscrambler npm package, jscrambler@8.14.0, was published at 15:12 UTC on 11 July 2026. The compromised release executed a dropper via an npm preinstall hook that detected the host operating sys",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-11T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "The ‘Ghost’ in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/",
-   "desc": "Written by: Shebin Mathew Introduction The \"Golden SAML\" technique, first described by CyberArk researchers in 2017, and further detailed by Mandiant researchers in 2021, remains one of the most effective methods for thr",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/ghost-database-fig1.max-1000x1000.png",
-   "date": "2026-07-07T14:00:00+00:00"
   }
  ]
 }
