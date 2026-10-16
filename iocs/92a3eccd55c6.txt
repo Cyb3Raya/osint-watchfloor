@@ -1,0 +1,14 @@
+IOC EXTRACTION - BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs
+Source: https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs
+Extracted: 2026-10-16 22:11:21 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-0322
+CVE-2026-102764
+CVE-2026-104935
+CVE-2026-76519

@@ -1,9 +1,37 @@
 {
- "generated": "2026-10-16T19:36:25.794577+00:00",
+ "generated": "2026-10-16T22:11:32.412794+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+   "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+   "desc": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T20:34:37+00:00",
+   "iocs": "iocs/92a3eccd55c6.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+   "desc": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+   "image": "",
+   "date": "2026-10-16T20:00:59+00:00",
+   "iocs": "iocs/eef67d66b352.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+   "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+   "desc": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T19:49:30+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
@@ -51,6 +79,14 @@
    "desc": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
    "image": "",
    "date": "2026-10-16T17:20:03+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Deno Goes the Way of the Dinosaur",
+   "link": "https://socket.dev/blog/deno-acquisition?utm_medium=feed",
+   "desc": "Cloudflare is acquiring Deno’s team, which will provide another year of bug fixes and security updates before ending support for the runtime.",
+   "image": "",
+   "date": "2026-10-16T16:49:36+00:00"
   },
   {
    "source": "The Hacker News",
@@ -575,14 +611,6 @@
    "date": "2026-10-15T09:10:20+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-   "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-   "desc": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 19",
-   "image": "",
-   "date": "2026-10-15T08:06:47+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
    "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
@@ -671,14 +699,6 @@
    "date": "2026-10-14T13:56:18+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Russian Influence Operation Widely Targets Latin America",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-   "desc": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-14T13:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
    "link": "https://isc.sans.edu/diary/rss/33420",
@@ -687,14 +707,6 @@
    "date": "2026-10-14T06:49:46+00:00",
    "iocs": "iocs/ec26e3c9fb04.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-   "desc": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-14T05:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -979,16 +991,6 @@
    "desc": "We compare the top vulnerability remediation tools in 2026: Aikido Security, Snyk, GitHub Advanced Security, Tenable, Qualys, and Wiz Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-02T12:58:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX",
-   "link": "https://socket.dev/blog/glassworm-vscode-themes?utm_medium=feed",
-   "desc": "Socket uncovered two malicious VS Code themes in a GlassWorm-linked cluster with thousands of installs across VS Code Marketplace and Open VSX.",
-   "image": "",
-   "date": "2026-10-02T03:44:40+00:00",
-   "iocs": "iocs/da2231050ee3.txt",
-   "ioc_count": 15
   },
   {
    "source": "Aikido",
