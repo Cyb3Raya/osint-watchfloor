@@ -1,0 +1,18 @@
+IOC EXTRACTION - BeyondTrust patches zero-day exploited in attacks since August
+Source: https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/
+Extracted: 2026-10-16 06:20:42 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2023-46805
+CVE-2023-4966
+CVE-2024-12356
+CVE-2024-12686
+CVE-2024-21887
+CVE-2025-0282
+CVE-2026-102764
+CVE-2026-1731

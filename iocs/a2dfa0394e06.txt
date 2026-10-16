@@ -1,0 +1,18 @@
+IOC EXTRACTION - PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions
+Source: https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+Extracted: 2026-10-16 06:20:40 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2024-26008
+CVE-2024-26009
+CVE-2024-47575
+CVE-2025-61624
+
+IPv4 (1)
+----------------------------------------
+23[.]240[.]77[.]233

@@ -1,9 +1,37 @@
 {
- "generated": "2026-10-16T01:30:10.276542+00:00",
+ "generated": "2026-10-16T06:20:54.392904+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "BeyondTrust patches zero-day exploited in attacks since August",
+   "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+   "desc": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+   "image": "",
+   "date": "2026-10-16T06:18:08+00:00",
+   "iocs": "iocs/166fdf646185.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+   "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+   "desc": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg",
+   "date": "2026-10-16T04:59:36+00:00",
+   "iocs": "iocs/a2dfa0394e06.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
+   "link": "https://isc.sans.edu/diary/rss/33432",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-16T02:00:03+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
@@ -441,16 +469,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-   "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-   "desc": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in quest",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg",
-   "date": "2026-10-15T06:43:08+00:00",
-   "iocs": "iocs/ab68bb7b689b.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SecurityWeek",
    "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
    "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
@@ -571,16 +589,6 @@
    "desc": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud a",
    "image": "",
    "date": "2026-10-14T14:22:49+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-   "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-   "desc": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting wi",
-   "image": "",
-   "date": "2026-10-14T14:00:10+00:00",
-   "iocs": "iocs/1651735e0da5.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
@@ -807,14 +815,6 @@
    "date": "2026-10-09T12:07:00+00:00",
    "iocs": "iocs/63e4c5b47aee.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-   "link": "https://isc.sans.edu/diary/rss/33412",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-09T07:52:03+00:00"
   },
   {
    "source": "Aikido",
