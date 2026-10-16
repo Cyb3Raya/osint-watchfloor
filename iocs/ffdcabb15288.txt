@@ -1,0 +1,19 @@
+IOC EXTRACTION - Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
+Source: https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
+Extracted: 2026-10-16 19:36:11 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+47[.]239[.]60[.]117
+8[.]210[.]84[.]56
+8[.]218[.]65[.]184
+
+Domains (3)
+----------------------------------------
+aomei[.]storage-data[.]com
+promotion[.]storage-data[.]com
+storage-data[.]com

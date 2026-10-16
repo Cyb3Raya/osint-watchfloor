@@ -1,9 +1,75 @@
 {
- "generated": "2026-10-16T16:19:16.076991+00:00",
+ "generated": "2026-10-16T19:36:25.794577+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+   "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+   "desc": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T19:22:12+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+   "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+   "desc": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T19:13:59+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+   "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+   "desc": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-16T18:37:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+   "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+   "desc": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
+   "date": "2026-10-16T17:48:45+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+   "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
+   "desc": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 20",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg",
+   "date": "2026-10-16T17:47:54+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+   "desc": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+   "image": "",
+   "date": "2026-10-16T17:20:03+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+   "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+   "desc": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup prog",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg",
+   "date": "2026-10-16T16:43:39+00:00",
+   "iocs": "iocs/ffdcabb15288.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+   "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+   "desc": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg",
+   "date": "2026-10-16T16:16:44+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
@@ -383,7 +449,7 @@
    "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
    "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
    "desc": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fef1a5b52640035/6ad2596ea7e47a611834201e/Software_patch_Zoonar_GmbH_Alamy_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-15T15:17:18+00:00"
   },
   {
@@ -483,40 +549,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-   "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-   "desc": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg",
-   "date": "2026-10-15T12:07:20+00:00",
-   "iocs": "iocs/42bfa2e2916b.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "BleepingComputer",
    "title": "Police arrests 95 suspects in international CSAM crackdown action",
    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
    "desc": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online mes",
    "image": "",
    "date": "2026-10-15T11:55:38+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-   "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-   "desc": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg",
-   "date": "2026-10-15T11:46:59+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-   "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-   "desc": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of rem",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg",
-   "date": "2026-10-15T11:46:49+00:00",
-   "iocs": "iocs/cc144af6dd9e.txt",
-   "ioc_count": 5
   },
   {
    "source": "Google GTIG",
@@ -561,16 +599,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-15T02:00:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-   "desc": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-   "image": "",
-   "date": "2026-10-14T22:56:47+00:00",
-   "iocs": "iocs/10dada637c3e.txt",
-   "ioc_count": 4
   },
   {
    "source": "Unit 42",
@@ -687,30 +715,12 @@
    "ioc_count": 2
   },
   {
-   "source": "Dark Reading",
-   "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-   "desc": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-13T22:29:57+00:00",
-   "iocs": "iocs/d22f26b7e502.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "Unit 42",
    "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
    "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
    "desc": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/07_Listicle_Category_1505x922.jpg",
    "date": "2026-10-13T22:00:04+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "North Korea Phishes Ukrainians for War Intel",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-   "desc": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-13T21:24:45+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -721,14 +731,6 @@
    "date": "2026-10-13T20:37:58+00:00",
    "iocs": "iocs/a36e0090ff0e.txt",
    "ioc_count": 193
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Anthropic Finds Ingredients for Future AI Worms",
-   "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-   "desc": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-13T20:35:23+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1265,16 +1267,6 @@
    "date": "2026-09-10T10:00:43+00:00",
    "iocs": "iocs/1fb7fd98ae59.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Unit 42",
-   "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
-   "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
-   "desc": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastruct",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Malware_Category_1920x900-6.jpg",
-   "date": "2026-09-09T10:00:55+00:00",
-   "iocs": "iocs/654fcccd2a96.txt",
-   "ioc_count": 273
   },
   {
    "source": "Krebs on Security",
