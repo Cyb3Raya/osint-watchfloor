@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-15T23:17:12.044396+00:00",
+ "generated": "2026-10-16T01:30:10.276542+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
+   "link": "https://isc.sans.edu/diary/rss/33430",
+   "desc": "I believe the cybersecurity industry may be approaching AI security the wrong way.&#xd;",
+   "image": "",
+   "date": "2026-10-16T00:46:35+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
@@ -825,14 +833,6 @@
    "date": "2026-10-08T18:00:29+00:00",
    "iocs": "iocs/d423319925cc.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-   "link": "https://isc.sans.edu/diary/rss/33410",
-   "desc": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x",
-   "image": "",
-   "date": "2026-10-08T16:52:53+00:00"
   },
   {
    "source": "Cisco Talos",
