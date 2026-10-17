@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
+Source: https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/
+Extracted: 2026-10-17 16:30:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]64[.]128

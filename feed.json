@@ -1,11 +1,29 @@
 {
- "generated": "2026-10-17T13:01:52.758401+00:00",
- "sources_ok": 13,
+ "generated": "2026-10-17T16:30:23.618755+00:00",
+ "sources_ok": 14,
  "sources_total": 14,
- "failed": [
-  "RF The Record"
- ],
+ "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+   "desc": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+   "image": "",
+   "date": "2026-10-17T15:18:51+00:00",
+   "iocs": "iocs/622bd9511527.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+   "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+   "desc": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+   "image": "",
+   "date": "2026-10-17T14:32:48+00:00",
+   "iocs": "iocs/978985bee2a5.txt",
+   "ioc_count": 2
+  },
   {
    "source": "The Hacker News",
    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
@@ -153,6 +171,14 @@
    "date": "2026-10-16T16:16:44+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+   "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+   "desc": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
+   "image": "",
+   "date": "2026-10-16T14:45:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
    "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
@@ -195,12 +221,38 @@
    "date": "2026-10-16T13:50:59+00:00"
   },
   {
+   "source": "RF The Record",
+   "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+   "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
+   "desc": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
+   "image": "",
+   "date": "2026-10-16T13:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Baltimore suburb confirms August data breach after ransomware claims",
+   "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+   "desc": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
+   "image": "",
+   "date": "2026-10-16T13:05:00+00:00"
+  },
+  {
    "source": "Dark Reading",
    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
    "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
    "desc": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-16T13:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+   "link": "https://therecord.media/beyond-trust-cyberattack-china",
+   "desc": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
+   "image": "",
+   "date": "2026-10-16T13:00:00+00:00",
+   "iocs": "iocs/700cff3a3f4e.txt",
+   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -373,6 +425,14 @@
    "desc": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-10-15T21:55:07+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+   "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+   "desc": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
+   "image": "",
+   "date": "2026-10-15T20:46:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -561,14 +621,6 @@
    "date": "2026-10-15T13:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Police arrests 95 suspects in international CSAM crackdown action",
-   "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-   "desc": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online mes",
-   "image": "",
-   "date": "2026-10-15T11:55:38+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "Investigating Ephemeral Supply Chain Tampering",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
@@ -577,14 +629,6 @@
    "date": "2026-10-15T11:00:00+00:00",
    "iocs": "iocs/59c9f7ba17b6.txt",
    "ioc_count": 30
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-   "desc": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-   "image": "",
-   "date": "2026-10-15T09:10:20+00:00"
   },
   {
    "source": "Dark Reading",
