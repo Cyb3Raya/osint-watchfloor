@@ -1,9 +1,29 @@
 {
- "generated": "2026-10-17T09:10:51.238901+00:00",
- "sources_ok": 14,
+ "generated": "2026-10-17T13:01:52.758401+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "RF The Record"
+ ],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+   "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+   "desc": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package regis",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg",
+   "date": "2026-10-17T11:11:56+00:00",
+   "iocs": "iocs/219fd9eab491.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+   "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+   "desc": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appea",
+   "image": "",
+   "date": "2026-10-17T11:00:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
@@ -49,6 +69,14 @@
    "desc": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-16T19:49:30+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top Horizon3 alternatives in 2026",
+   "link": "https://www.aikido.dev/blog/horizon-alternatives",
+   "desc": "We compare the top Horizon3 alternatives for AI pentesting in 2026: Aikido Security, Pentera, RidgeBot, XBOW, Hadrian, RunSybil, and Terra Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-16T19:48:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -125,14 +153,6 @@
    "date": "2026-10-16T16:16:44+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
-   "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-   "desc": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
-   "image": "",
-   "date": "2026-10-16T14:45:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
    "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
@@ -175,38 +195,12 @@
    "date": "2026-10-16T13:50:59+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
-   "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
-   "desc": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
-   "image": "",
-   "date": "2026-10-16T13:30:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Baltimore suburb confirms August data breach after ransomware claims",
-   "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
-   "desc": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
-   "image": "",
-   "date": "2026-10-16T13:05:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
    "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
    "desc": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-16T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
-   "link": "https://therecord.media/beyond-trust-cyberattack-china",
-   "desc": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
-   "image": "",
-   "date": "2026-10-16T13:00:00+00:00",
-   "iocs": "iocs/700cff3a3f4e.txt",
-   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -381,14 +375,6 @@
    "date": "2026-10-15T21:55:07+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-   "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-   "desc": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
-   "image": "",
-   "date": "2026-10-15T20:46:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
    "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
@@ -507,14 +493,6 @@
    "date": "2026-10-15T15:17:18+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-   "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-   "desc": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-15T14:22:34+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Anthropic Gives Open Source Maintainers a Fast Track to Mythos Vulnerability Findings",
    "link": "https://socket.dev/blog/anthropic-oss-scanner?utm_medium=feed",
@@ -581,16 +559,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-15T13:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-   "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-   "desc": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says coul",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg",
-   "date": "2026-10-15T12:58:05+00:00",
-   "iocs": "iocs/b1e071119d1a.txt",
-   "ioc_count": 10
   },
   {
    "source": "BleepingComputer",
@@ -1179,14 +1147,6 @@
    "desc": "We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AI Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-23T16:01:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Aikido and Deel: set up once, secure every hire",
-   "link": "https://www.aikido.dev/blog/aikido-deel-partnership",
-   "desc": "Code, cloud, and devices, covered automatically once someone's hired through Deel. Category: Aikido",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab3c0ace0ad29ccc62d9588_Logo_%2B.png",
-   "date": "2026-09-23T13:00:00+00:00"
   },
   {
    "source": "Cisco Talos",

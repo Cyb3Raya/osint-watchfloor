@@ -1,0 +1,11 @@
+IOC EXTRACTION - MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+Source: https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+Extracted: 2026-10-17 13:01:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+104[.]234[.]65[.]75
