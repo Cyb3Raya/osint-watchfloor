@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-17T00:35:03.052123+00:00",
+ "generated": "2026-10-17T04:58:19.689400+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "Top Escape.tech alternatives for offensive security in 2026",
+   "link": "https://www.aikido.dev/blog/escape-tech-alternatives",
+   "desc": "We compare the top Escape.tech alternatives for offensive security in 2026: Aikido Security, XBOW, RunSybil, Terra, Burp Suite Professional, Invicti, StackHawk, Hadrian, and Pentera Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-16T20:47:00+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
@@ -31,6 +39,14 @@
    "desc": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-16T19:49:30+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Top Horizon3 alternatives in 2026",
+   "link": "https://www.aikido.dev/blog/horizon-alternatives",
+   "desc": "We compare the top Horizon3 alternatives for AI pentesting in 2026: Aikido Security, Pentera, RidgeBot, XBOW, Hadrian, RunSybil, and Terra Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-16T19:48:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1171,24 +1187,6 @@
    "desc": "We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AI Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-09-23T16:01:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Aikido and Deel: set up once, secure every hire",
-   "link": "https://www.aikido.dev/blog/aikido-deel-partnership",
-   "desc": "Code, cloud, and devices, covered automatically once someone's hired through Deel. Category: Aikido",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ab3c0ace0ad29ccc62d9588_Logo_%2B.png",
-   "date": "2026-09-23T13:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Novel supplychain.local Go worm appears",
-   "link": "https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi",
-   "desc": "\"supplychain.local\": malicious code found in MemTensor's npm plugin (0.1.21, 0.1.23) and PyPI's MemoryOS (2.0.34). Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aa033f31c176445cbd8f03e_compromised-flutter-package-on-pub-dev-contains-xcsset-malware.jpg",
-   "date": "2026-09-23T07:41:00+00:00",
-   "iocs": "iocs/86ff0038290a.txt",
-   "ioc_count": 9
   },
   {
    "source": "Cisco Talos",
