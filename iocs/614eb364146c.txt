@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+Source: https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+Extracted: 2026-10-17 09:10:44 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]64[.]128
