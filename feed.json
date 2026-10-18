@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-18T06:02:53.796768+00:00",
+ "generated": "2026-10-18T11:22:04.360286+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+   "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+   "desc": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on Secur",
+   "image": "",
+   "date": "2026-10-18T11:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+   "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+   "desc": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg",
+   "date": "2026-10-18T08:23:02+00:00",
+   "iocs": "iocs/1a74dd4c9004.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
@@ -517,14 +535,6 @@
    "date": "2026-10-15T17:12:31+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-   "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-   "desc": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Availa",
-   "image": "",
-   "date": "2026-10-15T16:51:34+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
    "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
@@ -559,16 +569,6 @@
    "desc": "Anthropic’s free OSS Scanner uses Mythos and other Claude models to find open source vulnerabilities and send maintainers reports with proposed fixes.",
    "image": "",
    "date": "2026-10-15T14:13:04+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-   "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-   "desc": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is asse",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp2enQeK-5xZuEo_rLQje9W_odynVLALJCEvTyaMSolIfwVonZGMceQWA8yq9xPMD-C_RkIp-V03EqEBVTM5yMq9IHWRRfSHxWWDS6kCJVcVAsmlFXt5wD2pK7Bk-A6iBIDFS2o811n8e48B1Psni_qvrkJ0HMXtJlhaLwx7jkxEG-e0XDgtcAMUMLiNFV/s1600/hot.jpg",
-   "date": "2026-10-15T14:11:36+00:00",
-   "iocs": "iocs/3d53c1d5457e.txt",
-   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",

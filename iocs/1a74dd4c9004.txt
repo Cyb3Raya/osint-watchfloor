@@ -1,0 +1,11 @@
+IOC EXTRACTION - ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
+Source: https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+Extracted: 2026-10-18 11:21:56 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]64[.]128
