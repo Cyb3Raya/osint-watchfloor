@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/
+Extracted: 2026-10-18 14:47:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-106931
