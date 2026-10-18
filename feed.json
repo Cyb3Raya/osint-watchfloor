@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-18T14:48:05.378689+00:00",
+ "generated": "2026-10-18T17:53:27.557588+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
    "source": "BleepingComputer",
-   "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+   "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
    "desc": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
    "image": "",
