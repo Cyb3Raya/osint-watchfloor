@@ -1,0 +1,19 @@
+IOC EXTRACTION - GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories
+Source: https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html
+Extracted: 2026-10-19 17:25:14 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+193[.]32[.]204[.]199
+
+Domains (1)
+----------------------------------------
+my-gitlab[.]com
+
+Emails (1)
+----------------------------------------
+noreply@my-github.com

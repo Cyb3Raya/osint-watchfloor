@@ -1,0 +1,16 @@
+IOC EXTRACTION - Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic
+Source: https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html
+Extracted: 2026-10-19 17:25:16 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (6)
+----------------------------------------
+0auth-chromium[.]com
+apexaccs[.]org
+apexfdn[.]xyz
+ccmihr[.]com
+verify[.]apexfdn[.]xyz
+vrf[.]apexaccs[.]org

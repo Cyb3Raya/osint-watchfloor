@@ -1,0 +1,11 @@
+IOC EXTRACTION - ConnectWise Suspends Cloud Services in Response to Cyberattack
+Source: https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/
+Extracted: 2026-10-19 17:25:31 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]64[.]128

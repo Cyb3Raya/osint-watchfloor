@@ -1,9 +1,207 @@
 {
- "generated": "2026-10-19T10:58:11.501877+00:00",
+ "generated": "2026-10-19T17:25:48.721797+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
+   "link": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
+   "desc": "Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic.",
+   "image": "",
+   "date": "2026-10-19T16:45:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+   "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+   "desc": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg",
+   "date": "2026-10-19T16:28:47+00:00",
+   "iocs": "iocs/98fe862721ad.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian social media giant VK faces disruptions after data center drone strike",
+   "link": "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
+   "desc": "The disruptions began Sunday, when users complained of difficulties loading news feeds, playing music and accessing other features of VK's platforms.",
+   "image": "",
+   "date": "2026-10-19T15:55:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
+   "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
+   "desc": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules. The post Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-19T15:47:50+00:00",
+   "iocs": "iocs/f6f5c9b3e6e3.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
+   "link": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
+   "desc": "Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16. The post Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-10-19T15:20:53+00:00",
+   "iocs": "iocs/4a3ed0d57d91.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+   "desc": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
+   "image": "",
+   "date": "2026-10-19T14:55:23+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
+   "desc": "Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explain",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef729e5049e61b8c/6ad290a4ed74a528c20a7b92/copyright1800_wakila_GettyImages-157508105.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-19T14:28:11+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+   "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+   "desc": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg",
+   "date": "2026-10-19T14:14:07+00:00",
+   "iocs": "iocs/e6f76086848f.txt",
+   "ioc_count": 181
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Inside the Underground Market for Know Your Client Services",
+   "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+   "desc": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the tec",
+   "image": "",
+   "date": "2026-10-19T14:00:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
+   "desc": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-19T14:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+   "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+   "desc": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+   "image": "",
+   "date": "2026-10-19T13:49:24+00:00",
+   "iocs": "iocs/630076717813.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+   "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "desc": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually ",
+   "image": "",
+   "date": "2026-10-19T13:48:56+00:00",
+   "iocs": "iocs/3e43e08eb436.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
+   "link": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
+   "desc": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-19T13:16:20+00:00",
+   "iocs": "iocs/6fe1a56abf01.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+   "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+   "desc": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguis",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg",
+   "date": "2026-10-19T13:05:45+00:00",
+   "iocs": "iocs/bdcf728a9e2a.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+   "desc": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
+   "image": "",
+   "date": "2026-10-19T12:44:44+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
+   "link": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
+   "desc": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-19T12:44:39+00:00",
+   "iocs": "iocs/82bda94fe48f.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "One Compromised Login Exposed Millions of California Students’ Records",
+   "link": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
+   "desc": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students&#8217; Records appeared fir",
+   "image": "",
+   "date": "2026-10-19T11:55:50+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+   "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+   "desc": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif",
+   "date": "2026-10-19T11:50:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
+   "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
+   "desc": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
+   "image": "",
+   "date": "2026-10-19T11:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
+   "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
+   "desc": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-19T11:13:23+00:00",
+   "iocs": "iocs/68889579c064.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Aikido",
+   "title": "Drata and Aikido: audit-ready pentesting, built into your compliance workflow",
+   "link": "https://www.aikido.dev/blog/drata-and-aikido-audit-ready-pentesting-built-into-your-compliance-workflow",
+   "desc": "Drata and Aikido bring AI pentesting into your compliance workflow. Get verified findings, auditor-ready reports, and up to $4,000 in free pentest credits. Category: Compliance",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad0d3a7ad7bf38e333b094d_Drata-and-Aikido-audit-ready-pentesting_Feature.png",
+   "date": "2026-10-19T11:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+   "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+   "desc": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for A",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg",
+   "date": "2026-10-19T10:06:40+00:00",
+   "iocs": "iocs/62badca6addc.txt",
+   "ioc_count": 6
+  },
   {
    "source": "SecurityWeek",
    "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
@@ -89,6 +287,16 @@
    "date": "2026-10-18T08:23:02+00:00",
    "iocs": "iocs/1a74dd4c9004.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Your CVE is reachable. But is it exploitable?",
+   "link": "https://www.aikido.dev/blog/cve-reachable-vs-exploitable",
+   "desc": "Reachable CVEs can still be safe in your app. See how reachability vs exploitability analysis helps you decide which dependency vulnerabilities to fix first. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad2a2d407c8badb246cbdaa_Your_CVE_is_reachable_Feature.png",
+   "date": "2026-10-17T22:19:00+00:00",
+   "iocs": "iocs/275f43be2630.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -265,16 +473,6 @@
    "date": "2026-10-16T14:45:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
-   "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
-   "desc": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hack",
-   "image": "",
-   "date": "2026-10-16T14:09:51+00:00",
-   "iocs": "iocs/546439948945.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
    "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
@@ -315,30 +513,12 @@
    "date": "2026-10-16T13:30:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Baltimore suburb confirms August data breach after ransomware claims",
-   "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
-   "desc": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
-   "image": "",
-   "date": "2026-10-16T13:05:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
    "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
    "desc": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-16T13:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
-   "link": "https://therecord.media/beyond-trust-cyberattack-china",
-   "desc": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
-   "image": "",
-   "date": "2026-10-16T13:00:00+00:00",
-   "iocs": "iocs/700cff3a3f4e.txt",
-   "ioc_count": 4
   },
   {
    "source": "BleepingComputer",
@@ -349,48 +529,12 @@
    "date": "2026-10-16T12:01:29+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
-   "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
-   "desc": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts app",
-   "image": "",
-   "date": "2026-10-16T11:46:40+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "AI Decision Models and Their Impact on AI SOC Platforms",
    "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
    "desc": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ann",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg",
    "date": "2026-10-16T11:30:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-   "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-   "desc": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-16T10:53:22+00:00",
-   "iocs": "iocs/e2040d1c4be8.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-   "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
-   "desc": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared ",
-   "image": "",
-   "date": "2026-10-16T10:32:11+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
-   "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
-   "desc": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-16T09:54:34+00:00",
-   "iocs": "iocs/e13b543b7337.txt",
-   "ioc_count": 3
   },
   {
    "source": "BleepingComputer",
@@ -401,38 +545,12 @@
    "date": "2026-10-16T08:44:22+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
-   "link": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
-   "desc": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-16T07:55:06+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "BAE Systems cyberattack disrupts US federal court operations",
    "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
    "desc": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
    "image": "",
    "date": "2026-10-16T07:37:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-   "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-   "desc": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 202",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg",
-   "date": "2026-10-16T06:55:55+00:00",
-   "iocs": "iocs/2f4ebff472d5.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-   "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-   "desc": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15. The agents",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg",
-   "date": "2026-10-16T06:53:09+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -443,16 +561,6 @@
    "date": "2026-10-16T06:18:08+00:00",
    "iocs": "iocs/166fdf646185.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-   "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-   "desc": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg",
-   "date": "2026-10-16T04:59:36+00:00",
-   "iocs": "iocs/a2dfa0394e06.txt",
-   "ioc_count": 5
   },
   {
    "source": "SANS ISC",
@@ -505,68 +613,12 @@
    "date": "2026-10-15T21:55:07+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-   "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-   "desc": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
-   "image": "",
-   "date": "2026-10-15T20:46:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
    "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
    "desc": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-15T20:43:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-   "desc": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-   "image": "",
-   "date": "2026-10-15T20:25:04+00:00",
-   "iocs": "iocs/d0b52638beda.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-   "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-   "desc": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Verce",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg",
-   "date": "2026-10-15T20:24:36+00:00",
-   "iocs": "iocs/e2089d243155.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Android gets AI defenses against messaging scams, fake calls",
-   "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-   "desc": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
-   "image": "",
-   "date": "2026-10-15T19:48:43+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-   "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-   "desc": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg",
-   "date": "2026-10-15T18:49:33+00:00",
-   "iocs": "iocs/06720af8fb48.txt",
-   "ioc_count": 10
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-   "desc": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
-   "image": "",
-   "date": "2026-10-15T18:20:59+00:00",
-   "iocs": "iocs/f6df72ea2abc.txt",
-   "ioc_count": 4
   },
   {
    "source": "Cisco Talos",
@@ -577,14 +629,6 @@
    "date": "2026-10-15T18:00:00+00:00",
    "iocs": "iocs/6a2b482f3811.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Fake Arch Linux packages push malware with root privileges",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-   "desc": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-   "image": "",
-   "date": "2026-10-15T17:12:31+00:00"
   },
   {
    "source": "Dark Reading",
@@ -683,22 +727,6 @@
    "date": "2026-10-14T21:20:13+00:00",
    "iocs": "iocs/788400810f90.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Yam Store: The Phishing Network Behind a Billion Messages",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-   "desc": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-14T20:57:16+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-   "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-   "desc": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-14T20:09:42+00:00"
   },
   {
    "source": "Socket",
@@ -1113,14 +1141,6 @@
    "date": "2026-09-29T10:00:36+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "Aikido funds Node.js security",
-   "link": "https://www.aikido.dev/blog/aikido-openjs-ssp-node-security",
-   "desc": "Aikido is an inaugural partner in OpenJS's Security Stewardship Program, funding bug bounties and maintainer support for Node.js. Category: Aikido",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aba97edeef6c99e9d05cdd2_OPENJS%27s_Feature(2).png",
-   "date": "2026-09-28T15:41:00+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
    "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -1165,14 +1185,6 @@
    "date": "2026-09-25T14:00:00+00:00",
    "iocs": "iocs/0d4d5cdcaf33.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "Aikido",
-   "title": "Top CodeQL alternatives in 2026",
-   "link": "https://www.aikido.dev/blog/top-codeql-alternatives",
-   "desc": "Top CodeQL alternatives compared on noise, fixes, cost, and more: Aikido Security, Semgrep, Snyk Code, SonarQube, Checkmarx, and Veracode Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a7f80804d2c5ec2681b3517_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-09-24T19:12:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -1335,14 +1347,6 @@
    "desc": "On August 28, starting at approximately 2000 UTC eight malicious versions of the @7nohe/openapi-react-query-codegen package were published on npm and were available for approximately three hours. These malicious versions",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-08-28T00:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-   "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-   "desc": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In",
-   "image": "",
-   "date": "2026-08-27T11:04:15+00:00"
   },
   {
    "source": "Google GTIG",

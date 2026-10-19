@@ -1,0 +1,14 @@
+IOC EXTRACTION - Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure
+Source: https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/
+Extracted: 2026-10-19 17:25:32 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-96652
+CVE-2026-96654
+CVE-2026-96655
+CVE-2026-96656

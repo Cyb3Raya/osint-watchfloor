@@ -1,0 +1,12 @@
+IOC EXTRACTION - Your CVE is reachable. But is it exploitable?
+Source: https://www.aikido.dev/blog/cve-reachable-vs-exploitable
+Extracted: 2026-10-19 17:25:46 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2021-23337
+CVE-2026-4800

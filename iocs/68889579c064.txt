@@ -1,0 +1,13 @@
+IOC EXTRACTION - Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack
+Source: https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/
+Extracted: 2026-10-19 17:25:34 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2024-26008
+CVE-2024-47575
+CVE-2025-61624
