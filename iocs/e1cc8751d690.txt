@@ -1,0 +1,11 @@
+IOC EXTRACTION - ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs
+Source: https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps
+Extracted: 2026-10-19 21:44:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]64[.]128

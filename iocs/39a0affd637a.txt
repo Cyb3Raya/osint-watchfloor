@@ -1,0 +1,11 @@
+IOC EXTRACTION - Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks
+Source: https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/
+Extracted: 2026-10-19 21:44:27 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-110936

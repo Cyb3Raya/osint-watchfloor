@@ -1,0 +1,22 @@
+IOC EXTRACTION - Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
+Source: https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
+Extracted: 2026-10-19 21:44:17 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-96651
+CVE-2026-96652
+CVE-2026-96654
+CVE-2026-96655
+CVE-2026-96656
+
+IPv4 (4)
+----------------------------------------
+176[.]65[.]139[.]228
+217[.]60[.]194[.]116
+45[.]194[.]92[.]222
+91[.]92[.]40[.]202

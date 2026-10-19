@@ -1,0 +1,21 @@
+IOC EXTRACTION - Hackers hijack AOMEI update servers to secretly spread malware
+Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/
+Extracted: 2026-10-19 21:44:19 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+8[.]210[.]84[.]56
+
+Domains (2)
+----------------------------------------
+serv[.]oss-cn-hongkong[.]aliyuncs[.]com
+storage-data[.]com
+
+URLs (2)
+----------------------------------------
+hxxps://account[.]aomeitech[.]com/Notifycfg[.]ini
+hxxps://www2[.]aomeisoftware[.]com/download/abpopup/down_html[.]ini

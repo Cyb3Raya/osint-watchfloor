@@ -1,9 +1,117 @@
 {
- "generated": "2026-10-19T17:25:48.721797+00:00",
+ "generated": "2026-10-19T21:44:38.256032+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+   "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+   "desc": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+   "image": "",
+   "date": "2026-10-19T21:24:51+00:00",
+   "iocs": "iocs/b027e601f572.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+   "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+   "desc": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-19T21:13:41+00:00",
+   "iocs": "iocs/04694c10cab7.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+   "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+   "desc": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-19T19:55:01+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
+   "link": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+   "desc": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.",
+   "image": "",
+   "date": "2026-10-19T19:49:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
+   "link": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+   "desc": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.",
+   "image": "",
+   "date": "2026-10-19T19:45:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+   "desc": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state",
+   "image": "",
+   "date": "2026-10-19T19:40:58+00:00",
+   "iocs": "iocs/fd5ecf2bcb29.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "Dark Reading",
+   "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+   "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+   "desc": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-19T19:19:33+00:00",
+   "iocs": "iocs/e1cc8751d690.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+   "desc": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+   "image": "",
+   "date": "2026-10-19T18:51:13+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
+   "link": "https://therecord.media/serbia-spyware-pegasus-elections",
+   "desc": "A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections.",
+   "image": "",
+   "date": "2026-10-19T18:45:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+   "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+   "desc": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appear",
+   "image": "",
+   "date": "2026-10-19T18:15:39+00:00",
+   "iocs": "iocs/39a0affd637a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+   "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+   "desc": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg",
+   "date": "2026-10-19T17:32:13+00:00",
+   "iocs": "iocs/2b433345de9b.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+   "desc": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+   "image": "",
+   "date": "2026-10-19T17:27:15+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
@@ -167,14 +275,6 @@
    "date": "2026-10-19T11:50:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-   "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-   "desc": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
-   "image": "",
-   "date": "2026-10-19T11:45:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
    "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
@@ -329,14 +429,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
-   "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-   "desc": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appea",
-   "image": "",
-   "date": "2026-10-17T11:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
    "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -465,14 +557,6 @@
    "date": "2026-10-16T16:16:44+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
-   "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-   "desc": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
-   "image": "",
-   "date": "2026-10-16T14:45:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
    "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
@@ -505,62 +589,12 @@
    "date": "2026-10-16T13:50:59+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
-   "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
-   "desc": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
-   "image": "",
-   "date": "2026-10-16T13:30:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
    "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
    "desc": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-16T13:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Burger King Japan data breach exposes 11 million customer records",
-   "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-   "desc": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-   "image": "",
-   "date": "2026-10-16T12:01:29+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-   "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-   "desc": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ann",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg",
-   "date": "2026-10-16T11:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft: October Windows update may break Smart App Control",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-   "desc": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-   "image": "",
-   "date": "2026-10-16T08:44:22+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "BAE Systems cyberattack disrupts US federal court operations",
-   "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-   "desc": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-   "image": "",
-   "date": "2026-10-16T07:37:35+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "BeyondTrust patches zero-day exploited in attacks since August",
-   "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-   "desc": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-   "image": "",
-   "date": "2026-10-16T06:18:08+00:00",
-   "iocs": "iocs/166fdf646185.txt",
-   "ioc_count": 8
   },
   {
    "source": "SANS ISC",
@@ -631,14 +665,6 @@
    "ioc_count": 7
   },
   {
-   "source": "Dark Reading",
-   "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-   "desc": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fef1a5b52640035/6ad2596ea7e47a611834201e/Software_patch_Zoonar_GmbH_Alamy_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-15T15:17:18+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Anthropic Gives Open Source Maintainers a Fast Track to Mythos Vulnerability Findings",
    "link": "https://socket.dev/blog/anthropic-oss-scanner?utm_medium=feed",
@@ -691,16 +717,6 @@
    "ioc_count": 30
   },
   {
-   "source": "Dark Reading",
-   "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-   "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-   "desc": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-15T07:00:00+00:00",
-   "iocs": "iocs/a87219e382bc.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
    "link": "https://isc.sans.edu/diary/rss/33428",
@@ -717,16 +733,6 @@
    "date": "2026-10-14T22:00:44+00:00",
    "iocs": "iocs/d73bcf51f60e.txt",
    "ioc_count": 24
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-   "desc": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-14T21:20:13+00:00",
-   "iocs": "iocs/788400810f90.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
