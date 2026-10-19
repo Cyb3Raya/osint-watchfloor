@@ -1,9 +1,57 @@
 {
- "generated": "2026-10-19T05:18:18.369355+00:00",
+ "generated": "2026-10-19T10:58:11.501877+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
+   "link": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
+   "desc": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-19T09:37:04+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "More pentesting, same budget, no surprises",
+   "link": "https://www.aikido.dev/blog/more-pentesting-same-budget-ai",
+   "desc": "AI pentesting lets security teams test more often without raising the budget. Learn how upfront pricing and forecasts keep costs predictable. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad589348991dbd2873e7e8c_More-pentesting-same-budget_Feature.png",
+   "date": "2026-10-19T09:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+   "desc": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+   "image": "",
+   "date": "2026-10-19T08:58:41+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+   "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+   "desc": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on ",
+   "image": "",
+   "date": "2026-10-19T07:45:25+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+   "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+   "desc": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclose",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif",
+   "date": "2026-10-19T06:29:44+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+   "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+   "desc": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg",
+   "date": "2026-10-19T06:07:08+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
@@ -369,14 +417,6 @@
    "date": "2026-10-16T07:37:35+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
-   "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-   "desc": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on Securit",
-   "image": "",
-   "date": "2026-10-16T07:12:51+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
@@ -539,40 +579,12 @@
    "ioc_count": 7
   },
   {
-   "source": "SecurityWeek",
-   "title": "Context Is King in the Fight Against Modern Cyberattacks",
-   "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-   "desc": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on Security",
-   "image": "",
-   "date": "2026-10-15T17:42:50+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Fake Arch Linux packages push malware with root privileges",
    "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
    "desc": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
    "image": "",
    "date": "2026-10-15T17:12:31+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-   "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-   "desc": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg",
-   "date": "2026-10-15T16:01:57+00:00",
-   "iocs": "iocs/925554bf2f9c.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-   "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-   "desc": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through Au",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s1600/winrar-hacker.jpg",
-   "date": "2026-10-15T16:00:26+00:00",
-   "iocs": "iocs/c4b7926adcfb.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
@@ -589,14 +601,6 @@
    "desc": "Anthropic’s free OSS Scanner uses Mythos and other Claude models to find open source vulnerabilities and send maintainers reports with proposed fixes.",
    "image": "",
    "date": "2026-10-15T14:13:04+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Is AI pentesting as good as a human pentester?",
-   "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-   "desc": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both a",
-   "image": "",
-   "date": "2026-10-15T14:01:11+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1187,14 +1191,6 @@
    "desc": "Introduction The landscape of software supply chain security has undergone a significant shift. Recent campaigns demonstrate that sophisticated threat actors are systematically targeting the engineering lifecycle by comp",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/The_five_core_pillars_for_securing_the_sof.max-1000x1000.png",
    "date": "2026-09-24T14:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top Greptile alternatives in 2026",
-   "link": "https://www.aikido.dev/blog/top-greptile-alternatives",
-   "desc": "We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AI Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a6370ebf4c4e0a4e3df47c0_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-09-23T16:01:00+00:00"
   },
   {
    "source": "Cisco Talos",
