@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-19T21:44:38.256032+00:00",
+ "generated": "2026-10-20T00:57:38.034326+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
+   "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+   "desc": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated O",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
+   "date": "2026-10-19T22:35:42+00:00",
+   "iocs": "iocs/b4be8cd5eeb4.txt",
+   "ioc_count": 21
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+   "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+   "desc": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+   "image": "",
+   "date": "2026-10-19T21:49:48+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
@@ -579,14 +597,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-16T14:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-   "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-   "desc": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI",
-   "image": "",
-   "date": "2026-10-16T13:50:59+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1279,16 +1289,6 @@
    "desc": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to A",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/12_Cloud_cybersecurity_research_Overview_1920x900-2.jpg",
    "date": "2026-09-14T10:00:01+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE",
-   "link": "https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/",
-   "desc": "Learn how root access on a compromised K8s node allows attackers to utilize SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities. The post The Machine With Many Faces: Post-Exploitation Identity Misu",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/12_Security-Technology_Category_1920x900.jpg",
-   "date": "2026-09-10T10:00:43+00:00",
-   "iocs": "iocs/1fb7fd98ae59.txt",
-   "ioc_count": 4
   },
   {
    "source": "Krebs on Security",

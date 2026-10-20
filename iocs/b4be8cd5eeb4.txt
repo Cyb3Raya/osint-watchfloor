@@ -1,0 +1,34 @@
+IOC EXTRACTION - Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)
+Source: https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+Extracted: 2026-10-20 00:57:33 UTC
+Total indicators: 21
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (12)
+----------------------------------------
+CVE-2023-27532
+CVE-2023-33538
+CVE-2025-40947
+CVE-2025-40948
+CVE-2026-0257
+CVE-2026-0300
+CVE-2026-1281
+CVE-2026-1340
+CVE-2026-1731
+CVE-2026-31431
+CVE-2026-88771
+CVE-2026-88772
+
+IPv4 (9)
+----------------------------------------
+104[.]207[.]144[.]154
+146[.]19[.]216[.]119
+146[.]19[.]216[.]120
+146[.]19[.]216[.]125
+179[.]43[.]172[.]213
+185[.]195[.]232[.]139
+198[.]12[.]106[.]60
+202[.]144[.]192[.]47
+23[.]128[.]228[.]6
