@@ -1,0 +1,16 @@
+IOC EXTRACTION - Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware
+Source: https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
+Extracted: 2026-10-20 05:52:25 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (6)
+----------------------------------------
+151[.]240[.]151[.]223
+23[.]94[.]145[.]224
+2[.]27[.]248[.]127
+86[.]109[.]75[.]7
+93[.]152[.]224[.]118
+96[.]62[.]224[.]81

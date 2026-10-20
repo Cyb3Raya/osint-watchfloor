@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-20T00:57:38.034326+00:00",
+ "generated": "2026-10-20T05:52:32.918991+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+   "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+   "desc": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is aki",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg",
+   "date": "2026-10-20T04:05:58+00:00",
+   "iocs": "iocs/41ada449c348.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33436",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-20T02:00:03+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
@@ -575,14 +593,6 @@
    "date": "2026-10-16T16:16:44+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-   "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-   "desc": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg",
-   "date": "2026-10-16T14:03:04+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "When Your Ransomware Negotiator Works for the Other Side",
    "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
@@ -865,14 +875,6 @@
    "desc": "Selling to banks or government? Aikido now offers CREST-accredited penetration testing, plus AI pentesting between audits. Category: Compliance",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6acec1b5df3ac464d01d8950_Aikido-is-now-CREST-accredited_Feature.png",
    "date": "2026-10-12T13:47:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33416",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-12T02:00:03+00:00"
   },
   {
    "source": "Krebs on Security",
