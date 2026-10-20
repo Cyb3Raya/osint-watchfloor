@@ -1,0 +1,12 @@
+IOC EXTRACTION - Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
+Source: https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
+Extracted: 2026-10-20 19:54:02 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111943
+CVE-2026-113470
