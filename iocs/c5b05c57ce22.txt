@@ -1,0 +1,14 @@
+IOC EXTRACTION - ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident
+Source: https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html
+Extracted: 2026-10-20 15:41:01 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (4)
+----------------------------------------
+144[.]172[.]64[.]128
+144[.]172[.]64[.]60
+144[.]172[.]64[.]99
+144[.]172[.]94[.]243

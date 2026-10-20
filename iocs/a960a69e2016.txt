@@ -1,0 +1,25 @@
+IOC EXTRACTION - Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader
+Source: https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html
+Extracted: 2026-10-20 15:41:00 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-21509
+CVE-2026-8496
+
+IPv4 (6)
+----------------------------------------
+166[.]88[.]239[.]54
+185[.]82[.]218[.]119
+194[.]87[.]108[.]12
+194[.]87[.]108[.]217
+91[.]149[.]221[.]118
+91[.]149[.]221[.]123
+
+Domains (1)
+----------------------------------------
+webhook[.]site

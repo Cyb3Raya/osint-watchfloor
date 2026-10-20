@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites
+Source: https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html
+Extracted: 2026-10-20 15:40:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-75650

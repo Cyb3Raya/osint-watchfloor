@@ -1,0 +1,11 @@
+IOC EXTRACTION - There's only so much code: the rise in vulnerability numbers
+Source: https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/
+Extracted: 2026-10-20 15:41:20 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2021-44228
