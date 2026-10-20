@@ -1,0 +1,12 @@
+IOC EXTRACTION - Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
+Source: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
+Extracted: 2026-10-20 11:08:24 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA256 (2)
+----------------------------------------
+3833daffcaaaab27e4e0e0833240ffcb1df8df648f4ec0bc4a75c176e28933cb
+5c2beb56e6d83a4b426565a1557791ef759316abcc4effb38dd627c90aeb80e0

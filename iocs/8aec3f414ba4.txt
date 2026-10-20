@@ -1,0 +1,20 @@
+IOC EXTRACTION - ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
+Source: https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
+Extracted: 2026-10-20 11:08:26 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-110936
+
+IPv4 (2)
+----------------------------------------
+2[.]27[.]248[.]127
+96[.]62[.]218[.]59
+
+Domains (1)
+----------------------------------------
+wizardexpensive[.]com
