@@ -1,9 +1,29 @@
 {
- "generated": "2026-10-20T23:01:23.150079+00:00",
+ "generated": "2026-10-21T01:41:46.121126+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+   "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+   "desc": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+   "image": "",
+   "date": "2026-10-21T01:01:50+00:00",
+   "iocs": "iocs/4c1ba1c17562.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+   "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+   "desc": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted cert",
+   "image": "",
+   "date": "2026-10-21T00:46:42+00:00",
+   "iocs": "iocs/c75006974e5b.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Dark Reading",
    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
@@ -489,14 +509,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-   "desc": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-   "image": "",
-   "date": "2026-10-19T18:51:13+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
    "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
@@ -515,14 +527,6 @@
    "date": "2026-10-19T17:32:13+00:00",
    "iocs": "iocs/2b433345de9b.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-   "desc": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-   "image": "",
-   "date": "2026-10-19T17:27:15+00:00"
   },
   {
    "source": "Dark Reading",

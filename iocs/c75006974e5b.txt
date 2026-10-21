@@ -1,0 +1,11 @@
+IOC EXTRACTION - Mozilla, Google, Apple block compromised eMudhra CA certificates
+Source: https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/
+Extracted: 2026-10-21 01:41:40 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111943
