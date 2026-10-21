@@ -1,0 +1,21 @@
+IOC EXTRACTION - Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619
+Source: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+Extracted: 2026-10-21 18:07:51 UTC
+Total indicators: 11
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (11)
+----------------------------------------
+CVE-2023-33538
+CVE-2025-40947
+CVE-2025-40948
+CVE-2026-0257
+CVE-2026-0300
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-1731
+CVE-2026-31431
+CVE-2026-88771
+CVE-2026-88772

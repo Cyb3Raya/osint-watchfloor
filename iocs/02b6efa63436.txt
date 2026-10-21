@@ -1,0 +1,12 @@
+IOC EXTRACTION - PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge
+Source: https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html
+Extracted: 2026-10-21 18:07:30 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

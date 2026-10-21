@@ -1,0 +1,11 @@
+IOC EXTRACTION - Decades-Old Windows Utility Powers Modern ClickFix Attack
+Source: https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack
+Extracted: 2026-10-21 18:07:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+orders-amazon[.]com[.]advancedfences[.]com

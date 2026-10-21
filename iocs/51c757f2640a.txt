@@ -1,0 +1,16 @@
+IOC EXTRACTION - “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities
+Source: https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/
+Extracted: 2026-10-21 18:07:52 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-0257
+
+IPv4 (2)
+----------------------------------------
+104[.]238[.]38[.]202
+162[.]243[.]3[.]92

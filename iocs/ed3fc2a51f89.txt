@@ -1,0 +1,13 @@
+IOC EXTRACTION - Two critical RCEs in PHP core
+Source: https://blog.talosintelligence.com/two-critical-rces-in-php-core/
+Extracted: 2026-10-21 18:07:50 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-20182
