@@ -1,0 +1,18 @@
+IOC EXTRACTION - Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites
+Source: https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html
+Extracted: 2026-10-21 13:00:39 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-10795
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-111862
+
+Domains (1)
+----------------------------------------
+rank1cdn[.]com

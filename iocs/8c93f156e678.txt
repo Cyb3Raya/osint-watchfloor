@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)
+Source: https://isc.sans.edu/diary/rss/33440
+Extracted: 2026-10-21 13:00:32 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

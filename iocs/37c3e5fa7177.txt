@@ -1,0 +1,16 @@
+IOC EXTRACTION - CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws
+Source: https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html
+Extracted: 2026-10-21 13:00:42 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-106931
+CVE-2026-110936
+CVE-2026-96652
+CVE-2026-96654
+CVE-2026-96655
+CVE-2026-96656

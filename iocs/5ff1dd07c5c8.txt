@@ -1,0 +1,16 @@
+IOC EXTRACTION - China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors
+Source: https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html
+Extracted: 2026-10-21 13:00:33 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (6)
+----------------------------------------
+ably[.]io
+ably[.]net
+dc[.]cathaypacifice[.]com
+file[.]io
+gofile[.]io
+net[.]dpworldto[.]com
