@@ -1,9 +1,133 @@
 {
- "generated": "2026-10-21T18:08:04.170853+00:00",
+ "generated": "2026-10-21T21:49:36.789093+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+   "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+   "desc": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+   "image": "",
+   "date": "2026-10-21T21:43:27+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+   "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+   "desc": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-21T21:15:39+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33440",
+   "desc": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC",
+   "image": "",
+   "date": "2026-10-21T21:02:43+00:00",
+   "iocs": "iocs/8c93f156e678.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Compromised eMudhra intermediate certificates",
+   "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
+   "desc": "Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_advisory.png",
+   "date": "2026-10-21T20:43:29+00:00",
+   "iocs": "iocs/7de87cd350aa.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+   "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+   "desc": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+   "image": "",
+   "date": "2026-10-21T20:31:48+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
+   "link": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
+   "desc": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.",
+   "image": "",
+   "date": "2026-10-21T20:25:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
+   "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+   "desc": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-21T20:14:42+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+   "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+   "desc": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-21T20:03:14+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
+   "link": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
+   "desc": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
+   "image": "",
+   "date": "2026-10-21T19:45:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+   "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+   "desc": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-21T19:19:17+00:00",
+   "iocs": "iocs/46f087441d98.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Socket",
+   "title": "PHP Foundation Says Chainguard Broke Security Embargo Ahead of Emergency Patches",
+   "link": "https://socket.dev/blog/php-embargo-dispute?utm_medium=feed",
+   "desc": "The PHP Foundation says Chainguard broke a security embargo ahead of critical RCE patches, as leaks disrupted the coordinated release.",
+   "image": "",
+   "date": "2026-10-21T19:06:44+00:00",
+   "iocs": "iocs/7a45ecfaed3c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+   "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+   "desc": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
+   "date": "2026-10-21T18:57:34+00:00",
+   "iocs": "iocs/6815f2a0b4a0.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+   "image": "",
+   "date": "2026-10-21T18:34:42+00:00",
+   "iocs": "iocs/a299ef36c768.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "RF The Record",
+   "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
+   "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
+   "desc": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
+   "image": "",
+   "date": "2026-10-21T18:28:00+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
@@ -110,16 +234,6 @@
    "image": "",
    "date": "2026-10-21T15:26:07+00:00",
    "iocs": "iocs/5d15c045388e.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33440",
-   "desc": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC",
-   "image": "",
-   "date": "2026-10-21T15:12:02+00:00",
-   "iocs": "iocs/8c93f156e678.txt",
    "ioc_count": 2
   },
   {
@@ -405,14 +519,6 @@
    "ioc_count": 6
   },
   {
-   "source": "The Hacker News",
-   "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-   "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-   "desc": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg",
-   "date": "2026-10-21T06:05:15+00:00"
-  },
-  {
    "source": "Socket",
    "title": "vlt 1.5.0 Adds Agent Skills Management",
    "link": "https://socket.dev/blog/vlt-skills?utm_medium=feed",
@@ -487,16 +593,6 @@
    "ioc_count": 21
   },
   {
-   "source": "RF The Record",
-   "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
-   "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
-   "desc": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.",
-   "image": "",
-   "date": "2026-10-20T20:27:00+00:00",
-   "iocs": "iocs/f19c6036be87.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "Aikido",
    "title": "The 9 best phishing simulation tools in 2026",
    "link": "https://www.aikido.dev/blog/best-phishing-simulation-tools",
@@ -515,28 +611,12 @@
    "date": "2026-10-20T19:33:02+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "California warns all public school students of data stolen in contractor breach",
-   "link": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
-   "desc": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
-   "image": "",
-   "date": "2026-10-20T19:20:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
    "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
    "desc": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_%C5%9Amigla-GettyImages-1338436529.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-20T19:16:49+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
-   "link": "https://therecord.media/23andme-california-data-breach-settlement",
-   "desc": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.",
-   "image": "",
-   "date": "2026-10-20T18:32:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -605,30 +685,6 @@
    "date": "2026-10-20T14:19:05+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-   "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-   "desc": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, pas",
-   "image": "",
-   "date": "2026-10-20T13:51:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-   "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-   "desc": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-   "image": "",
-   "date": "2026-10-20T13:18:36+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows Server 2025 gets support for quick machine recovery",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-   "desc": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-   "image": "",
-   "date": "2026-10-20T12:16:32+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido launches Noon: workforce security for every employee",
    "link": "https://www.aikido.dev/blog/noon-workforce-security",
@@ -671,22 +727,6 @@
    "date": "2026-10-19T19:19:33+00:00",
    "iocs": "iocs/e1cc8751d690.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
-   "desc": "Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explain",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef729e5049e61b8c/6ad290a4ed74a528c20a7b92/copyright1800_wakila_GettyImages-157508105.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-19T14:28:11+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-   "desc": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-19T14:00:00+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -741,24 +781,6 @@
    "desc": "We compare the top Escape.tech alternatives for offensive security in 2026: Aikido Security, XBOW, RunSybil, Terra, Burp Suite Professional, Invicti, StackHawk, Hadrian, and Pentera Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-16T20:47:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-   "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-   "desc": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-16T20:34:37+00:00",
-   "iocs": "iocs/92a3eccd55c6.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-   "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-   "desc": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-16T19:49:30+00:00"
   },
   {
    "source": "Aikido",
@@ -1029,14 +1051,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Socket",
-   "title": "arXiv Is Rate Limiting Authors Following a Flood of AI Slop Submissions",
-   "link": "https://socket.dev/blog/arxiv-rate-limiting-slop?utm_medium=feed",
-   "desc": "arXiv now limits authors to two submissions a month as AI slop overwhelms moderators, delays good papers, and sparks debate over applying the limit to everyone.",
-   "image": "",
-   "date": "2026-10-09T14:44:50+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top 6 developer security tools for enterprise teams in 2026",
    "link": "https://www.aikido.dev/blog/top-developer-security-platforms-enterprise",
@@ -1193,14 +1207,6 @@
    "date": "2026-09-29T10:00:48+00:00",
    "iocs": "iocs/c54dc6688854.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection",
-   "link": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
-   "desc": "This new proactive service joins the suite of retainer offerings to provide dedicated, intelligence-led hunting specifically for your organization’s most high-value IT assets.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/exec_threat_detect.jpg",
-   "date": "2026-09-29T10:00:36+00:00"
   },
   {
    "source": "Krebs on Security",

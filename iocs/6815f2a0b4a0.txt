@@ -1,0 +1,16 @@
+IOC EXTRACTION - Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases
+Source: https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html
+Extracted: 2026-10-21 21:49:16 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-110264
+CVE-2026-112212
+CVE-2026-15723
+CVE-2026-89078
+CVE-2026-93577
+CVE-2026-97229

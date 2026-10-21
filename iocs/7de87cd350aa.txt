@@ -1,0 +1,22 @@
+IOC EXTRACTION - Compromised eMudhra intermediate certificates
+Source: https://blog.talosintelligence.com/compromised-intermediate-certificates/
+Extracted: 2026-10-21 21:49:27 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111943
+
+SHA256 (8)
+----------------------------------------
+0164d7ceae5bb909c272af151ff44b1177ae9b47d9424b94f1d9558c30934d19
+42c4accd12c4f59597925e1a08a7a90102608543809308d50ec427e118ba1493
+432ec25f0d28de9006d97bf752f17bbb2cd41f669933fcb072d9a1148d0261f3
+4b2460a466f95fd40113bcdcca2ceb29b3b093921de45474da7df48874c630b1
+98b896625c0c230adeec3eb2cf6aad5001ecf9156a68644e82374ce5833bc25b
+9e39de2881273acc225a149c72ba3e0f51424963669ab633ee1dc7df5db067b4
+cb6e15165ac802e9b3f993f16c25d41f4e81c21ebde71ae1b012ac00bf9c7c3f
+e7568fe6e12331f4fd7de61da4c7559d0f8eb192a218d4741a3ba75184333838

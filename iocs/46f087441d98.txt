@@ -1,0 +1,12 @@
+IOC EXTRACTION - 'PHP2Shell' Bugs Signal Red Alert for Security Industry
+Source: https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry
+Extracted: 2026-10-21 21:49:25 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

@@ -1,0 +1,12 @@
+IOC EXTRACTION - PHP Foundation Says Chainguard Broke Security Embargo Ahead of Emergency Patches
+Source: https://socket.dev/blog/php-embargo-dispute?utm_medium=feed
+Extracted: 2026-10-21 21:49:35 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

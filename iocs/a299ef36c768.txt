@@ -1,0 +1,16 @@
+IOC EXTRACTION - CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers
+Source: https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/
+Extracted: 2026-10-21 21:49:20 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-106931
+CVE-2026-110936
+CVE-2026-96652
+CVE-2026-96654
+CVE-2026-96655
+CVE-2026-96656
