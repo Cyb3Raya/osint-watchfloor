@@ -1,0 +1,11 @@
+IOC EXTRACTION - Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU
+Source: https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/
+Extracted: 2026-10-22 10:37:53 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-91403

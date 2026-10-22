@@ -1,0 +1,20 @@
+IOC EXTRACTION - Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions
+Source: https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html
+Extracted: 2026-10-22 10:37:46 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2026-105481
+CVE-2026-105482
+CVE-2026-105483
+CVE-2026-106069
+CVE-2026-106070
+CVE-2026-106071
+CVE-2026-106072
+CVE-2026-106073
+CVE-2026-106074
+CVE-2026-111497

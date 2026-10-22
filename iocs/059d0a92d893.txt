@@ -1,0 +1,13 @@
+IOC EXTRACTION - New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification
+Source: https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html
+Extracted: 2026-10-22 10:37:47 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-13945
+CVE-2025-64702
+CVE-2026-12523

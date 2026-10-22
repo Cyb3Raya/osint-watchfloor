@@ -1,0 +1,18 @@
+IOC EXTRACTION - Cisco Patches 34 Vulnerabilities Across Multiple Products
+Source: https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/
+Extracted: 2026-10-22 10:37:51 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-20043
+CVE-2026-20236
+CVE-2026-76462
+CVE-2026-76466
+CVE-2026-76473
+CVE-2026-76474
+CVE-2026-76475
+CVE-2026-76505
