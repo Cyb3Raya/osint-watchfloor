@@ -1,0 +1,13 @@
+IOC EXTRACTION - GitLab warns of new max severity code execution vulnerability
+Source: https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/
+Extracted: 2026-10-22 15:39:46 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-110264
+CVE-2026-85706
+CVE-2026-97229

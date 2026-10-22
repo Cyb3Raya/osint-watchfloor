@@ -1,0 +1,11 @@
+IOC EXTRACTION - Signal Vulnerability Lets Malicious Callers Block Hang-Ups
+Source: https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/
+Extracted: 2026-10-22 15:39:51 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-113380

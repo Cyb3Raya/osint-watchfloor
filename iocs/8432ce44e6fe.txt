@@ -1,0 +1,12 @@
+IOC EXTRACTION - Amazon says PHP2Shell exploitation began 4 days before patches
+Source: https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/
+Extracted: 2026-10-22 15:39:45 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

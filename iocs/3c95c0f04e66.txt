@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL
+Source: https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html
+Extracted: 2026-10-22 15:39:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-6514

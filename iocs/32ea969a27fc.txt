@@ -1,0 +1,12 @@
+IOC EXTRACTION - Machine speed attacks require machine speed detection and response
+Source: https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/
+Extracted: 2026-10-22 15:39:44 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+contoso[.]add-passkey[.]com
+oskeysetup[.]com

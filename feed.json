@@ -1,9 +1,145 @@
 {
- "generated": "2026-10-22T10:38:00.838980+00:00",
+ "generated": "2026-10-22T15:40:01.957824+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+   "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+   "desc": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-22T14:31:34+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Machine speed attacks require machine speed detection and response",
+   "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+   "desc": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA p",
+   "image": "",
+   "date": "2026-10-22T14:02:12+00:00",
+   "iocs": "iocs/32ea969a27fc.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+   "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+   "desc": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies f",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg",
+   "date": "2026-10-22T13:38:22+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
+   "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
+   "desc": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
+   "image": "",
+   "date": "2026-10-22T13:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+   "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+   "desc": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+   "image": "",
+   "date": "2026-10-22T13:09:12+00:00",
+   "iocs": "iocs/8432ce44e6fe.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+   "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+   "desc": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform app",
+   "image": "",
+   "date": "2026-10-22T13:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+   "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+   "desc": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-22T12:34:31+00:00",
+   "iocs": "iocs/6f350098eb0a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+   "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+   "desc": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared",
+   "image": "",
+   "date": "2026-10-22T12:20:23+00:00",
+   "iocs": "iocs/76f735275679.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
+   "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
+   "desc": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.",
+   "image": "",
+   "date": "2026-10-22T12:14:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "eMudhra CA compromise: eight private keys, and one of them is 4",
+   "link": "https://www.aikido.dev/blog/emudhra-ca-compromise",
+   "desc": "Eight eMudhra CA keys could be guessed in at most 256 tries, and one is just the number 4. Who is affected, why curl lagged browsers, and how to fix it. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad9f9885bb1b8c589f27e0c_Emudhra_Feature.jpg",
+   "date": "2026-10-22T11:53:00+00:00",
+   "iocs": "iocs/16ef103f7a12.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+   "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+   "desc": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
+   "date": "2026-10-22T11:45:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "GitLab warns of new max severity code execution vulnerability",
+   "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+   "desc": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+   "image": "",
+   "date": "2026-10-22T11:41:48+00:00",
+   "iocs": "iocs/bbaceb69b77d.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+   "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+   "desc": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg",
+   "date": "2026-10-22T11:15:42+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Splunk, SolarWinds Release Fresh Security Updates",
+   "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+   "desc": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-22T10:45:24+00:00",
+   "iocs": "iocs/729d445756d1.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+   "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+   "desc": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) server",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg",
+   "date": "2026-10-22T10:44:05+00:00",
+   "iocs": "iocs/3c95c0f04e66.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SecurityWeek",
    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
@@ -259,32 +395,12 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-   "link": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-   "desc": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post inform",
-   "image": "",
-   "date": "2026-10-21T17:30:00+00:00",
-   "iocs": "iocs/0d287ce488f3.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SecurityWeek",
    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
    "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
    "desc": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared f",
    "image": "",
    "date": "2026-10-21T17:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-   "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-   "desc": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first ",
-   "image": "",
-   "date": "2026-10-21T16:50:40+00:00",
-   "iocs": "iocs/d40bfdc1a402.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
@@ -367,30 +483,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-   "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-   "desc": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading A",
-   "image": "",
-   "date": "2026-10-21T15:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-   "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-   "desc": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: R",
-   "image": "",
-   "date": "2026-10-21T14:45:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian hackers teamed up to wipe data at Ukrainian grain firm",
-   "link": "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
-   "desc": "The Russian state-linked hacking group Sandworm collaborated with another threat actor to carry out a destructive cyberattack against a Ukrainian grain logistics company last year, researchers said Thursday.",
-   "image": "",
-   "date": "2026-10-21T14:45:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
    "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
@@ -447,14 +539,6 @@
    "date": "2026-10-21T13:25:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-   "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-   "desc": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first",
-   "image": "",
-   "date": "2026-10-21T13:17:35+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
    "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
@@ -483,14 +567,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-   "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-   "desc": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome&#8217;s 353 New Security Fixes appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-21T12:57:47+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
@@ -507,40 +583,6 @@
    "date": "2026-10-21T12:05:00+00:00",
    "iocs": "iocs/5ff1dd07c5c8.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-   "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-   "desc": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each reci",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg",
-   "date": "2026-10-21T11:53:34+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-   "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-   "desc": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP w",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg",
-   "date": "2026-10-21T10:36:53+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Harness Is the Hard Part of Agentic Pentesting",
-   "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-   "desc": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production an",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg",
-   "date": "2026-10-21T10:32:40+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-   "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-   "desc": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg",
-   "date": "2026-10-21T10:30:27+00:00",
-   "iocs": "iocs/bf7cf33fc0eb.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -584,9 +626,9 @@
   },
   {
    "source": "Aikido",
-   "title": "What you need to know about PHP2shell. Critical vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
+   "title": "PHP2Shell: Critical PHP vulnerabilities, affected versions and fixes",
    "link": "https://www.aikido.dev/blog/critical-vulnerabilities-in-php-php2shell",
-   "desc": "Critical PHP RCE flaws are being exploited. Get the patches, free patched images and a free checker to see if you’re affected. Category: Vulnerabilities & Threats",
+   "desc": "A critical PHP vulnerability lets attackers run code remotely on unpatched servers. See affected versions, patches, mitigations and how to check your exposure. Two PHP RCE flaws (CVE-2026-109618, CVE-2026-109619) are bei",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad81b57a698f62913b5f8fa_PHP_Feature.jpg",
    "date": "2026-10-21T01:54:00+00:00",
    "iocs": "iocs/86a821a15fce.txt",
@@ -603,32 +645,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-   "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-   "desc": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted cert",
-   "image": "",
-   "date": "2026-10-21T00:46:42+00:00",
-   "iocs": "iocs/c75006974e5b.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
    "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
    "desc": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9204db2f2ffca6fe/6ad7d457e5c2f8b0773c4a30/ca_Inkoly_shutterstock.jpf.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-20T21:45:47+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-   "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-   "desc": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled di",
-   "image": "",
-   "date": "2026-10-20T20:56:43+00:00",
-   "iocs": "iocs/c16b7dbd6314.txt",
-   "ioc_count": 2
   },
   {
    "source": "Aikido",
@@ -657,14 +679,6 @@
    "date": "2026-10-20T20:25:00+00:00",
    "iocs": "iocs/ef5f8e127e7e.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Zeabur shutting down after second security breach in two months",
-   "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-   "desc": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environm",
-   "image": "",
-   "date": "2026-10-20T19:33:02+00:00"
   },
   {
    "source": "Aikido",
@@ -1053,14 +1067,6 @@
    "desc": "Agent Baseline’s new reference architecture shows how to secure software factories with four boundaries enforced outside the AI agent.",
    "image": "",
    "date": "2026-10-13T17:54:48+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Aikido Security is now CREST accredited",
-   "link": "https://www.aikido.dev/blog/aikido-security-is-now-crest-accredited",
-   "desc": "Selling to banks or government? Aikido now offers CREST-accredited penetration testing, plus AI pentesting between audits. Category: Compliance",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6acec1b5df3ac464d01d8950_Aikido-is-now-CREST-accredited_Feature.png",
-   "date": "2026-10-12T13:47:00+00:00"
   },
   {
    "source": "Krebs on Security",

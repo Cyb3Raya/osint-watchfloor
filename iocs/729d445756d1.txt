@@ -1,0 +1,15 @@
+IOC EXTRACTION - Splunk, SolarWinds Release Fresh Security Updates
+Source: https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/
+Extracted: 2026-10-22 15:39:53 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-28328
+CVE-2026-76299
+CVE-2026-76302
+CVE-2026-76407
+CVE-2026-76531
