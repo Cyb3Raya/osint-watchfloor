@@ -1,9 +1,125 @@
 {
- "generated": "2026-10-22T15:40:01.957824+00:00",
+ "generated": "2026-10-22T19:31:45.650936+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+   "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+   "desc": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+   "image": "",
+   "date": "2026-10-22T19:12:51+00:00",
+   "iocs": "iocs/37f56369e2ff.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
+   "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
+   "desc": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
+   "image": "",
+   "date": "2026-10-22T18:46:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+   "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+   "desc": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg",
+   "date": "2026-10-22T18:12:43+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497)",
+   "link": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497",
+   "desc": "Node.js CVE-2026-111497 (Node2Shell) is a Brotli flaw that can allow remote code execution. See who is affected, patched versions and the fix. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ada61f7dd80b0b9882be242_Node-JS_Feature.jpg",
+   "date": "2026-10-22T18:11:00+00:00",
+   "iocs": "iocs/e963cc7cefc9.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "I had plans for that second",
+   "link": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
+   "desc": "The Earth is speeding up, the leap second is being abolished, oh, and there's critical vulnerabilities in PHP.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source-2.jpg",
+   "date": "2026-10-22T18:04:32+00:00",
+   "iocs": "iocs/4181b7fc1008.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+   "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+   "desc": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg",
+   "date": "2026-10-22T17:45:44+00:00",
+   "iocs": "iocs/d99ba89c8964.txt",
+   "ioc_count": 21
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+   "desc": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+   "image": "",
+   "date": "2026-10-22T17:18:22+00:00",
+   "iocs": "iocs/1ed4b6e940ba.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "Unit 42",
+   "title": "EMudhra Intermediate CA Certificates Compromised",
+   "link": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
+   "desc": "Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide. The post EMudhra Intermediate CA Certificates Compromised appeared firs",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/07_Security-Technology_Category_1920x900-1.jpg",
+   "date": "2026-10-22T17:15:32+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+   "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+   "desc": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg",
+   "date": "2026-10-22T17:01:53+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "The Current Landscape of OAuth Attacks",
+   "link": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/",
+   "desc": "Unit 42 explores modern OAuth threats and actionable steps organizations can take to protect their environments. The post The Current Landscape of OAuth Attacks appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/08/03_Resize_Myth-Busting_Overview_1920x900.jpg",
+   "date": "2026-10-22T17:00:25+00:00",
+   "iocs": "iocs/c59df92f9aff.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
+   "link": "https://therecord.media/china-cyber-connectwise-ai",
+   "desc": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organization",
+   "image": "",
+   "date": "2026-10-22T16:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+   "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+   "desc": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg",
+   "date": "2026-10-22T16:12:31+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+   "desc": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+   "image": "",
+   "date": "2026-10-22T15:49:32+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
@@ -220,7 +336,7 @@
    "source": "The Hacker News",
    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
    "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-   "desc": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad ",
+   "desc": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg",
    "date": "2026-10-22T06:34:10+00:00",
    "iocs": "iocs/5dc62af2c3e9.txt",
@@ -329,14 +445,6 @@
    "date": "2026-10-21T20:03:14+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
-   "link": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
-   "desc": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
-   "image": "",
-   "date": "2026-10-21T19:45:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
    "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
@@ -377,14 +485,6 @@
    "ioc_count": 6
   },
   {
-   "source": "RF The Record",
-   "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-   "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-   "desc": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
-   "image": "",
-   "date": "2026-10-21T18:28:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
    "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
@@ -409,14 +509,6 @@
    "desc": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte501832a54d78d89/6ad8ee8ba10b5733db901071/worms-Tatiana_Maksimova-Getty-2162542629.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-21T16:50:15+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-   "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-   "desc": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI co",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg",
-   "date": "2026-10-21T16:33:47+00:00"
   },
   {
    "source": "Unit 42",
@@ -511,16 +603,6 @@
    "date": "2026-10-21T14:00:10+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-   "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-   "desc": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif",
-   "date": "2026-10-21T14:00:00+00:00",
-   "iocs": "iocs/02b6efa63436.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Socket",
    "title": "LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials",
    "link": "https://socket.dev/blog/litellm-compromise?utm_medium=feed",
@@ -537,14 +619,6 @@
    "desc": "This guide walks through supply chain security best practices that would have stopped the attacks of the past 18 months. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-21T13:25:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-   "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-   "desc": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg",
-   "date": "2026-10-21T13:15:09+00:00"
   },
   {
    "source": "Aikido",
@@ -575,38 +649,12 @@
    "date": "2026-10-21T12:20:34+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-   "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-   "desc": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png",
-   "date": "2026-10-21T12:05:00+00:00",
-   "iocs": "iocs/5ff1dd07c5c8.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft says October updates didn’t actually fix VPN issues",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-   "desc": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-   "image": "",
-   "date": "2026-10-21T10:14:53+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
    "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
    "desc": "Adversaries are turning the tools businesses trust into delivery mechanisms for malicious activity. Cisco Talos observed abuse of more than 25 legitimate platforms over the past year, exploiting the built-in trust of col",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/parasitizingtrust.jpg",
    "date": "2026-10-21T10:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-   "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-   "image": "",
-   "date": "2026-10-21T08:36:24+00:00"
   },
   {
    "source": "Socket",
@@ -635,16 +683,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-   "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-   "desc": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-   "image": "",
-   "date": "2026-10-21T01:01:50+00:00",
-   "iocs": "iocs/4c1ba1c17562.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
    "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
@@ -662,9 +700,9 @@
   },
   {
    "source": "Unit 42",
-   "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+   "title": "Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
    "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
-   "desc": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated O",
+   "desc": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
    "date": "2026-10-20T20:30:42+00:00",
    "iocs": "iocs/b4be8cd5eeb4.txt",
@@ -833,14 +871,6 @@
    "desc": "We compare the top Escape.tech alternatives for offensive security in 2026: Aikido Security, XBOW, RunSybil, Terra, Burp Suite Professional, Invicti, StackHawk, Hadrian, and Pentera Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-16T20:47:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top Horizon3 alternatives in 2026",
-   "link": "https://www.aikido.dev/blog/horizon-alternatives",
-   "desc": "We compare the top Horizon3 alternatives for AI pentesting in 2026: Aikido Security, Pentera, RidgeBot, XBOW, Hadrian, RunSybil, and Terra Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-10-16T19:48:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -1189,16 +1219,6 @@
    "ioc_count": 4
   },
   {
-   "source": "Cisco Talos",
-   "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
-   "link": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
-   "desc": "Cisco Talos uncovered a cluster of activity we track as UAT-11587 targeting government and policy organizations across Asia, including in Taiwan, India, the Philippines, and Cambodia, to deliver a previously undocumented",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/antino-header.jpg",
-   "date": "2026-09-30T10:00:01+00:00",
-   "iocs": "iocs/9feb01b189f0.txt",
-   "ioc_count": 129
-  },
-  {
    "source": "Google GTIG",
    "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
@@ -1279,24 +1299,6 @@
    "desc": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IA",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Cloud_cybersecurity_research_Overview_1920x900.jpg",
    "date": "2026-09-21T10:00:13+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
-   "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
-   "desc": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between Ag",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/03_Cloud_cybersecurity_research_Overview_1920x900.jpg",
-   "date": "2026-09-18T10:00:36+00:00",
-   "iocs": "iocs/9529d84cbb12.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "Unit 42",
-   "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
-   "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
-   "desc": "Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment P",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/01_Myth-Busting_Overview_1920x900_Resized.jpg",
-   "date": "2026-09-17T22:00:33+00:00"
   },
   {
    "source": "Krebs on Security",

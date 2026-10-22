@@ -1,0 +1,37 @@
+IOC EXTRACTION - ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More
+Source: https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html
+Extracted: 2026-10-22 19:31:25 UTC
+Total indicators: 21
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (16)
+----------------------------------------
+CVE-2017-9841
+CVE-2020-3259
+CVE-2021-41773
+CVE-2022-47945
+CVE-2023-20269
+CVE-2023-27532
+CVE-2024-40711
+CVE-2024-40766
+CVE-2024-4577
+CVE-2025-24893
+CVE-2026-107186
+CVE-2026-107187
+CVE-2026-107188
+CVE-2026-113380
+CVE-2026-114509
+CVE-2026-65162
+
+IPv4 (3)
+----------------------------------------
+119[.]13[.]79[.]145
+210[.]242[.]76[.]32
+211[.]20[.]144[.]116
+
+Domains (2)
+----------------------------------------
+riskified-okta[.]com
+shipmonk-servicenow[.]com

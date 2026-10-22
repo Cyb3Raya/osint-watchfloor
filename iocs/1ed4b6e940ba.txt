@@ -1,0 +1,19 @@
+IOC EXTRACTION - Arista patches new VeloCloud Orchestrator zero-day exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/
+Extracted: 2026-10-22 19:31:31 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-114625
+CVE-2026-16812
+CVE-2026-7473
+CVE-2026-93952
+
+IPv4 (2)
+----------------------------------------
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86

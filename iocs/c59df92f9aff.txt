@@ -1,0 +1,12 @@
+IOC EXTRACTION - The Current Landscape of OAuth Attacks
+Source: https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/
+Extracted: 2026-10-22 19:31:37 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
