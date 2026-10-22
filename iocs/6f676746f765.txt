@@ -1,0 +1,11 @@
+IOC EXTRACTION - China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
+Source: https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html
+Extracted: 2026-10-22 05:20:14 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+144[.]172[.]64[.]99

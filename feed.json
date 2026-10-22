@@ -1,9 +1,35 @@
 {
- "generated": "2026-10-22T00:29:20.534678+00:00",
+ "generated": "2026-10-22T05:20:23.015545+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+   "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+   "desc": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc928e4fa76e21bf1/6ad7e1eca34f770597a25359/uae-on-map-with-pin-Zarko_Prusac-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-22T05:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+   "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+   "desc": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg",
+   "date": "2026-10-22T04:21:26+00:00",
+   "iocs": "iocs/6f676746f765.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33446",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-22T02:00:02+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
@@ -329,6 +355,14 @@
    "ioc_count": 21
   },
   {
+   "source": "Aikido",
+   "title": "Software supply chain security best practices for 2026",
+   "link": "https://www.aikido.dev/blog/software-supply-chain-security-best-practices",
+   "desc": "This guide walks through supply chain security best practices that would have stopped the attacks of the past 18 months. Category: DevSec Tools & Comparisons",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-21T13:25:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
    "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
@@ -515,16 +549,6 @@
    "desc": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned ba",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg",
    "date": "2026-10-21T07:44:22+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-   "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg",
-   "date": "2026-10-21T07:26:49+00:00",
-   "iocs": "iocs/37c3e5fa7177.txt",
-   "ioc_count": 6
   },
   {
    "source": "Socket",
@@ -733,16 +757,6 @@
    "desc": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-19T19:55:01+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
-   "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
-   "desc": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-19T19:19:33+00:00",
-   "iocs": "iocs/e1cc8751d690.txt",
-   "ioc_count": 1
   },
   {
    "source": "Krebs on Security",
@@ -989,14 +1003,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
-   "link": "https://isc.sans.edu/diary/rss/33424",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-14T02:00:03+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Microsoft Patches More Than 1,400 Security Flaws",
    "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -1055,16 +1061,6 @@
    "desc": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th",
    "image": "",
    "date": "2026-10-10T00:17:42+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "What is vulnerability remediation?",
-   "link": "https://www.aikido.dev/blog/vulnerability-remediation",
-   "desc": "Learn how vulnerability remediation works for each type of flaw and what to do when upgrading a dependency breaks your build or isn't an option. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac9195bd69e4de1b0c261a4_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-10-09T16:41:00+00:00",
-   "iocs": "iocs/bea804398975.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",
