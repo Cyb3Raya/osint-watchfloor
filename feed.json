@@ -1,9 +1,59 @@
 {
- "generated": "2026-10-22T19:31:45.650936+00:00",
+ "generated": "2026-10-22T22:44:55.696864+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Railway warns devs to rotate secrets after potential breach",
+   "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+   "desc": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+   "image": "",
+   "date": "2026-10-22T21:25:31+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Toronto crime tips org freezes operations after details of data breach come to light",
+   "link": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
+   "desc": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
+   "image": "",
+   "date": "2026-10-22T20:52:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+   "desc": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-22T20:42:17+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+   "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+   "desc": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in &quot;Operation Lonestar Justice&quot; to Staples' gift card bonan",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta02f4349610bfb87/6ada6ff8b8f9c97bdf15ea45/rodeo-Scott_Olsen-GettyImages-2284428107.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-22T20:33:10+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Capcom confirms data breach affecting 11.7 million accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+   "desc": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+   "image": "",
+   "date": "2026-10-22T20:22:45+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+   "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+   "desc": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-22T19:30:20+00:00",
+   "iocs": "iocs/507bd11e2057.txt",
+   "ioc_count": 3
+  },
   {
    "source": "BleepingComputer",
    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
@@ -13,6 +63,24 @@
    "date": "2026-10-22T19:12:51+00:00",
    "iocs": "iocs/37f56369e2ff.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+   "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+   "desc": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
+   "date": "2026-10-22T19:05:35+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+   "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+   "desc": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg",
+   "date": "2026-10-22T19:05:17+00:00",
+   "iocs": "iocs/5a3446099074.txt",
+   "ioc_count": 5
   },
   {
    "source": "RF The Record",
@@ -209,14 +277,6 @@
    "date": "2026-10-22T11:53:00+00:00",
    "iocs": "iocs/16ef103f7a12.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-   "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-   "desc": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
-   "date": "2026-10-22T11:45:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -421,14 +481,6 @@
    "date": "2026-10-21T20:31:48+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
-   "link": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
-   "desc": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.",
-   "image": "",
-   "date": "2026-10-21T20:25:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
    "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
@@ -483,16 +535,6 @@
    "date": "2026-10-21T18:34:42+00:00",
    "iocs": "iocs/a299ef36c768.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-   "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-   "desc": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. T",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg",
-   "date": "2026-10-21T18:01:57+00:00",
-   "iocs": "iocs/d9304dd4f7f5.txt",
-   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -595,14 +637,6 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-   "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-   "desc": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditi",
-   "image": "",
-   "date": "2026-10-21T14:00:10+00:00"
-  },
-  {
    "source": "Socket",
    "title": "LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials",
    "link": "https://socket.dev/blog/litellm-compromise?utm_medium=feed",
@@ -639,14 +673,6 @@
    "date": "2026-10-21T13:00:00+00:00",
    "iocs": "iocs/9323513c3284.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-   "desc": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-   "image": "",
-   "date": "2026-10-21T12:20:34+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -769,14 +795,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Dark Reading",
-   "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-   "desc": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-10-20T14:36:05+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Rust 1.100 Will Add Dependency Cooldowns to Cargo",
    "link": "https://socket.dev/blog/rust-cargo-cooldowns?utm_medium=feed",
@@ -799,24 +817,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-20T02:00:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
-   "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
-   "desc": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-19T21:13:41+00:00",
-   "iocs": "iocs/04694c10cab7.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
-   "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
-   "desc": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-19T19:55:01+00:00"
   },
   {
    "source": "Krebs on Security",

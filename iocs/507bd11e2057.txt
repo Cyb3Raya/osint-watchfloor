@@ -1,0 +1,13 @@
+IOC EXTRACTION - Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour
+Source: https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french
+Extracted: 2026-10-22 22:44:48 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-41450
+CVE-2025-41451
+CVE-2025-41452

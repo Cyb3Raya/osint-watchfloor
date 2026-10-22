@@ -1,0 +1,18 @@
+IOC EXTRACTION - Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
+Source: https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html
+Extracted: 2026-10-22 22:44:41 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-114625
+CVE-2026-16812
+CVE-2026-93952
+
+IPv4 (2)
+----------------------------------------
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
