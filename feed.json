@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-23T01:19:57.478571+00:00",
+ "generated": "2026-10-23T06:08:02.794446+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "State Bank of India Suffers a Customer PII Data Leak",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+   "desc": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-23T03:30:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Railway warns devs to rotate secrets after potential breach",
@@ -775,14 +783,6 @@
    "desc": "Compare eight Mimecast alternatives for email security, AI governance, employee training and archiving, with practical advice for planning your switch. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac11ad51f353525a39bc817_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-20T16:13:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-   "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-   "desc": "Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44a0332eb39140fa/679be79d9bc2cd9f0b986638/TippaPatt-software-developer-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-20T15:35:45+00:00"
   },
   {
    "source": "Cisco Talos",
