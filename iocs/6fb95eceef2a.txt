@@ -1,0 +1,21 @@
+IOC EXTRACTION - Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions
+Source: https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html
+Extracted: 2026-10-23 20:14:31 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2024-57727
+CVE-2026-15409
+CVE-2026-35616
+CVE-2026-41940
+CVE-2026-42208
+CVE-2026-63030
+CVE-2026-9082
+
+IPv4 (1)
+----------------------------------------
+45[.]227[.]254[.]43

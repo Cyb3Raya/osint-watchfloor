@@ -1,0 +1,15 @@
+IOC EXTRACTION - BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations
+Source: https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+Extracted: 2026-10-23 20:14:29 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2022-21894
+
+Domains (1)
+----------------------------------------
+archivetj[.]com
