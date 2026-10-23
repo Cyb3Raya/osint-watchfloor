@@ -1,0 +1,11 @@
+IOC EXTRACTION - Abandoned Popcorn Time app exposed millions of devices to RCE attacks
+Source: https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/
+Extracted: 2026-10-23 23:13:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-30612

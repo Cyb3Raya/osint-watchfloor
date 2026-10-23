@@ -1,9 +1,49 @@
 {
- "generated": "2026-10-23T20:14:46.833655+00:00",
- "sources_ok": 14,
+ "generated": "2026-10-23T23:14:04.598463+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "Google GTIG"
+ ],
  "items": [
+  {
+   "source": "Socket",
+   "title": "New Evidence Shows LiteLLM Secret-Stealing Workflows Ran 11 Days Before Supply Chain Attack",
+   "link": "https://socket.dev/blog/litellm-attack-timeline?utm_medium=feed",
+   "desc": "Socket uncovered secret-stealing workflows that ran in LiteLLM’s GitHub repository 11 days before the supply chain attack on PyPI and Docker.",
+   "image": "",
+   "date": "2026-10-23T21:00:31+00:00",
+   "iocs": "iocs/b10aa3690548.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+   "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+   "desc": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-23T20:57:56+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+   "desc": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with",
+   "image": "",
+   "date": "2026-10-23T20:55:05+00:00",
+   "iocs": "iocs/a5d4387518b8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Node2Shell evolves to HTTP2Shell. Brotli flaw (CVE-2026-111497) blast radius affects many libraries & apps using HTTPs.",
+   "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "desc": "The Brotli flaw behind Node2Shell (CVE-2026-111497) affects many libraries and applications using HTTP with Brotli or brotlicffi installed. Check your versions and upgrade to the fix. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6adbc73de0b043498cf294c7_pypi_Feature.jpg",
+   "date": "2026-10-23T20:45:00+00:00",
+   "iocs": "iocs/cbb045dba06d.txt",
+   "ioc_count": 1
+  },
   {
    "source": "SANS ISC",
    "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
@@ -593,14 +633,6 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-   "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-   "desc": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-   "image": "",
-   "date": "2026-10-22T08:27:11+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "UAE Transitions 50% of Government Services to Agentic AI",
    "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
@@ -659,16 +691,6 @@
    "desc": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-10-21T20:03:14+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-   "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-   "desc": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-21T19:19:17+00:00",
-   "iocs": "iocs/46f087441d98.txt",
-   "ioc_count": 2
   },
   {
    "source": "Socket",
@@ -915,14 +937,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Aikido",
-   "title": "Top Escape.tech alternatives for offensive security in 2026",
-   "link": "https://www.aikido.dev/blog/escape-tech-alternatives",
-   "desc": "We compare the top Escape.tech alternatives for offensive security in 2026: Aikido Security, XBOW, RunSybil, Terra, Burp Suite Professional, Invicti, StackHawk, Hadrian, and Pentera Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaaa3f2a3aadb6e8aecd9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-10-16T20:47:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
    "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
@@ -991,16 +1005,6 @@
    "date": "2026-10-15T14:13:04+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "ARMORY CASTLE Exploits BeyondTrust",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
-   "desc": "Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTr",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_ARMORY_CASTLE_BeyondTrust_comprom.max-1000x1000.jpg",
-   "date": "2026-10-15T14:00:00+00:00",
-   "iocs": "iocs/7294a4c7f8b6.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "IC3 PSA",
    "title": "Scammers Exploit 2026 U.S. Midterm Election to Perpetrate Multiple Fraud Schemes",
    "link": "https://www.ic3.gov/PSA/2026/PSA261015-3",
@@ -1015,16 +1019,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-15T13:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Investigating Ephemeral Supply Chain Tampering",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
-   "desc": "Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology betw",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_AOMEI_Update_Mechanism.max-1000x1000.png",
-   "date": "2026-10-15T11:00:00+00:00",
-   "iocs": "iocs/59c9f7ba17b6.txt",
-   "ioc_count": 30
   },
   {
    "source": "Unit 42",
@@ -1061,14 +1055,6 @@
    "date": "2026-10-14T14:00:00+00:00",
    "iocs": "iocs/3e8819502e10.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "Socket for Origin Now Available",
-   "link": "https://socket.dev/blog/socket-for-origin?utm_medium=feed",
-   "desc": "Socket for Origin scans dependency changes in pull requests and flags security risks based on your team’s policies. Now available in Cursor’s App Marketplace.",
-   "image": "",
-   "date": "2026-10-14T13:56:18+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -1209,26 +1195,6 @@
    "ioc_count": 17
   },
   {
-   "source": "Google GTIG",
-   "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-   "desc": "Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intel",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Count_of_vulnerabilities_disclose.max-1000x1000.png",
-   "date": "2026-09-30T14:00:00+00:00",
-   "iocs": "iocs/ab41583e705d.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-   "desc": "Introduction In late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC",
-   "image": "",
-   "date": "2026-09-29T14:00:00+00:00",
-   "iocs": "iocs/8ae589a85d81.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Unit 42",
    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
    "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
@@ -1275,24 +1241,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Google GTIG",
-   "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
-   "desc": "Introduction As an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_3_PSEMHUB_WAF_bypass.max-1000x1000.png",
-   "date": "2026-09-25T14:00:00+00:00",
-   "iocs": "iocs/0d4d5cdcaf33.txt",
-   "ioc_count": 9
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
-   "desc": "Introduction The landscape of software supply chain security has undergone a significant shift. Recent campaigns demonstrate that sophisticated threat actors are systematically targeting the engineering lifecycle by comp",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/The_five_core_pillars_for_securing_the_sof.max-1000x1000.png",
-   "date": "2026-09-24T14:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
    "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
@@ -1317,24 +1265,6 @@
    "date": "2026-09-08T21:44:22+00:00",
    "iocs": "iocs/6e80b0fb56bf.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "Google GTIG",
-   "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
-   "desc": "Executive Summary Since the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from ba",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png",
-   "date": "2026-09-08T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-   "desc": "Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BR",
-   "image": "",
-   "date": "2026-09-01T14:00:00+00:00",
-   "iocs": "iocs/3b9bb67e082f.txt",
-   "ioc_count": 28
   },
   {
    "source": "Wiz Threats",
@@ -1365,16 +1295,6 @@
    "date": "2026-08-28T00:00:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/",
-   "desc": "Written by: Gabby Roncone, Wesley Shields Overview Google Threat Intelligence Group (GTIG) is tracking three distinct suspected Russian cyber espionage threat clusters abusing legitimate authentication flows to target in",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Changed_text_in_new_lure_document.max-1000x1000.png",
-   "date": "2026-08-20T14:00:00+00:00",
-   "iocs": "iocs/e466cd90008a.txt",
-   "ioc_count": 23
-  },
-  {
    "source": "Wiz Threats",
    "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack",
@@ -1385,32 +1305,12 @@
    "ioc_count": 1
   },
   {
-   "source": "Google GTIG",
-   "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
-   "desc": "Written by: Alex Tselevich, Michael Maturi Introduction Adversarial misuse of AI has increased the risk of data theft and extortion events, because when proprietary source code is exposed, defenders must scramble to iden",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Sequential_vulnerability_discover.max-1000x1000.png",
-   "date": "2026-08-18T14:00:00+00:00",
-   "iocs": "iocs/4a5b883aab25.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Wiz Threats",
    "title": "Payroll Pirates Phishing Campaign Targets Microsoft 365 Financial Workflows (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/payroll-pirates-phishing-campaign-targets-microsoft-365-financial-workflows",
    "desc": "The attack begins with phishing emails impersonating voicemail notifications that direct victims through a multi-stage redirect chain abusing legitimate services, including Google Meet, Google Ads infrastructure, and Ama",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-08-07T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
-   "desc": "Written by: Tyler McLellan, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) continues to track UNC6671 actively conducting compromises leading to data theft extortion, despite the alleged announced ret",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_j8OyMFx.max-1000x1000.png",
-   "date": "2026-08-06T14:00:00+00:00",
-   "iocs": "iocs/7b5a120ec555.txt",
-   "ioc_count": 76
   },
   {
    "source": "Wiz Threats",
@@ -1427,22 +1327,6 @@
    "desc": "Microsoft Threat Intelligence identified CaptiveCrunch, an ongoing cyberespionage campaign conducted by Storm-2945, a subgroup of the Russian state-sponsored actor Midnight Blizzard. The campaign compromises hospitality-",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-31T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/",
-   "desc": "Written by: Kelli Vanderlee, Stuart Carrera For years, the cybersecurity industry's understanding of software supply chain compromise has been anchored by a few watershed events, including Russian cyber espionage actor I",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/BattenDownYourPackages_1.max-1000x1000.png",
-   "date": "2026-07-30T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Updated Cyber Threat Actor Naming System",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
-   "desc": "Update (July 30): A table listing the new names of select prominent threat actors was appended to this post. Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for ",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
-   "date": "2026-07-24T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",
@@ -1473,14 +1357,6 @@
    "date": "2026-07-17T00:00:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-   "desc": "Written by: Jules Czarniak Introduction As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week before a patch even e",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Demystifying_AI_image1.max-1000x1000.png",
-   "date": "2026-07-16T14:00:00+00:00"
-  },
-  {
    "source": "Wiz Threats",
    "title": "CVE-2025-54068 Exploited in Large-Scale Laravel Livewire Credential Theft Campaign (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/cve-2025-54068-exploited-in-large-scale-laravel-livewire-credential-theft-campaign",
@@ -1489,16 +1365,6 @@
    "date": "2026-07-16T00:00:00+00:00",
    "iocs": "iocs/fa8d79d27a82.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Google GTIG",
-   "title": "The Risk of Exposed Cloud Functions and How to Harden",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
-   "desc": "Written by: Corné de Jong Introduction Mandiant security assessments frequently identify publicly exposed serverless applications that lack authentication, often as a result of specific business requirements. Serverless ",
-   "image": "",
-   "date": "2026-07-15T14:00:00+00:00",
-   "iocs": "iocs/e9ca52746d18.txt",
-   "ioc_count": 4
   },
   {
    "source": "Wiz Threats",

@@ -1,0 +1,17 @@
+IOC EXTRACTION - New Evidence Shows LiteLLM Secret-Stealing Workflows Ran 11 Days Before Supply Chain Attack
+Source: https://socket.dev/blog/litellm-attack-timeline?utm_medium=feed
+Extracted: 2026-10-23 23:14:02 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (2)
+----------------------------------------
+hxxps://webhook[.]site/4da03473-a3e7-4dc2-a087-9c564b4208e1
+hxxps://webhook[.]site/65a42464-3cfa-4b02-a18c-17a6d7b86f37
+
+SHA1 (2)
+----------------------------------------
+1a6e3c1e41f1b5c8eeaeeb2ae94bcd95390fa891
+b69bc36fd4e23b23ea09f4ce63a92b07258f5044
