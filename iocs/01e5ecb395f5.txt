@@ -1,0 +1,11 @@
+IOC EXTRACTION - LiteLLM Compromised in Fresh Supply Chain Attack
+Source: https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/
+Extracted: 2026-10-23 11:49:35 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+litellm[.]dev

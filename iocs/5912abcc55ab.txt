@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months
+Source: https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/
+Extracted: 2026-10-23 11:49:32 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-114625
+CVE-2026-16812
+CVE-2026-93952

@@ -1,0 +1,18 @@
+IOC EXTRACTION - Atlassian Patches 75 Flaws in Data Center and Server Products
+Source: https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/
+Extracted: 2026-10-23 11:49:36 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-21589
+CVE-2026-58062
+CVE-2026-65182
+CVE-2026-65637
+CVE-2026-65905
+CVE-2026-68525
+CVE-2026-75595
+CVE-2026-77185
