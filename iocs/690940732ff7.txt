@@ -1,0 +1,18 @@
+IOC EXTRACTION - HPE patches eight max severity RCE and auth bypass AOS flaws
+Source: https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/
+Extracted: 2026-10-23 16:43:06 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-79844
+CVE-2026-79845
+CVE-2026-79846
+CVE-2026-79847
+CVE-2026-79848
+CVE-2026-79849
+CVE-2026-79850
+CVE-2026-79851

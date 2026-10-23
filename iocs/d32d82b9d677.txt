@@ -1,0 +1,13 @@
+IOC EXTRACTION - PHP shares mitigation for new RCE vulnerability with no patch
+Source: https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/
+Extracted: 2026-10-23 16:43:03 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-115560

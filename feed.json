@@ -1,12 +1,132 @@
 {
- "generated": "2026-10-23T11:49:42.502412+00:00",
+ "generated": "2026-10-23T16:43:23.036191+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
+   "source": "BleepingComputer",
+   "title": "Quest Diagnostics confirms data breach exposed patient records",
+   "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+   "desc": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+   "image": "",
+   "date": "2026-10-23T16:40:07+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+   "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+   "desc": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+   "image": "",
+   "date": "2026-10-23T15:38:05+00:00",
+   "iocs": "iocs/d32d82b9d677.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Socket",
+   "title": "Cloudflare Introduces a Faster TypeScript Compiler Written in Rust",
+   "link": "https://socket.dev/blog/cloudflare-typescript-rust?utm_medium=feed",
+   "desc": "Cloudflare introduces tsrs, a Rust port of TypeScript’s compiler promising faster checks and lower memory use, with the TypeScript team’s help.",
+   "image": "",
+   "date": "2026-10-23T14:34:56+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+   "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+   "desc": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot R",
+   "image": "",
+   "date": "2026-10-23T14:23:37+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "You gave your AI agent access, but who is giving it orders?",
+   "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+   "desc": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help",
+   "image": "",
+   "date": "2026-10-23T14:00:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
+   "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+   "desc": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-23T14:00:00+00:00"
+  },
+  {
    "source": "The Hacker News",
-   "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+   "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+   "desc": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
+   "date": "2026-10-23T13:50:56+00:00",
+   "iocs": "iocs/64b0ac9d140d.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33450",
+   "desc": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you proba",
+   "image": "",
+   "date": "2026-10-23T13:43:20+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
+   "desc": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt532ec4c95e5c91b7/6ada58e98f65b93d8e99c4a2/Insurance_policy-Mohamad_Faizal_Bin_Ramli-GettyImages-1295819436.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-23T13:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "UK proposes 14-year prison terms for undersea cable sabotage",
+   "link": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
+   "desc": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
+   "image": "",
+   "date": "2026-10-23T13:26:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
+   "link": "https://therecord.media/quest-diagnostics-network-intrusion",
+   "desc": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.",
+   "image": "",
+   "date": "2026-10-23T12:52:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+   "desc": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+   "image": "",
+   "date": "2026-10-23T12:48:00+00:00",
+   "iocs": "iocs/690940732ff7.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+   "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+   "desc": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge app",
+   "image": "",
+   "date": "2026-10-23T12:45:52+00:00",
+   "iocs": "iocs/8915eca9b3fe.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+   "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+   "desc": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-23T11:38:28+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
    "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
    "desc": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
@@ -40,9 +160,9 @@
   },
   {
    "source": "SecurityWeek",
-   "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+   "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-   "desc": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared",
+   "desc": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on Se",
    "image": "",
    "date": "2026-10-23T09:58:34+00:00",
    "iocs": "iocs/5912abcc55ab.txt",
@@ -86,9 +206,9 @@
   },
   {
    "source": "SecurityWeek",
-   "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+   "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
    "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-   "desc": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting",
+   "desc": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed &#8216;Cer",
    "image": "",
    "date": "2026-10-23T08:25:06+00:00"
   },
@@ -331,6 +451,14 @@
    "date": "2026-10-22T14:31:34+00:00"
   },
   {
+   "source": "Dark Reading",
+   "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+   "desc": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-22T14:21:22+00:00"
+  },
+  {
    "source": "BleepingComputer",
    "title": "Machine speed attacks require machine speed detection and response",
    "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
@@ -349,14 +477,6 @@
    "date": "2026-10-22T13:38:22+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
-   "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
-   "desc": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
-   "image": "",
-   "date": "2026-10-22T13:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
    "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
@@ -365,32 +485,6 @@
    "date": "2026-10-22T13:09:12+00:00",
    "iocs": "iocs/8432ce44e6fe.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
-   "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
-   "desc": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform app",
-   "image": "",
-   "date": "2026-10-22T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-   "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-   "desc": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-22T12:34:31+00:00",
-   "iocs": "iocs/6f350098eb0a.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
-   "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
-   "desc": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.",
-   "image": "",
-   "date": "2026-10-22T12:14:00+00:00"
   },
   {
    "source": "Aikido",
@@ -419,16 +513,6 @@
    "desc": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized t",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg",
    "date": "2026-10-22T11:15:42+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-   "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-   "desc": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) server",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg",
-   "date": "2026-10-22T10:44:05+00:00",
-   "iocs": "iocs/3c95c0f04e66.txt",
-   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -499,14 +583,6 @@
    "ioc_count": 9
   },
   {
-   "source": "BleepingComputer",
-   "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-   "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-   "desc": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-   "image": "",
-   "date": "2026-10-21T20:31:48+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
    "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
@@ -543,16 +619,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-   "image": "",
-   "date": "2026-10-21T18:34:42+00:00",
-   "iocs": "iocs/a299ef36c768.txt",
-   "ioc_count": 6
-  },
-  {
    "source": "Dark Reading",
    "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
@@ -571,28 +637,12 @@
    "ioc_count": 11
   },
   {
-   "source": "BleepingComputer",
-   "title": "OpenAI agents disabled safety monitoring, one lied about it",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-   "desc": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-   "image": "",
-   "date": "2026-10-21T16:26:53+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
    "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
    "desc": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-10-21T15:44:48+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
-   "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
-   "desc": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-10-21T15:29:09+00:00"
   },
   {
    "source": "Socket",
@@ -623,16 +673,6 @@
    "date": "2026-10-21T15:10:53+00:00",
    "iocs": "iocs/ed3fc2a51f89.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-   "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-   "desc": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-   "image": "",
-   "date": "2026-10-21T14:07:05+00:00",
-   "iocs": "iocs/f86121e76c16.txt",
-   "ioc_count": 2
   },
   {
    "source": "Unit 42",
@@ -673,16 +713,6 @@
    "ioc_count": 13
   },
   {
-   "source": "Dark Reading",
-   "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
-   "desc": "The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfaf93bd096fd735c/6a45559d327edd13ed6ac140/clickfix-tumsasedgars-Getty-2234293893.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-21T13:00:00+00:00",
-   "iocs": "iocs/9323513c3284.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Cisco Talos",
    "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
    "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
@@ -715,14 +745,6 @@
    "date": "2026-10-21T01:54:00+00:00",
    "iocs": "iocs/86a821a15fce.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-   "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-   "desc": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9204db2f2ffca6fe/6ad7d457e5c2f8b0773c4a30/ca_Inkoly_shutterstock.jpf.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-20T21:45:47+00:00"
   },
   {
    "source": "Aikido",
@@ -759,14 +781,6 @@
    "desc": "Compare nine KnowBe4 alternatives for awareness training, phishing simulations, AI governance and workforce protection, plus practical migration advice. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac95f09fc4d5e29f402dc5e_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-20T19:33:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-   "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-   "desc": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_%C5%9Amigla-GettyImages-1338436529.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-20T19:16:49+00:00"
   },
   {
    "source": "Aikido",
@@ -993,14 +1007,6 @@
    "ioc_count": 30
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
-   "link": "https://isc.sans.edu/diary/rss/33428",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-15T02:00:03+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
    "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
@@ -1079,14 +1085,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-13T19:00:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Agent Baseline Publishes Security Reference Architecture for Software Factories",
-   "link": "https://socket.dev/blog/agent-baseline-software-factory?utm_medium=feed",
-   "desc": "Agent Baseline’s new reference architecture shows how to secure software factories with four boundaries enforced outside the AI agent.",
-   "image": "",
-   "date": "2026-10-13T17:54:48+00:00"
   },
   {
    "source": "Krebs on Security",
