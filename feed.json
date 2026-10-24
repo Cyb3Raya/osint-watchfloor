@@ -1,9 +1,19 @@
 {
- "generated": "2026-10-24T11:57:29.563523+00:00",
+ "generated": "2026-10-24T15:48:13.947197+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+   "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+   "desc": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions",
+   "image": "",
+   "date": "2026-10-24T14:17:32+00:00",
+   "iocs": "iocs/ed9fe79f62b5.txt",
+   "ioc_count": 2
+  },
   {
    "source": "The Hacker News",
    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
@@ -623,16 +633,6 @@
    "date": "2026-10-22T11:53:00+00:00",
    "iocs": "iocs/16ef103f7a12.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "GitLab warns of new max severity code execution vulnerability",
-   "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-   "desc": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-   "image": "",
-   "date": "2026-10-22T11:41:48+00:00",
-   "iocs": "iocs/bbaceb69b77d.txt",
-   "ioc_count": 3
   },
   {
    "source": "Dark Reading",

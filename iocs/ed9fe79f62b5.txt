@@ -1,0 +1,15 @@
+IOC EXTRACTION - BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot
+Source: https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/
+Extracted: 2026-10-24 15:48:08 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2022-21894
+
+Domains (1)
+----------------------------------------
+archivetj[.]com
