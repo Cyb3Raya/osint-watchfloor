@@ -1,0 +1,11 @@
+IOC EXTRACTION - Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
+Source: https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+Extracted: 2026-10-24 11:57:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497

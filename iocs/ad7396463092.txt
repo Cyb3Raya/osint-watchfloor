@@ -1,0 +1,19 @@
+IOC EXTRACTION - CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud
+Source: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+Extracted: 2026-10-24 11:57:23 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-110447
+CVE-2026-114625
+CVE-2026-16812
+CVE-2026-93952
+
+IPv4 (2)
+----------------------------------------
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86

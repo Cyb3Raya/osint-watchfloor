@@ -1,0 +1,15 @@
+IOC EXTRACTION - Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet
+Source: https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html
+Extracted: 2026-10-24 11:57:22 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-30612
+
+Domains (1)
+----------------------------------------
+popcorntimeupd[.]xyz
