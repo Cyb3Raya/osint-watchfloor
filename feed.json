@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-24T18:39:02.617718+00:00",
+ "generated": "2026-10-24T21:12:15.420613+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "Adding Aikido AI pentesting to your existing security stack",
+   "link": "https://www.aikido.dev/blog/ai-pentesting-existing-security-stack",
+   "desc": "Aikido Security's AI pentesting fits into the stack you already run. You can add AI pentesting on top to catch the complex logic flaws deterministic tools miss. Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-24T19:46:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -926,16 +934,6 @@
    "image": "",
    "date": "2026-10-18T12:59:30+00:00",
    "iocs": "iocs/aea64b1b41f6.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "Aikido",
-   "title": "Your CVE is reachable. But is it exploitable?",
-   "link": "https://www.aikido.dev/blog/cve-reachable-vs-exploitable",
-   "desc": "Reachable CVEs can still be safe in your app. See how reachability vs exploitability analysis helps you decide which dependency vulnerabilities to fix first. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad2a2d407c8badb246cbdaa_Your_CVE_is_reachable_Feature.png",
-   "date": "2026-10-17T22:19:00+00:00",
-   "iocs": "iocs/275f43be2630.txt",
    "ioc_count": 2
   },
   {
