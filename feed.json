@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-25T06:52:11.708175+00:00",
+ "generated": "2026-10-25T12:24:41.413198+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+   "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+   "desc": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared",
+   "image": "",
+   "date": "2026-10-25T11:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+   "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+   "desc": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg",
+   "date": "2026-10-25T06:54:29+00:00",
+   "iocs": "iocs/2b44ac8d0a52.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Aikido",
    "title": "Adding Aikido AI pentesting to your existing security stack",
@@ -445,16 +463,6 @@
    "ioc_count": 8
   },
   {
-   "source": "The Hacker News",
-   "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-   "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-   "desc": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
-   "date": "2026-10-23T07:40:45+00:00",
-   "iocs": "iocs/9d0cfa945b25.txt",
-   "ioc_count": 32
-  },
-  {
    "source": "SecurityWeek",
    "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
    "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
@@ -595,14 +603,6 @@
    "desc": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
    "image": "",
    "date": "2026-10-22T15:49:32+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
-   "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
-   "desc": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-22T14:31:34+00:00"
   },
   {
    "source": "Dark Reading",

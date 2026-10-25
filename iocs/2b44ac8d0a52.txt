@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
+Source: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
+Extracted: 2026-10-25 12:24:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497
