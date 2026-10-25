@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-25T12:24:41.413198+00:00",
+ "generated": "2026-10-25T16:48:12.198512+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+   "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+   "desc": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+   "image": "",
+   "date": "2026-10-25T15:49:38+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
@@ -620,16 +628,6 @@
    "image": "",
    "date": "2026-10-22T14:02:12+00:00",
    "iocs": "iocs/32ea969a27fc.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-   "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-   "desc": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-   "image": "",
-   "date": "2026-10-22T13:09:12+00:00",
-   "iocs": "iocs/8432ce44e6fe.txt",
    "ioc_count": 2
   },
   {
