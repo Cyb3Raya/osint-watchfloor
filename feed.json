@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-25T16:48:12.198512+00:00",
+ "generated": "2026-10-25T19:28:25.992503+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "desc": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailsc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+   "date": "2026-10-25T17:44:09+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "desc": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"I",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+   "date": "2026-10-25T17:19:46+00:00",
+   "iocs": "iocs/da19872bd8eb.txt",
+   "ioc_count": 4
+  },
   {
    "source": "BleepingComputer",
    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -126,7 +144,7 @@
   },
   {
    "source": "Aikido",
-   "title": "Node2Shell evolves to HTTP2Shell. Brotli flaw (CVE-2026-111497) blast radius affects many libraries & apps using HTTPs.",
+   "title": "Node2Shell evolves to HTTP2Shell. Brotli flaw (CVE-2026-111497) blast radius affects many libraries & apps using HTTP.",
    "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
    "desc": "The Brotli flaw behind Node2Shell (CVE-2026-111497) affects many libraries and applications using HTTP with Brotli or brotlicffi installed. Check your versions and upgrade to the fix. Category: Vulnerabilities & Threats",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6adbc73de0b043498cf294c7_pypi_Feature.jpg",
@@ -415,24 +433,6 @@
    "date": "2026-10-23T09:36:00+00:00",
    "iocs": "iocs/e21e419ebac5.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-   "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-   "desc": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the offici",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
-   "date": "2026-10-23T08:40:43+00:00",
-   "iocs": "iocs/5119cb5ec018.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-   "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-   "desc": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
-   "date": "2026-10-23T08:35:45+00:00"
   },
   {
    "source": "SecurityWeek",

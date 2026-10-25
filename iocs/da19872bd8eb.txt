@@ -1,0 +1,17 @@
+IOC EXTRACTION - PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking
+Source: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+Extracted: 2026-10-25 19:28:20 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-115560
+
+IPv4 (1)
+----------------------------------------
+204[.]76[.]203[.]7
