@@ -1,0 +1,12 @@
+IOC EXTRACTION - 953 Online Stores Infected in Long-Lasting Malware Campaign
+Source: https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/
+Extracted: 2026-10-26 17:27:46 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-54236
+CVE-2026-48356

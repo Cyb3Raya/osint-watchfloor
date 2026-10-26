@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft releases emergency .NET patches for critical Brotli flaw
+Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/
+Extracted: 2026-10-26 17:27:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497

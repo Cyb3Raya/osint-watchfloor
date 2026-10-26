@@ -1,0 +1,12 @@
+IOC EXTRACTION - Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes
+Source: https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html
+Extracted: 2026-10-26 17:27:32 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-115889
+CVE-2026-115893

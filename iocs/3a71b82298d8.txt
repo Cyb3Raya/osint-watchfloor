@@ -1,0 +1,12 @@
+IOC EXTRACTION - Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras
+Source: https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked
+Extracted: 2026-10-26 17:27:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2021-33044
+CVE-2021-33045
