@@ -1,0 +1,17 @@
+IOC EXTRACTION - Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations
+Source: https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html
+Extracted: 2026-10-26 11:16:42 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+193[.]26[.]115[.]0
+193[.]26[.]115[.]221
+
+Domains (2)
+----------------------------------------
+exy[.]sh
+rdp[.]sh

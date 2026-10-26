@@ -1,0 +1,11 @@
+IOC EXTRACTION - Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages
+Source: https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/
+Extracted: 2026-10-26 11:16:49 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497

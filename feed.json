@@ -1,9 +1,95 @@
 {
- "generated": "2026-10-26T05:16:20.042777+00:00",
+ "generated": "2026-10-26T11:16:55.215728+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+   "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+   "desc": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+   "image": "",
+   "date": "2026-10-26T10:26:52+00:00",
+   "iocs": "iocs/982f2ce76891.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+   "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+   "desc": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Pyth",
+   "image": "",
+   "date": "2026-10-26T10:21:57+00:00",
+   "iocs": "iocs/15faad201001.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+   "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+   "desc": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampe",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg",
+   "date": "2026-10-26T09:54:02+00:00",
+   "iocs": "iocs/20494af63ce3.txt",
+   "ioc_count": 18
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33442",
+   "desc": "&#x5b;This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+   "image": "",
+   "date": "2026-10-26T09:38:03+00:00",
+   "iocs": "iocs/3752165e9c29.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+   "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+   "desc": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+   "image": "",
+   "date": "2026-10-26T09:19:57+00:00",
+   "iocs": "iocs/7c54e769948b.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+   "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+   "desc": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-26T09:10:03+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+   "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+   "desc": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into emai",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg",
+   "date": "2026-10-26T08:35:51+00:00",
+   "iocs": "iocs/399172439712.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+   "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+   "desc": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeede",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg",
+   "date": "2026-10-26T07:49:46+00:00",
+   "iocs": "iocs/a26d3a2a0bb0.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+   "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+   "desc": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last w",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png",
+   "date": "2026-10-26T06:03:48+00:00"
+  },
   {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
@@ -86,7 +172,7 @@
    "source": "The Hacker News",
    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-   "desc": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to dec",
+   "desc": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy pro",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
    "date": "2026-10-24T11:09:29+00:00",
    "iocs": "iocs/a64123d82829.txt",
@@ -115,7 +201,7 @@
    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
    "desc": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sIO412EzdDtlngPmg_icDaIn3Mb1ODDcIEPLJMLpatt8TkMHFUFK63rBJVBb72s6uV_KvpRPfKISPfLtznJpsy7_HLaxigKAZP3hvqiGF-gkqKqYi-6tEvyPV_UhUpRGf1bREenTlzt7o9OIs4LfdXy9VekUesPsb5OWcVr7X-JlCeieU0V419GJ3rNY/s1600/popcorn-botnet.jpg",
    "date": "2026-10-24T09:04:24+00:00",
    "iocs": "iocs/ae5fe3ec49b3.txt",
    "ioc_count": 2
@@ -327,16 +413,6 @@
    "date": "2026-10-23T14:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-   "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-   "desc": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
-   "date": "2026-10-23T13:50:56+00:00",
-   "iocs": "iocs/64b0ac9d140d.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
    "link": "https://isc.sans.edu/diary/rss/33450",
@@ -397,24 +473,6 @@
    "date": "2026-10-23T11:38:28+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-   "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-   "desc": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
-   "date": "2026-10-23T11:25:43+00:00",
-   "iocs": "iocs/d3e6fb1a3911.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-   "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-   "desc": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UA",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg",
-   "date": "2026-10-23T11:11:23+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
    "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
@@ -438,16 +496,6 @@
    "image": "",
    "date": "2026-10-23T09:58:34+00:00",
    "iocs": "iocs/5912abcc55ab.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-   "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-   "desc": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow ha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg",
-   "date": "2026-10-23T09:36:00+00:00",
-   "iocs": "iocs/e21e419ebac5.txt",
    "ioc_count": 3
   },
   {
@@ -475,24 +523,6 @@
    "date": "2026-10-23T08:10:46+00:00",
    "iocs": "iocs/01e5ecb395f5.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
-   "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-   "desc": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on",
-   "image": "",
-   "date": "2026-10-23T07:54:47+00:00",
-   "iocs": "iocs/87fa2cd295e9.txt",
-   "ioc_count": 8
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-   "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-   "desc": "After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016. The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 20",
-   "image": "",
-   "date": "2026-10-23T06:39:29+00:00"
   },
   {
    "source": "RF The Record",
@@ -621,30 +651,12 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-   "desc": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-   "image": "",
-   "date": "2026-10-22T15:49:32+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
    "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
    "desc": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-22T14:21:22+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Machine speed attacks require machine speed detection and response",
-   "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-   "desc": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA p",
-   "image": "",
-   "date": "2026-10-22T14:02:12+00:00",
-   "iocs": "iocs/32ea969a27fc.txt",
-   "ioc_count": 2
   },
   {
    "source": "Aikido",
@@ -939,16 +951,6 @@
    "desc": "76% of teams ship major changes weekly, but only 21% test every release. Here’s how AI pentesting closes that gap without raising your security budget Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad589348991dbd2873e7e8c_More-pentesting-same-budget_Feature.png",
    "date": "2026-10-19T09:00:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33434",
-   "desc": "Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\".&#xd;",
-   "image": "",
-   "date": "2026-10-18T12:59:30+00:00",
-   "iocs": "iocs/aea64b1b41f6.txt",
-   "ioc_count": 2
   },
   {
    "source": "Unit 42",

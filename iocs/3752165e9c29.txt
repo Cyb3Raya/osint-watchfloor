@@ -1,0 +1,23 @@
+IOC EXTRACTION - Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)
+Source: https://isc.sans.edu/diary/rss/33442
+Extracted: 2026-10-26 11:16:39 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (6)
+----------------------------------------
+165[.]154[.]11[.]140
+165[.]154[.]120[.]226
+165[.]154[.]182[.]221
+165[.]154[.]29[.]93
+165[.]154[.]33[.]72
+165[.]154[.]36[.]91
+
+Domains (4)
+----------------------------------------
+brossy[.]com[.]cn
+leheedu[.]cn
+mail[.]brossy[.]com[.]cn
+tzrhxln[.]cn
