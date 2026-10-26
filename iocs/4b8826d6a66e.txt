@@ -1,0 +1,16 @@
+IOC EXTRACTION - Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware
+Source: https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html
+Extracted: 2026-10-26 21:51:03 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (6)
+----------------------------------------
+corporateitservicellc[.]onmicrosoft[.]com
+helpdeskteam365[.]onmicrosoft[.]com
+itadmin922[.]onmicrosoft[.]com
+itcoreportal[.]onmicrosoft[.]com
+itendpoint365[.]onmicrosoft[.]com
+onmicrosoft[.]com

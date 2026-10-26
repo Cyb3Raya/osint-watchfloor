@@ -1,0 +1,24 @@
+IOC EXTRACTION - Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
+Source: https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html
+Extracted: 2026-10-26 21:51:01 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-54236
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-48356
+
+IPv4 (1)
+----------------------------------------
+162[.]35[.]99[.]94
+
+Domains (3)
+----------------------------------------
+additionalver[.]com
+deepveindrilling[.]com
+lanhd6549tdhse[.]top
