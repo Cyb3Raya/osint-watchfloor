@@ -1,0 +1,18 @@
+IOC EXTRACTION - Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
+Source: https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
+Extracted: 2026-10-27 12:39:26 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2017-7921
+CVE-2020-25078
+CVE-2020-25169
+CVE-2021-33044
+CVE-2021-33045
+CVE-2021-36260
+CVE-2024-53375
+CVE-2024-57049

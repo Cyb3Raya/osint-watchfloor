@@ -1,0 +1,11 @@
+IOC EXTRACTION - Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
+Source: https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
+Extracted: 2026-10-27 12:39:23 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-68820

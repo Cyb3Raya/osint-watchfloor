@@ -1,0 +1,13 @@
+IOC EXTRACTION - Apple backports CoreGraphics zero-day patches to older iPhones
+Source: https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/
+Extracted: 2026-10-27 12:39:27 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-20701
+CVE-2026-20700
+CVE-2026-86950

@@ -1,0 +1,14 @@
+IOC EXTRACTION - This is Fine: What NetScaler Zero-Days Tell Us About the New Normal
+Source: https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/
+Extracted: 2026-10-27 12:39:40 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-88771
+CVE-2026-88778
+CVE-2026-88779
+CVE-2026-88787

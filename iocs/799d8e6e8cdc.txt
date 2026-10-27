@@ -1,0 +1,11 @@
+IOC EXTRACTION - iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18
+Source: https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/
+Extracted: 2026-10-27 12:39:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-86950

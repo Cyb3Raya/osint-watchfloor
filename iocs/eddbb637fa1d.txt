@@ -1,0 +1,11 @@
+IOC EXTRACTION - Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover
+Source: https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/
+Extracted: 2026-10-27 12:39:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-30612

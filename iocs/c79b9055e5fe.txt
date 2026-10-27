@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA confirms PHP2Shell vulnerabilities now exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/
+Extracted: 2026-10-27 12:39:30 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-115560
