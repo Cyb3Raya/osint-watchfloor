@@ -1,0 +1,39 @@
+IOC EXTRACTION - Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets
+Source: https://socket.dev/blog/firefox-wallet-impersonators?utm_medium=feed
+Extracted: 2026-10-27 22:26:20 UTC
+Total indicators: 17
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+104[.]21[.]34[.]69
+172[.]67[.]155[.]198
+
+Domains (3)
+----------------------------------------
+bonto[.]io
+coinbase[.]bonto[.]io
+exodus[.]bonto[.]io
+
+URLs (5)
+----------------------------------------
+hxxps://bitget[.]bonto[.]io/
+hxxps://jupiter[.]bonto[.]io
+hxxps://jupiter[.]bonto[.]io/
+hxxps://phantom[.]bonto[.]io/
+hxxps://phantom[.]bonto[.]io/config
+
+SHA256 (4)
+----------------------------------------
+311c49974f28d33947b8b74d78b48f51855eacac182d519a4fe1daa6af7f30e9
+999bccd41188a238a50d05b5aca8e35af45d107f32d7443389313816f0cb226a
+e688bff5df32f209b4ebb882985e3ad19ddee68666405c39ff523307068a8611
+fd7b138f4fba003db332a4eee833e84491bf7ffec5a3d91f7451d7b95aabcf6a
+
+MD5 (3)
+----------------------------------------
+30b17a249a34fdf5d2be64b3dfcc8494
+3efb89873d4c425c012cd1cb1736629a
+ca2bf8b1ba371a1426c1049d9dad8168

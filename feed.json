@@ -1,9 +1,83 @@
 {
- "generated": "2026-10-27T18:18:49.152356+00:00",
+ "generated": "2026-10-27T22:26:21.569001+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+   "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+   "desc": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+   "image": "",
+   "date": "2026-10-27T22:07:34+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
+   "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+   "desc": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc201b7327a3221e/6ae0e1681ae793f19fb9e1de/Cyber_legal_Abu_Hanifa_Getty_Images.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-27T21:15:03+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers hijack Convertr analytics script to steal payment card data",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+   "desc": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+   "image": "",
+   "date": "2026-10-27T20:57:25+00:00",
+   "iocs": "iocs/02aa5589116e.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+   "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+   "desc": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt634b295db59f5c55/6ae0fd3853ec236cfd97d242/Email_flood-juststock-GettyImages-2156140935.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-27T20:42:40+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+   "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+   "desc": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
+   "image": "",
+   "date": "2026-10-27T20:40:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+   "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+   "desc": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa7bc1b8ce13713c/6ae1025ea3c73d20dd328ef4/sschain_LocalPhotoSomebody_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-27T19:58:06+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+   "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+   "desc": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
+   "image": "",
+   "date": "2026-10-27T19:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+   "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+   "desc": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg",
+   "date": "2026-10-27T18:26:46+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+   "desc": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates.",
+   "image": "",
+   "date": "2026-10-27T18:20:28+00:00"
+  },
   {
    "source": "Dark Reading",
    "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
@@ -11,6 +85,16 @@
    "desc": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc41ecdc8029e697f/6ae0df62008cb1fe5c9e9737/scream-Jesse_Grant-GettyImages-2261562479.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-27T17:43:07+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets",
+   "link": "https://socket.dev/blog/firefox-wallet-impersonators?utm_medium=feed",
+   "desc": "Malicious Firefox extensions mimic Phantom, Jupiter, and Bitget wallets to steal recovery phrases and private keys, with one fetching its payload remotely.",
+   "image": "",
+   "date": "2026-10-27T17:28:33+00:00",
+   "iocs": "iocs/1f7399e28739.txt",
+   "ioc_count": 17
   },
   {
    "source": "Dark Reading",
@@ -103,24 +187,6 @@
    "desc": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on Securi",
    "image": "",
    "date": "2026-10-27T13:30:28+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
-   "link": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
-   "desc": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday.",
-   "image": "",
-   "date": "2026-10-27T13:20:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
-   "link": "https://therecord.media/php-vulnerabilities-cisa-kev",
-   "desc": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing.",
-   "image": "",
-   "date": "2026-10-27T13:16:00+00:00",
-   "iocs": "iocs/0227fa902bee.txt",
-   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -473,48 +539,12 @@
    "ioc_count": 77
   },
   {
-   "source": "BleepingComputer",
-   "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-   "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-   "desc": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-   "image": "",
-   "date": "2026-10-26T14:00:10+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "10 Software Security Practices Built for the Next 250 Years",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
    "desc": "This Cybersecurity Awareness Month's theme, &quot;Securing the Next 250,&quot; asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0de7e1fa7b975bb4/6a2830dd09a01a8cc3ee406e/bug-sankai-Getty-2192972249.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-26T14:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-   "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-   "desc": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United Stat",
-   "image": "",
-   "date": "2026-10-26T13:56:44+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-   "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-   "desc": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg",
-   "date": "2026-10-26T11:52:41+00:00",
-   "iocs": "iocs/f67f5ee9f8e3.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-   "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-   "desc": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-   "image": "",
-   "date": "2026-10-26T10:26:52+00:00",
-   "iocs": "iocs/982f2ce76891.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -665,36 +695,12 @@
    "date": "2026-10-23T13:30:00+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-   "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-   "desc": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-23T11:38:28+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
    "link": "https://isc.sans.edu/diary/rss/33448",
    "desc": "",
    "image": "",
    "date": "2026-10-23T10:25:11+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "State Bank of India Suffers a Customer PII Data Leak",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-   "desc": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-23T03:30:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-   "desc": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-22T20:42:17+00:00"
   },
   {
    "source": "Aikido",
@@ -979,14 +985,6 @@
    "desc": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 20",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg",
    "date": "2026-10-16T17:47:54+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Deno Goes the Way of the Dinosaur",
-   "link": "https://socket.dev/blog/deno-acquisition?utm_medium=feed",
-   "desc": "Cloudflare is acquiring Deno’s team, which will provide another year of bug fixes and security updates before ending support for the runtime.",
-   "image": "",
-   "date": "2026-10-16T16:49:36+00:00"
   },
   {
    "source": "IC3 PSA",

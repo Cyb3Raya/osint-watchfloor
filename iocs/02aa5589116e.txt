@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers hijack Convertr analytics script to steal payment card data
+Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/
+Extracted: 2026-10-27 22:25:59 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-8467
