@@ -1,0 +1,11 @@
+IOC EXTRACTION - eMudhra, Brotli, and the Long Tail of a Security Fix
+Source: https://socket.dev/blog/emudhra-brotli-security-fix?utm_medium=feed
+Extracted: 2026-10-27 01:17:08 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497
