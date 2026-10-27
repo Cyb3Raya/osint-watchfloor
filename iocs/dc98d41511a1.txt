@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution
+Source: https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html
+Extracted: 2026-10-27 06:25:25 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-111497

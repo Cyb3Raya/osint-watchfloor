@@ -1,16 +1,26 @@
 {
- "generated": "2026-10-27T01:17:09.597467+00:00",
+ "generated": "2026-10-27T06:25:39.618539+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
-   "source": "Dark Reading",
-   "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-   "desc": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-27T00:26:50+00:00"
+   "source": "The Hacker News",
+   "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+   "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PH",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
+   "date": "2026-10-27T04:37:59+00:00",
+   "iocs": "iocs/dc98d41511a1.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
+   "link": "https://isc.sans.edu/diary/rss/33462",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T02:55:13+00:00"
   },
   {
    "source": "SANS ISC",
@@ -18,9 +28,25 @@
    "link": "https://isc.sans.edu/diary/rss/33458",
    "desc": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.&#xd;",
    "image": "",
-   "date": "2026-10-26T23:34:37+00:00",
+   "date": "2026-10-27T02:09:55+00:00",
    "iocs": "iocs/344bdc9286a2.txt",
    "ioc_count": 304
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+   "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+   "desc": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital",
+   "image": "",
+   "date": "2026-10-27T01:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+   "desc": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-27T00:26:50+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -441,14 +467,6 @@
    "date": "2026-10-25T15:49:38+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-   "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-   "desc": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared",
-   "image": "",
-   "date": "2026-10-25T11:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
    "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
@@ -485,16 +503,6 @@
    "date": "2026-10-24T11:09:29+00:00",
    "iocs": "iocs/a64123d82829.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-   "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-   "desc": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python pac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
-   "date": "2026-10-24T11:03:33+00:00",
-   "iocs": "iocs/c2f353f11fca.txt",
-   "ioc_count": 3
   },
   {
    "source": "Socket",
@@ -855,14 +863,6 @@
    "desc": "vlt 1.5.0 links skills from JavaScript dependencies to coding agents, with lockfile versioning and Socket data to filter out known malicious packages.",
    "image": "",
    "date": "2026-10-21T02:27:15+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33438",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-21T02:00:03+00:00"
   },
   {
    "source": "Aikido",
