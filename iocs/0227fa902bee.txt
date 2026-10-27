@@ -1,0 +1,12 @@
+IOC EXTRACTION - CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch
+Source: https://therecord.media/php-vulnerabilities-cisa-kev
+Extracted: 2026-10-27 18:18:46 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

@@ -1,0 +1,18 @@
+IOC EXTRACTION - HPE Patches Dozens of Critical Flaws in Networking Products
+Source: https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/
+Extracted: 2026-10-27 18:18:37 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-79844
+CVE-2026-79845
+CVE-2026-79846
+CVE-2026-79847
+CVE-2026-79848
+CVE-2026-79849
+CVE-2026-79850
+CVE-2026-79851
