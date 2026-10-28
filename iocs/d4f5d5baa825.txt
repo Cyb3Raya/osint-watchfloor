@@ -1,0 +1,19 @@
+IOC EXTRACTION - Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass
+Source: https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html
+Extracted: 2026-10-28 15:12:26 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-104350
+CVE-2026-104351
+CVE-2026-104353
+CVE-2026-104354
+CVE-2026-105489
+CVE-2026-105779
+CVE-2026-105780
+CVE-2026-105781
+CVE-2026-48360

@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts
+Source: https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/
+Extracted: 2026-10-28 15:13:03 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497

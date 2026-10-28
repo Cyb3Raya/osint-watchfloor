@@ -1,0 +1,12 @@
+IOC EXTRACTION - TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices
+Source: https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/
+Extracted: 2026-10-28 15:12:56 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-115881
+CVE-2026-115884

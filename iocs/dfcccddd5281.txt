@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA warns of hackers now exploiting critical Node2Shell flaw
+Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/
+Extracted: 2026-10-28 15:12:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497

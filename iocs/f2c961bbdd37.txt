@@ -1,0 +1,26 @@
+IOC EXTRACTION - InfraTrust report warns of exploited flaws in critical network infrastructure
+Source: https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/
+Extracted: 2026-10-28 15:12:32 UTC
+Total indicators: 16
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (16)
+----------------------------------------
+CVE-2026-0322
+CVE-2026-104286
+CVE-2026-104935
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-114625
+CVE-2026-20079
+CVE-2026-31431
+CVE-2026-76504
+CVE-2026-76519
+CVE-2026-88771
+CVE-2026-88772
+CVE-2026-88779
+CVE-2026-93616
+CVE-2026-93952
+CVE-2026-94127

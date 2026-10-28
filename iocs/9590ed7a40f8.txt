@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers
+Source: https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html
+Extracted: 2026-10-28 15:12:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-97631

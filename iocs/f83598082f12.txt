@@ -1,0 +1,13 @@
+IOC EXTRACTION - Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch
+Source: https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html
+Extracted: 2026-10-28 15:12:23 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2025-61882
+CVE-2026-101767
+CVE-2026-46817

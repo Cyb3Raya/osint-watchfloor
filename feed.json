@@ -1,9 +1,245 @@
 {
- "generated": "2026-10-28T08:02:20.382252+00:00",
+ "generated": "2026-10-28T15:13:10.763381+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+   "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+   "desc": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on Sec",
+   "image": "",
+   "date": "2026-10-28T15:05:06+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+   "desc": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+   "image": "",
+   "date": "2026-10-28T14:48:32+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+   "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+   "desc": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf851053137fec653/6ae1e3cca1e4219344f6a136/credentials-NicoElNino-AdobeStock.png?width=720&quality=80&disable=upscale",
+   "date": "2026-10-28T14:37:52+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+   "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+   "desc": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and oth",
+   "image": "",
+   "date": "2026-10-28T14:00:00+00:00",
+   "iocs": "iocs/f2c961bbdd37.txt",
+   "ioc_count": 16
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+   "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+   "desc": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuat",
+   "image": "",
+   "date": "2026-10-28T13:56:50+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+   "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+   "desc": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is j",
+   "image": "",
+   "date": "2026-10-28T13:50:59+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+   "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+   "desc": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-28T13:39:35+00:00",
+   "iocs": "iocs/856ae868a06f.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+   "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+   "desc": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices ",
+   "image": "",
+   "date": "2026-10-28T13:10:34+00:00",
+   "iocs": "iocs/439d6e17d8c8.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+   "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+   "desc": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVS",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1600/oracle-hack.jpg",
+   "date": "2026-10-28T12:48:03+00:00",
+   "iocs": "iocs/f83598082f12.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+   "desc": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+   "image": "",
+   "date": "2026-10-28T12:19:57+00:00",
+   "iocs": "iocs/cc84d8476e5f.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+   "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+   "desc": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-28T12:00:59+00:00",
+   "iocs": "iocs/c5592c7a9044.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
+   "link": "https://therecord.media/fbi-seizure-csam-virtualine",
+   "desc": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
+   "image": "",
+   "date": "2026-10-28T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+   "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+   "desc": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVVx2e6mg8LPbhDYmtubHewVD_9BI7UcctCMSwwG-h4SuOyZJOvIyTre_g9Ggo6sLw6Bjrse_1FsqKKThyiIvc5CbuYqq4caYCtUciHGg33wReFQgOjJuTX5FrnSS3OZTd_yjXt03l_kxwIX-NshU9A8wpANSdQwOWkDKzy31QdXkCD6UP21dOpfbjhg/s1600/server-bios.jpg",
+   "date": "2026-10-28T11:50:00+00:00",
+   "iocs": "iocs/9590ed7a40f8.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Wazuh and AI for Enhanced SOC Workflows",
+   "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+   "desc": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo5_lgjV0zvHt5XW8CcCjQnBc_cvxOxrGxsrliXv3s9c6RD-Aw7eXOlNrp78QHxSnVO5yBgphx7KqCjkjje3YbwCFUtXUdLN4xA-sW_zVoFsK7au37XZxUPyoDRlhCIGsxc2at70I_FexwVKgdyub-XuuvwIZCy1o6hoCU50o7lhHWDSgktrcsrXkN9p8/s1600/wazuh.png",
+   "date": "2026-10-28T11:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+   "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+   "desc": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3z7SDPF49VtrfeTS8qZD9-Rv1ne3ZUL2KLJZklOlASYXMnjBQXmmIYZ-wAC9PR248ntUBTyZLq2G6TPVYLZ-aEN7fDFc4pcEhSbt_vj36JTbujGJ2UHTbxFDUOiDvYDyKl7NpCvSMlySdqWjPhyphenhyphenFUNTkC38Ej0biyWHeF1u4kFHCe4tkJjgCW6RCHttx_/s1600/adobe-main.jpg",
+   "date": "2026-10-28T11:15:51+00:00",
+   "iocs": "iocs/d4f5d5baa825.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+   "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+   "desc": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared fi",
+   "image": "",
+   "date": "2026-10-28T10:48:00+00:00",
+   "iocs": "iocs/62664df332c5.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+   "desc": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+   "image": "",
+   "date": "2026-10-28T10:46:23+00:00",
+   "iocs": "iocs/dfcccddd5281.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+   "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+   "desc": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to ga",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2g4rsWnZ5eQP03cr-4e99MQStvJmuaTTi91WESG3ua1ddAW73T6X22gyaspj2SirqH-1bSAU9VkOg2F1Kh9TLmPc4jYsNAlD72S2XzCeTTRHSiN3B7is7roWwIMcIm__yRu8SkUBbyeWxAEBo5Fe-bbACZWRuoxZqv_pysQ9iMsZRHPCD_clJZsNIDs/s1600/anyrun-main.jpg",
+   "date": "2026-10-28T10:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+   "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+   "desc": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionna",
+   "image": "",
+   "date": "2026-10-28T10:30:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Aikido launches external network pentesting",
+   "link": "https://www.aikido.dev/blog/aikido-launches-external-network-pentesting",
+   "desc": "Aikido launches external network pentesting: AI agents attack your internet-facing systems from the outside and report only findings they actually exploit. Category: Company Updates",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae05c060da6f1a675f53f35_Aikido-launches-agentic-external-network-pentesting_Feature.jpg",
+   "date": "2026-10-28T10:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+   "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+   "desc": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first",
+   "image": "",
+   "date": "2026-10-28T09:48:24+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+   "desc": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+   "image": "",
+   "date": "2026-10-28T09:43:15+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+   "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+   "desc": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-28T09:14:23+00:00",
+   "iocs": "iocs/8816f0628304.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+   "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+   "desc": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeare",
+   "image": "",
+   "date": "2026-10-28T08:37:24+00:00",
+   "iocs": "iocs/e6d5bd3826a7.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+   "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+   "desc": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1600/hacker-chain.jpg",
+   "date": "2026-10-28T08:15:07+00:00",
+   "iocs": "iocs/dd9aab4f2b42.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+   "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+   "desc": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and fa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAdfKblTUCEDUoHzYpHPcEPzHO6qKTr01uG2-x7YyIT5t_-xeFc27zuZ3yOK76rkhz-J8y_Z4MqmydEQUtiCEvry_2H43qaSJXDrWRbM1gs8wDVTBgi_NzxIXsGBMoX8zlzISFlvcJ8NdNSyeMIZh8z-aHkXCyBDPJ2l195Ji1XgnVu_A0Yhh3H2QvEyiA/s1600/servers.jpg",
+   "date": "2026-10-28T07:37:50+00:00",
+   "iocs": "iocs/3c6de304e8f9.txt",
+   "ioc_count": 1
+  },
   {
    "source": "The Hacker News",
    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
@@ -102,7 +338,7 @@
    "source": "Dark Reading",
    "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
    "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-   "desc": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "desc": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt634b295db59f5c55/6ae0fd3853ec236cfd97d242/Email_flood-juststock-GettyImages-2156140935.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-27T20:42:40+00:00"
   },
@@ -181,14 +417,6 @@
    "date": "2026-10-27T16:15:39+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
-   "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-   "desc": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#",
-   "image": "",
-   "date": "2026-10-27T15:26:12+00:00"
-  },
-  {
    "source": "RF The Record",
    "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
    "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
@@ -241,32 +469,6 @@
    "ioc_count": 4
   },
   {
-   "source": "RF The Record",
-   "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
-   "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
-   "desc": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
-   "image": "",
-   "date": "2026-10-27T13:36:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-   "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-   "desc": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on Securi",
-   "image": "",
-   "date": "2026-10-27T13:30:28+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
-   "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-   "desc": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-27T13:13:58+00:00",
-   "iocs": "iocs/cf9205dbc242.txt",
-   "ioc_count": 8
-  },
-  {
    "source": "The Hacker News",
    "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
    "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
@@ -275,58 +477,6 @@
    "date": "2026-10-27T12:09:50+00:00",
    "iocs": "iocs/b7d7e51c85e3.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-   "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-   "desc": "The company says it reacted to an issue affecting some of its systems, including DreamHost webmail. The post Unexplained DreamHost Incident Prompts Email, FTP Password Resets appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-27T12:02:06+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-   "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-   "desc": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 ap",
-   "image": "",
-   "date": "2026-10-27T11:49:57+00:00",
-   "iocs": "iocs/799d8e6e8cdc.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-   "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-   "desc": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build cou",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg",
-   "date": "2026-10-27T11:46:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-   "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-   "desc": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific e",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg",
-   "date": "2026-10-27T11:32:46+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-   "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-   "desc": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-commun",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg",
-   "date": "2026-10-27T11:32:31+00:00",
-   "iocs": "iocs/b434e7ad4a7b.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-   "link": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-   "desc": "Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on S",
-   "image": "",
-   "date": "2026-10-27T10:44:20+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -339,94 +489,12 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
-   "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
-   "desc": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-10-27T10:02:24+00:00",
-   "iocs": "iocs/f1be3aca2b93.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Cisco Talos",
    "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
    "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
    "desc": "What does it mean to be \"blue collar\" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/humans_of_talos.jpg",
    "date": "2026-10-27T10:00:21+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
-   "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
-   "desc": "Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on Securi",
-   "image": "",
-   "date": "2026-10-27T09:44:50+00:00",
-   "iocs": "iocs/eddbb637fa1d.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-   "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-   "desc": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg",
-   "date": "2026-10-27T09:33:06+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Energy giant ENGIE discloses data breach affecting customers",
-   "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-   "desc": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-   "image": "",
-   "date": "2026-10-27T09:25:50+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-   "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-   "desc": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&nbsp;security firm Xint&nbsp;has shown. OpenAI's reasoning mo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg",
-   "date": "2026-10-27T08:22:43+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday",
-   "image": "",
-   "date": "2026-10-27T08:20:54+00:00",
-   "iocs": "iocs/c79b9055e5fe.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-   "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-   "desc": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Sy",
-   "image": "",
-   "date": "2026-10-27T07:14:27+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-   "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-   "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with acc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg",
-   "date": "2026-10-27T06:34:47+00:00",
-   "iocs": "iocs/a2da896f1147.txt",
-   "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-   "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PH",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
-   "date": "2026-10-27T04:37:59+00:00",
-   "iocs": "iocs/dc98d41511a1.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -447,28 +515,12 @@
    "ioc_count": 304
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
-   "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
-   "desc": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital",
-   "image": "",
-   "date": "2026-10-27T01:30:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
    "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
    "desc": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-27T00:26:50+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "University of Copenhagen data breach exposes data of 525,000 people",
-   "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-   "desc": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-   "image": "",
-   "date": "2026-10-26T22:20:36+00:00"
   },
   {
    "source": "Aikido",
@@ -507,36 +559,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-   "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-   "desc": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-   "image": "",
-   "date": "2026-10-26T21:08:28+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
    "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
    "desc": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8e8c1bff2695425/6adfab77ad59c66918c6c335/laptop_and_folder-ipuwadol-GettyImages-1402436756.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-26T20:59:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-   "desc": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-   "image": "",
-   "date": "2026-10-26T20:46:49+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "DreamHost forces password resets in ongoing \"incident\"",
-   "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-   "desc": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-   "image": "",
-   "date": "2026-10-26T19:26:20+00:00"
   },
   {
    "source": "Dark Reading",
@@ -677,14 +705,6 @@
    "desc": "Cloudflare introduces tsrs, a Rust port of TypeScript’s compiler promising faster checks and lower memory use, with the TypeScript team’s help.",
    "image": "",
    "date": "2026-10-23T14:34:56+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-   "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-   "desc": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-23T14:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -959,14 +979,6 @@
    "date": "2026-10-19T13:48:56+00:00",
    "iocs": "iocs/3e43e08eb436.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "Drata and Aikido: audit-ready pentesting, built into your compliance workflow",
-   "link": "https://www.aikido.dev/blog/drata-and-aikido-audit-ready-pentesting-built-into-your-compliance-workflow",
-   "desc": "Drata and Aikido bring AI pentesting into your compliance workflow. Get verified findings, auditor-ready reports, and up to $4,000 in free pentest credits. Category: Compliance",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad0d3a7ad7bf38e333b094d_Drata-and-Aikido-audit-ready-pentesting_Feature.png",
-   "date": "2026-10-19T11:00:00+00:00"
   },
   {
    "source": "Unit 42",

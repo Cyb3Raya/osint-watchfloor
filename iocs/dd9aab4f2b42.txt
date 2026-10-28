@@ -1,0 +1,12 @@
+IOC EXTRACTION - Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits
+Source: https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html
+Extracted: 2026-10-28 15:12:29 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-33096
+CVE-2026-98432

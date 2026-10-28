@@ -1,0 +1,13 @@
+IOC EXTRACTION - China-Linked Hackers Exploit PHP2Shell to Root Firewalls
+Source: https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/
+Extracted: 2026-10-28 15:12:57 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-46300

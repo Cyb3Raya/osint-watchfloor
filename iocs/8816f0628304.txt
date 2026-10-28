@@ -1,0 +1,12 @@
+IOC EXTRACTION - Hackers Start Probing Fresh Oracle EBS Vulnerability
+Source: https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/
+Extracted: 2026-10-28 15:13:01 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-101767
+CVE-2026-46817
