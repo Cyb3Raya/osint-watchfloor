@@ -1,0 +1,22 @@
+IOC EXTRACTION - Yet Another ClickFix Campaign, (Wed, Oct 28th)
+Source: https://isc.sans.edu/diary/rss/33466
+Extracted: 2026-10-28 20:22:08 UTC
+Total indicators: 12
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (12)
+----------------------------------------
+hxxps://api-com[.]cfd/7ge0w58tzzjsv9
+hxxps://cf-id[.]com/?ray-id=nz0ovm2jq2g68i
+hxxps://js-static[.]cfd/api/s/boot
+hxxps://js-static[.]cfd/api/s/geo
+hxxps://js-static[.]cfd/api/s/hit
+hxxps://js-static[.]cfd/api/s/ip
+hxxps://js-static[.]cfd/api/s/on?site=[information
+hxxps://js-static[.]cfd/api/s/st
+hxxps://js-static[.]cfd/api/s/tz
+hxxps://js-static[.]cfd/api/s/wait
+hxxps://js-static[.]cfd/api/track/event
+hxxps://js-static[.]cfd/embed?site=[information

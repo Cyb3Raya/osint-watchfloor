@@ -1,0 +1,15 @@
+IOC EXTRACTION - Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns
+Source: https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html
+Extracted: 2026-10-28 20:22:10 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2024-39717
+CVE-2025-8875
+CVE-2025-8876
+CVE-2026-16812
+CVE-2026-20127

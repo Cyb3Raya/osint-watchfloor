@@ -1,9 +1,143 @@
 {
- "generated": "2026-10-28T15:13:10.763381+00:00",
+ "generated": "2026-10-28T20:22:45.056181+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "Ghost in the PHP2Shell: Why coordinated disclosure and patching will start moving faster",
+   "link": "https://www.aikido.dev/blog/ghost-php2shell-coordinated-disclosure-faster",
+   "desc": "PHP2Shell showed how fast AI turns a bug into an exploit. Here’s why the disclosure should never happen this way again, and why it will anyway. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae16345929a49246756e408_Ghost_In_the_PHP2Shell_Feature.png",
+   "date": "2026-10-29T09:36:00+00:00",
+   "iocs": "iocs/26762876fb97.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Discord to let search engines index public server messages",
+   "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+   "desc": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+   "image": "",
+   "date": "2026-10-28T18:44:16+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+   "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+   "desc": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXuRyHXVM1n6S9Z49nYkM2dmJjKwuZx2RAre0CQSpB202GteLj8keMogqzR7ZVIv7YRc9udBHU7-oCpnpzL6nLaez3ypbVr9cVmiH9zFwJVApy5cev84W725y38auaUdkCQGN3zvngCivMUl-SYV1jnJu9eHduaYeBzro4cdmFHIQJfBQN4RvcC-fUTrs1/s1600/si.jpg",
+   "date": "2026-10-28T18:08:33+00:00",
+   "iocs": "iocs/3402ef3be45e.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "RF The Record",
+   "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+   "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+   "desc": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
+   "image": "",
+   "date": "2026-10-28T18:02:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Unwrapping Retail Peak Season Cyber Threats",
+   "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
+   "desc": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first o",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/07_Listicle_Category_1505x922.jpg",
+   "date": "2026-10-28T18:00:10+00:00",
+   "iocs": "iocs/ad396287fcf5.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "RF The Record",
+   "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
+   "link": "https://therecord.media/north-korea-russia-sanctions",
+   "desc": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
+   "image": "",
+   "date": "2026-10-28T17:45:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+   "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+   "desc": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJGjoQXY31UWoQz0bfvFTDRKy4lDpdbhqOJFgOspdG5AcGZNlsme3byg1-XnmyLsx7HQrxb0iojoqyoeO0KDhEDWbLxzQLceuQwSlD8TXgkhzoRCyFepV0PcOwNee4lCypBnYFiZ4DhJ_ZojQ0HyRuCGGqFVAwBxMqdzkOHL2I1tLTUctLATvKl7MMONo/s1600/android-app-install.jpg",
+   "date": "2026-10-28T17:08:09+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+   "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+   "desc": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+   "image": "",
+   "date": "2026-10-28T16:45:47+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Moldova investigates possible foreign involvement in major government cyberattack",
+   "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
+   "desc": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.",
+   "image": "",
+   "date": "2026-10-28T16:37:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+   "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+   "desc": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGi2cGlEYo6PNV9aaEulhQB9MtbWjCBFhi3MugyJf4kGwtSPjq9F9wxhlptAUKuipSCQ0_NhE5eyEbHzMWnT6hVLsXtqrIQImq0QndxbKoKMz_gzxJonZa2jnvwHGEqjN_J7uyi5BPaqlGmtMn1y9xzJQywFZB_FNgKV-GR7qtBQfVmrLxdoUlyhPTiA/s1600/edge.jpg",
+   "date": "2026-10-28T16:23:34+00:00",
+   "iocs": "iocs/4abc2dcf4334.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33466",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-10-28T16:07:03+00:00",
+   "iocs": "iocs/241b0a1b5675.txt",
+   "ioc_count": 12
+  },
+  {
+   "source": "The Hacker News",
+   "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+   "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+   "desc": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg",
+   "date": "2026-10-28T16:02:45+00:00",
+   "iocs": "iocs/257599f0048e.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+   "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+   "desc": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+   "image": "",
+   "date": "2026-10-28T16:00:00+00:00",
+   "iocs": "iocs/0b33a76a486a.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "RF The Record",
+   "title": "UK to look at making software companies liable for cyber breaches",
+   "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+   "desc": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improv",
+   "image": "",
+   "date": "2026-10-28T15:37:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
+   "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
+   "desc": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
+   "image": "",
+   "date": "2026-10-28T15:15:00+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
@@ -103,14 +237,6 @@
    "date": "2026-10-28T12:00:59+00:00",
    "iocs": "iocs/c5592c7a9044.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "RF The Record",
-   "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
-   "link": "https://therecord.media/fbi-seizure-csam-virtualine",
-   "desc": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
-   "image": "",
-   "date": "2026-10-28T12:00:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -270,7 +396,7 @@
    "source": "Dark Reading",
    "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
    "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-   "desc": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+   "desc": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88d7810c6bea6d70/6ae11337facab4e020903095/lion-chasing-zebras-Wirestock_Creators-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-28T06:00:00+00:00"
   },
@@ -343,36 +469,12 @@
    "date": "2026-10-27T20:42:40+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
-   "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-   "desc": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
-   "image": "",
-   "date": "2026-10-27T20:40:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
    "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
    "desc": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa7bc1b8ce13713c/6ae1025ea3c73d20dd328ef4/sschain_LocalPhotoSomebody_shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-27T19:58:06+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
-   "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-   "desc": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
-   "image": "",
-   "date": "2026-10-27T19:30:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-   "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-   "desc": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg",
-   "date": "2026-10-27T18:26:46+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -415,78 +517,6 @@
    "desc": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
    "image": "",
    "date": "2026-10-27T16:15:39+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
-   "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-   "desc": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
-   "image": "",
-   "date": "2026-10-27T15:07:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "University of New Mexico hospital diverts ambulances after cyberattack",
-   "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
-   "desc": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
-   "image": "",
-   "date": "2026-10-27T14:57:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-   "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-   "desc": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-   "image": "",
-   "date": "2026-10-27T14:09:46+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-   "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-   "desc": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizatio",
-   "image": "",
-   "date": "2026-10-27T14:01:11+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-   "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-   "desc": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The fl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s1600/goahead.jpg",
-   "date": "2026-10-27T13:59:48+00:00",
-   "iocs": "iocs/dc1f78b83e65.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-   "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-   "desc": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds writ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg",
-   "date": "2026-10-27T13:59:09+00:00",
-   "iocs": "iocs/6e33a6040a7d.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-   "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-   "desc": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microso",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg",
-   "date": "2026-10-27T12:09:50+00:00",
-   "iocs": "iocs/b7d7e51c85e3.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-   "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-   "desc": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-   "image": "",
-   "date": "2026-10-27T10:36:12+00:00",
-   "iocs": "iocs/a40721cff07a.txt",
-   "ioc_count": 3
   },
   {
    "source": "Cisco Talos",
@@ -771,14 +801,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33446",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-22T02:00:02+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Compromised eMudhra intermediate certificates",
    "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
@@ -961,14 +983,6 @@
    "desc": "Rust 1.100 will add opt-in dependency cooldowns to Cargo, giving security scanners and maintainers time to catch malicious crate releases.",
    "image": "",
    "date": "2026-10-20T14:21:31+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Aikido launches Noon: workforce security for every employee",
-   "link": "https://www.aikido.dev/blog/noon-workforce-security",
-   "desc": "Aikido launches Noon, a workforce security business. AI governance, device and email protection, and training against AI-powered phishing and deepfakes. Category: Company Updates",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad752c448b60c087b064fb3_Aikido-launches-Noon_Feature.png",
-   "date": "2026-10-20T12:00:00+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -1293,14 +1307,6 @@
    "desc": "Introduction The landscape of software supply chain security has undergone a significant shift. Recent campaigns demonstrate that sophisticated threat actors are systematically targeting the engineering lifecycle by comp",
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/The_five_core_pillars_for_securing_the_sof.max-1000x1000.png",
    "date": "2026-09-24T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
-   "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
-   "desc": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IA",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Cloud_cybersecurity_research_Overview_1920x900.jpg",
-   "date": "2026-09-21T10:00:13+00:00"
   },
   {
    "source": "Krebs on Security",

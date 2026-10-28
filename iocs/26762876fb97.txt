@@ -1,0 +1,12 @@
+IOC EXTRACTION - Ghost in the PHP2Shell: Why coordinated disclosure and patching will start moving faster
+Source: https://www.aikido.dev/blog/ghost-php2shell-coordinated-disclosure-faster
+Extracted: 2026-10-28 20:22:43 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

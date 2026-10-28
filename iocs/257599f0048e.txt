@@ -1,0 +1,13 @@
+IOC EXTRACTION - PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network
+Source: https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html
+Extracted: 2026-10-28 20:22:14 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-46300
