@@ -1,0 +1,11 @@
+IOC EXTRACTION - ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws
+Source: https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html
+Extracted: 2026-10-28 08:02:02 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-35273

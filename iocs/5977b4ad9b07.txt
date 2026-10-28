@@ -1,0 +1,16 @@
+IOC EXTRACTION - Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges
+Source: https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html
+Extracted: 2026-10-28 08:02:03 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111497
+CVE-2026-48356
+
+IPv4 (1)
+----------------------------------------
+94[.]154[.]43[.]7
