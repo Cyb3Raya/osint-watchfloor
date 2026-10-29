@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T20:22:45.056181+00:00",
+ "generated": "2026-10-29T00:23:41.283807+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -13,6 +13,50 @@
    "date": "2026-10-29T09:36:00+00:00",
    "iocs": "iocs/26762876fb97.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+   "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
+   "desc": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorize",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_advisory-1.jpg",
+   "date": "2026-10-28T21:32:02+00:00",
+   "iocs": "iocs/196cb48efaf9.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+   "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+   "desc": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+   "image": "",
+   "date": "2026-10-28T20:50:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+   "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+   "desc": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+   "image": "",
+   "date": "2026-10-28T20:47:22+00:00",
+   "iocs": "iocs/bce6775540c2.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "RF The Record",
+   "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+   "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+   "desc": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
+   "image": "",
+   "date": "2026-10-28T20:33:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+   "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+   "desc": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-28T19:39:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -121,22 +165,6 @@
    "date": "2026-10-28T16:00:00+00:00",
    "iocs": "iocs/0b33a76a486a.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "RF The Record",
-   "title": "UK to look at making software companies liable for cyber breaches",
-   "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
-   "desc": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improv",
-   "image": "",
-   "date": "2026-10-28T15:37:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
-   "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
-   "desc": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
-   "image": "",
-   "date": "2026-10-28T15:15:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -511,14 +539,6 @@
    "date": "2026-10-27T16:47:20+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-   "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-   "desc": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-   "image": "",
-   "date": "2026-10-27T16:15:39+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
    "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
@@ -719,14 +739,6 @@
    "date": "2026-10-23T17:30:00+00:00",
    "iocs": "iocs/e34927990846.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-   "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-   "desc": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-23T17:26:59+00:00"
   },
   {
    "source": "Socket",
@@ -1203,16 +1215,6 @@
    "date": "2026-10-06T10:00:33+00:00",
    "iocs": "iocs/7669d3486c54.txt",
    "ioc_count": 21
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Give yourself room to be human",
-   "link": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-   "desc": "In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-4.jpg",
-   "date": "2026-10-01T18:00:52+00:00",
-   "iocs": "iocs/9683c1445650.txt",
-   "ioc_count": 5
   },
   {
    "source": "Unit 42",

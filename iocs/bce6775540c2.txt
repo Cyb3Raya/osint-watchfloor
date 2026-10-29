@@ -1,0 +1,11 @@
+IOC EXTRACTION - Police seize Virtualine bulletproof service tied to ransowmare, cybercrime
+Source: https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/
+Extracted: 2026-10-29 00:23:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+virtualine[.]org
