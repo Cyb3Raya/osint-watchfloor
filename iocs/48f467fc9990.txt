@@ -1,0 +1,12 @@
+IOC EXTRACTION - China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility
+Source: https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
+Extracted: 2026-10-29 13:41:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102764
+CVE-2026-41709

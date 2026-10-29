@@ -1,0 +1,12 @@
+IOC EXTRACTION - Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
+Source: https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
+Extracted: 2026-10-29 13:41:51 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20127
+CVE-2026-76418

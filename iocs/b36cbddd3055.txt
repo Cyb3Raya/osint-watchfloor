@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open
+Source: https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
+Extracted: 2026-10-29 13:41:53 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-110264
+CVE-2026-97229

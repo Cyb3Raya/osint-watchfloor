@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August
+Source: https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/
+Extracted: 2026-10-29 13:42:20 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-20349
+CVE-2026-76418

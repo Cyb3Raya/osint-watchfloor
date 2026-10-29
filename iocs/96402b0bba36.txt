@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys
+Source: https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
+Extracted: 2026-10-29 13:41:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-20127

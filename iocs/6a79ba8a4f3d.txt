@@ -1,0 +1,20 @@
+IOC EXTRACTION - NIK C2: The new AI-enabled command-and-control framework
+Source: https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/
+Extracted: 2026-10-29 13:42:24 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+87[.]120[.]196[.]120
+
+SHA256 (2)
+----------------------------------------
+4887afc0a574e9419a9695ef083460f58e4ef9a1c40793523ce112251273bdf9
+d791dd0ff3228ed29a8d7333d4567be829159c5632ea347780992006f91c5295
+
+SHA1 (1)
+----------------------------------------
+7d16381a9de823943b5a0987dbd0f26edf22052b
