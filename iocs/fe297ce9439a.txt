@@ -1,0 +1,11 @@
+IOC EXTRACTION - IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases
+Source: https://blog.talosintelligence.com/ir-trends-q3-2026/
+Extracted: 2026-10-29 19:27:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2023-20198

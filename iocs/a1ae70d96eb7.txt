@@ -1,0 +1,11 @@
+IOC EXTRACTION - Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities
+Source: https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/
+Extracted: 2026-10-29 19:27:39 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-109618

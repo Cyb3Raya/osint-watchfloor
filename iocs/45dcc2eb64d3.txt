@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/
+Extracted: 2026-10-29 19:27:11 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-20127

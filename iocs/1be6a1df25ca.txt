@@ -1,0 +1,11 @@
+IOC EXTRACTION - Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
+Source: https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html
+Extracted: 2026-10-29 19:27:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-98432

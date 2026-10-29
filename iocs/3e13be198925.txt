@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks
+Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/
+Extracted: 2026-10-29 19:27:17 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-46300

@@ -1,0 +1,20 @@
+IOC EXTRACTION - Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
+Source: https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html
+Extracted: 2026-10-29 19:27:07 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+dedyn[.]io
+gpt-5-6[.]github[.]io
+gpt-6-astra[.]github[.]io
+opus-5-0[.]github[.]io
+
+Emails (3)
+----------------------------------------
+daxschneiderdjuu@outlook.com
+edwardcarlsonmkym@outlook.com
+rioprestonlfyx@outlook.com
