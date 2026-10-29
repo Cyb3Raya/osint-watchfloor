@@ -1,9 +1,79 @@
 {
- "generated": "2026-10-29T19:27:49.707360+00:00",
+ "generated": "2026-10-29T23:34:42.480282+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Binance probes potential $5.8 billion crypto-theft hack",
+   "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+   "desc": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+   "image": "",
+   "date": "2026-10-29T22:45:23+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+   "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+   "desc": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHu",
+   "image": "",
+   "date": "2026-10-29T22:09:24+00:00",
+   "iocs": "iocs/2602dfd8795f.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+   "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+   "desc": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+   "image": "",
+   "date": "2026-10-29T22:08:04+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+   "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+   "desc": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets ",
+   "image": "",
+   "date": "2026-10-29T21:47:25+00:00",
+   "iocs": "iocs/c57f0aaab059.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+   "desc": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfbdba6806da96431/6ae3993ee7e856faec896a9e/Mask-beast01-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-29T21:21:56+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Rethinking Cybersecurity Awareness in the AI Era",
+   "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+   "desc": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4390b0f2e6c554/6ae3b02dfe80872ab5936fa3/cybersecuritytraining-_Maria_Vonotna-Getty-1351111419.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-29T20:15:37+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Limited reports of PHP bug exploitation emerge",
+   "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+   "desc": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
+   "image": "",
+   "date": "2026-10-29T20:01:25+00:00",
+   "iocs": "iocs/2d2812dfaf15.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "RF The Record",
+   "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
+   "link": "https://therecord.media/general-motors-lawsuit-privacy",
+   "desc": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
+   "image": "",
+   "date": "2026-10-29T19:45:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
@@ -11,6 +81,16 @@
    "desc": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
    "image": "",
    "date": "2026-10-29T19:23:41+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+   "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+   "desc": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg",
+   "date": "2026-10-29T19:11:58+00:00",
+   "iocs": "iocs/7f056f665bfe.txt",
+   "ioc_count": 9
   },
   {
    "source": "BleepingComputer",
@@ -87,7 +167,7 @@
    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
    "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
    "desc": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. A",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcSWXTg8eHlxb0m5-m8xCEly9KQO-0qKV9c7QD7fF51aCb4HUEucmb657vogvKmlA8ra_4kMI6i_w11eYPIVvPSEBnuKnPg9E_HpEw0H1czq883zm_NaUEzarlfXlLd2OKd4b2jbPmMDXvWloR9iNa748-3xhEjD5wNuIznKGTmNwIV3CSeoBkt61zN5o/s1600/linux-dos.png",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg",
    "date": "2026-10-29T15:57:05+00:00",
    "iocs": "iocs/1be6a1df25ca.txt",
    "ioc_count": 1
@@ -207,14 +287,6 @@
    "date": "2026-10-29T13:31:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
-   "link": "https://therecord.media/new-mexico-cyberattack-hospital",
-   "desc": "The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school.",
-   "image": "",
-   "date": "2026-10-29T13:30:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
    "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
@@ -260,7 +332,7 @@
    "source": "The Hacker News",
    "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
    "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-   "desc": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. ",
+   "desc": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg",
    "date": "2026-10-29T11:39:18+00:00",
    "iocs": "iocs/b35772fb4a04.txt",
@@ -461,14 +533,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
-   "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
-   "desc": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
-   "image": "",
-   "date": "2026-10-28T20:50:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
    "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -515,30 +579,12 @@
    "ioc_count": 3
   },
   {
-   "source": "The Hacker News",
-   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-   "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-   "desc": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJGjoQXY31UWoQz0bfvFTDRKy4lDpdbhqOJFgOspdG5AcGZNlsme3byg1-XnmyLsx7HQrxb0iojoqyoeO0KDhEDWbLxzQLceuQwSlD8TXgkhzoRCyFepV0PcOwNee4lCypBnYFiZ4DhJ_ZojQ0HyRuCGGqFVAwBxMqdzkOHL2I1tLTUctLATvKl7MMONo/s1600/android-app-install.jpg",
-   "date": "2026-10-28T17:08:09+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
    "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
    "desc": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
    "image": "",
    "date": "2026-10-28T16:45:47+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-   "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-   "desc": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-   "image": "",
-   "date": "2026-10-28T16:00:00+00:00",
-   "iocs": "iocs/0b33a76a486a.txt",
-   "ioc_count": 5
   },
   {
    "source": "Dark Reading",
@@ -549,38 +595,12 @@
    "date": "2026-10-28T15:29:06+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-   "desc": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-   "image": "",
-   "date": "2026-10-28T14:48:32+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
    "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
    "desc": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf851053137fec653/6ae1e3cca1e4219344f6a136/credentials-NicoElNino-AdobeStock.png?width=720&quality=80&disable=upscale",
    "date": "2026-10-28T14:37:52+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-   "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-   "desc": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and oth",
-   "image": "",
-   "date": "2026-10-28T14:00:00+00:00",
-   "iocs": "iocs/f2c961bbdd37.txt",
-   "ioc_count": 16
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-   "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-   "desc": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is j",
-   "image": "",
-   "date": "2026-10-28T13:50:59+00:00"
   },
   {
    "source": "Aikido",
@@ -683,14 +703,6 @@
    "ioc_count": 304
   },
   {
-   "source": "Dark Reading",
-   "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-   "desc": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-27T00:26:50+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "How to patch PHP2Shell with free Aikido Images",
    "link": "https://www.aikido.dev/blog/how-to-patch-php2shell-with-free-aikido-images",
@@ -707,14 +719,6 @@
    "desc": "Socket Threat Intel now shows which malware campaigns were blocked or detected in your organization, with links to scans and Firewall events.",
    "image": "",
    "date": "2026-10-26T22:14:49+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
-   "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-   "desc": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739dd94533bc1a1c/6adfbdf0c68e80623ff507bb/ciso_Dave_Hoeek_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-26T21:44:33+00:00"
   },
   {
    "source": "Socket",

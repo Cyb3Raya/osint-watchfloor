@@ -1,0 +1,22 @@
+IOC EXTRACTION - ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
+Source: https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
+Extracted: 2026-10-29 23:34:15 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2025-70795
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-41940
+CVE-2026-42589
+CVE-2026-80097
+CVE-2026-93348
+
+IPv4 (2)
+----------------------------------------
+13[.]163[.]205[.]35
+185[.]157[.]161[.]148
