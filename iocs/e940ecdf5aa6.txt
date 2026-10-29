@@ -1,0 +1,16 @@
+IOC EXTRACTION - Searchjacked: Hidden Browser Extensions Hijack Searches for 13 Million Users
+Source: https://socket.dev/blog/searchjacked?utm_medium=feed
+Extracted: 2026-10-29 06:26:47 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+safesearchgame[.]com
+
+URLs (2)
+----------------------------------------
+hxxps://search[.]safesearchgame[.]com/query?q={searchTerms}
+hxxps://suggest[.]safesearchgame[.]com/querying/autocomplete?query={searchTerms}

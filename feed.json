@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T00:23:41.283807+00:00",
+ "generated": "2026-10-29T06:26:49.659261+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -13,6 +13,42 @@
    "date": "2026-10-29T09:36:00+00:00",
    "iocs": "iocs/26762876fb97.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33470",
+   "desc": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s convenient to play with snapshots in your lab. Start a new inves",
+   "image": "",
+   "date": "2026-10-29T06:17:41+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33468",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T03:10:12+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Searchjacked: Hidden Browser Extensions Hijack Searches for 13 Million Users",
+   "link": "https://socket.dev/blog/searchjacked?utm_medium=feed",
+   "desc": "319 browser extensions installed by 13.4 million users hijack searches, capture queries, and collect referral payments from Yahoo and Bing.",
+   "image": "",
+   "date": "2026-10-29T02:01:54+00:00",
+   "iocs": "iocs/e940ecdf5aa6.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33466",
+   "desc": "Introduction&#xd;",
+   "image": "",
+   "date": "2026-10-29T00:42:15+00:00",
+   "iocs": "iocs/241b0a1b5675.txt",
+   "ioc_count": 12
   },
   {
    "source": "Cisco Talos",
@@ -135,16 +171,6 @@
    "date": "2026-10-28T16:23:34+00:00",
    "iocs": "iocs/4abc2dcf4334.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33466",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-10-28T16:07:03+00:00",
-   "iocs": "iocs/241b0a1b5675.txt",
-   "ioc_count": 12
   },
   {
    "source": "The Hacker News",
@@ -749,22 +775,6 @@
    "date": "2026-10-23T14:34:56+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33450",
-   "desc": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you proba",
-   "image": "",
-   "date": "2026-10-23T13:43:20+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33448",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-23T10:25:11+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497)",
    "link": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497",
@@ -987,14 +997,6 @@
    "date": "2026-10-20T15:31:22+00:00",
    "iocs": "iocs/4939fa6a05be.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Socket",
-   "title": "Rust 1.100 Will Add Dependency Cooldowns to Cargo",
-   "link": "https://socket.dev/blog/rust-cargo-cooldowns?utm_medium=feed",
-   "desc": "Rust 1.100 will add opt-in dependency cooldowns to Cargo, giving security scanners and maintainers time to catch malicious crate releases.",
-   "image": "",
-   "date": "2026-10-20T14:21:31+00:00"
   },
   {
    "source": "Krebs on Security",
