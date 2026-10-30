@@ -1,0 +1,14 @@
+IOC EXTRACTION - Drupal Commerce Core Vulnerability Exploited Against Online Stores
+Source: https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/
+Extracted: 2026-10-30 16:35:23 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-108097
+CVE-2026-108099
+CVE-2026-118539
+CVE-2026-9082

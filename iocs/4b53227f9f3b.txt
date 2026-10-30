@@ -1,0 +1,16 @@
+IOC EXTRACTION - Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor
+Source: https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+Extracted: 2026-10-30 16:34:51 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+134[.]209[.]82[.]225
+
+Domains (2)
+----------------------------------------
+api[.]ipify[.]org
+cursor[.]com

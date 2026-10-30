@@ -1,0 +1,14 @@
+IOC EXTRACTION - Drupal warns of critical Commerce Core flaw exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/
+Extracted: 2026-10-30 16:34:59 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-108097
+CVE-2026-108099
+CVE-2026-118539
+CVE-2026-9082

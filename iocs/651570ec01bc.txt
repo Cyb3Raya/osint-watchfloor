@@ -1,0 +1,16 @@
+IOC EXTRACTION - CISA says max severity GitLab flaw now exploited in the wild
+Source: https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/
+Extracted: 2026-10-30 16:34:56 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2021-22175
+CVE-2021-39935
+CVE-2026-0723
+CVE-2026-110264
+CVE-2026-85706
+CVE-2026-97229

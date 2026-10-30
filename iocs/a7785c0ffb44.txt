@@ -1,0 +1,12 @@
+IOC EXTRACTION - PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress
+Source: https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/
+Extracted: 2026-10-30 16:35:18 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
