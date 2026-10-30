@@ -1,9 +1,41 @@
 {
- "generated": "2026-10-30T16:35:36.161438+00:00",
+ "generated": "2026-10-30T21:01:59.215440+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+   "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+   "desc": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
+   "image": "",
+   "date": "2026-10-30T20:45:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+   "desc": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-30T20:05:58+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Fashion retailer Resolve says hackers stole payment card information",
+   "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+   "desc": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
+   "image": "",
+   "date": "2026-10-30T19:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+   "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+   "desc": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activit",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg",
+   "date": "2026-10-30T16:58:44+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
@@ -27,6 +59,16 @@
    "desc": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dafcf0847efff9a/6ae24fff8ec8cff4371f87c5/rome-Sean_Gallup-GettyImages-623337092jpg.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T15:39:54+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+   "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+   "desc": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg",
+   "date": "2026-10-30T15:17:28+00:00",
+   "iocs": "iocs/33f30c5083f6.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -73,6 +115,14 @@
    "desc": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T14:10:37+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+   "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+   "desc": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg",
+   "date": "2026-10-30T14:08:14+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -125,14 +175,6 @@
    "date": "2026-10-30T12:52:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hackers target government Windows systems in Asia with new malware",
-   "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
-   "desc": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers.",
-   "image": "",
-   "date": "2026-10-30T12:36:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
    "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
@@ -155,14 +197,6 @@
    "desc": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything.&nbsp; ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg",
    "date": "2026-10-30T11:58:53+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Polymarket confirms cyberattack on third-party provider after outages",
-   "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
-   "desc": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.",
-   "image": "",
-   "date": "2026-10-30T11:33:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -356,7 +390,9 @@
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
    "desc": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfbdba6806da96431/6ae3993ee7e856faec896a9e/Mask-beast01-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-29T21:21:56+00:00"
+   "date": "2026-10-29T21:21:56+00:00",
+   "iocs": "iocs/512f3d6346ac.txt",
+   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -523,32 +559,6 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-   "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-   "desc": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg",
-   "date": "2026-10-29T11:39:18+00:00",
-   "iocs": "iocs/b35772fb4a04.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-   "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-   "desc": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are be",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDZvKBLpFrPhWNRvVvRjmTtgwdpGykJjCmzNWNaytIUO2C9VadEDZjeY35hq6H33jHDxV7kAOMTyOV7RO_YUG2caQ75nA_NstH_GxfRJo57n970u4ACXwZXoKl8mizESwgP9wulusqUmSnZwjFNHIJZ2hk_VzrlCJ5HBD9_8zs8Fj1WZULiZoZMD9G9D8/s1600/conf.jpg",
-   "date": "2026-10-29T11:33:41+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-   "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-   "desc": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVszv5076OudfiraNA4yh_XuzZZof-jYaklwUgiY700oPMvBHQfKHx-8yLNwhF9NVXahFRvWwU7c0mPCsIG-GUo45Fi_LT6ecZMsaRUfaLIL6eK16qeku1PO5aMTQRV0VKJh-pjKG4rC-RyajCGjL4R_A5W6YPsps4B4-GhEbstuAN7AnelVJPwIFK5W-/s1600/gite.jpg",
-   "date": "2026-10-29T11:33:15+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
    "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
@@ -687,14 +697,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-28T02:30:11+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
-   "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-   "desc": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc201b7327a3221e/6ae0e1681ae793f19fb9e1de/Cyber_legal_Abu_Hanifa_Getty_Images.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-27T21:15:03+00:00"
   },
   {
    "source": "Socket",
@@ -976,7 +978,7 @@
   },
   {
    "source": "Aikido",
-   "title": "PHP2Shell: Critical PHP vulnerabilities, affected versions and fixes",
+   "title": "PHP2Shell: Critical PHP vulnerabilities, affected versions and fixes | CVE-2026-109618 and CVE-2026-109619",
    "link": "https://www.aikido.dev/blog/critical-vulnerabilities-in-php-php2shell",
    "desc": "A critical PHP vulnerability lets attackers run code remotely on unpatched servers. See affected versions, patches, mitigations and how to check your exposure. Two PHP RCE flaws (CVE-2026-109618, CVE-2026-109619) are bei",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad81b57a698f62913b5f8fa_PHP_Feature.jpg",

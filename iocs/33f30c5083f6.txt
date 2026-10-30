@@ -1,0 +1,11 @@
+IOC EXTRACTION - TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them
+Source: https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
+Extracted: 2026-10-30 21:01:33 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111585
