@@ -1,0 +1,11 @@
+IOC EXTRACTION - Max-Severity GitLab Vulnerability Exploited Against Alpine Linux
+Source: https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/
+Extracted: 2026-10-30 09:49:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-97229

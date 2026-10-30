@@ -1,0 +1,12 @@
+IOC EXTRACTION - CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
+Source: https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+Extracted: 2026-10-30 09:49:04 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-76418
+CVE-2026-97229

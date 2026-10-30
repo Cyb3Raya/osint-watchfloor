@@ -1,9 +1,105 @@
 {
- "generated": "2026-10-30T02:56:43.827277+00:00",
+ "generated": "2026-10-30T09:49:33.266287+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+   "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+   "desc": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared firs",
+   "image": "",
+   "date": "2026-10-30T09:41:36+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+   "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+   "desc": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-10-30T09:32:27+00:00",
+   "iocs": "iocs/28a276f6e916.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+   "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+   "desc": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+   "image": "",
+   "date": "2026-10-30T09:18:13+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+   "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+   "desc": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians&#8217; Machines appeared fir",
+   "image": "",
+   "date": "2026-10-30T08:44:49+00:00",
+   "iocs": "iocs/1fbde4e891bf.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+   "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+   "desc": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea&#8217;s TraderTraitor ap",
+   "image": "",
+   "date": "2026-10-30T08:16:26+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+   "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+   "desc": "The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd600d33b7bbbc448/6ae39a9b20628a26ab67c66f/Belarus_Russia_flags-Oleksii_Liskonih-GettyImages-1089909770.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-30T08:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+   "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+   "desc": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization af",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg",
+   "date": "2026-10-30T07:45:30+00:00",
+   "iocs": "iocs/bc4258f9677b.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+   "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitati",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg",
+   "date": "2026-10-30T07:27:05+00:00",
+   "iocs": "iocs/8927f234f52b.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+   "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+   "desc": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg",
+   "date": "2026-10-30T04:14:59+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
+   "link": "https://isc.sans.edu/diary/rss/33472",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-30T03:30:17+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
+   "link": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
+   "desc": "Binance, the world's largest cryptocurrency exchange, confirmed Thursday that it had been hacked in a $6.3 billion cyber heist that blockchain investigators are blaming on North Korea.",
+   "image": "",
+   "date": "2026-10-30T00:00:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
@@ -297,14 +393,6 @@
    "ioc_count": 1
   },
   {
-   "source": "RF The Record",
-   "title": "Cyberattack disrupts Belgian tax services before filing deadline",
-   "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
-   "desc": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMi",
-   "image": "",
-   "date": "2026-10-29T13:31:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
    "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
@@ -319,14 +407,6 @@
    "desc": "PHP2Shell and Brocolli2Shell may be harbingers of many vulnerabilities to come. But we can be ready Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae353baa6cb8f2c7ee13e70_Aikido-The_Day_After_Tomorrow_Feature.jpg",
    "date": "2026-10-29T13:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Over 41,000 DHS Employee Records Leaked Online",
-   "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
-   "desc": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-10-29T12:54:14+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -383,14 +463,6 @@
    "ioc_count": 7
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
-   "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
-   "desc": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony&#8217;s Japanese ISP So-net appeare",
-   "image": "",
-   "date": "2026-10-29T11:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
    "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
@@ -399,16 +471,6 @@
    "date": "2026-10-29T10:44:46+00:00",
    "iocs": "iocs/7d482c1bcf9f.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-   "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-   "desc": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon&#8217;s &#8216;Sile",
-   "image": "",
-   "date": "2026-10-29T10:29:25+00:00",
-   "iocs": "iocs/12d9b8223a91.txt",
-   "ioc_count": 1
   },
   {
    "source": "The Hacker News",
@@ -435,16 +497,6 @@
    "date": "2026-10-29T10:00:00+00:00",
    "iocs": "iocs/6a79ba8a4f3d.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
-   "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-   "desc": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared fi",
-   "image": "",
-   "date": "2026-10-29T09:47:10+00:00",
-   "iocs": "iocs/a8c93a077438.txt",
-   "ioc_count": 2
   },
   {
    "source": "Aikido",
@@ -485,32 +537,12 @@
    "date": "2026-10-29T08:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-   "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr5vMvEpNtC6AAPL85NwoZLwafJYuuIYKlofAez4dmACEH-0VI-icaKusP2b9HgxcJC2AMyZkdGNfVOyXQCWqjK-_vIvw1OjptUH_maUL82An7MRxEnZQ62JZqPqwuTp6QQ8TWq4y0SRqUb6KhdXLYRJMyUHg2cQBzez3g-0G8jh2ujIgx-6FqQdWBuFr/s1600/esx-audit.jpg",
-   "date": "2026-10-29T06:22:33+00:00",
-   "iocs": "iocs/48f467fc9990.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
    "link": "https://isc.sans.edu/diary/rss/33470",
    "desc": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s convenient to play with snapshots in your lab. Start a new inves",
    "image": "",
    "date": "2026-10-29T06:17:41+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-   "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-   "desc": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
-   "date": "2026-10-29T05:50:17+00:00",
-   "iocs": "iocs/7cd598614444.txt",
-   "ioc_count": 3
   },
   {
    "source": "SANS ISC",
@@ -567,24 +599,6 @@
    "desc": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-28T19:39:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Discord to let search engines index public server messages",
-   "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-   "desc": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-   "image": "",
-   "date": "2026-10-28T18:44:16+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-   "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-   "desc": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXuRyHXVM1n6S9Z49nYkM2dmJjKwuZx2RAre0CQSpB202GteLj8keMogqzR7ZVIv7YRc9udBHU7-oCpnpzL6nLaez3ypbVr9cVmiH9zFwJVApy5cev84W725y38auaUdkCQGN3zvngCivMUl-SYV1jnJu9eHduaYeBzro4cdmFHIQJfBQN4RvcC-fUTrs1/s1600/si.jpg",
-   "date": "2026-10-28T18:08:33+00:00",
-   "iocs": "iocs/3402ef3be45e.txt",
-   "ioc_count": 5
   },
   {
    "source": "Unit 42",
@@ -677,14 +691,6 @@
    "date": "2026-10-27T17:28:33+00:00",
    "iocs": "iocs/1f7399e28739.txt",
    "ioc_count": 17
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
-   "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-   "desc": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt951105ce06efe522/6ae0c30979732c23e08f3f0c/aokigahara-Carl_Court-GettyImages-931736204jpg..jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-27T16:47:20+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -793,14 +799,6 @@
    "date": "2026-10-23T20:45:00+00:00",
    "iocs": "iocs/cbb045dba06d.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33452",
-   "desc": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
-   "image": "",
-   "date": "2026-10-23T20:04:47+00:00"
   },
   {
    "source": "IC3 PSA",
