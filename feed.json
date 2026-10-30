@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-29T23:34:42.480282+00:00",
+ "generated": "2026-10-30T02:56:43.827277+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+   "desc": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+   "image": "",
+   "date": "2026-10-29T23:35:52+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Binance probes potential $5.8 billion crypto-theft hack",
@@ -91,6 +99,16 @@
    "date": "2026-10-29T19:11:58+00:00",
    "iocs": "iocs/7f056f665bfe.txt",
    "ioc_count": 9
+  },
+  {
+   "source": "Aikido",
+   "title": "What are shell vulnerabilities? PHP2Shell, Node2Shell (HTTP2Shell), React2Shell and Log4Shell explained",
+   "link": "https://www.aikido.dev/blog/what-are-shell-vulnerabilities",
+   "desc": "We explain what shell vulnerabilities are and how to manage them: PHP2Shell, Node2Shell (HTTP2Shell), React2Shell and Log4Shell Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae399b205285d0373574224_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-10-29T19:07:00+00:00",
+   "iocs": "iocs/9512570d276d.txt",
+   "ioc_count": 6
   },
   {
    "source": "BleepingComputer",
@@ -579,14 +597,6 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-   "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-   "desc": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-   "image": "",
-   "date": "2026-10-28T16:45:47+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
    "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
@@ -1015,14 +1025,6 @@
    "desc": "Compare nine KnowBe4 alternatives for awareness training, phishing simulations, AI governance and workforce protection, plus practical migration advice. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac95f09fc4d5e29f402dc5e_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-20T19:33:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "The 8 best security awareness training platforms in 2026",
-   "link": "https://www.aikido.dev/blog/security-awareness-training-platforms",
-   "desc": "Compare eight security awareness training platforms for role-based learning, AI threats, phishing simulations and protection across your workforce. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad7a6556bde8dfa5b51f6b9_OG_%5Bgeneric-seo-title%5D_16x9.png",
-   "date": "2026-10-20T17:33:00+00:00"
   },
   {
    "source": "Cisco Talos",
