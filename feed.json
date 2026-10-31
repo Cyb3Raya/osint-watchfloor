@@ -1,9 +1,19 @@
 {
- "generated": "2026-10-30T21:01:59.215440+00:00",
+ "generated": "2026-10-31T00:52:45.363266+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+   "desc": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) li",
+   "image": "",
+   "date": "2026-10-30T21:09:46+00:00",
+   "iocs": "iocs/de02ba8ec383.txt",
+   "ioc_count": 1
+  },
   {
    "source": "RF The Record",
    "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
@@ -19,6 +29,14 @@
    "desc": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T20:05:58+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Behind the Scenes of How Operation Blackout Went Down",
+   "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+   "desc": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-30T19:46:08+00:00"
   },
   {
    "source": "RF The Record",
@@ -485,14 +503,6 @@
    "date": "2026-10-29T16:20:11+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-   "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-   "desc": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Ya",
-   "image": "",
-   "date": "2026-10-29T16:10:31+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
    "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
@@ -681,14 +691,6 @@
    "desc": "Aikido launches external network pentesting: AI agents attack your internet-facing systems from the outside and report only findings they actually exploit. Category: Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae05c060da6f1a675f53f35_Aikido-launches-agentic-external-network-pentesting_Feature.jpg",
    "date": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-   "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-   "desc": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88d7810c6bea6d70/6ae11337facab4e020903095/lion-chasing-zebras-Wirestock_Creators-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-28T06:00:00+00:00"
   },
   {
    "source": "SANS ISC",

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Linux kernel flaw allows remote root attacks on MPTCP servers
+Source: https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/
+Extracted: 2026-10-31 00:52:25 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-98432
