@@ -1,9 +1,25 @@
 {
- "generated": "2026-10-31T00:52:45.363266+00:00",
+ "generated": "2026-10-31T06:47:06.087175+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "desc": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg",
+   "date": "2026-10-31T05:33:41+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+   "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+   "desc": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 m",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg",
+   "date": "2026-10-31T04:56:12+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -37,6 +53,14 @@
    "desc": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T19:46:08+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "AI agent security in Kubernetes: Why prompt injection isn't the right term",
+   "link": "https://www.aikido.dev/blog/ai-agent-security-in-kubernetes-prompt-injection",
+   "desc": "Abdel Sghiouar, Google engineer and senior cloud developer advocate, thinks prompt injection should be called prompt poisoning Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae4f0c6f3db6ba6b82b9f25_The-catch-22-of-putting-AI-agents-in-your-cluster_Feature.png",
+   "date": "2026-10-30T19:31:00+00:00"
   },
   {
    "source": "RF The Record",
@@ -132,7 +156,9 @@
    "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
    "desc": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-30T14:10:37+00:00"
+   "date": "2026-10-30T14:10:37+00:00",
+   "iocs": "iocs/8f532485626b.txt",
+   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -541,32 +567,12 @@
    "ioc_count": 1
   },
   {
-   "source": "The Hacker News",
-   "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-   "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-   "desc": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg",
-   "date": "2026-10-29T13:42:40+00:00",
-   "iocs": "iocs/17b1ed18b9db.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "The day after tomorrow: After PHP2Shell, it gets worse, then defenders win",
    "link": "https://www.aikido.dev/blog/php2shell-day-after-tomorrow",
    "desc": "PHP2Shell and Brocolli2Shell may be harbingers of many vulnerabilities to come. But we can be ready Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae353baa6cb8f2c7ee13e70_Aikido-The_Day_After_Tomorrow_Feature.jpg",
    "date": "2026-10-29T13:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-   "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-   "desc": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg",
-   "date": "2026-10-29T11:39:41+00:00",
-   "iocs": "iocs/89ba8a41a1ee.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -1013,16 +1019,6 @@
    "date": "2026-10-20T20:30:42+00:00",
    "iocs": "iocs/b4be8cd5eeb4.txt",
    "ioc_count": 21
-  },
-  {
-   "source": "Aikido",
-   "title": "The 9 best phishing simulation tools in 2026",
-   "link": "https://www.aikido.dev/blog/best-phishing-simulation-tools",
-   "desc": "Compare nine phishing simulation tools for realistic email, voice, SMS and deepfake exercises, adaptive training and broader workforce protection. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-10-20T20:25:00+00:00",
-   "iocs": "iocs/ef5f8e127e7e.txt",
-   "ioc_count": 1
   },
   {
    "source": "Cisco Talos",
