@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-31T17:55:31.720781+00:00",
+ "generated": "2026-10-31T21:13:08.103927+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Northflank security breach leads to abuse of customers' AI API keys",
+   "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "desc": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+   "image": "",
+   "date": "2026-10-31T18:01:12+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
@@ -487,16 +495,6 @@
    "date": "2026-10-29T22:45:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-   "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-   "desc": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHu",
-   "image": "",
-   "date": "2026-10-29T22:09:24+00:00",
-   "iocs": "iocs/2602dfd8795f.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Dark Reading",
    "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
@@ -894,7 +892,7 @@
   },
   {
    "source": "Aikido",
-   "title": "eMudhra CA compromise: eight private keys, and one of them is 4",
+   "title": "eMudhra CA compromise: eight private keys, and one of them is 4 - CVE-2026-111943",
    "link": "https://www.aikido.dev/blog/emudhra-ca-compromise",
    "desc": "Eight eMudhra CA keys could be guessed in at most 256 tries, and one is just the number 4. Who is affected, why curl lagged browsers, and how to fix it. Category: Vulnerabilities & Threats",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad9f9885bb1b8c589f27e0c_Emudhra_Feature.jpg",
