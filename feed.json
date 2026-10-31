@@ -1,9 +1,85 @@
 {
- "generated": "2026-10-31T06:47:06.087175+00:00",
+ "generated": "2026-10-31T13:27:06.445662+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+   "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+   "desc": "[...]",
+   "image": "",
+   "date": "2026-10-31T13:10:19+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+   "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+   "desc": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization",
+   "image": "",
+   "date": "2026-10-31T12:50:09+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+   "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+   "desc": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg",
+   "date": "2026-10-31T12:01:56+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+   "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "desc": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/VOLTA.jpg",
+   "date": "2026-10-31T12:00:00+00:00",
+   "iocs": "iocs/ef006b6d1900.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+   "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+   "desc": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared f",
+   "image": "",
+   "date": "2026-10-31T11:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+   "link": "https://isc.sans.edu/diary/rss/33476",
+   "desc": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.&#xd;",
+   "image": "",
+   "date": "2026-10-31T10:52:53+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
+   "link": "https://isc.sans.edu/diary/rss/33474",
+   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1 is a bugfix version, it brings 2 bugfixes.&#xd;",
+   "image": "",
+   "date": "2026-10-31T10:48:17+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33454",
+   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
+   "image": "",
+   "date": "2026-10-31T10:45:40+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+   "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg",
+   "date": "2026-10-31T08:27:43+00:00",
+   "iocs": "iocs/c305d693e177.txt",
+   "ioc_count": 3
+  },
   {
    "source": "The Hacker News",
    "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
@@ -333,14 +409,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-   "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-   "desc": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea&#8217;s TraderTraitor ap",
-   "image": "",
-   "date": "2026-10-30T08:16:26+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
    "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
@@ -455,14 +523,6 @@
    "date": "2026-10-29T19:56:44+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-   "desc": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-   "image": "",
-   "date": "2026-10-29T19:23:41+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
    "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
@@ -481,16 +541,6 @@
    "date": "2026-10-29T19:07:00+00:00",
    "iocs": "iocs/9512570d276d.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-   "desc": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framew",
-   "image": "",
-   "date": "2026-10-29T18:38:26+00:00",
-   "iocs": "iocs/45dcc2eb64d3.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -529,32 +579,12 @@
    "date": "2026-10-29T16:20:11+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-   "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-   "desc": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. A",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg",
-   "date": "2026-10-29T15:57:05+00:00",
-   "iocs": "iocs/1be6a1df25ca.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Threat Modeling With 4 Simple Questions on a White Board",
    "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
    "desc": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcb778399a7f6bf5/6ae2559253ec23dfb497d680/White_Board_ljubaphoto_Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-29T15:44:04+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-   "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-   "desc": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg",
-   "date": "2026-10-29T15:20:29+00:00",
-   "iocs": "iocs/d9e7c9ddc0eb.txt",
-   "ioc_count": 7
   },
   {
    "source": "Cisco Talos",
@@ -769,32 +799,6 @@
    "date": "2026-10-26T21:18:47+00:00",
    "iocs": "iocs/5e82bdf60b4b.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33442",
-   "desc": "&#x5b;This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-10-26T09:38:03+00:00",
-   "iocs": "iocs/3752165e9c29.txt",
-   "ioc_count": 10
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
-   "link": "https://isc.sans.edu/diary/rss/33456",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-26T03:30:12+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33454",
-   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
-   "image": "",
-   "date": "2026-10-25T19:57:53+00:00"
   },
   {
    "source": "Aikido",
@@ -1201,14 +1205,6 @@
    "date": "2026-10-08T18:00:29+00:00",
    "iocs": "iocs/d423319925cc.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
-   "link": "https://blog.talosintelligence.com/uat-11985/",
-   "desc": "Cisco Talos identified an APT spear-phishing campaign against individuals affiliated with Taiwan research organizations. The operation leveraged legitimate public event themes and impersonated reputable academic and poli",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_spotlight.jpg",
-   "date": "2026-10-08T10:01:06+00:00"
   },
   {
    "source": "Unit 42",

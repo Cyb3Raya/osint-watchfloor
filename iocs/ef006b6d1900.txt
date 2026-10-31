@@ -1,0 +1,15 @@
+IOC EXTRACTION - Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer
+Source: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
+Extracted: 2026-10-31 13:27:03 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+rolimons[.]com
+
+SHA256 (1)
+----------------------------------------
+57ef4242666d78c50df145b34023df564f0fad38812d6a580e66433d427e2279

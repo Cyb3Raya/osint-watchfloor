@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access
+Source: https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+Extracted: 2026-10-31 13:26:46 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-104935
+CVE-2026-111357
+CVE-2026-118527
