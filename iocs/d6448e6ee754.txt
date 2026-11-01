@@ -1,0 +1,11 @@
+IOC EXTRACTION - Alpine Linux rebuilds GitLab after attempted RCE attack
+Source: https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/
+Extracted: 2026-11-01 18:47:11 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-97229

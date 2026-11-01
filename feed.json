@@ -1,9 +1,27 @@
 {
- "generated": "2026-11-01T13:46:29.391699+00:00",
+ "generated": "2026-11-01T18:47:30.054327+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+   "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+   "desc": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over conc",
+   "image": "",
+   "date": "2026-11-01T15:11:21+00:00",
+   "iocs": "iocs/d6448e6ee754.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "desc": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+   "image": "",
+   "date": "2026-11-01T13:53:11+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
@@ -341,6 +359,14 @@
    "date": "2026-10-30T14:00:00+00:00"
   },
   {
+   "source": "Google GTIG",
+   "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
+   "desc": "Written by: Aurora Blum, David Mainor, Rohit Nambiar, Omar ElAhdan, Matthew McWhirt, Will Silverstone, Bhavesh Dhake, Chris Busse Introduction Recent intrusions in which threat actors have been observed weaponizing agent",
+   "image": "",
+   "date": "2026-10-30T14:00:00+00:00"
+  },
+  {
    "source": "SecurityWeek",
    "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
    "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
@@ -493,22 +519,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-30T03:30:17+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-   "desc": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-   "image": "",
-   "date": "2026-10-29T23:35:52+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Binance probes potential $5.8 billion crypto-theft hack",
-   "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-   "desc": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-   "image": "",
-   "date": "2026-10-29T22:45:23+00:00"
   },
   {
    "source": "Dark Reading",
@@ -1511,16 +1521,6 @@
    "date": "2026-07-16T00:00:00+00:00",
    "iocs": "iocs/fa8d79d27a82.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Google GTIG",
-   "title": "The Risk of Exposed Cloud Functions and How to Harden",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/",
-   "desc": "Written by: Corné de Jong Introduction Mandiant security assessments frequently identify publicly exposed serverless applications that lack authentication, often as a result of specific business requirements. Serverless ",
-   "image": "",
-   "date": "2026-07-15T14:00:00+00:00",
-   "iocs": "iocs/e9ca52746d18.txt",
-   "ioc_count": 4
   }
  ]
 }
