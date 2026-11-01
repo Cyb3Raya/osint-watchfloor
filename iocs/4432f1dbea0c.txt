@@ -1,0 +1,11 @@
+IOC EXTRACTION - NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection
+Source: https://thehackernews.com/2026/11/netamloader-malware-targets-government.html
+Extracted: 2026-11-01 13:46:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+openaigpt4v[.]com

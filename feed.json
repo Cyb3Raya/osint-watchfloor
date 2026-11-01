@@ -1,9 +1,63 @@
 {
- "generated": "2026-11-01T06:24:28.466810+00:00",
+ "generated": "2026-11-01T13:46:29.391699+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+   "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+   "desc": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations a",
+   "image": "",
+   "date": "2026-11-01T11:15:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "OneNote File Extraction, (Sun, Nov 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33478",
+   "desc": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).&#xd;",
+   "image": "",
+   "date": "2026-11-01T09:12:23+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+   "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+   "desc": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the tr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg",
+   "date": "2026-11-01T08:51:31+00:00",
+   "iocs": "iocs/47c9e2c2f127.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+   "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+   "desc": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg",
+   "date": "2026-11-01T07:25:40+00:00",
+   "iocs": "iocs/3c8da2a0b6d3.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+   "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+   "desc": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressur",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png",
+   "date": "2026-11-01T07:03:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+   "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+   "desc": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
+   "date": "2026-11-01T07:02:58+00:00",
+   "iocs": "iocs/4432f1dbea0c.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Northflank security breach leads to abuse of customers' AI API keys",
@@ -425,50 +479,12 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-   "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-   "desc": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians&#8217; Machines appeared fir",
-   "image": "",
-   "date": "2026-10-30T08:44:49+00:00",
-   "iocs": "iocs/1fbde4e891bf.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
    "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
    "desc": "The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd600d33b7bbbc448/6ae39a9b20628a26ab67c66f/Belarus_Russia_flags-Oleksii_Liskonih-GettyImages-1089909770.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T08:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-   "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-   "desc": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization af",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg",
-   "date": "2026-10-30T07:45:30+00:00",
-   "iocs": "iocs/bc4258f9677b.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-   "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitati",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg",
-   "date": "2026-10-30T07:27:05+00:00",
-   "iocs": "iocs/8927f234f52b.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-   "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-   "desc": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg",
-   "date": "2026-10-30T04:14:59+00:00"
   },
   {
    "source": "SANS ISC",
@@ -519,16 +535,6 @@
    "desc": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt472af09911ab1135/6ae48844fd7d52aaa11129c2/ctf-gilaxia-getty-1781744928.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-29T19:56:44+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-   "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-   "desc": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg",
-   "date": "2026-10-29T19:11:58+00:00",
-   "iocs": "iocs/7f056f665bfe.txt",
-   "ioc_count": 9
   },
   {
    "source": "Aikido",
@@ -759,16 +765,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-27T02:55:13+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-   "link": "https://isc.sans.edu/diary/rss/33458",
-   "desc": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.&#xd;",
-   "image": "",
-   "date": "2026-10-27T02:09:55+00:00",
-   "iocs": "iocs/344bdc9286a2.txt",
-   "ioc_count": 304
   },
   {
    "source": "Aikido",

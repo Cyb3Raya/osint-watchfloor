@@ -1,0 +1,11 @@
+IOC EXTRACTION - CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
+Source: https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+Extracted: 2026-11-01 13:46:07 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-112816
