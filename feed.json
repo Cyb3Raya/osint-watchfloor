@@ -1,9 +1,17 @@
 {
- "generated": "2026-11-01T18:47:30.054327+00:00",
+ "generated": "2026-11-01T22:37:31.080776+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "desc": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+   "image": "",
+   "date": "2026-11-01T19:57:53+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
@@ -485,14 +493,6 @@
    "desc": "Cursor removed a malicious Claude Code 2.1.313 extension from its marketplace. Socket examines registry records and the initial claims about its distribution.",
    "image": "",
    "date": "2026-10-30T09:26:06+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-   "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-   "desc": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-   "image": "",
-   "date": "2026-10-30T09:18:13+00:00"
   },
   {
    "source": "The Hacker News",
