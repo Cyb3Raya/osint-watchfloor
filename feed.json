@@ -1,9 +1,307 @@
 {
- "generated": "2026-11-02T09:02:18.628119+00:00",
+ "generated": "2026-11-02T19:36:27.199267+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+   "desc": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+   "image": "",
+   "date": "2026-11-02T19:00:45+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+   "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+   "desc": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate rev",
+   "image": "",
+   "date": "2026-11-02T18:16:34+00:00",
+   "iocs": "iocs/540fcda80525.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "RF The Record",
+   "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
+   "link": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
+   "desc": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
+   "image": "",
+   "date": "2026-11-02T17:05:20+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+   "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+   "desc": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg",
+   "date": "2026-11-02T16:57:56+00:00",
+   "iocs": "iocs/a3562df3fff9.txt",
+   "ioc_count": 76
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
+   "link": "https://therecord.media/hackers-ukraine-belarus-russia",
+   "desc": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
+   "image": "",
+   "date": "2026-11-02T16:30:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+   "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+   "desc": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbU6vLZjF0nlz7vqN6UVf3kN1IcdUfIpAmVWlh2II4gGbMMmSuiE1S8HLzP4JV-ImeCa64hU-cEaa-yGXWqUO_XHOurKtEw61DFvjGOJhM7gHpRPpegBcCFYrXkd59wGX-PoV6zm7z7uq6PpXjc4GLhDRzcinR5IIjcOVZEVl8FMQ0v0Dt3CV9sRxZNk/s1600/android-tv-botnet.jpg",
+   "date": "2026-11-02T15:50:26+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+   "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+   "desc": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+   "image": "",
+   "date": "2026-11-02T15:03:07+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+   "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+   "desc": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data ",
+   "image": "",
+   "date": "2026-11-02T15:01:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+   "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+   "desc": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&#038;A Roundup: 37 Deals Announced in October 2026 appeared first on Secu",
+   "image": "",
+   "date": "2026-11-02T15:01:11+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Microsoft's AI Risk Report Misses This Key Detail",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+   "desc": "The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt569484121108a889/6ae4e02ada596cc80722963c/AI-Saksit_Sangtong-Getty-2225595754.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-02T15:00:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
+   "link": "https://isc.sans.edu/diary/rss/33482",
+   "desc": "Last week, an often-ignored&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&&#x23&#x3b;x26&#x3b;&#x23&#x3",
+   "image": "",
+   "date": "2026-11-02T14:52:05+00:00",
+   "iocs": "iocs/ab6c034f8492.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+   "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+   "desc": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a repor",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nIwDn7LIoF8OUZdj0NRjq4ZMu-xjzcOPQJDwouwkwqwVe618e77am9iyAIez63Q8jVqZi7OtU43gJlhbZT-_4l_4pUq3tYpDUe4ErouPlkNi8YTNZiPQ6KmX2Ci028oT24DRcPtCdKv_zZ33_ZHOodARrbmcwxYWCAx4r45Qc0qVOQNmCCoWZmAWJnzt/s1600/shelby-hacker.png",
+   "date": "2026-11-02T14:46:05+00:00",
+   "iocs": "iocs/772d27d38d32.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+   "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+   "desc": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appe",
+   "image": "",
+   "date": "2026-11-02T14:44:18+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Apple warns users in 99 countries of mercenary spyware",
+   "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
+   "desc": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [wh",
+   "image": "",
+   "date": "2026-11-02T14:42:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
+   "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
+   "desc": "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.",
+   "image": "",
+   "date": "2026-11-02T14:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers disrupt refrigeration systems at European supermarkets",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+   "desc": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+   "image": "",
+   "date": "2026-11-02T14:28:39+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
+   "desc": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5084e1dd5e7db648/6ae882291b7efb363cec70fb/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-02T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+   "desc": "Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Usage_chart_showing_LLMJacking_ge.max-1000x1000_IcanCpV.png",
+   "date": "2026-11-02T14:00:00+00:00",
+   "iocs": "iocs/098ee6ddbe90.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Google GTIG",
+   "title": "Shutting the Door on the XCPE Botnet",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+   "desc": "Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intenti",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_XCPE_malware_overview.max-1000x1000.png",
+   "date": "2026-11-02T14:00:00+00:00",
+   "iocs": "iocs/c8647446e5ec.txt",
+   "ioc_count": 225
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft fixes Smart App Control broken by October Windows update",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+   "desc": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+   "image": "",
+   "date": "2026-11-02T13:57:29+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Revolve Data Breach Impacts at Least 180,000 People",
+   "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+   "desc": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-02T13:35:21+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+   "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+   "desc": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-02T13:25:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
+   "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
+   "desc": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil",
+   "image": "",
+   "date": "2026-11-02T13:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+   "desc": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+   "image": "",
+   "date": "2026-11-02T12:47:00+00:00",
+   "iocs": "iocs/ce0102be3fc9.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+   "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+   "desc": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and&n",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg",
+   "date": "2026-11-02T11:50:00+00:00",
+   "iocs": "iocs/0bed561f10e1.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+   "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+   "desc": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CIS",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg",
+   "date": "2026-11-02T11:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+   "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+   "desc": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-02T11:29:39+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+   "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+   "desc": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+   "image": "",
+   "date": "2026-11-02T11:28:42+00:00",
+   "iocs": "iocs/0f81648bf5c6.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+   "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+   "desc": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg",
+   "date": "2026-11-02T11:08:45+00:00",
+   "iocs": "iocs/f801cd5ccac7.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+   "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+   "desc": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed b",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg",
+   "date": "2026-11-02T10:49:59+00:00",
+   "iocs": "iocs/6aca75eb89cc.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+   "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+   "desc": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-02T10:27:49+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+   "desc": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+   "image": "",
+   "date": "2026-11-02T09:33:26+00:00",
+   "iocs": "iocs/5ff3e4930a95.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
+   "link": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
+   "desc": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared",
+   "image": "",
+   "date": "2026-11-02T09:33:15+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Critical Linux kernel TCP vulnerability can allow remote code execution (CVE-2026-98432)",
+   "link": "https://www.aikido.dev/blog/linux-kernel-tcp-rce-vulnerability-cve-2026-98432",
+   "desc": "CVE-2026-98432 is a critical Linux kernel TCP flaw rated 9.8 that can allow remote code execution. See who is affected, how to patch and what to do now. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae8591e54883ab6c13cfaf2_Node-JS_Feature.jpg",
+   "date": "2026-11-02T09:00:00+00:00",
+   "iocs": "iocs/a9518608375e.txt",
+   "ioc_count": 4
+  },
   {
    "source": "SecurityWeek",
    "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
@@ -37,14 +335,6 @@
    "desc": "",
    "image": "",
    "date": "2026-11-02T02:00:03+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions",
-   "link": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
-   "desc": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.",
-   "image": "",
-   "date": "2026-11-02T00:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -153,22 +443,6 @@
    "date": "2026-10-31T14:05:15+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-   "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-   "desc": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity ",
-   "image": "",
-   "date": "2026-10-31T13:10:19+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-   "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-   "desc": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization",
-   "image": "",
-   "date": "2026-10-31T12:50:09+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
    "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -185,14 +459,6 @@
    "date": "2026-10-31T12:00:00+00:00",
    "iocs": "iocs/ef006b6d1900.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-   "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-   "desc": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared f",
-   "image": "",
-   "date": "2026-10-31T11:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -237,30 +503,12 @@
    "date": "2026-10-31T05:33:41+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-   "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-   "desc": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 m",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg",
-   "date": "2026-10-31T04:56:12+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-   "desc": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) li",
-   "image": "",
-   "date": "2026-10-30T21:09:46+00:00",
-   "iocs": "iocs/de02ba8ec383.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
-   "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
-   "desc": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
-   "image": "",
-   "date": "2026-10-30T20:45:00+00:00"
+   "source": "Dark Reading",
+   "title": "Investors Dish on New Startups &amp; What They'd Back Next",
+   "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
+   "desc": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bfb23bb01b12a77/6ae89a88a47bac182d509a42/DataTribe_Challenge.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-10-30T21:08:25+00:00"
   },
   {
    "source": "Dark Reading",
@@ -287,92 +535,12 @@
    "date": "2026-10-30T19:31:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Fashion retailer Resolve says hackers stole payment card information",
-   "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
-   "desc": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
-   "image": "",
-   "date": "2026-10-30T19:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-   "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-   "desc": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activit",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg",
-   "date": "2026-10-30T16:58:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-   "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-   "desc": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-   "image": "",
-   "date": "2026-10-30T15:58:20+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
-   "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
-   "desc": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
-   "image": "",
-   "date": "2026-10-30T15:54:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
    "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
    "desc": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dafcf0847efff9a/6ae24fff8ec8cff4371f87c5/rome-Sean_Gallup-GettyImages-623337092jpg.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T15:39:54+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-   "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-   "desc": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg",
-   "date": "2026-10-30T15:17:28+00:00",
-   "iocs": "iocs/33f30c5083f6.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
-   "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
-   "desc": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared firs",
-   "image": "",
-   "date": "2026-10-30T15:09:25+00:00",
-   "iocs": "iocs/a7785c0ffb44.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-   "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-   "desc": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Ser",
-   "image": "",
-   "date": "2026-10-30T14:41:35+00:00",
-   "iocs": "iocs/bf3b2932325b.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-   "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-   "desc": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to ins",
-   "image": "",
-   "date": "2026-10-30T14:36:54+00:00",
-   "iocs": "iocs/c1aa108c641e.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "RF The Record",
-   "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
-   "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
-   "desc": "Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest",
-   "image": "",
-   "date": "2026-10-30T14:24:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -385,30 +553,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-   "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-   "desc": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg",
-   "date": "2026-10-30T14:08:14+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-   "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-   "desc": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how th",
-   "image": "",
-   "date": "2026-10-30T14:00:10+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
-   "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
-   "desc": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enoug",
-   "image": "",
-   "date": "2026-10-30T14:00:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
@@ -417,90 +561,12 @@
    "date": "2026-10-30T14:00:00+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
-   "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
-   "desc": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on Se",
-   "image": "",
-   "date": "2026-10-30T13:36:12+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Binance hack: how a compromised developer laptop can lead to a $6.3 billion breach",
    "link": "https://www.aikido.dev/blog/binance-hack-developer-laptop",
    "desc": "The Binance hack may have started with a compromised developer laptop, Binance says. See how that can lead to stolen funds and how to protect against it. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae49cc56462dd4813029df4_Binance_hack_Feature.jpg",
    "date": "2026-10-30T13:13:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA says max severity GitLab flaw now exploited in the wild",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-   "desc": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-   "image": "",
-   "date": "2026-10-30T13:00:32+00:00",
-   "iocs": "iocs/651570ec01bc.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-   "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-   "desc": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. I",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih5QxhFnBw6d40ollOAoolmZedxywTm7DeBQpEqydVG5Pqg0v5iDVFT1hhbsW7Thqg00oI8MACNXC9FX6MCp_qMRkBRiqdxb9D4CDKfTWTZwI5eyY3V2IOa8ODSg24kX7Ni_C968r2X89tUXwPbDnHPV9xX-ydhytwerqMI1ru7tqdIK-cqA0p9oM5Ppxr/s1600/trezor-wallet.jpg",
-   "date": "2026-10-30T12:21:56+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
-   "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-   "desc": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers&#8217; Crosshairs appeared first on SecurityWee",
-   "image": "",
-   "date": "2026-10-30T12:04:13+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-   "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-   "desc": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything.&nbsp; ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg",
-   "date": "2026-10-30T11:58:53+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft finally fixes VPN issues caused by September updates",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-   "desc": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
-   "image": "",
-   "date": "2026-10-30T11:20:26+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-   "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-   "desc": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first ",
-   "image": "",
-   "date": "2026-10-30T11:07:11+00:00",
-   "iocs": "iocs/647aee262a36.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-   "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-   "desc": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outle",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg",
-   "date": "2026-10-30T10:40:45+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-   "desc": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-   "image": "",
-   "date": "2026-10-30T10:16:07+00:00",
-   "iocs": "iocs/072fcb7482ba.txt",
-   "ioc_count": 4
   },
   {
    "source": "Socket",
@@ -707,14 +773,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Dark Reading",
-   "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-   "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-   "desc": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-28T19:39:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Unwrapping Retail Peak Season Cyber Threats",
    "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
@@ -725,36 +783,12 @@
    "ioc_count": 3
   },
   {
-   "source": "Dark Reading",
-   "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-   "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-   "desc": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt27f5645084863935/6ae21761f2adb985c612d4c7/GettyImages-1415423396.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-28T15:29:06+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
-   "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
-   "desc": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf851053137fec653/6ae1e3cca1e4219344f6a136/credentials-NicoElNino-AdobeStock.png?width=720&quality=80&disable=upscale",
-   "date": "2026-10-28T14:37:52+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Aikido launches external network pentesting",
    "link": "https://www.aikido.dev/blog/aikido-launches-external-network-pentesting",
    "desc": "Aikido launches external network pentesting: AI agents attack your internet-facing systems from the outside and report only findings they actually exploit. Category: Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae05c060da6f1a675f53f35_Aikido-launches-agentic-external-network-pentesting_Feature.jpg",
    "date": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33464",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T02:30:11+00:00"
   },
   {
    "source": "Socket",
@@ -1007,14 +1041,6 @@
    "desc": "At 11:39 UTC on October 21, a malicious version (1.107.0) of the LiteLLM package was uploaded to PyPI. This version was quarantined on PyPI as of 13:20 UTC. According to ClickPy data, the malicious version received appro",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-10-21T00:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "The 10 best email security software platforms in 2026",
-   "link": "https://www.aikido.dev/blog/best-email-security-software-platforms",
-   "desc": "Compare 10 email security platforms for phishing, BEC and automated response, plus workforce protection across training, devices and AI use. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad7d5a7fc49e5fad18688f9_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-10-20T20:56:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -1467,14 +1493,6 @@
    "date": "2026-07-30T14:00:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "Updated Cyber Threat Actor Naming System",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/",
-   "desc": "Update (July 30): A table listing the new names of select prominent threat actors was appended to this post. Introduction Today, Google Threat Intelligence Group (GTIG) will begin rolling out a unified naming schema for ",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image_22.max-1000x1000.png",
-   "date": "2026-07-24T14:00:00+00:00"
-  },
-  {
    "source": "Wiz Threats",
    "title": "Cl0p Exploitation of PTC Windchill and FlexPLM Vulnerability (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/cl0p-exploitation-of-ptc-windchill-and-flexplm-vulnerability",
@@ -1501,14 +1519,6 @@
    "desc": "NadMesh uses a centralized controller to coordinate scanning across large IP ranges and attempts exploitation using more than 20 supported attack vectors. The malware targets exposed services such as Docker APIs, Kuberne",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-07-17T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/",
-   "desc": "Written by: Jules Czarniak Introduction As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week before a patch even e",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Demystifying_AI_image1.max-1000x1000.png",
-   "date": "2026-07-16T14:00:00+00:00"
   },
   {
    "source": "Wiz Threats",

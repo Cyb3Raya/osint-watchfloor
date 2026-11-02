@@ -1,0 +1,15 @@
+IOC EXTRACTION - Google disrupts million-device XCPE Android malware botnet, bans TV box maker
+Source: https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/
+Extracted: 2026-11-02 19:35:45 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (5)
+----------------------------------------
+anyevonline[.]com
+file[.]anyevonline[.]com
+mqtt[.]anyevonline[.]com
+mqtt[.]szbboys[.]com
+videostrong[.]cn

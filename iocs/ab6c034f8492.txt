@@ -1,0 +1,11 @@
+IOC EXTRACTION - Mutipath TCP: Use and Detection, (Mon, Nov 2nd)
+Source: https://isc.sans.edu/diary/rss/33482
+Extracted: 2026-11-02 19:35:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-98432

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Critical Linux kernel TCP vulnerability can allow remote code execution (CVE-2026-98432)
+Source: https://www.aikido.dev/blog/linux-kernel-tcp-rce-vulnerability-cve-2026-98432
+Extracted: 2026-11-02 19:36:26 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-98432
+CVE-2026-111497
+CVE-2026-111943
+CVE-2026-98432

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Over 1,000 GitLab servers vulnerable to ongoing RCE attacks
+Source: https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/
+Extracted: 2026-11-02 19:35:52 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-0723
+CVE-2026-110264
+CVE-2026-85706
+CVE-2026-97229

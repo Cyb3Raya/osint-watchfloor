@@ -1,0 +1,11 @@
+IOC EXTRACTION - Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts
+Source: https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+Extracted: 2026-11-02 19:35:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+104[.]194[.]158[.]65

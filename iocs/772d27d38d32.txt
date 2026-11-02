@@ -1,0 +1,19 @@
+IOC EXTRACTION - DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment
+Source: https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html
+Extracted: 2026-11-02 19:35:38 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+68[.]65[.]122[.]203
+
+Domains (5)
+----------------------------------------
+gcc-sg[.]cloud
+mfakuwait[.]online
+moelcloud[.]online
+stark-meet[.]com
+stark-meet[.]online

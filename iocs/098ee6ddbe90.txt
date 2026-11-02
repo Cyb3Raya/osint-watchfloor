@@ -1,0 +1,15 @@
+IOC EXTRACTION - The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources
+Source: https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/
+Extracted: 2026-11-02 19:36:17 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-40217
+
+Domains (1)
+----------------------------------------
+newapi[.]pro

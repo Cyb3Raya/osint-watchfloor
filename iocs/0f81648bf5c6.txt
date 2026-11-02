@@ -1,0 +1,16 @@
+IOC EXTRACTION - Synology warns of C3RB3R ransomware attacks targeting NAS devices
+Source: https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/
+Extracted: 2026-11-02 19:35:53 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2021-22205
+CVE-2021-26084
+CVE-2023-22518
+CVE-2024-10441
+CVE-2024-10445
+CVE-2024-50629

@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
+Source: https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+Extracted: 2026-11-02 19:35:41 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA256 (3)
+----------------------------------------
+06c5c14f043aee3bcc5843b5f50909623d5c9a6239a7c1fba9cddad4111469e7
+85b6c424117494d3056e88689dbc94c75e9afdb187a339714043aec0da109f17
+f326201269f1ee2f803ae435317507263bb6e0dbfdeb70bd1bb5446e2e46f001

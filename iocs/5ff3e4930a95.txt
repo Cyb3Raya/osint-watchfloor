@@ -1,0 +1,18 @@
+IOC EXTRACTION - Ivanti patches two more Connect Secure zero-days chained in attacks
+Source: https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/
+Extracted: 2026-11-02 19:35:54 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2023-46805
+CVE-2024-21887
+CVE-2024-21893
+CVE-2025-0282
+CVE-2025-22457
+CVE-2026-104935
+CVE-2026-111357
+CVE-2026-118527

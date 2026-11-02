@@ -1,0 +1,16 @@
+IOC EXTRACTION - Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+Source: https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html
+Extracted: 2026-11-02 19:35:39 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-104339
+CVE-2026-110186
+CVE-2026-110192
+CVE-2026-110193
+CVE-2026-9198
+CVE-2026-93680
