@@ -1,0 +1,11 @@
+IOC EXTRACTION - Claude Model Builds Exploits Across Major Browsers &amp; OSes
+Source: https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses
+Extracted: 2026-11-03 09:10:55 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-98432

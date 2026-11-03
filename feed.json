@@ -1,9 +1,79 @@
 {
- "generated": "2026-11-03T01:46:27.060496+00:00",
+ "generated": "2026-11-03T09:11:03.397802+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+   "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+   "desc": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO&#8217;s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+   "image": "",
+   "date": "2026-11-03T08:49:03+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+   "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+   "desc": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared fi",
+   "image": "",
+   "date": "2026-11-03T07:43:24+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+   "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+   "desc": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiti",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg",
+   "date": "2026-11-03T07:43:07+00:00",
+   "iocs": "iocs/9c59a38943c4.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+   "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+   "desc": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reporte",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScxShEa3bsAhGLHlqkBcsyuRe6UeQwrOVXBFP3TwxzmXtd03vDeDRZHxxBLIKHDYgY5p5CsrFvBwuozg3UsRLtVMO758NhVwSju6D6WgO1J42wJd2NWR9aVzz-B_CWfiMFH2QANUrAnUXbgkKec2KtJjULvN3NTqrCPbLRNnxlnvBFIAkndClXJMIeXY/s1600/fridge-hack.jpg",
+   "date": "2026-11-03T07:27:07+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+   "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+   "desc": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLg0QvfH0SD_sz2pFnyrG6Zcs-ltrKaf42ZY7PYKTsA26Nu4alNeqarZZ9HGEjO0UJFr5Wfsb7WBSDYoRnGi6X1jXZ8_4xx1VJtYshtPXYX9DVJYu4lln_IqEhf-NQJC7MKWI1JVzzR5heu6O_OnWezfKsj3AnBs5NKVp5dOVgR-7XuKMIAiyiKflPlT9E/s1600/siemens-hack.jpg",
+   "date": "2026-11-03T05:34:41+00:00",
+   "iocs": "iocs/b9ba4e436fc8.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+   "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+   "desc": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg",
+   "date": "2026-11-03T05:34:37+00:00",
+   "iocs": "iocs/d80473442c7a.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+   "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+   "desc": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out",
+   "image": "",
+   "date": "2026-11-03T02:24:31+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+   "link": "https://isc.sans.edu/diary/rss/33484",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-03T02:00:02+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
@@ -212,9 +282,9 @@
   },
   {
    "source": "SecurityWeek",
-   "title": "Revolve Data Breach Impacts at Least 180,000 People",
+   "title": "Revolve Data Breach Impacts at Least 200,000 People",
    "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-   "desc": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek.",
+   "desc": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-11-02T13:35:21+00:00"
   },
@@ -337,16 +407,6 @@
    "date": "2026-11-02T08:40:36+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-   "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-   "desc": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appea",
-   "image": "",
-   "date": "2026-11-02T07:57:49+00:00",
-   "iocs": "iocs/850d3b52f0b8.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
    "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
@@ -389,14 +449,6 @@
    "date": "2026-11-01T13:53:11+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-   "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-   "desc": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations a",
-   "image": "",
-   "date": "2026-11-01T11:15:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "OneNote File Extraction, (Sun, Nov 1st)",
    "link": "https://isc.sans.edu/diary/rss/33478",
@@ -433,16 +485,6 @@
    "date": "2026-11-01T07:03:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-   "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-   "desc": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
-   "date": "2026-11-01T07:02:58+00:00",
-   "iocs": "iocs/4432f1dbea0c.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Northflank security breach leads to abuse of customers' AI API keys",
    "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
@@ -459,14 +501,6 @@
    "date": "2026-10-31T15:35:11+00:00",
    "iocs": "iocs/72aec30d1863.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-   "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-   "desc": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg",
-   "date": "2026-10-31T12:01:56+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -501,24 +535,6 @@
    "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
    "image": "",
    "date": "2026-10-31T10:45:40+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-   "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg",
-   "date": "2026-10-31T08:27:43+00:00",
-   "iocs": "iocs/c305d693e177.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-   "desc": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg",
-   "date": "2026-10-31T05:33:41+00:00"
   },
   {
    "source": "Dark Reading",
@@ -652,7 +668,9 @@
    "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
    "desc": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt626614753803fdf0/6ae260b6848b397b5d1859e3/anthropic_Algi_Febri_Sugita_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-29T18:15:59+00:00"
+   "date": "2026-10-29T18:15:59+00:00",
+   "iocs": "iocs/17e237259c82.txt",
+   "ioc_count": 1
   },
   {
    "source": "Unit 42",
@@ -761,16 +779,6 @@
    "date": "2026-10-29T02:01:54+00:00",
    "iocs": "iocs/e940ecdf5aa6.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33466",
-   "desc": "Introduction&#xd;",
-   "image": "",
-   "date": "2026-10-29T00:42:15+00:00",
-   "iocs": "iocs/241b0a1b5675.txt",
-   "ioc_count": 12
   },
   {
    "source": "Cisco Talos",
@@ -1365,16 +1373,6 @@
    "desc": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent",
    "image": "",
    "date": "2026-09-16T18:14:22+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-   "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-   "desc": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping ",
-   "image": "",
-   "date": "2026-09-08T21:44:22+00:00",
-   "iocs": "iocs/6e80b0fb56bf.txt",
-   "ioc_count": 4
   },
   {
    "source": "Google GTIG",

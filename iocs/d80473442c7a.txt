@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials
+Source: https://thehackernews.com/2026/11/attackers-target-unpatched.html
+Extracted: 2026-11-03 09:10:44 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-81648

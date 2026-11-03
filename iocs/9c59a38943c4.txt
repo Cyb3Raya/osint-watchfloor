@@ -1,0 +1,14 @@
+IOC EXTRACTION - Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
+Source: https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
+Extracted: 2026-11-03 09:10:41 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2021-28799
+CVE-2024-10441
+CVE-2024-10445
+CVE-2024-50629
