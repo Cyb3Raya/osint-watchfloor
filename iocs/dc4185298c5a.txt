@@ -1,0 +1,11 @@
+IOC EXTRACTION - Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes
+Source: https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support
+Extracted: 2026-11-03 17:09:48 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-8088

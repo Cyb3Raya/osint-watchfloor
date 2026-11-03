@@ -1,0 +1,14 @@
+IOC EXTRACTION - Barracuda warns of critical flaws allowing root access to devices
+Source: https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/
+Extracted: 2026-11-03 17:09:24 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2023-2868
+CVE-2023-7102
+CVE-2026-111560
+CVE-2026-116606

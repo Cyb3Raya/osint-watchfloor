@@ -1,0 +1,15 @@
+IOC EXTRACTION - Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+Source: https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html
+Extracted: 2026-11-03 17:09:19 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-98432
+
+URLs (1)
+----------------------------------------
+hxxp://archive[.]ubuntu[.]com/ubuntu

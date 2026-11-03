@@ -1,0 +1,11 @@
+IOC EXTRACTION - Android’s November 2026 Updates Patch Over 200 Vulnerabilities
+Source: https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/
+Extracted: 2026-11-03 17:09:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-58868

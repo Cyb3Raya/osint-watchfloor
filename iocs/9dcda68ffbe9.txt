@@ -1,0 +1,11 @@
+IOC EXTRACTION - Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware
+Source: https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html
+Extracted: 2026-11-03 17:09:22 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-8088
