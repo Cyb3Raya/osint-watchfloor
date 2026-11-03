@@ -1,0 +1,12 @@
+IOC EXTRACTION - Unit 42 Threat Intelligence Highlights - Nov. 2, 2026
+Source: https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/
+Extracted: 2026-11-03 01:46:20 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619

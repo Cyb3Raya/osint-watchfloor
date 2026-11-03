@@ -1,9 +1,59 @@
 {
- "generated": "2026-11-02T19:36:27.199267+00:00",
+ "generated": "2026-11-03T01:46:27.060496+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+   "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+   "desc": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
+   "image": "",
+   "date": "2026-11-03T00:01:00+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+   "link": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
+   "desc": "Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appear",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/08/05_Interview_Category_1505x922.jpg",
+   "date": "2026-11-02T23:00:45+00:00",
+   "iocs": "iocs/9f7f463866df.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+   "desc": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a6c898e92d21e63/6ae8ffda91cb5739c41bd1e1/binance_creativetan_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-02T22:27:24+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+   "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+   "desc": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+   "image": "",
+   "date": "2026-11-02T21:42:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "desc": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+   "image": "",
+   "date": "2026-11-02T21:40:14+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+   "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+   "desc": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
+   "image": "",
+   "date": "2026-11-02T19:54:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
@@ -117,22 +167,6 @@
    "date": "2026-11-02T14:44:18+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Apple warns users in 99 countries of mercenary spyware",
-   "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
-   "desc": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [wh",
-   "image": "",
-   "date": "2026-11-02T14:42:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
-   "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
-   "desc": "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.",
-   "image": "",
-   "date": "2026-11-02T14:30:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers disrupt refrigeration systems at European supermarkets",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
@@ -150,16 +184,6 @@
   },
   {
    "source": "Google GTIG",
-   "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-   "desc": "Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Usage_chart_showing_LLMJacking_ge.max-1000x1000_IcanCpV.png",
-   "date": "2026-11-02T14:00:00+00:00",
-   "iocs": "iocs/098ee6ddbe90.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "Google GTIG",
    "title": "Shutting the Door on the XCPE Botnet",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
    "desc": "Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intenti",
@@ -167,6 +191,16 @@
    "date": "2026-11-02T14:00:00+00:00",
    "iocs": "iocs/c8647446e5ec.txt",
    "ioc_count": 225
+  },
+  {
+   "source": "Google GTIG",
+   "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+   "desc": "Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Usage_chart_showing_LLMJacking_ge.max-1000x1000_IcanCpV.png",
+   "date": "2026-11-02T14:00:00+00:00",
+   "iocs": "iocs/098ee6ddbe90.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -191,14 +225,6 @@
    "desc": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-11-02T13:25:11+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
-   "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
-   "desc": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil",
-   "image": "",
-   "date": "2026-11-02T13:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -433,14 +459,6 @@
    "date": "2026-10-31T15:35:11+00:00",
    "iocs": "iocs/72aec30d1863.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Reddit to lock content behind logins to fight scrapers",
-   "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-   "desc": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-   "image": "",
-   "date": "2026-10-31T14:05:15+00:00"
   },
   {
    "source": "The Hacker News",
@@ -717,14 +735,6 @@
    "date": "2026-10-29T09:36:00+00:00",
    "iocs": "iocs/26762876fb97.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-   "desc": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dafcf0847efff9a/6ae24fff8ec8cff4371f87c5/rome-Sean_Gallup-GettyImages-623337092jpg.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-29T08:00:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1319,14 +1329,6 @@
    "desc": "Multiple sources reported malicious activity linked to JADEPUFFER (Storm-3168), an agentic ransomware operation, during June 2026. This attacker has been observed leveraging exposed secrets and exploiting vulnerabilities",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-09-26T00:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "3 Consulting Myths Debunked by Unit 42 Experts",
-   "link": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
-   "desc": "Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses. The post 3 Consulting Myths Debunked by Unit 42 Experts app",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/08/01_Listicle_Category_1505x922.jpg",
-   "date": "2026-09-25T23:00:28+00:00"
   },
   {
    "source": "Krebs on Security",
