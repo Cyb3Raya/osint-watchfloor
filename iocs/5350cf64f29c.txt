@@ -1,0 +1,12 @@
+IOC EXTRACTION - Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
+Source: https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
+Extracted: 2026-11-03 22:21:59 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111560
+CVE-2026-116606

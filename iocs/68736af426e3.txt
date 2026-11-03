@@ -1,0 +1,29 @@
+IOC EXTRACTION - Hardening GitHub Actions Against Outside Threats
+Source: https://socket.dev/blog/hardening-github-actions-against-outside-threats?utm_medium=feed
+Extracted: 2026-11-03 22:22:17 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2024-54132
+CVE-2025-30066
+
+Domains (3)
+----------------------------------------
+registry[.]npmjs[.]org
+run[.]sh
+uploader[.]sh
+
+URLs (3)
+----------------------------------------
+hxxps://attacker[.]tld
+hxxps://vendor[.]example/uploader[.]sh
+hxxps://vendor[.]example/v4[.]2[.]1/uploader[.]sh
+
+SHA1 (2)
+----------------------------------------
+3d3c42e5aac5ba805825da76410c181273ba90b1
+9426d40962ed5378910ee2e21d5f8c6fcbf2dd96

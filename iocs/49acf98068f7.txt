@@ -1,0 +1,12 @@
+IOC EXTRACTION - Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
+Source: https://thehackernews.com/2026/11/chainstack-reports-production-systems.html
+Extracted: 2026-11-03 22:21:56 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102489
+CVE-2026-102490
