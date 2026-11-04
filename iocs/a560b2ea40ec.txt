@@ -1,0 +1,11 @@
+IOC EXTRACTION - The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)
+Source: https://isc.sans.edu/diary/rss/33488
+Extracted: 2026-11-04 18:13:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2000-0411

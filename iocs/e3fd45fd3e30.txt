@@ -1,0 +1,18 @@
+IOC EXTRACTION - Hackers use n-day exploits in zero-click attacks on iOS, Android devices
+Source: https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/
+Extracted: 2026-11-04 18:13:56 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2024-27834
+CVE-2025-14174
+CVE-2025-27038
+CVE-2025-43510
+CVE-2025-43520
+CVE-2025-43529
+CVE-2026-20700
+CVE-2026-3910

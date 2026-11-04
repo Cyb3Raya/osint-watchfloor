@@ -1,0 +1,26 @@
+IOC EXTRACTION - APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits
+Source: https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html
+Extracted: 2026-11-04 18:13:39 UTC
+Total indicators: 13
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2024-27834
+CVE-2024-4671
+CVE-2024-5274
+CVE-2025-14174
+CVE-2025-27038
+CVE-2025-43510
+CVE-2025-43520
+CVE-2025-43529
+CVE-2026-20700
+CVE-2026-3910
+
+Domains (3)
+----------------------------------------
+a[.]plerdy[.]com
+ad-track[.]live
+ad[.]starx-net[.]com

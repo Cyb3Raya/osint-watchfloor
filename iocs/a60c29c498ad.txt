@@ -1,0 +1,12 @@
+IOC EXTRACTION - Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory
+Source: https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html
+Extracted: 2026-11-04 18:13:41 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102703
+CVE-2026-102704

@@ -1,0 +1,12 @@
+IOC EXTRACTION - NIKKE PC game launcher hacked to spread remote access, data-stealing malware
+Source: https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/
+Extracted: 2026-11-04 18:13:49 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (2)
+----------------------------------------
+insightjs[.]com
+insightjs[.]org

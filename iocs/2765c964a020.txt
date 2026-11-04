@@ -1,0 +1,13 @@
+IOC EXTRACTION - Barracuda ESG Authentication Bypass Flaw Opens Path to Root
+Source: https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/
+Extracted: 2026-11-04 18:14:09 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2023-2868
+CVE-2026-111560
+CVE-2026-116606
