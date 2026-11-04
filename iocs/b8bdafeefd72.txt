@@ -1,0 +1,12 @@
+IOC EXTRACTION - Zyxel fixes zero-day exploited to hack nearly 1,000 network switches
+Source: https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/
+Extracted: 2026-11-04 23:46:08 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-107441
+CVE-2026-7273

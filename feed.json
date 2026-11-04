@@ -1,9 +1,75 @@
 {
- "generated": "2026-11-04T18:14:26.557500+00:00",
+ "generated": "2026-11-04T23:46:29.592748+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+   "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+   "desc": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1200a12331479a63/6aeb910a69108565761c02f3/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-04T21:48:18+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Vercel rolls out new protection against stolen session cookie attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+   "desc": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+   "image": "",
+   "date": "2026-11-04T21:31:18+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+   "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+   "desc": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that buil",
+   "image": "",
+   "date": "2026-11-04T21:30:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Surviving cybersecurity until the end of 2026",
+   "link": "https://www.aikido.dev/blog/cybersecurity-surviving-vulnerabilities-malware-best-practices",
+   "desc": "After Binance, LiteLLM, PHP2Shell and eMudhra, here are six practices and a checklist to limit what the next compromise can reach before 2027. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aeb7cec95951f3914d66b95_Surviving-cyber-apocoloypse_Feature.jpg",
+   "date": "2026-11-04T21:06:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+   "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+   "desc": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+   "image": "",
+   "date": "2026-11-04T20:58:19+00:00",
+   "iocs": "iocs/b8bdafeefd72.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+   "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+   "desc": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
+   "image": "",
+   "date": "2026-11-04T19:17:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+   "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+   "desc": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+   "image": "",
+   "date": "2026-11-04T19:05:19+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+   "link": "https://therecord.media/french-bank-confirms-cyber-heist",
+   "desc": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
+   "image": "",
+   "date": "2026-11-04T18:58:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
@@ -147,14 +213,6 @@
    "desc": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.",
    "image": "",
    "date": "2026-11-04T14:00:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "French blood service hit by Europe-wide cyberattacks on refrigeration",
-   "link": "https://therecord.media/france-cyberattack-blood-refrigeration",
-   "desc": "Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe.",
-   "image": "",
-   "date": "2026-11-04T13:45:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -381,14 +439,6 @@
    "date": "2026-11-03T20:05:50+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Google dismantles massive botnet hidden in Android TV boxes",
-   "link": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
-   "desc": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth device",
-   "image": "",
-   "date": "2026-11-03T19:48:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
    "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
@@ -405,14 +455,6 @@
    "desc": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passk",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvbYhodewxI1TOMjVp0GKUmMdudVKH27My8auvMEvDbCkd_JBzdJjjBb99j2a2a9R1wgkOaTdLcM_9FEmpyweVquFetLeyfzSC5UgpukK8Ukw7keJb5HwmTnPP1qWT2QzVX3FKLtBKLDFnuMrzmfgW5dwYf6SJHZHqSDj_eYGdap3ECOMMI1Em6_oS_0/s1600/msecure.jpg",
    "date": "2026-11-03T18:46:38+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
-   "link": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
-   "desc": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.",
-   "image": "",
-   "date": "2026-11-03T18:44:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -467,32 +509,6 @@
    "desc": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-03T15:35:50+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Barracuda warns of critical flaws allowing root access to devices",
-   "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-   "desc": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-   "image": "",
-   "date": "2026-11-03T15:06:16+00:00",
-   "iocs": "iocs/7a78f5e71c17.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-   "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-   "desc": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst re",
-   "image": "",
-   "date": "2026-11-03T15:00:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-   "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-   "desc": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-   "image": "",
-   "date": "2026-11-03T14:00:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -665,14 +681,6 @@
    "desc": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-10-30T20:05:58+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Behind the Scenes of How Operation Blackout Went Down",
-   "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-   "desc": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-30T19:46:08+00:00"
   },
   {
    "source": "Aikido",
@@ -1041,16 +1049,6 @@
    "desc": "Adversaries are turning the tools businesses trust into delivery mechanisms for malicious activity. Cisco Talos observed abuse of more than 25 legitimate platforms over the past year, exploiting the built-in trust of col",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/parasitizingtrust.jpg",
    "date": "2026-10-21T10:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "PHP2Shell: Critical PHP vulnerabilities, affected versions and fixes | CVE-2026-109618 and CVE-2026-109619",
-   "link": "https://www.aikido.dev/blog/critical-vulnerabilities-in-php-php2shell",
-   "desc": "A critical PHP vulnerability lets attackers run code remotely on unpatched servers. See affected versions, patches, mitigations and how to check your exposure. Two PHP RCE flaws (CVE-2026-109618, CVE-2026-109619) are bei",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad81b57a698f62913b5f8fa_PHP_Feature.jpg",
-   "date": "2026-10-21T01:54:00+00:00",
-   "iocs": "iocs/86a821a15fce.txt",
-   "ioc_count": 2
   },
   {
    "source": "Wiz Threats",
