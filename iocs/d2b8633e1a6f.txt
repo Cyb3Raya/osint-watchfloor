@@ -1,0 +1,12 @@
+IOC EXTRACTION - Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution
+Source: https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html
+Extracted: 2026-11-05 14:18:51 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-107441
+CVE-2026-7273

@@ -1,0 +1,19 @@
+IOC EXTRACTION - Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws
+Source: https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/
+Extracted: 2026-11-05 14:19:07 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-109593
+CVE-2026-109594
+CVE-2026-111497
+CVE-2026-121637
+CVE-2026-121638
+CVE-2026-121639
+CVE-2026-121640
+CVE-2026-76506
+CVE-2026-98432

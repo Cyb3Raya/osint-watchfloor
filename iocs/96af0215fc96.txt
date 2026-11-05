@@ -1,0 +1,12 @@
+IOC EXTRACTION - Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day
+Source: https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/
+Extracted: 2026-11-05 14:19:11 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-107441
+CVE-2026-7273
