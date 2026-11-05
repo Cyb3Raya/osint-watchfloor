@@ -1,9 +1,161 @@
 {
- "generated": "2026-11-05T14:19:19.962979+00:00",
+ "generated": "2026-11-05T21:08:11.425328+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+   "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+   "desc": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
+   "image": "",
+   "date": "2026-11-05T20:48:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+   "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+   "desc": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+   "image": "",
+   "date": "2026-11-05T20:15:08+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US issues more sanctions against Prince Group scam center affiliates",
+   "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+   "desc": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
+   "image": "",
+   "date": "2026-11-05T20:11:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+   "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+   "desc": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt601f7aa888c1b14c/6aecc62cf0c14cb22547f05a/phone_tete_escape_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-05T20:05:39+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+   "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+   "desc": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+   "image": "",
+   "date": "2026-11-05T19:24:26+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+   "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+   "desc": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
+   "image": "",
+   "date": "2026-11-05T19:15:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+   "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+   "desc": "Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_source.jpg",
+   "date": "2026-11-05T19:00:00+00:00",
+   "iocs": "iocs/7514b820fe7b.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+   "desc": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an ",
+   "image": "",
+   "date": "2026-11-05T17:45:29+00:00",
+   "iocs": "iocs/0104ffe0a06b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+   "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+   "desc": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first",
+   "image": "",
+   "date": "2026-11-05T17:32:37+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Deleting a leaked key from your repo doesn't protect you",
+   "link": "https://www.aikido.dev/blog/leaked-api-key-revoke-it-immediately",
+   "desc": "A leaked admin key on GitHub, deleted within hours, still led to a breach months later at LiteLLM. Learn why Git history keeps secrets and why you have to rotate. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aecb7d0f6173b15dc7e6d01_Deleting-your-key-from-repo-doesnt-protect-you_Feature.jpg",
+   "date": "2026-11-05T17:07:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+   "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+   "desc": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
+   "image": "",
+   "date": "2026-11-05T17:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+   "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+   "desc": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-05T16:48:36+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+   "desc": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+   "image": "",
+   "date": "2026-11-05T16:24:26+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "DigiCert data breach exposes customer information, identity documents",
+   "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+   "desc": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+   "image": "",
+   "date": "2026-11-05T16:12:46+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33492",
+   "desc": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt",
+   "image": "",
+   "date": "2026-11-05T15:29:08+00:00",
+   "iocs": "iocs/2993bb03a807.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Socket",
+   "title": "GitHub to Block pull_request_target Workflows by Default Starting December 2",
+   "link": "https://socket.dev/blog/github-to-block-pull-request-target?utm_medium=feed",
+   "desc": "GitHub is tightening GitHub Actions security with new restrictions on privileged pull request workflows. Here's what changes and how maintainers are affected.",
+   "image": "",
+   "date": "2026-11-05T15:01:39+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Closing the Identity Gap at the Service Desk",
+   "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+   "desc": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification m",
+   "image": "",
+   "date": "2026-11-05T15:00:10+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+   "desc": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach place",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg",
+   "date": "2026-11-05T14:41:10+00:00",
+   "iocs": "iocs/7d3fdba5d291.txt",
+   "ioc_count": 4
+  },
   {
    "source": "SecurityWeek",
    "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
@@ -167,14 +319,6 @@
    "date": "2026-11-05T00:00:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
-   "link": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
-   "desc": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operati",
-   "image": "",
-   "date": "2026-11-05T00:00:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
    "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -189,14 +333,6 @@
    "desc": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
    "image": "",
    "date": "2026-11-04T21:31:18+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-   "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-   "desc": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that buil",
-   "image": "",
-   "date": "2026-11-04T21:30:00+00:00"
   },
   {
    "source": "Aikido",
@@ -217,28 +353,12 @@
    "ioc_count": 2
   },
   {
-   "source": "RF The Record",
-   "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-   "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-   "desc": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
-   "image": "",
-   "date": "2026-11-04T19:17:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
    "desc": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
    "image": "",
    "date": "2026-11-04T19:05:19+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-   "link": "https://therecord.media/french-bank-confirms-cyber-heist",
-   "desc": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
-   "image": "",
-   "date": "2026-11-04T18:58:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -343,16 +463,6 @@
    "ioc_count": 13
   },
   {
-   "source": "SecurityWeek",
-   "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-   "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-   "desc": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first o",
-   "image": "",
-   "date": "2026-11-04T14:24:54+00:00",
-   "iocs": "iocs/2765c964a020.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Dark Reading",
    "title": "Incidents Move Too Fast for Pen &amp; Paper",
    "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
@@ -369,24 +479,6 @@
    "date": "2026-11-04T13:24:13+00:00",
    "iocs": "iocs/a560b2ea40ec.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "US charges two Canadians accused of hacking US universities",
-   "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-   "desc": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-   "image": "",
-   "date": "2026-11-04T13:13:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-   "desc": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-   "image": "",
-   "date": "2026-11-04T12:11:05+00:00",
-   "iocs": "iocs/c401bb54ceff.txt",
-   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
@@ -417,26 +509,6 @@
    "date": "2026-11-04T11:34:20+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-   "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-   "desc": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surv",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg",
-   "date": "2026-11-04T11:24:31+00:00",
-   "iocs": "iocs/73251ea6fbbb.txt",
-   "ioc_count": 7
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-   "desc": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-   "image": "",
-   "date": "2026-11-04T09:39:54+00:00",
-   "iocs": "iocs/e3fd45fd3e30.txt",
-   "ioc_count": 8
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
    "link": "https://isc.sans.edu/diary/rss/33486",
@@ -461,14 +533,6 @@
    "date": "2026-11-04T01:05:40+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-   "desc": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-   "image": "",
-   "date": "2026-11-03T22:18:50+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
    "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
@@ -483,22 +547,6 @@
    "desc": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ae3fcc30ff2f999/6aea3f3225b8d120f9a7b718/investment_on_computer-ilkercelik-GettyImages-2239174783.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-03T21:57:12+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-   "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-   "desc": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-   "image": "",
-   "date": "2026-11-03T21:28:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-   "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-   "desc": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.",
-   "image": "",
-   "date": "2026-11-03T20:05:50+00:00"
   },
   {
    "source": "Socket",
@@ -673,30 +721,6 @@
    "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1 is a bugfix version, it brings 2 bugfixes.&#xd;",
    "image": "",
    "date": "2026-10-31T10:48:17+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33454",
-   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.&#xd;",
-   "image": "",
-   "date": "2026-10-31T10:45:40+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Investors Dish on New Startups &amp; What They'd Back Next",
-   "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
-   "desc": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bfb23bb01b12a77/6ae89a88a47bac182d509a42/DataTribe_Challenge.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-30T21:08:25+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-   "desc": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-10-30T20:05:58+00:00"
   },
   {
    "source": "Aikido",
@@ -937,14 +961,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Socket",
-   "title": "Cloudflare Introduces a Faster TypeScript Compiler Written in Rust",
-   "link": "https://socket.dev/blog/cloudflare-typescript-rust?utm_medium=feed",
-   "desc": "Cloudflare introduces tsrs, a Rust port of TypeScript’s compiler promising faster checks and lower memory use, with the TypeScript team’s help.",
-   "image": "",
-   "date": "2026-10-23T14:34:56+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497)",
    "link": "https://www.aikido.dev/blog/node2shell-nodejs-brotli-rce-cve-2026-111497",
@@ -1039,16 +1055,6 @@
    "desc": "This guide walks through supply chain security best practices that would have stopped the attacks of the past 18 months. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-21T13:25:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "LiteLLM compromised again: infostealer and RAT found in version 1.107.0",
-   "link": "https://www.aikido.dev/blog/litellm-compromised-infostealer-rat",
-   "desc": "LiteLLM 1.107.0 contains an infostealer and RAT, and PyPI has quarantined the package. See if you’re affected, what it steals, and what to rotate. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad8bc6fac6f6d6261a0bf1b_LiteLLM_compromise.jpg",
-   "date": "2026-10-21T13:05:00+00:00",
-   "iocs": "iocs/4bd24ee62093.txt",
-   "ioc_count": 13
   },
   {
    "source": "Cisco Talos",
@@ -1247,16 +1253,6 @@
    "desc": "A wave of cyberattacks targeting organizations in Japan and financial institutions in South Korea has resulted in widespread data exposure and prompted urgent government responses. In Japan, more than 20 major companies ",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-10-10T00:00:00+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Making sure the checks get printed",
-   "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-   "desc": "Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source.jpg",
-   "date": "2026-10-08T18:00:29+00:00",
-   "iocs": "iocs/d423319925cc.txt",
-   "ioc_count": 6
   },
   {
    "source": "Unit 42",

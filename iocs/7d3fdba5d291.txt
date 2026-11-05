@@ -1,0 +1,17 @@
+IOC EXTRACTION - ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories
+Source: https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
+Extracted: 2026-11-05 21:07:37 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-103916
+CVE-2026-109928
+CVE-2026-68524
+
+IPv4 (1)
+----------------------------------------
+199[.]19[.]77[.]84

@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenSSH flaw lets attackers log into password-disabled Linux accounts
+Source: https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/
+Extracted: 2026-11-05 21:07:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2016-6210
