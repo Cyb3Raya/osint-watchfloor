@@ -1,9 +1,45 @@
 {
- "generated": "2026-11-06T01:38:25.488672+00:00",
+ "generated": "2026-11-06T08:30:27.110239+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+   "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+   "desc": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes comm",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
+   "date": "2026-11-06T05:58:54+00:00",
+   "iocs": "iocs/97fd8de188fc.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+   "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+   "desc": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, an",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg",
+   "date": "2026-11-06T05:39:10+00:00",
+   "iocs": "iocs/985aa680f8ad.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+   "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+   "desc": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to S",
+   "image": "",
+   "date": "2026-11-06T03:03:29+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33494",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-06T02:00:02+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
@@ -489,24 +525,6 @@
    "date": "2026-11-04T16:00:18+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-   "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-   "desc": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on Secu",
-   "image": "",
-   "date": "2026-11-04T14:34:44+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-   "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-   "desc": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg",
-   "date": "2026-11-04T14:27:52+00:00",
-   "iocs": "iocs/f4b7ff866caa.txt",
-   "ioc_count": 13
-  },
-  {
    "source": "Dark Reading",
    "title": "Incidents Move Too Fast for Pen &amp; Paper",
    "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
@@ -522,16 +540,6 @@
    "image": "",
    "date": "2026-11-04T13:24:13+00:00",
    "iocs": "iocs/a560b2ea40ec.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-   "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-   "desc": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg",
-   "date": "2026-11-04T12:07:04+00:00",
-   "iocs": "iocs/eeeb8b0c17d4.txt",
    "ioc_count": 1
   },
   {
@@ -723,14 +731,6 @@
    "desc": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.&#xd;",
    "image": "",
    "date": "2026-10-31T10:52:53+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
-   "link": "https://isc.sans.edu/diary/rss/33474",
-   "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.1 is a bugfix version, it brings 2 bugfixes.&#xd;",
-   "image": "",
-   "date": "2026-10-31T10:48:17+00:00"
   },
   {
    "source": "Aikido",

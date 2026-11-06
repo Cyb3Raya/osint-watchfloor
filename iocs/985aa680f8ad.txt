@@ -1,0 +1,13 @@
+IOC EXTRACTION - Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login
+Source: https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html
+Extracted: 2026-11-06 08:30:07 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2023-2868
+CVE-2026-111560
+CVE-2026-116606
