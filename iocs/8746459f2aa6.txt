@@ -1,0 +1,12 @@
+IOC EXTRACTION - Even gem list can run someone else's code
+Source: https://www.aikido.dev/blog/gem-list-runs-someone-elses-code
+Extracted: 2026-11-06 01:38:25 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111497
+CVE-2026-98432

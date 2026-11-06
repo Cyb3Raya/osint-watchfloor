@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux
+Source: https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
+Extracted: 2026-11-06 01:38:00 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2016-6210

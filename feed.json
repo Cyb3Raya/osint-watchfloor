@@ -1,9 +1,49 @@
 {
- "generated": "2026-11-05T21:08:11.425328+00:00",
+ "generated": "2026-11-06T01:38:25.488672+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "desc": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+   "image": "",
+   "date": "2026-11-06T00:56:44+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+   "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+   "desc": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
+   "image": "",
+   "date": "2026-11-05T22:08:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+   "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+   "desc": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6ea448209c5a17d/6aece801ba5b3c3c708d8893/_gov-PashalIgnatov-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-05T21:35:05+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+   "desc": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and au",
+   "image": "",
+   "date": "2026-11-05T21:30:30+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+   "desc": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt431c72a149154279/6aecd7076d111e8012a4d417/phishingtest-juststock-Getty-2193049867.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-05T21:00:47+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
@@ -11,6 +51,16 @@
    "desc": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
    "image": "",
    "date": "2026-11-05T20:48:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Even gem list can run someone else's code",
+   "link": "https://www.aikido.dev/blog/gem-list-runs-someone-elses-code",
+   "desc": "Ruby gems can run code on install and on every gem command, even gem list. Check for four data-exfiltrating gems and turn off install-time execution. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aece79e965b18595b4c3fb9_Ruby_Feature.jpg",
+   "date": "2026-11-05T20:30:00+00:00",
+   "iocs": "iocs/8746459f2aa6.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -103,6 +153,26 @@
    "desc": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
    "date": "2026-11-05T16:48:36+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+   "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+   "desc": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, an",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
+   "date": "2026-11-05T16:42:46+00:00",
+   "iocs": "iocs/90a9e74aa19b.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "desc": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif",
+   "date": "2026-11-05T16:42:32+00:00",
+   "iocs": "iocs/dd9d10ec6193.txt",
+   "ioc_count": 1
   },
   {
    "source": "BleepingComputer",
@@ -311,14 +381,6 @@
    "date": "2026-11-05T04:36:17+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-   "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-   "desc": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been ",
-   "image": "",
-   "date": "2026-11-05T00:00:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
    "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -427,24 +489,6 @@
    "date": "2026-11-04T16:00:18+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-   "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-   "desc": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the att",
-   "image": "",
-   "date": "2026-11-04T15:00:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-   "desc": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-   "image": "",
-   "date": "2026-11-04T14:42:25+00:00",
-   "iocs": "iocs/803d0b274cc6.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "SecurityWeek",
    "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
    "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
@@ -489,24 +533,6 @@
    "date": "2026-11-04T12:07:04+00:00",
    "iocs": "iocs/eeeb8b0c17d4.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-   "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-   "desc": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg",
-   "date": "2026-11-04T11:46:27+00:00",
-   "iocs": "iocs/a60c29c498ad.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-   "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-   "desc": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif",
-   "date": "2026-11-04T11:34:20+00:00"
   },
   {
    "source": "SANS ISC",
@@ -625,14 +651,6 @@
    "date": "2026-11-02T22:27:24+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Microsoft's AI Risk Report Misses This Key Detail",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
-   "desc": "The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt569484121108a889/6ae4e02ada596cc80722963c/AI-Saksit_Sangtong-Getty-2225595754.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-02T15:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
    "link": "https://isc.sans.edu/diary/rss/33482",
@@ -641,14 +659,6 @@
    "date": "2026-11-02T14:52:05+00:00",
    "iocs": "iocs/ab6c034f8492.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
-   "desc": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5084e1dd5e7db648/6ae882291b7efb363cec70fb/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-02T14:00:00+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1047,14 +1057,6 @@
    "date": "2026-10-21T14:00:24+00:00",
    "iocs": "iocs/51c757f2640a.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Aikido",
-   "title": "Software supply chain security best practices for 2026",
-   "link": "https://www.aikido.dev/blog/software-supply-chain-security-best-practices",
-   "desc": "This guide walks through supply chain security best practices that would have stopped the attacks of the past 18 months. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-10-21T13:25:00+00:00"
   },
   {
    "source": "Cisco Talos",

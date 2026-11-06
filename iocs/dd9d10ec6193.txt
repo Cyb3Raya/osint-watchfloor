@@ -1,0 +1,11 @@
+IOC EXTRACTION - Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction
+Source: https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
+Extracted: 2026-11-06 01:38:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+chatgpt[.]com
