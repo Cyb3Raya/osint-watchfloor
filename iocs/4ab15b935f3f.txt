@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits
+Source: https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html
+Extracted: 2026-11-06 21:36:50 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-111497

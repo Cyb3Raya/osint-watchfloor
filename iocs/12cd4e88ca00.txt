@@ -1,0 +1,23 @@
+IOC EXTRACTION - Shai-Hulud Descendant Surfaces in Malicious Ruby Gem That Steals Credentials and Poisons AI Tools
+Source: https://socket.dev/blog/shai-hulud-descendant-malicious-ruby-gem?utm_medium=feed
+Extracted: 2026-11-06 21:37:23 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (2)
+----------------------------------------
+hxxps://paleasbest[.]top/v1/api
+hxxps://rubygems[.]org/api/v1/gems
+
+SHA256 (8)
+----------------------------------------
+239ccc192a95f4668f2744d28d49569fa3efb8e3d6073cb461201fe36dd14860
+306c1deec402e8b4a6478e7f0fe02194bcd224d37d8fc6ba61ad1951e8abd7a9
+3b3f6e1bde0b28b015030a81a6d805b5b5306dc3f021e1102123971cfd83acc0
+66c1c6b6b2c47e96fa5fd328338b939e1360511ab5eb2dda6d9112f592259d6b
+c5264f3b9cf2f95c83a70b7dd7430aab8abc262b853dbbcd5386c3a8a9c74769
+c78daf27c42c3929758b24c2ef0baf65eea81b26b0fddfe8a5b748672d40d5f5
+c7ef186aa59b67d9b198a14f6dc8aaee6dd86510ac7c37d28f65d310cd846411
+e29a5319888319b51345ab8e3e009938ee5c2b9ae5d6bdd053f4f44c98f309d3

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time
+Source: https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
+Extracted: 2026-11-06 21:36:48 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-119977

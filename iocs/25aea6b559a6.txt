@@ -1,0 +1,14 @@
+IOC EXTRACTION - QNAP says hackers breaching NAS devices in Plex2Shell attacks
+Source: https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/
+Extracted: 2026-11-06 21:36:54 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-96652
+CVE-2026-96654
+CVE-2026-96655
+CVE-2026-96656

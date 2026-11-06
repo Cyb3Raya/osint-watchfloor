@@ -1,0 +1,11 @@
+IOC EXTRACTION - Free Certified Patch for Critical Rails Active Storage Vulnerability
+Source: https://socket.dev/blog/rails-active-storage-patch?utm_medium=feed
+Extracted: 2026-11-06 21:37:21 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+8[.]1[.]4[.]1

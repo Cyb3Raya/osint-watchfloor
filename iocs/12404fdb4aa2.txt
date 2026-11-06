@@ -1,0 +1,16 @@
+IOC EXTRACTION - Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot
+Source: https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+Extracted: 2026-11-06 21:36:49 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2016-6210
+CVE-2026-123158
+
+IPv4 (1)
+----------------------------------------
+89[.]116[.]89[.]18

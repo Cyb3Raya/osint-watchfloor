@@ -1,9 +1,113 @@
 {
- "generated": "2026-11-06T16:15:30.097677+00:00",
+ "generated": "2026-11-06T21:37:23.919798+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+   "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
+   "desc": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared fir",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/06_Myth-Busting_Category_1505x922.jpg",
+   "date": "2026-11-06T21:15:09+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Free Certified Patch for Critical Rails Active Storage Vulnerability",
+   "link": "https://socket.dev/blog/rails-active-storage-patch?utm_medium=feed",
+   "desc": "Socket has released a free Certified Patch for a critical Rails Active Storage vulnerability, giving developers time to upgrade to a secure Rails version.",
+   "image": "",
+   "date": "2026-11-06T20:40:46+00:00",
+   "iocs": "iocs/1a9fbceb8109.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+   "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+   "desc": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..",
+   "image": "",
+   "date": "2026-11-06T20:24:19+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+   "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+   "desc": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
+   "image": "",
+   "date": "2026-11-06T19:06:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Certificate authority DigiCert reports data breach involving business customer info",
+   "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+   "desc": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
+   "image": "",
+   "date": "2026-11-06T18:56:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Fake security tools on GitHub push backdoors and infostealers",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+   "desc": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+   "image": "",
+   "date": "2026-11-06T18:46:52+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+   "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+   "desc": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergen",
+   "image": "",
+   "date": "2026-11-06T18:28:41+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Gave Your Incident Archive a Second Job",
+   "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+   "desc": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-06T18:27:30+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Shai-Hulud Descendant Surfaces in Malicious Ruby Gem That Steals Credentials and Poisons AI Tools",
+   "link": "https://socket.dev/blog/shai-hulud-descendant-malicious-ruby-gem?utm_medium=feed",
+   "desc": "A malicious Ruby gem runs a credential-stealing worm during installation, poisons AI coding tools, and can wipe files when a stolen GitHub token is revoked.",
+   "image": "",
+   "date": "2026-11-06T17:11:11+00:00",
+   "iocs": "iocs/12cd4e88ca00.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "desc": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+   "image": "",
+   "date": "2026-11-06T17:04:23+00:00",
+   "iocs": "iocs/25aea6b559a6.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
+   "link": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+   "desc": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurren",
+   "image": "",
+   "date": "2026-11-06T16:53:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+   "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+   "desc": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg",
+   "date": "2026-11-06T16:08:38+00:00",
+   "iocs": "iocs/319e7df558d1.txt",
+   "ioc_count": 1
+  },
   {
    "source": "BleepingComputer",
    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
@@ -15,12 +119,32 @@
    "ioc_count": 1
   },
   {
+   "source": "The Hacker News",
+   "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+   "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+   "desc": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg",
+   "date": "2026-11-06T15:21:49+00:00",
+   "iocs": "iocs/12404fdb4aa2.txt",
+   "ioc_count": 3
+  },
+  {
    "source": "BleepingComputer",
    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
    "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
    "desc": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
    "image": "",
    "date": "2026-11-06T15:00:10+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+   "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+   "desc": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
+   "date": "2026-11-06T14:58:32+00:00",
+   "iocs": "iocs/4ab15b935f3f.txt",
+   "ioc_count": 1
   },
   {
    "source": "SecurityWeek",
@@ -229,14 +353,6 @@
    "date": "2026-11-06T00:00:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-   "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-   "desc": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
-   "image": "",
-   "date": "2026-11-05T22:08:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "US Government Email Systems Open to Abuse Thanks to Typos",
    "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
@@ -261,14 +377,6 @@
    "date": "2026-11-05T21:00:47+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-   "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-   "desc": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
-   "image": "",
-   "date": "2026-11-05T20:48:00+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Even gem list can run someone else's code",
    "link": "https://www.aikido.dev/blog/gem-list-runs-someone-elses-code",
@@ -285,14 +393,6 @@
    "desc": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
    "image": "",
    "date": "2026-11-05T20:15:08+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "US issues more sanctions against Prince Group scam center affiliates",
-   "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-   "desc": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
-   "image": "",
-   "date": "2026-11-05T20:11:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -329,14 +429,6 @@
    "date": "2026-11-05T17:45:29+00:00",
    "iocs": "iocs/0104ffe0a06b.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
-   "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
-   "desc": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first",
-   "image": "",
-   "date": "2026-11-05T17:32:37+00:00"
   },
   {
    "source": "Aikido",
@@ -409,14 +501,6 @@
    "date": "2026-11-05T15:01:39+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Closing the Identity Gap at the Service Desk",
-   "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-   "desc": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification m",
-   "image": "",
-   "date": "2026-11-05T15:00:10+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
    "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
@@ -459,40 +543,6 @@
    "date": "2026-11-05T10:06:19+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-   "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-   "desc": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-   "image": "",
-   "date": "2026-11-05T09:18:29+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-   "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-   "desc": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users shar",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg",
-   "date": "2026-11-05T09:13:28+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-   "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-   "desc": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg",
-   "date": "2026-11-05T08:42:03+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-   "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-   "desc": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a swit",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg",
-   "date": "2026-11-05T07:06:33+00:00",
-   "iocs": "iocs/d2b8633e1a6f.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Krebs on Security",
    "title": "Want to Rent an Internet Address at the White House?",
    "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -507,14 +557,6 @@
    "desc": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1200a12331479a63/6aeb910a69108565761c02f3/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-04T21:48:18+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Vercel rolls out new protection against stolen session cookie attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-   "desc": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-   "image": "",
-   "date": "2026-11-04T21:31:18+00:00"
   },
   {
    "source": "Aikido",
@@ -607,14 +649,6 @@
    "desc": "Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt73242ae0d40b68c0/6aea0c8226a0725a0631618d/maze-mikkelwilliam-GettyImages-1420679447.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-03T15:38:20+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
-   "link": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-   "desc": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-03T15:35:50+00:00"
   },
   {
    "source": "Socket",
@@ -907,32 +941,12 @@
    "date": "2026-10-26T22:14:49+00:00"
   },
   {
-   "source": "Socket",
-   "title": "eMudhra, Brotli, and the Long Tail of a Security Fix",
-   "link": "https://socket.dev/blog/emudhra-brotli-security-fix?utm_medium=feed",
-   "desc": "Fixes for eMudhra and Brotli are out. Getting them everywhere they’re needed means tracking down bundled libraries, runtimes, and certificate stores.",
-   "image": "",
-   "date": "2026-10-26T21:18:47+00:00",
-   "iocs": "iocs/5e82bdf60b4b.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Aikido",
    "title": "Adding Aikido AI pentesting to your existing security stack",
    "link": "https://www.aikido.dev/blog/ai-pentesting-existing-security-stack",
    "desc": "Aikido Security's AI pentesting fits into the stack you already run. You can add AI pentesting on top to catch the complex logic flaws deterministic tools miss. Category: Guides & Best Practices",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ac7e3fbbf2c331900c15793_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-10-24T19:46:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "New Evidence Shows LiteLLM Secret-Stealing Workflows Ran 11 Days Before Supply Chain Attack",
-   "link": "https://socket.dev/blog/litellm-attack-timeline?utm_medium=feed",
-   "desc": "Socket uncovered secret-stealing workflows that ran in LiteLLM’s GitHub repository 11 days before the supply chain attack on PyPI and Docker.",
-   "image": "",
-   "date": "2026-10-23T21:00:31+00:00",
-   "iocs": "iocs/b10aa3690548.txt",
-   "ioc_count": 4
   },
   {
    "source": "Aikido",
@@ -1305,16 +1319,6 @@
    "date": "2026-09-29T14:00:00+00:00",
    "iocs": "iocs/8ae589a85d81.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Unit 42",
-   "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
-   "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
-   "desc": "We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture a",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/AdobeStock_652069707-1.jpg",
-   "date": "2026-09-29T10:00:48+00:00",
-   "iocs": "iocs/c54dc6688854.txt",
-   "ioc_count": 3
   },
   {
    "source": "Krebs on Security",
