@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It
+Source: https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html
+Extracted: 2026-11-06 16:14:48 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-83844

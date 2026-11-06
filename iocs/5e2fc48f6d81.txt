@@ -1,0 +1,11 @@
+IOC EXTRACTION - OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass
+Source: https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/
+Extracted: 2026-11-06 16:15:23 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-123158

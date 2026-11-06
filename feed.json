@@ -1,9 +1,181 @@
 {
- "generated": "2026-11-06T08:30:27.110239+00:00",
+ "generated": "2026-11-06T16:15:30.097677+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+   "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+   "desc": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+   "image": "",
+   "date": "2026-11-06T15:25:31+00:00",
+   "iocs": "iocs/ea5950eadcc7.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+   "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+   "desc": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+   "image": "",
+   "date": "2026-11-06T15:00:10+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+   "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+   "desc": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bill",
+   "image": "",
+   "date": "2026-11-06T14:40:09+00:00",
+   "iocs": "iocs/a0294f2736ba.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+   "link": "https://therecord.media/ceo-spoofing-scammers-charged",
+   "desc": "The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations.",
+   "image": "",
+   "date": "2026-11-06T14:30:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Chainalysis says breach exposed credentials for all customers",
+   "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+   "desc": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+   "image": "",
+   "date": "2026-11-06T14:17:07+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "DigiCert Data Breach Impacts Business Customer Information",
+   "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+   "desc": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityW",
+   "image": "",
+   "date": "2026-11-06T14:00:07+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+   "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+   "desc": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt888d802e435faf7a/6aecff1baf87734cefe9fe4c/Supermarket_freezer_aise-bernardbodo-GettyImages-1393629140.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-06T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+   "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+   "desc": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared fir",
+   "image": "",
+   "date": "2026-11-06T13:19:52+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+   "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+   "desc": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-06T13:02:26+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+   "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+   "desc": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeare",
+   "image": "",
+   "date": "2026-11-06T12:47:55+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+   "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+   "desc": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+   "image": "",
+   "date": "2026-11-06T12:37:22+00:00",
+   "iocs": "iocs/25cfeb7476a4.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Researchers Find Residential Proxies on White House Network",
+   "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+   "desc": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-06T12:16:13+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+   "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+   "desc": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass appeared first on Secu",
+   "image": "",
+   "date": "2026-11-06T12:07:42+00:00",
+   "iocs": "iocs/5e2fc48f6d81.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+   "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+   "desc": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg",
+   "date": "2026-11-06T12:06:43+00:00",
+   "iocs": "iocs/0b7161df55d9.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+   "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+   "desc": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2RWGFxPYdzFDr1Tl0G6604dLCacXJDMaR-i0nSdrR7vBGgK-lUkZbE5eZYMbWO0Geqw_rDbN2qUkWpEadukl6gccv-xuUWJfEOx2_FWFiZxjVs4uNPiRK3JYOBo0QI1Lx08xd9Iz3-8TFN_kf-njbCQ-AFDcLNNRy6JcwsZyoM12qLt99OzNQNhmaGs/s1600/claude-dispatch.jpg",
+   "date": "2026-11-06T12:06:35+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "The Flood is Coming And The Pipes Were Already Full",
+   "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+   "desc": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at wha",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRlCxdfW4sb5-1zEBHpFyJfxetSva89fr67wc8zSfvidW5W4KQKckoTrRxOAUbjM94U2ydFjiXybLJPrp6pm1V-WUuC4IpkJjhIT56OG8go8E_8fR8cK-llV0UtXdRIxZS5XxuVwEbRj1G_zAErMjpkMHVdzkGBQrB46VErPyE7MBaW6sj0N64pRd3_A/s1600/FLOOD.jpg",
+   "date": "2026-11-06T11:30:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+   "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+   "desc": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appea",
+   "image": "",
+   "date": "2026-11-06T09:33:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+   "desc": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+   "image": "",
+   "date": "2026-11-06T09:22:28+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+   "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+   "desc": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1a5d5b4d8cd4518/6aeca4d40d4c553177f0d3a4/UK_parliament-georgeclerk-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-06T09:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+   "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+   "desc": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg",
+   "date": "2026-11-06T08:04:49+00:00",
+   "iocs": "iocs/a3b94f1fb170.txt",
+   "ioc_count": 5
+  },
   {
    "source": "The Hacker News",
    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
@@ -47,6 +219,14 @@
    "desc": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
    "image": "",
    "date": "2026-11-06T00:56:44+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
+   "link": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
+   "desc": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.",
+   "image": "",
+   "date": "2026-11-06T00:00:00+00:00"
   },
   {
    "source": "RF The Record",
@@ -131,14 +311,6 @@
    "date": "2026-11-05T19:24:26+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
-   "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
-   "desc": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
-   "image": "",
-   "date": "2026-11-05T19:15:00+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
    "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
@@ -173,14 +345,6 @@
    "desc": "A leaked admin key on GitHub, deleted within hours, still led to a breach months later at LiteLLM. Learn why Git history keeps secrets and why you have to rotate. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aecb7d0f6173b15dc7e6d01_Deleting-your-key-from-repo-doesnt-protect-you_Feature.jpg",
    "date": "2026-11-05T17:07:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
-   "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
-   "desc": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
-   "image": "",
-   "date": "2026-11-05T17:00:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -263,32 +427,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SecurityWeek",
-   "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
-   "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-   "desc": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake &#8216;Suspended&#8217; Pages to Evade Takedowns appeared first on Securi",
-   "image": "",
-   "date": "2026-11-05T13:22:12+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-   "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-   "desc": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but N",
-   "image": "",
-   "date": "2026-11-05T12:58:32+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
-   "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
-   "desc": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-05T12:33:49+00:00",
-   "iocs": "iocs/daf3a48822a0.txt",
-   "ioc_count": 9
-  },
-  {
    "source": "The Hacker News",
    "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
    "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
@@ -313,56 +451,12 @@
    "date": "2026-11-05T11:25:11+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "The Agent Smith Dilemma: Governing Agentic Identities",
-   "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
-   "desc": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-05T11:15:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
-   "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
-   "desc": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality ",
-   "image": "",
-   "date": "2026-11-05T11:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-   "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-   "desc": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared f",
-   "image": "",
-   "date": "2026-11-05T10:56:41+00:00",
-   "iocs": "iocs/96af0215fc96.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
-   "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
-   "desc": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on",
-   "image": "",
-   "date": "2026-11-05T10:37:13+00:00",
-   "iocs": "iocs/44bf9ca7bef2.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "The Hacker News",
    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
    "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
    "desc": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campai",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg",
    "date": "2026-11-05T10:06:19+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-   "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-   "desc": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit T",
-   "image": "",
-   "date": "2026-11-05T10:02:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -399,16 +493,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-   "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, followi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
-   "date": "2026-11-05T05:17:04+00:00",
-   "iocs": "iocs/16bf85bfb533.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Krebs on Security",
    "title": "Want to Rent an Internet Address at the White House?",
    "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -441,88 +525,12 @@
    "date": "2026-11-04T21:06:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-   "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-   "desc": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-   "image": "",
-   "date": "2026-11-04T20:58:19+00:00",
-   "iocs": "iocs/b8bdafeefd72.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-   "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-   "desc": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-   "image": "",
-   "date": "2026-11-04T19:05:19+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-   "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-   "desc": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-   "image": "",
-   "date": "2026-11-04T18:02:56+00:00",
-   "iocs": "iocs/324db880e2c4.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-   "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-   "desc": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&n",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg",
-   "date": "2026-11-04T17:00:46+00:00",
-   "iocs": "iocs/f72f567cab23.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-   "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-   "desc": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg",
-   "date": "2026-11-04T17:00:38+00:00",
-   "iocs": "iocs/28cc7a562c85.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-   "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-   "desc": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency walle",
-   "image": "",
-   "date": "2026-11-04T16:58:46+00:00",
-   "iocs": "iocs/94833255da64.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Dark Reading",
    "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
    "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-   "desc": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+   "desc": "Android device manufacturer Videostrong allegedly ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40a50320ed3d3a77/6aeb310312acd3feff711f6e/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
    "date": "2026-11-04T16:24:08+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-   "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-   "desc": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI ga",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg",
-   "date": "2026-11-04T16:06:43+00:00",
-   "iocs": "iocs/049f0818282a.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "mSecure password manager hack prompts password reset warnings",
-   "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-   "desc": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted cust",
-   "image": "",
-   "date": "2026-11-04T16:00:18+00:00"
   },
   {
    "source": "Dark Reading",
@@ -562,7 +570,7 @@
    "source": "Dark Reading",
    "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
    "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-   "desc": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
+   "desc": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt004492645b5f1d7e/6aeb2df8c949f4112a250228/yubikey-Formatoriginal-alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-04T01:05:40+00:00"
   },
@@ -609,14 +617,6 @@
    "date": "2026-11-03T15:35:50+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-   "link": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-   "desc": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta280e1d9bd26c729/6ae8fcfdb20def7a8ae983ea/school_front-YinYang-GettyImages-157476686.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-03T14:00:00+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Composer 2.11 Adds Dependency Cooldowns",
    "link": "https://socket.dev/blog/composer-dependency-cooldowns?utm_medium=feed",
@@ -649,14 +649,6 @@
    "date": "2026-11-02T23:00:45+00:00",
    "iocs": "iocs/9f7f463866df.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-   "desc": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a6c898e92d21e63/6ae8ffda91cb5739c41bd1e1/binance_creativetan_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-02T22:27:24+00:00"
   },
   {
    "source": "SANS ISC",

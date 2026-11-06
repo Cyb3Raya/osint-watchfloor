@@ -1,0 +1,11 @@
+IOC EXTRACTION - D-Link warns of multiple zero-days in DGS-3130 Series switches
+Source: https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/
+Extracted: 2026-11-06 16:14:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-86296

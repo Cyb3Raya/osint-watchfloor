@@ -1,0 +1,18 @@
+IOC EXTRACTION - Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services
+Source: https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+Extracted: 2026-11-06 16:14:52 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+199[.]19[.]77[.]18
+199[.]19[.]77[.]84
+23[.]106[.]46[.]239
+
+Domains (2)
+----------------------------------------
+llm-routing[.]com
+xingjiabiapi[.]org
