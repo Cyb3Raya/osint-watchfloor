@@ -1,0 +1,12 @@
+IOC EXTRACTION - APT29's Watering Holes Target Thousands of Mobile Users
+Source: https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users
+Extracted: 2026-11-07 07:17:46 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2024-27834
+CVE-2025-43529

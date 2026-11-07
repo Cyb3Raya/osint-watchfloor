@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T01:12:16.605498+00:00",
+ "generated": "2026-11-07T07:17:56.406995+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
@@ -434,7 +434,9 @@
    "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
    "desc": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt601f7aa888c1b14c/6aecc62cf0c14cb22547f05a/phone_tete_escape_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-05T20:05:39+00:00"
+   "date": "2026-11-05T20:05:39+00:00",
+   "iocs": "iocs/09d02629fc90.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
