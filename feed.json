@@ -1,9 +1,35 @@
 {
- "generated": "2026-11-06T21:37:23.919798+00:00",
+ "generated": "2026-11-07T01:12:16.605498+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "desc": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "image": "",
+   "date": "2026-11-07T00:00:55+00:00",
+   "iocs": "iocs/3851f16593ec.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "desc": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten",
+   "image": "",
+   "date": "2026-11-06T22:27:25+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+   "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+   "desc": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-06T21:27:36+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
@@ -354,6 +380,14 @@
   },
   {
    "source": "Dark Reading",
+   "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+   "desc": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras açõ",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-05T22:13:23+00:00"
+  },
+  {
+   "source": "Dark Reading",
    "title": "US Government Email Systems Open to Abuse Thanks to Typos",
    "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
    "desc": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
@@ -465,22 +499,6 @@
    "date": "2026-11-05T16:42:32+00:00",
    "iocs": "iocs/dd9d10ec6193.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "desc": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-   "image": "",
-   "date": "2026-11-05T16:24:26+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "DigiCert data breach exposes customer information, identity documents",
-   "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-   "desc": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-   "image": "",
-   "date": "2026-11-05T16:12:46+00:00"
   },
   {
    "source": "SANS ISC",
@@ -625,14 +643,6 @@
    "date": "2026-11-03T22:16:49+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-   "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-   "desc": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ae3fcc30ff2f999/6aea3f3225b8d120f9a7b718/investment_on_computer-ilkercelik-GettyImages-2239174783.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-03T21:57:12+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Hardening GitHub Actions Against Outside Threats",
    "link": "https://socket.dev/blog/hardening-github-actions-against-outside-threats?utm_medium=feed",
@@ -641,14 +651,6 @@
    "date": "2026-11-03T17:41:44+00:00",
    "iocs": "iocs/68736af426e3.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "Dark Reading",
-   "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-   "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-   "desc": "Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt73242ae0d40b68c0/6aea0c8226a0725a0631618d/maze-mikkelwilliam-GettyImages-1420679447.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-03T15:38:20+00:00"
   },
   {
    "source": "Socket",

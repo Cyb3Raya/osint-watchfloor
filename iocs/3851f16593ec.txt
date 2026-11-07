@@ -1,0 +1,12 @@
+IOC EXTRACTION - SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/
+Extracted: 2026-11-07 01:11:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102255
+CVE-2026-19868
