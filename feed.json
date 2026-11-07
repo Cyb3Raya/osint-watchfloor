@@ -1,9 +1,27 @@
 {
- "generated": "2026-11-07T07:17:56.406995+00:00",
+ "generated": "2026-11-07T14:11:19.115932+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+   "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+   "desc": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appe",
+   "image": "",
+   "date": "2026-11-07T10:16:23+00:00",
+   "iocs": "iocs/829cfb61faa6.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "desc": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's A",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
+   "date": "2026-11-07T06:44:17+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -347,14 +365,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SecurityWeek",
-   "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-   "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-   "desc": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to S",
-   "image": "",
-   "date": "2026-11-06T03:03:29+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
    "link": "https://isc.sans.edu/diary/rss/33494",
@@ -553,14 +563,6 @@
    "desc": "",
    "image": "",
    "date": "2026-11-05T11:25:11+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-   "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-   "desc": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campai",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg",
-   "date": "2026-11-05T10:06:19+00:00"
   },
   {
    "source": "Krebs on Security",

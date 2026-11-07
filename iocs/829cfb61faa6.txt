@@ -1,0 +1,12 @@
+IOC EXTRACTION - SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins
+Source: https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/
+Extracted: 2026-11-07 14:11:15 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-102255
+CVE-2026-19868
