@@ -1,0 +1,16 @@
+IOC EXTRACTION - CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
+Source: https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
+Extracted: 2026-11-09 14:19:04 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-107154
+CVE-2026-107155
+CVE-2026-109593
+CVE-2026-109594
+CVE-2026-19868
+CVE-2026-82308

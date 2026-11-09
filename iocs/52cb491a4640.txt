@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH
+Source: https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/
+Extracted: 2026-11-09 14:19:22 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-123158

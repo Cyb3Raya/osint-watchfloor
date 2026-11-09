@@ -1,0 +1,14 @@
+IOC EXTRACTION - Plex2Shell Exploited Against QNAP NAS Users
+Source: https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/
+Extracted: 2026-11-09 14:19:18 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-96652
+CVE-2026-96654
+CVE-2026-96655
+CVE-2026-96656
