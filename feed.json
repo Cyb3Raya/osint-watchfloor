@@ -1,9 +1,213 @@
 {
- "generated": "2026-11-09T14:19:31.207447+00:00",
+ "generated": "2026-11-09T23:29:24.162347+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+   "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+   "desc": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+   "image": "",
+   "date": "2026-11-09T22:09:33+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+   "desc": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-09T21:38:20+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+   "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+   "desc": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, includin",
+   "image": "",
+   "date": "2026-11-09T21:26:25+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "York University breach exposed personal information dating to 2007",
+   "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+   "desc": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+   "image": "",
+   "date": "2026-11-09T21:22:31+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+   "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+   "desc": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b872cbcbcd2dcf7/6af22bc90de73971ce9d3cd2/pink_paint-Olga_Yastremska-GettyImages-2289198696.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-09T21:12:24+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+   "link": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
+   "desc": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
+   "image": "",
+   "date": "2026-11-09T20:44:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+   "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+   "desc": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-09T20:19:56+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "France blames Iran for fridge cyberattacks, says some caused fires",
+   "link": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
+   "desc": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water util",
+   "image": "",
+   "date": "2026-11-09T18:45:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+   "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+   "desc": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at l",
+   "image": "",
+   "date": "2026-11-09T18:32:42+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
+   "link": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
+   "desc": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.",
+   "image": "",
+   "date": "2026-11-09T18:30:00+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
+   "link": "https://isc.sans.edu/diary/rss/33502",
+   "desc": "Just saw a new (to me) URL in our honeypot data today:&#xd;",
+   "image": "",
+   "date": "2026-11-09T18:18:15+00:00",
+   "iocs": "iocs/dcde3d2c46f1.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+   "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+   "desc": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51641f3329337b62/6af209f8c974042ad49c3fce/office-Portra-GettyImages-1691188392_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-09T18:08:30+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+   "desc": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg",
+   "date": "2026-11-09T17:51:21+00:00",
+   "iocs": "iocs/ee5e2ceda03a.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+   "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+   "desc": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+   "image": "",
+   "date": "2026-11-09T17:50:32+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+   "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+   "desc": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases downloa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg",
+   "date": "2026-11-09T17:36:28+00:00",
+   "iocs": "iocs/2ba6cb1be9af.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "Dark Reading",
+   "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
+   "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+   "desc": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ace2e1a111df3c2/6aee5059d31a318d0d477246/robots1800_kevin_winters_GettyImages-512935278.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-09T17:17:23+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Binance denies data breach after alleged ShinyHunters claims",
+   "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+   "desc": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+   "image": "",
+   "date": "2026-11-09T16:12:39+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+   "desc": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+   "image": "",
+   "date": "2026-11-09T16:04:57+00:00",
+   "iocs": "iocs/2d302e9d23c0.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "NIST: Solo Shouldn't Mean Less Secure",
+   "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+   "desc": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5f2e2db3c0b05540/6af1ece3b6c48b8bfef3da2f/GettyImages-2282783540.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-09T15:46:10+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
+   "link": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
+   "desc": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.",
+   "image": "",
+   "date": "2026-11-09T15:24:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+   "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+   "desc": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace",
+   "image": "",
+   "date": "2026-11-09T15:05:15+00:00"
+  },
+  {
+   "source": "Socket",
+   "title": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+   "link": "https://socket.dev/blog/bee-js-compromise?utm_medium=feed",
+   "desc": "Compromised maintainer accounts pushed malicious @ethersphere/bee-js 13.3.0 and Swarm Desktop 0.56.2, reusing SleepyDuck’s Ethereum-addressed C2 infrastructure.",
+   "image": "",
+   "date": "2026-11-09T14:52:15+00:00",
+   "iocs": "iocs/c711eef631b1.txt",
+   "ioc_count": 39
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+   "desc": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+   "image": "",
+   "date": "2026-11-09T14:34:03+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+   "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+   "desc": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote acces",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg",
+   "date": "2026-11-09T14:31:29+00:00",
+   "iocs": "iocs/99ca2ce9ce5f.txt",
+   "ioc_count": 3
+  },
   {
    "source": "RF The Record",
    "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
@@ -29,12 +233,14 @@
    "date": "2026-11-09T13:28:56+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
-   "link": "https://therecord.media/hackers-russia-italy-noname",
-   "desc": "Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional details about them and",
-   "image": "",
-   "date": "2026-11-09T13:15:00+00:00"
+   "source": "The Hacker News",
+   "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+   "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+   "desc": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or runni",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg",
+   "date": "2026-11-09T13:28:25+00:00",
+   "iocs": "iocs/dca9748487c3.txt",
+   "ioc_count": 37
   },
   {
    "source": "SecurityWeek",
@@ -241,14 +447,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "desc": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten",
-   "image": "",
-   "date": "2026-11-06T22:27:25+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
    "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
@@ -258,9 +456,9 @@
   },
   {
    "source": "Unit 42",
-   "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+   "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems",
    "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
-   "desc": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared fir",
+   "desc": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems appeared fi",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/06_Myth-Busting_Category_1505x922.jpg",
    "date": "2026-11-06T21:15:09+00:00"
   },
@@ -273,38 +471,6 @@
    "date": "2026-11-06T20:40:46+00:00",
    "iocs": "iocs/1a9fbceb8109.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "desc": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..",
-   "image": "",
-   "date": "2026-11-06T20:24:19+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
-   "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
-   "desc": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
-   "image": "",
-   "date": "2026-11-06T19:06:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Certificate authority DigiCert reports data breach involving business customer info",
-   "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-   "desc": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
-   "image": "",
-   "date": "2026-11-06T18:56:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Fake security tools on GitHub push backdoors and infostealers",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "desc": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-   "image": "",
-   "date": "2026-11-06T18:46:52+00:00"
   },
   {
    "source": "Dark Reading",
@@ -325,24 +491,6 @@
    "ioc_count": 10
   },
   {
-   "source": "BleepingComputer",
-   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-   "desc": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-   "image": "",
-   "date": "2026-11-06T17:04:23+00:00",
-   "iocs": "iocs/25aea6b559a6.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "RF The Record",
-   "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
-   "link": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
-   "desc": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurren",
-   "image": "",
-   "date": "2026-11-06T16:53:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
    "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -350,16 +498,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg",
    "date": "2026-11-06T16:08:38+00:00",
    "iocs": "iocs/319e7df558d1.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-   "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-   "desc": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-   "image": "",
-   "date": "2026-11-06T15:25:31+00:00",
-   "iocs": "iocs/ea5950eadcc7.txt",
    "ioc_count": 1
   },
   {
@@ -373,14 +511,6 @@
    "ioc_count": 3
   },
   {
-   "source": "BleepingComputer",
-   "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-   "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-   "desc": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-   "image": "",
-   "date": "2026-11-06T15:00:10+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
    "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
@@ -391,14 +521,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Chainalysis says breach exposed credentials for all customers",
-   "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-   "desc": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-   "image": "",
-   "date": "2026-11-06T14:17:07+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
    "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
@@ -407,66 +529,12 @@
    "date": "2026-11-06T14:00:00+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-   "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-   "desc": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-   "image": "",
-   "date": "2026-11-06T12:37:22+00:00",
-   "iocs": "iocs/25cfeb7476a4.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-   "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-   "desc": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg",
-   "date": "2026-11-06T12:06:43+00:00",
-   "iocs": "iocs/0b7161df55d9.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-   "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-   "desc": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2RWGFxPYdzFDr1Tl0G6604dLCacXJDMaR-i0nSdrR7vBGgK-lUkZbE5eZYMbWO0Geqw_rDbN2qUkWpEadukl6gccv-xuUWJfEOx2_FWFiZxjVs4uNPiRK3JYOBo0QI1Lx08xd9Iz3-8TFN_kf-njbCQ-AFDcLNNRy6JcwsZyoM12qLt99OzNQNhmaGs/s1600/claude-dispatch.jpg",
-   "date": "2026-11-06T12:06:35+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "The Flood is Coming And The Pipes Were Already Full",
-   "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-   "desc": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at wha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRlCxdfW4sb5-1zEBHpFyJfxetSva89fr67wc8zSfvidW5W4KQKckoTrRxOAUbjM94U2ydFjiXybLJPrp6pm1V-WUuC4IpkJjhIT56OG8go8E_8fR8cK-llV0UtXdRIxZS5XxuVwEbRj1G_zAErMjpkMHVdzkGBQrB46VErPyE7MBaW6sj0N64pRd3_A/s1600/FLOOD.jpg",
-   "date": "2026-11-06T11:30:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-   "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-   "desc": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-   "image": "",
-   "date": "2026-11-06T09:22:28+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
    "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
    "desc": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1a5d5b4d8cd4518/6aeca4d40d4c553177f0d3a4/UK_parliament-georgeclerk-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-06T09:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-   "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-   "desc": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg",
-   "date": "2026-11-06T08:04:49+00:00",
-   "iocs": "iocs/a3b94f1fb170.txt",
-   "ioc_count": 5
   },
   {
    "source": "SANS ISC",
@@ -581,36 +649,12 @@
    "date": "2026-11-05T04:36:17+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-   "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-   "desc": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1200a12331479a63/6aeb910a69108565761c02f3/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-04T21:48:18+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Surviving cybersecurity until the end of 2026",
    "link": "https://www.aikido.dev/blog/cybersecurity-surviving-vulnerabilities-malware-best-practices",
    "desc": "After Binance, LiteLLM, PHP2Shell and eMudhra, here are six practices and a checklist to limit what the next compromise can reach before 2027. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aeb7cec95951f3914d66b95_Surviving-cyber-apocoloypse_Feature.jpg",
    "date": "2026-11-04T21:06:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-   "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-   "desc": "Android device manufacturer Videostrong allegedly ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40a50320ed3d3a77/6aeb310312acd3feff711f6e/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-11-04T16:24:08+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Incidents Move Too Fast for Pen &amp; Paper",
-   "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-   "desc": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt550d9c2a9b884c0d/6aeb41c425092d7e7e6bf3f7/GettyImages-1436333087.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-04T14:17:00+00:00"
   },
   {
    "source": "SANS ISC",
@@ -629,30 +673,6 @@
    "desc": "",
    "image": "",
    "date": "2026-11-04T02:10:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-   "desc": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-04T02:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-   "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-   "desc": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt004492645b5f1d7e/6aeb2df8c949f4112a250228/yubikey-Formatoriginal-alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-04T01:05:40+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-   "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-   "desc": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c1ba20d1eb5be7f/6aea51a7937e6faad50e3a84/cold_Adisa_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-03T22:16:49+00:00"
   },
   {
    "source": "Socket",
@@ -737,14 +757,6 @@
    "date": "2026-11-02T09:00:00+00:00",
    "iocs": "iocs/a9518608375e.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-   "link": "https://isc.sans.edu/diary/rss/33480",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-02T02:00:03+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -929,14 +941,6 @@
    "date": "2026-10-26T22:15:00+00:00",
    "iocs": "iocs/83a7bcfbc5fd.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "Socket Threat Intel Now Shows Which Malware Campaigns Were Blocked or Detected",
-   "link": "https://socket.dev/blog/threat-intel-campaign-impact?utm_medium=feed",
-   "desc": "Socket Threat Intel now shows which malware campaigns were blocked or detected in your organization, with links to scans and Firewall events.",
-   "image": "",
-   "date": "2026-10-26T22:14:49+00:00"
   },
   {
    "source": "Aikido",

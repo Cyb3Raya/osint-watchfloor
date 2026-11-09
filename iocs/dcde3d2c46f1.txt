@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)
+Source: https://isc.sans.edu/diary/rss/33502
+Extracted: 2026-11-09 23:28:42 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2025-31324

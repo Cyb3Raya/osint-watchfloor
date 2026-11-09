@@ -1,0 +1,53 @@
+IOC EXTRACTION - ⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More
+Source: https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html
+Extracted: 2026-11-09 23:28:47 UTC
+Total indicators: 37
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (29)
+----------------------------------------
+CVE-2024-58351
+CVE-2026-102703
+CVE-2026-102704
+CVE-2026-107441
+CVE-2026-109518
+CVE-2026-119741
+CVE-2026-121035
+CVE-2026-121126
+CVE-2026-121156
+CVE-2026-121203
+CVE-2026-121229
+CVE-2026-121246
+CVE-2026-121247
+CVE-2026-121638
+CVE-2026-121639
+CVE-2026-121640
+CVE-2026-123158
+CVE-2026-13639
+CVE-2026-13673
+CVE-2026-13684
+CVE-2026-16305
+CVE-2026-16306
+CVE-2026-19868
+CVE-2026-58868
+CVE-2026-58882
+CVE-2026-6205
+CVE-2026-76506
+CVE-2026-83844
+CVE-2026-98432
+
+IPv4 (3)
+----------------------------------------
+136[.]0[.]141[.]71
+156[.]246[.]94[.]183
+45[.]32[.]117[.]34
+
+Domains (5)
+----------------------------------------
+amazonses[.]com
+amzonses[.]com
+manage[.]opsshield[.]com
+rave[.]io
+vercel[.]com

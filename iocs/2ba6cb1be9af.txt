@@ -1,0 +1,25 @@
+IOC EXTRACTION - Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware
+Source: https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html
+Extracted: 2026-11-09 23:28:45 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+185[.]232[.]84[.]169
+193[.]57[.]9[.]155
+
+Domains (1)
+----------------------------------------
+api[.]frameworkmetrics[.]xyz
+
+SHA256 (6)
+----------------------------------------
+37d14bff30762ca701e9c1f8bc6c57c065bb20ae3a2208cb7411a6530610f08e
+7527e86d70e7c9493db4356f1c3775380431b310000f2602c1e993cf435d01da
+80d2672e2599732d3c0ae2a4cd0d1e3fe4d555a60273ce33feb99db3f34d250f
+9b73e7cd4e1425e770392549d8df46c706139ef476f4f7b9ac405165dc8d9696
+b601776817363b96295119f7221338a122d5247a35a77a64b04f286e1bbcc565
+fae61f31f00988fdc5cc9e7272b51e08af2e245d81003237875415930fd27358

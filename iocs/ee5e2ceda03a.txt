@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data
+Source: https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html
+Extracted: 2026-11-09 23:28:44 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (4)
+----------------------------------------
+185[.]209[.]199[.]73
+45[.]83[.]220[.]211
+57[.]129[.]54[.]120
+89[.]37[.]63[.]175
