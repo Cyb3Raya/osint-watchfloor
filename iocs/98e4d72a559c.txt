@@ -1,0 +1,16 @@
+IOC EXTRACTION - Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+Source: https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+Extracted: 2026-11-10 20:29:56 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-105437
+CVE-2026-111760
+CVE-2026-113408
+CVE-2026-114466
+CVE-2026-114467
+CVE-2026-114469

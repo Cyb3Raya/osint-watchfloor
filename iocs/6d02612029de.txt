@@ -1,0 +1,19 @@
+IOC EXTRACTION - SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities
+Source: https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/
+Extracted: 2026-11-10 20:30:37 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-109795
+CVE-2026-109798
+CVE-2026-109803
+CVE-2026-120017
+CVE-2026-76964
+CVE-2026-76965
+CVE-2026-89103
+CVE-2026-89119
+CVE-2026-89126

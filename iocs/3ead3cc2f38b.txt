@@ -1,0 +1,11 @@
+IOC EXTRACTION - Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft
+Source: https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/
+Extracted: 2026-11-10 20:30:30 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-124194

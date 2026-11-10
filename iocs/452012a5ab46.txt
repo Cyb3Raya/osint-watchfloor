@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access
+Source: https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html
+Extracted: 2026-11-10 20:29:58 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+91[.]211[.]251[.]112
