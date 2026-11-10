@@ -1,0 +1,18 @@
+IOC EXTRACTION - Chrome Update Patches Exploited XML Zero-Day, Eighth This Year
+Source: https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/
+Extracted: 2026-11-10 13:19:14 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-11645
+CVE-2026-125350
+CVE-2026-2441
+CVE-2026-3909
+CVE-2026-3910
+CVE-2026-5281
+CVE-2026-85046
+CVE-2026-87491

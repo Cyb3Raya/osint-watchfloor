@@ -1,0 +1,19 @@
+IOC EXTRACTION - Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)
+Source: https://isc.sans.edu/diary/rss/33506
+Extracted: 2026-11-10 13:18:37 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-113960
+CVE-2026-113961
+CVE-2026-113963
+CVE-2026-113964
+CVE-2026-113965
+CVE-2026-113968
+CVE-2026-113969
+CVE-2026-113970
+CVE-2026-113971

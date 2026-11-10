@@ -1,0 +1,17 @@
+IOC EXTRACTION - SAP patches ICM2SHELL and PROXYGATE maximum severity flaws
+Source: https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/
+Extracted: 2026-11-10 13:18:50 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-120017
+CVE-2026-44756
+CVE-2026-58231
+CVE-2026-76964
+CVE-2026-89103
+CVE-2026-89111
+CVE-2026-89126

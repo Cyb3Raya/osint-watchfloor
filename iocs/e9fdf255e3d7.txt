@@ -1,0 +1,14 @@
+IOC EXTRACTION - IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks
+Source: https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/
+Extracted: 2026-11-10 13:19:12 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-102895
+CVE-2026-116779
+CVE-2026-123158
+CVE-2026-123218

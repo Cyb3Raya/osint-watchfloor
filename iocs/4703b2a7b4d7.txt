@@ -1,0 +1,14 @@
+IOC EXTRACTION - CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws
+Source: https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html
+Extracted: 2026-11-10 13:18:49 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-102895
+CVE-2026-116779
+CVE-2026-123158
+CVE-2026-123218

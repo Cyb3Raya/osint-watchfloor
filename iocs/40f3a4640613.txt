@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hackers now exploit critical Barracuda ESG flaws to gain root access
+Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/
+Extracted: 2026-11-10 13:18:52 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2023-2868
+CVE-2023-7102
+CVE-2026-111560
+CVE-2026-116606

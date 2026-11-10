@@ -1,0 +1,15 @@
+IOC EXTRACTION - SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution
+Source: https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html
+Extracted: 2026-11-10 13:18:43 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-120017
+CVE-2026-44748
+CVE-2026-76964
+CVE-2026-89103
+CVE-2026-89126
