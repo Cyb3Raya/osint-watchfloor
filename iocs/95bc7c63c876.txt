@@ -1,0 +1,13 @@
+IOC EXTRACTION - Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation
+Source: https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+Extracted: 2026-11-11 22:15:36 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-108186
+CVE-2026-108187
+CVE-2026-53412

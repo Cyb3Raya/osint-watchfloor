@@ -1,9 +1,117 @@
 {
- "generated": "2026-11-11T15:37:43.183905+00:00",
+ "generated": "2026-11-11T22:16:05.677080+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+   "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+   "desc": "Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10d089cc23c19918/6af23c18ddd4d34d271f90a5/GettyImages-511970077.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-11T21:44:04+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+   "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+   "desc": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-",
+   "image": "",
+   "date": "2026-11-11T21:27:40+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "AI Raises the Stakes for Cyber Resilience",
+   "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+   "desc": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-11T21:20:41+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "desc": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+   "image": "",
+   "date": "2026-11-11T20:54:20+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+   "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+   "desc": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1eb3a07d69de328b/6af4605e4c33022b5dec789d/RMM_panthermedia_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-11T20:05:18+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
+   "link": "https://isc.sans.edu/diary/rss/33508",
+   "desc": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microso",
+   "image": "",
+   "date": "2026-11-11T18:28:43+00:00",
+   "iocs": "iocs/f802327bf7c7.txt",
+   "ioc_count": 1260
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "desc": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational sec",
+   "image": "",
+   "date": "2026-11-11T18:06:01+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "link": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "desc": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+   "image": "",
+   "date": "2026-11-11T16:57:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+   "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+   "desc": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post",
+   "image": "",
+   "date": "2026-11-11T16:29:42+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+   "desc": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+   "image": "",
+   "date": "2026-11-11T16:24:18+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "desc": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are liste",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg",
+   "date": "2026-11-11T16:12:46+00:00",
+   "iocs": "iocs/95bc7c63c876.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+   "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+   "desc": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-11T15:42:47+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+   "desc": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally int",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1600/aws-secrets.jpg",
+   "date": "2026-11-11T15:34:27+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
@@ -189,16 +297,6 @@
    "ioc_count": 2
   },
   {
-   "source": "SecurityWeek",
-   "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
-   "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
-   "desc": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appe",
-   "image": "",
-   "date": "2026-11-11T08:42:44+00:00",
-   "iocs": "iocs/9e94452f712e.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "The Hacker News",
    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
    "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
@@ -207,16 +305,6 @@
    "date": "2026-11-11T08:17:53+00:00",
    "iocs": "iocs/b4b549aacbc4.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
-   "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
-   "desc": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-11T07:53:51+00:00",
-   "iocs": "iocs/79d31854ee59.txt",
-   "ioc_count": 2
   },
   {
    "source": "The Hacker News",
@@ -381,16 +469,6 @@
    "date": "2026-11-10T19:19:39+00:00"
   },
   {
-   "source": "SANS ISC",
-   "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33508",
-   "desc": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microso",
-   "image": "",
-   "date": "2026-11-10T19:09:32+00:00",
-   "iocs": "iocs/f802327bf7c7.txt",
-   "ioc_count": 1260
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
@@ -435,22 +513,6 @@
    "date": "2026-11-10T17:43:23+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-   "desc": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-   "image": "",
-   "date": "2026-11-10T16:17:16+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-   "link": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-   "desc": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
-   "image": "",
-   "date": "2026-11-10T16:08:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
    "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
@@ -459,40 +521,6 @@
    "date": "2026-11-10T16:00:55+00:00",
    "iocs": "iocs/db01d072adb8.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-   "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-   "desc": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login",
-   "image": "",
-   "date": "2026-11-10T15:59:19+00:00",
-   "iocs": "iocs/9d3024bd726a.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-   "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-   "desc": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that sha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4UHnKTj_NJCPa7Jqdntj8tEvZ2PgaY7s9kKK8_X2bxehTUcJeZPFfguJzvW_D0H9XD_q-qLZV2Qq6hqRYDQRYMXpyAzw-6T2yDjFjIY7zhGRLPDPjOalASUgX_Z-M2cEsNqiuys_4QjQ8vY_xl0fnWi2Y_9tT9aAH0WQOAB3D6uDf8yZY8VuphL4TRFG/s1600/court-phish.jpg",
-   "date": "2026-11-10T15:58:44+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-   "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-   "desc": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, d",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-mBJN_E4CjW3MXyjYYdeCGcyR052aVnG3uUWjaEfafvPAdatcJhn9LbtngqXBb5JsVwJVoorc8i41nTbYR9UcwVrwWNzU-WAfVk2yL32hYW1elVMJtwauW53nhRG37EwbovnFCW8InensI8tKoR9pqcWnZx54t6xOU_HsjjR9KWTLwVr_MBcknFeGShZU/s1600/fire.jpg",
-   "date": "2026-11-10T15:33:59+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Ransomware recovery is now a client retention metric",
-   "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "desc": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these ",
-   "image": "",
-   "date": "2026-11-10T15:01:11+00:00"
   },
   {
    "source": "Dark Reading",
@@ -571,22 +599,6 @@
    "date": "2026-11-09T18:08:30+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
-   "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-   "desc": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ace2e1a111df3c2/6aee5059d31a318d0d477246/robots1800_kevin_winters_GettyImages-512935278.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-09T17:17:23+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "NIST: Solo Shouldn't Mean Less Secure",
-   "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
-   "desc": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5f2e2db3c0b05540/6af1ece3b6c48b8bfef3da2f/GettyImages-2282783540.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-09T15:46:10+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
    "link": "https://socket.dev/blog/bee-js-compromise?utm_medium=feed",
@@ -613,14 +625,6 @@
    "date": "2026-11-08T15:44:33+00:00",
    "iocs": "iocs/4b7df559b706.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-   "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-   "desc": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-06T21:27:36+00:00"
   },
   {
    "source": "Unit 42",
@@ -1337,16 +1341,6 @@
    "date": "2026-09-29T14:00:00+00:00",
    "iocs": "iocs/8ae589a85d81.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-   "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-   "desc": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the sus",
-   "image": "",
-   "date": "2026-09-28T15:08:57+00:00",
-   "iocs": "iocs/c919c2b059f3.txt",
-   "ioc_count": 1
   },
   {
    "source": "Wiz Threats",
