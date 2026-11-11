@@ -1,0 +1,11 @@
+IOC EXTRACTION - Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD
+Source: https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/
+Extracted: 2026-11-11 15:37:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-61887

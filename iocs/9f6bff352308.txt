@@ -1,0 +1,12 @@
+IOC EXTRACTION - Asus, Zoom Release Security Patches
+Source: https://www.securityweek.com/asus-zoom-release-security-patches/
+Extracted: 2026-11-11 15:37:25 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-108186
+CVE-2026-108187

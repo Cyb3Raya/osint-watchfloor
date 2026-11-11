@@ -1,0 +1,12 @@
+IOC EXTRACTION - Recently Patched Barracuda Vulnerabilities Exploited in Attacks
+Source: https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/
+Extracted: 2026-11-11 15:37:35 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111560
+CVE-2026-116606

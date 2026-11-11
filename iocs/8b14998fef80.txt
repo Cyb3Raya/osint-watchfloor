@@ -1,0 +1,12 @@
+IOC EXTRACTION - Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities
+Source: https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/
+Extracted: 2026-11-11 15:37:33 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111793
+CVE-2026-20320

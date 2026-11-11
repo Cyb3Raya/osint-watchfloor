@@ -1,0 +1,14 @@
+IOC EXTRACTION - Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities
+Source: https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/
+Extracted: 2026-11-11 15:37:26 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-102705
+CVE-2026-105425
+CVE-2026-121653
+CVE-2026-121683

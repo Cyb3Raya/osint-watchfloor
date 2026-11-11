@@ -1,0 +1,17 @@
+IOC EXTRACTION - Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes
+Source: https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
+Extracted: 2026-11-11 15:36:54 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-112967
+CVE-2026-116928
+CVE-2026-119952
+CVE-2026-119958
+CVE-2026-119990
+CVE-2026-124194
+CVE-2026-95962

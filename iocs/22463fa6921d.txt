@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA flags Cisco BroadWorks flaw as actively exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/
+Extracted: 2026-11-11 15:37:04 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-20320

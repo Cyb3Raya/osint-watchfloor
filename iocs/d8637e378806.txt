@@ -1,0 +1,19 @@
+IOC EXTRACTION - Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits
+Source: https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+Extracted: 2026-11-11 15:36:50 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2023-41265
+CVE-2023-41266
+CVE-2023-46604
+CVE-2023-48365
+CVE-2024-40711
+
+IPv4 (1)
+----------------------------------------
+45[.]115[.]26[.]23
