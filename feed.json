@@ -1,9 +1,47 @@
 {
- "generated": "2026-11-11T00:54:14.626378+00:00",
+ "generated": "2026-11-11T07:35:41.218409+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+   "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+   "desc": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appear",
+   "image": "",
+   "date": "2026-11-11T07:00:17+00:00",
+   "iocs": "iocs/84d5f3ee10f1.txt",
+   "ioc_count": 10
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+   "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) cat",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg",
+   "date": "2026-11-11T06:04:02+00:00",
+   "iocs": "iocs/85ce9be08e64.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
+   "link": "https://isc.sans.edu/diary/rss/33510",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-11T02:00:03+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
+   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+   "desc": "Microsoft has released its monthly security update for November 2026, which includes 1328 vulnerabilities affecting a range of products, including 60 that Microsoft marked as \"critical.\" Out of 60 \"critical\" vulnerabilit",
+   "image": "",
+   "date": "2026-11-11T01:41:17+00:00",
+   "iocs": "iocs/d88b3fdfb0c4.txt",
+   "ioc_count": 102
+  },
   {
    "source": "Dark Reading",
    "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
@@ -419,14 +457,6 @@
    "ioc_count": 5
   },
   {
-   "source": "SecurityWeek",
-   "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-   "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-   "desc": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityW",
-   "image": "",
-   "date": "2026-11-10T09:56:28+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
    "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
@@ -459,16 +489,6 @@
    "desc": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
    "image": "",
    "date": "2026-11-10T07:49:58+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-   "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-   "desc": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (C",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg",
-   "date": "2026-11-10T06:52:54+00:00",
-   "iocs": "iocs/749cd79bf9b6.txt",
-   "ioc_count": 8
   },
   {
    "source": "SANS ISC",
@@ -693,16 +713,6 @@
    "desc": "After Binance, LiteLLM, PHP2Shell and eMudhra, here are six practices and a checklist to limit what the next compromise can reach before 2027. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aeb7cec95951f3914d66b95_Surviving-cyber-apocoloypse_Feature.jpg",
    "date": "2026-11-04T21:06:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-   "link": "https://isc.sans.edu/diary/rss/33488",
-   "desc": "One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding",
-   "image": "",
-   "date": "2026-11-04T13:24:13+00:00",
-   "iocs": "iocs/a560b2ea40ec.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
@@ -1249,16 +1259,6 @@
    "desc": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/07_Listicle_Category_1505x922.jpg",
    "date": "2026-10-13T22:00:04+00:00"
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
-   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-   "desc": "Microsoft has released its monthly security update for October 2026, which includes 1415 vulnerabilities affecting a range of products, including 85 that Microsoft marked as \"critical.\"",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/patch_tuesday.png",
-   "date": "2026-10-13T20:37:58+00:00",
-   "iocs": "iocs/a36e0090ff0e.txt",
-   "ioc_count": 193
   },
   {
    "source": "Krebs on Security",

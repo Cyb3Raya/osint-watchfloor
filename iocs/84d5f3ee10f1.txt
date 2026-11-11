@@ -1,0 +1,20 @@
+IOC EXTRACTION - Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms
+Source: https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/
+Extracted: 2026-11-11 07:35:35 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (10)
+----------------------------------------
+CVE-2026-111497
+CVE-2026-113960
+CVE-2026-113961
+CVE-2026-113963
+CVE-2026-113964
+CVE-2026-113965
+CVE-2026-113968
+CVE-2026-113969
+CVE-2026-113970
+CVE-2026-113971

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches
+Source: https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+Extracted: 2026-11-11 07:35:18 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-111793
+CVE-2026-20127
+CVE-2026-20320
+CVE-2026-76418
