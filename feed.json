@@ -1,9 +1,93 @@
 {
- "generated": "2026-11-10T20:30:45.482433+00:00",
+ "generated": "2026-11-11T00:54:14.626378+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Dark Reading",
+   "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+   "desc": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033b67685e64cff8/6af3980e4e01486fb09958c1/thanksgiving-Gurol_Tuna-GettyImages-2248720649.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-10T22:26:51+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "desc": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing creden",
+   "image": "",
+   "date": "2026-11-10T22:20:19+00:00"
+  },
+  {
+   "source": "Krebs on Security",
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "desc": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical ",
+   "image": "",
+   "date": "2026-11-10T21:55:03+00:00",
+   "iocs": "iocs/6e299ce35745.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "US Army member arrested in UK over allegations of spying for Russia",
+   "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+   "desc": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
+   "image": "",
+   "date": "2026-11-10T21:13:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+   "desc": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1b65168e9679e0a/6af379bdf986ff173e0a7def/Lock_with_target-Alena_Butusava-GettyImages-2263307877.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-10T21:01:14+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
+   "link": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+   "desc": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
+   "image": "",
+   "date": "2026-11-10T20:55:00+00:00",
+   "iocs": "iocs/0aa6bce714ba.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "desc": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+   "image": "",
+   "date": "2026-11-10T20:54:55+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+   "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+   "desc": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-10T20:41:45+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+   "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+   "desc": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-10T20:35:34+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "How to Assess OT Incident Response Preparedness",
+   "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+   "desc": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-10T20:18:43+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
@@ -245,14 +329,6 @@
    "date": "2026-11-10T13:00:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
-   "link": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
-   "desc": "Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan to secretly intercept messages exchanged with NATO and European Union officials, researchers said.",
-   "image": "",
-   "date": "2026-11-10T13:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
    "link": "https://isc.sans.edu/diary/rss/33506",
@@ -419,14 +495,6 @@
    "date": "2026-11-09T23:06:22+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-   "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-   "desc": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-   "image": "",
-   "date": "2026-11-09T22:09:33+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
@@ -435,28 +503,12 @@
    "date": "2026-11-09T21:38:20+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-   "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-   "desc": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, includin",
-   "image": "",
-   "date": "2026-11-09T21:26:25+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
    "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
    "desc": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b872cbcbcd2dcf7/6af22bc90de73971ce9d3cd2/pink_paint-Olga_Yastremska-GettyImages-2289198696.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-09T21:12:24+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Data breach at hearing aid giant Amplifon impacts thousands",
-   "link": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
-   "desc": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
-   "image": "",
-   "date": "2026-11-09T20:44:00+00:00"
   },
   {
    "source": "Dark Reading",
@@ -555,14 +607,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Dark Reading",
-   "title": "AI Gave Your Incident Archive a Second Job",
-   "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-   "desc": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-06T18:27:30+00:00"
-  },
-  {
    "source": "Socket",
    "title": "Shai-Hulud Descendant Surfaces in Malicious Ruby Gem That Steals Credentials and Poisons AI Tools",
    "link": "https://socket.dev/blog/shai-hulud-descendant-malicious-ruby-gem?utm_medium=feed",
@@ -573,44 +617,12 @@
    "ioc_count": 10
   },
   {
-   "source": "Dark Reading",
-   "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-   "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-   "desc": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt888d802e435faf7a/6aecff1baf87734cefe9fe4c/Supermarket_freezer_aise-bernardbodo-GettyImages-1393629140.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-06T14:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-   "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-   "desc": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1a5d5b4d8cd4518/6aeca4d40d4c553177f0d3a4/UK_parliament-georgeclerk-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-06T09:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
    "link": "https://isc.sans.edu/diary/rss/33494",
    "desc": "",
    "image": "",
    "date": "2026-11-06T02:00:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Operação de influência russa tem como alvo generalizado a América Latina",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-   "desc": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras açõ",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-05T22:13:23+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-   "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-   "desc": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6ea448209c5a17d/6aece801ba5b3c3c708d8893/_gov-PashalIgnatov-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-05T21:35:05+00:00"
   },
   {
    "source": "Aikido",
@@ -1339,16 +1351,6 @@
    "desc": "Multiple sources reported malicious activity linked to JADEPUFFER (Storm-3168), an agentic ransomware operation, during June 2026. This attacker has been observed leveraging exposed secrets and exploiting vulnerabilities",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-09-26T00:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-   "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-   "desc": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in ",
-   "image": "",
-   "date": "2026-09-25T21:44:40+00:00",
-   "iocs": "iocs/5569bca5352e.txt",
-   "ioc_count": 1
   },
   {
    "source": "Google GTIG",
