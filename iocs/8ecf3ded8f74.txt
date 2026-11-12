@@ -1,0 +1,24 @@
+IOC EXTRACTION - Active ScreenConnect attacks breach MSPs, impact dozens of organizations
+Source: https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/
+Extracted: 2026-11-12 03:08:12 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+155[.]94[.]150[.]39
+185[.]99[.]255[.]28
+
+Domains (5)
+----------------------------------------
+cdn007-digitaldownloads[.]com
+cyberrexdesign[.]screenconnect[.]com
+newnewnew[.]gotdns[.]org
+sc[.]payproofkit[.]com
+soxnewwork[.]homedns[.]org
+
+URLs (1)
+----------------------------------------
+hxxps://ns[.]mo7sen[.]dev/EadF[.]php?p=4

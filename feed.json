@@ -1,9 +1,71 @@
 {
- "generated": "2026-11-11T22:16:05.677080+00:00",
+ "generated": "2026-11-12T03:08:35.569020+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
+   "link": "https://isc.sans.edu/diary/rss/33512",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-12T02:00:03+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories",
+   "link": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+   "desc": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate. Category: Vulnerabilities & Threats",
+   "image": "",
+   "date": "2026-11-12T01:45:00+00:00",
+   "iocs": "iocs/8f22bc6983f6.txt",
+   "ioc_count": 7
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+   "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+   "desc": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6aad3115d0b39df8/6af3b700f317a18a4957378c/Jinan_University-TkKurikawa-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-12T01:00:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+   "desc": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-12T00:00:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Baker Tilly notifies clients of data breach at third-party provider",
+   "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "desc": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+   "image": "",
+   "date": "2026-11-11T23:01:31+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+   "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
+   "desc": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks. The post ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know appeared first on Unit 42.",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/02_General_Category_1505x922.jpg",
+   "date": "2026-11-11T23:00:53+00:00",
+   "iocs": "iocs/b7b40a3784e9.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+   "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+   "desc": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+   "image": "",
+   "date": "2026-11-11T22:56:21+00:00",
+   "iocs": "iocs/8ecf3ded8f74.txt",
+   "ioc_count": 8
+  },
   {
    "source": "Dark Reading",
    "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
@@ -469,30 +531,12 @@
    "date": "2026-11-10T19:19:39+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-   "desc": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-   "image": "",
-   "date": "2026-11-10T19:07:36+00:00",
-   "iocs": "iocs/70a133457da5.txt",
-   "ioc_count": 1342
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
    "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
    "desc": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt048c697c8a84cb6c/6af31954c9740413639c4243/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale",
    "date": "2026-11-10T18:46:22+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-   "desc": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-   "image": "",
-   "date": "2026-11-10T18:33:26+00:00"
   },
   {
    "source": "The Hacker News",
@@ -573,14 +617,6 @@
    "date": "2026-11-09T21:12:24+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-   "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-   "desc": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-11-09T20:19:56+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
    "link": "https://isc.sans.edu/diary/rss/33502",
@@ -589,14 +625,6 @@
    "date": "2026-11-09T18:18:15+00:00",
    "iocs": "iocs/dcde3d2c46f1.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-   "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-   "desc": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51641f3329337b62/6af209f8c974042ad49c3fce/office-Portra-GettyImages-1691188392_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-09T18:08:30+00:00"
   },
   {
    "source": "Socket",
@@ -707,14 +735,6 @@
    "desc": "GitHub is tightening GitHub Actions security with new restrictions on privileged pull request workflows. Here's what changes and how maintainers are affected.",
    "image": "",
    "date": "2026-11-05T15:01:39+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
-   "link": "https://isc.sans.edu/diary/rss/33490",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-05T11:25:11+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -1057,16 +1077,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Aikido",
-   "title": "eMudhra CA compromise: eight private keys, and one of them is 4 - CVE-2026-111943",
-   "link": "https://www.aikido.dev/blog/emudhra-ca-compromise",
-   "desc": "Eight eMudhra CA keys could be guessed in at most 256 tries, and one is just the number 4. Who is affected, why curl lagged browsers, and how to fix it. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ad9f9885bb1b8c589f27e0c_Emudhra_Feature.jpg",
-   "date": "2026-10-22T11:53:00+00:00",
-   "iocs": "iocs/16ef103f7a12.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Cisco Talos",
    "title": "Compromised eMudhra intermediate certificates",
    "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
@@ -1311,16 +1321,6 @@
    "date": "2026-10-07T13:48:45+00:00",
    "iocs": "iocs/2c4e6a4177d1.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Unit 42",
-   "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
-   "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
-   "desc": "Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure. The post Blinder Tunnel Campaign Targets Iraqi Infrastructure appear",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/05_Malware_Category_1920x900-1.jpg",
-   "date": "2026-10-06T10:00:33+00:00",
-   "iocs": "iocs/7669d3486c54.txt",
-   "ioc_count": 21
   },
   {
    "source": "Google GTIG",

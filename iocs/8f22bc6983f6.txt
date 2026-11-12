@@ -1,0 +1,26 @@
+IOC EXTRACTION - Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories
+Source: https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories
+Extracted: 2026-11-12 03:08:34 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-111497
+CVE-2026-98432
+
+IPv4 (3)
+----------------------------------------
+18[.]143[.]168[.]96
+193[.]32[.]204[.]199
+194[.]150[.]166[.]244
+
+URLs (1)
+----------------------------------------
+hxxp://194[.]150[.]166[.]244:8080/exfil
+
+SHA256 (1)
+----------------------------------------
+89695abb392d5cfd4972672961e644bb46baa98aa1ed7173c2a2816c762735cf

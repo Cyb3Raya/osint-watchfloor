@@ -1,0 +1,15 @@
+IOC EXTRACTION - ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know
+Source: https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/
+Extracted: 2026-11-12 03:08:30 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+evil[.]com
+
+Emails (1)
+----------------------------------------
+test@example.com
