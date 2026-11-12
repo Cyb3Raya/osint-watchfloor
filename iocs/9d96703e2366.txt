@@ -1,0 +1,19 @@
+IOC EXTRACTION - 186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers
+Source: https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html
+Extracted: 2026-11-12 19:06:57 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (9)
+----------------------------------------
+chatlgpt[.]com
+copiot[.]com
+deepceek[.]com
+elevenlebs[.]io
+find[.]flashysearches[.]com
+geimini[.]com
+griok[.]com
+midj0urney[.]org
+notebookklm[.]com

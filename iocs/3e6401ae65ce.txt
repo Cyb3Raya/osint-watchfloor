@@ -1,0 +1,20 @@
+IOC EXTRACTION - Never be afraid to ask questions
+Source: https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/
+Extracted: 2026-11-12 19:07:34 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-124194
+CVE-2026-125350
+
+MD5 (5)
+----------------------------------------
+1fd9ccecac8794f39d826fdd8a62e6bc
+485055033bcddfde56325c0d2feea4f2
+57ddcd4384fd595a12df5a6258e5af4d
+95a6a4b638cfdfbe3afc883d593a1f87
+cca616647db9370c88998ae25da6997f

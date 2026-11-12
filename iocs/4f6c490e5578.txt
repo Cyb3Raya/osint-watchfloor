@@ -1,0 +1,12 @@
+IOC EXTRACTION - Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors
+Source: https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
+Extracted: 2026-11-12 19:07:35 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+154[.]44[.]31[.]4
+82[.]29[.]129[.]54

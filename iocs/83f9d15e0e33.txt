@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry
+Source: https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
+Extracted: 2026-11-12 19:06:54 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-110697
+CVE-2026-123710

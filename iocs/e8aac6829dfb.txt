@@ -1,0 +1,15 @@
+IOC EXTRACTION - New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access
+Source: https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html
+Extracted: 2026-11-12 19:07:00 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-90436
+
+IPv4 (1)
+----------------------------------------
+157[.]20[.]241[.]16

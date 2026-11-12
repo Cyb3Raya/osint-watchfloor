@@ -1,0 +1,12 @@
+IOC EXTRACTION - New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access
+Source: https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
+Extracted: 2026-11-12 19:06:53 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-50656
+CVE-2026-69414

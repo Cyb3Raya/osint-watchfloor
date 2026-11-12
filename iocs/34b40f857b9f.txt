@@ -1,0 +1,13 @@
+IOC EXTRACTION - Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs
+Source: https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html
+Extracted: 2026-11-12 19:06:59 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2024-36350
+CVE-2024-36357
+CVE-2026-0004

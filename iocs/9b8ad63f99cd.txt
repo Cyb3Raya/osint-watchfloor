@@ -1,0 +1,11 @@
+IOC EXTRACTION - ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations
+Source: https://therecord.media/connectwise-screenconnect-breaches-third-party-tool
+Extracted: 2026-11-12 19:07:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-84869

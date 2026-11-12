@@ -1,0 +1,12 @@
+IOC EXTRACTION - PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution
+Source: https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html
+Extracted: 2026-11-12 19:07:02 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-12569
+CVE-2026-126325

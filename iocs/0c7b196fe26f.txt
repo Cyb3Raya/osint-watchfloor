@@ -1,0 +1,15 @@
+IOC EXTRACTION - SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths
+Source: https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html
+Extracted: 2026-11-12 19:06:58 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-84869
+
+Domains (1)
+----------------------------------------
+ns[.]mo7sen[.]dev

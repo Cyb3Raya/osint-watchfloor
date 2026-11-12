@@ -1,0 +1,13 @@
+IOC EXTRACTION - Apache Patches Critical HTTP Server RCE Found by Anthropic, Google
+Source: https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/
+Extracted: 2026-11-12 19:07:29 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-106023
+CVE-2026-109163
+CVE-2026-119618
