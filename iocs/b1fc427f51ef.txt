@@ -1,0 +1,17 @@
+IOC EXTRACTION - Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories
+Source: https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html
+Extracted: 2026-11-12 11:29:08 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (3)
+----------------------------------------
+153[.]75[.]82[.]159
+18[.]143[.]168[.]96
+194[.]150[.]166[.]244
+
+SHA256 (1)
+----------------------------------------
+89695abb392d5cfd4972672961e644bb46baa98aa1ed7173c2a2816c762735cf

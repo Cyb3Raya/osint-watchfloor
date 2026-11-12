@@ -1,0 +1,20 @@
+IOC EXTRACTION - ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients
+Source: https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html
+Extracted: 2026-11-12 11:29:11 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+155[.]94[.]150[.]39
+185[.]99[.]255[.]28
+
+Domains (5)
+----------------------------------------
+cdn007-digitaldownloads[.]com
+newnewnew[.]gotdns[.]org
+ns[.]mo7sen[.]dev
+sc[.]payproofkit[.]com
+soxnewwork[.]homedns[.]org

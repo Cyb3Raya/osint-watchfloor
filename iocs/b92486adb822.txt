@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely
+Source: https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html
+Extracted: 2026-11-12 11:29:09 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-119618
+CVE-2026-23918

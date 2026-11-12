@@ -1,0 +1,18 @@
+IOC EXTRACTION - Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data
+Source: https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html
+Extracted: 2026-11-12 11:29:07 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-123863
+CVE-2026-123864
+CVE-2026-123865
+CVE-2026-123866
+CVE-2026-123872
+CVE-2026-123874
+CVE-2026-123875
+CVE-2026-126051

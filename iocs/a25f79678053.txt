@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hackers Target N-central Zero-Days as N-able Rushes Patches
+Source: https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/
+Extracted: 2026-11-12 11:29:34 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-125878
+CVE-2026-125879
+CVE-2026-125880
+CVE-2026-125881
+CVE-2026-125882
+CVE-2026-125883
+CVE-2026-91000

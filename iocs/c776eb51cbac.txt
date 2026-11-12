@@ -1,0 +1,11 @@
+IOC EXTRACTION - Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover
+Source: https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html
+Extracted: 2026-11-12 11:29:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
