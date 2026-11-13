@@ -1,0 +1,13 @@
+IOC EXTRACTION - Check Point warns of zero-day flaw exploited for root access
+Source: https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/
+Extracted: 2026-11-13 15:30:21 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-123039
+CVE-2026-85102
+CVE-2026-93616

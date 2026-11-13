@@ -1,0 +1,12 @@
+IOC EXTRACTION - Critical Apache HTTP Server vulnerability can allow remote code execution (CVE-2026-119618)
+Source: https://www.aikido.dev/blog/cve-2026-119618-apache-http-server-rce
+Extracted: 2026-11-13 15:30:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-119618
+CVE-2026-98432

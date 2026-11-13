@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Exploit New N-central Zero-Day Hours After PoC Publication
+Source: https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/
+Extracted: 2026-11-13 15:30:46 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-90436

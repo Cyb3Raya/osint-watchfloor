@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files
+Source: https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html
+Extracted: 2026-11-13 15:30:17 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-123039
+
+IPv4 (1)
+----------------------------------------
+130[.]94[.]19[.]204
