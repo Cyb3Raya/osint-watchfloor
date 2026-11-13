@@ -1,0 +1,28 @@
+IOC EXTRACTION - Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)
+Source: https://isc.sans.edu/diary/rss/33518
+Extracted: 2026-11-13 07:15:55 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+171[.]22[.]131[.]24
+45[.]150[.]32[.]130
+
+Domains (1)
+----------------------------------------
+quill-kraee-um2gf[.]pro
+
+URLs (3)
+----------------------------------------
+hxxp://171[.]22[.]131[.]24:8133/api/t
+hxxp://45[.]150[.]32[.]130/37339606cba4522a?force=1
+hxxp://45[.]150[.]32[.]130/4be1066a49e75?force=1
+
+SHA256 (3)
+----------------------------------------
+58e503cc2e6aacc6bdba54f40a7edebf7a5362bef0a9039769baaba8c472c4db
+8b5026d841aa93758ec3cb55c276f84d3ec1cf459810e0d9aa5624e2776f2fcd
+c34cc30cb1cff5c47d77e62a3ba63e9a183989ec1ccdf7929beb1bcae0d41f23

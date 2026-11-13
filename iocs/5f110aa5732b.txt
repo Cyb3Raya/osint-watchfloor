@@ -1,0 +1,23 @@
+IOC EXTRACTION - Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2
+Source: https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html
+Extracted: 2026-11-13 07:15:58 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-90436
+
+IPv4 (1)
+----------------------------------------
+157[.]20[.]241[.]16
+
+Domains (1)
+----------------------------------------
+jup[.]sh
+
+URLs (1)
+----------------------------------------
+hxxp://157[.]20[.]241[.]16:8080/jup[.]sh
