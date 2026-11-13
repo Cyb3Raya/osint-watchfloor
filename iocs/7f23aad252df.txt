@@ -1,0 +1,15 @@
+IOC EXTRACTION - New N-able "4EverAble2Shell" zero-day exploited hours after PoC released
+Source: https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
+Extracted: 2026-11-13 00:33:28 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-90436
+
+IPv4 (1)
+----------------------------------------
+157[.]20[.]241[.]16

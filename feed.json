@@ -1,9 +1,97 @@
 {
- "generated": "2026-11-12T19:07:46.095707+00:00",
+ "generated": "2026-11-13T00:33:58.076907+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+   "desc": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and",
+   "image": "",
+   "date": "2026-11-12T22:53:10+00:00",
+   "iocs": "iocs/afe79ee14497.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "desc": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+   "image": "",
+   "date": "2026-11-12T22:25:30+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
+   "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
+   "desc": "The Department of Justice and FBI announced two separate actions in response to North Korea-linked cryptocurrency theft operations.",
+   "image": "",
+   "date": "2026-11-12T21:42:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox",
+   "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+   "desc": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt131056a0513594b5/6af623f4a8a90fde9d0b34ee/Artex-ShaunWilkinson-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-12T21:18:52+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+   "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+   "desc": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Di",
+   "image": "",
+   "date": "2026-11-12T20:55:30+00:00",
+   "iocs": "iocs/30dcc08ab243.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+   "desc": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+   "image": "",
+   "date": "2026-11-12T20:15:16+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+   "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+   "desc": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd72cfa843f157710/6af61e08fa93fcee56324598/black_and_white_moth-powerofforever-GettyImages-1920014051.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-12T20:09:41+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+   "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "desc": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected s",
+   "image": "",
+   "date": "2026-11-12T19:51:16+00:00",
+   "iocs": "iocs/7f23aad252df.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "United to block customers from using AI agents, citing cyber threats",
+   "link": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+   "desc": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines said.",
+   "image": "",
+   "date": "2026-11-12T19:20:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+   "desc": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+   "image": "",
+   "date": "2026-11-12T19:12:55+00:00",
+   "iocs": "iocs/e1501a330e51.txt",
+   "ioc_count": 3
+  },
   {
    "source": "Cisco Talos",
    "title": "Never be afraid to ask questions",
@@ -143,12 +231,12 @@
    "date": "2026-11-12T15:00:10+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
-   "link": "https://therecord.media/europe-hoax-email-threats",
-   "desc": "Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and newsrooms",
+   "source": "Socket",
+   "title": "Cyberattacks Are Skyrocketing in Japan as Researchers Trace AI-Assisted Intrusions",
+   "link": "https://socket.dev/blog/japan-cyberattack-surge?utm_medium=feed",
+   "desc": "Japan faces a record surge in cyberattacks as researchers uncover AI-assisted intrusions, widespread data breaches, and growing pressure to patch vulnerabilities.",
    "image": "",
-   "date": "2026-11-12T14:45:00+00:00"
+   "date": "2026-11-12T14:51:52+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -181,14 +269,6 @@
    "desc": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appear",
    "image": "",
    "date": "2026-11-12T13:39:03+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Romania says it stopped Russian cyberattack targeting government emails",
-   "link": "https://therecord.media/romania-russia-cyberattack-emails",
-   "desc": "Romania's intelligence agency said it stopped a cyber-espionage campaign by Russian state-linked hackers before the group exfiltrated sensitive data.",
-   "image": "",
-   "date": "2026-11-12T13:30:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -438,6 +518,14 @@
   },
   {
    "source": "Dark Reading",
+   "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
+   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
+   "desc": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-11T22:14:44+00:00"
+  },
+  {
+   "source": "Dark Reading",
    "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
    "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
    "desc": "Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs.",
@@ -461,20 +549,14 @@
    "date": "2026-11-11T21:20:41+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-   "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-   "desc": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-   "image": "",
-   "date": "2026-11-11T20:54:20+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
    "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
    "desc": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1eb3a07d69de328b/6af4605e4c33022b5dec789d/RMM_panthermedia_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-11-11T20:05:18+00:00"
+   "date": "2026-11-11T20:05:18+00:00",
+   "iocs": "iocs/abb1d0352410.txt",
+   "ioc_count": 11
   },
   {
    "source": "SANS ISC",
@@ -495,40 +577,6 @@
    "date": "2026-11-11T18:06:01+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-   "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-   "desc": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post",
-   "image": "",
-   "date": "2026-11-11T16:29:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-   "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-   "desc": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-   "image": "",
-   "date": "2026-11-11T16:24:18+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-   "desc": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-   "image": "",
-   "date": "2026-11-11T15:12:59+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-   "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-   "desc": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are",
-   "image": "",
-   "date": "2026-11-11T15:01:11+00:00",
-   "iocs": "iocs/acc7a2d0e979.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Unit 42",
    "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
    "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
@@ -537,16 +585,6 @@
    "date": "2026-11-11T15:00:23+00:00",
    "iocs": "iocs/9ad4b08f7262.txt",
    "ioc_count": 35
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-   "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-   "desc": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environmen",
-   "image": "",
-   "date": "2026-11-11T12:32:27+00:00",
-   "iocs": "iocs/fdb07bf27f81.txt",
-   "ioc_count": 7
   },
   {
    "source": "SANS ISC",
@@ -572,7 +610,9 @@
    "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
    "desc": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033b67685e64cff8/6af3980e4e01486fb09958c1/thanksgiving-Gurol_Tuna-GettyImages-2248720649.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-10T22:26:51+00:00"
+   "date": "2026-11-10T22:26:51+00:00",
+   "iocs": "iocs/626108da40f3.txt",
+   "ioc_count": 6
   },
   {
    "source": "Krebs on Security",
@@ -625,14 +665,6 @@
    "date": "2026-11-10T18:46:22+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
-   "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-   "desc": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50398014b3f8049d/6aee2b328988653fd1de4aef/Binary-PashaIgnatov-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-10T13:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
    "link": "https://isc.sans.edu/diary/rss/33506",
@@ -649,22 +681,6 @@
    "desc": "",
    "image": "",
    "date": "2026-11-10T02:00:02+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "People Are Getting Weird About AI",
-   "link": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
-   "desc": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-09T23:06:22+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-   "desc": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-11-09T21:38:20+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1013,16 +1029,6 @@
    "desc": "Aikido launches external network pentesting: AI agents attack your internet-facing systems from the outside and report only findings they actually exploit. Category: Company Updates",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae05c060da6f1a675f53f35_Aikido-launches-agentic-external-network-pentesting_Feature.jpg",
    "date": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets",
-   "link": "https://socket.dev/blog/firefox-wallet-impersonators?utm_medium=feed",
-   "desc": "Malicious Firefox extensions mimic Phantom, Jupiter, and Bitget wallets to steal recovery phrases and private keys, with one fetching its payload remotely.",
-   "image": "",
-   "date": "2026-10-27T17:28:33+00:00",
-   "iocs": "iocs/1f7399e28739.txt",
-   "ioc_count": 17
   },
   {
    "source": "Cisco Talos",

@@ -1,0 +1,11 @@
+IOC EXTRACTION - New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks
+Source: https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/
+Extracted: 2026-11-13 00:33:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-84869

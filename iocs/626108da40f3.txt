@@ -1,0 +1,16 @@
+IOC EXTRACTION - November Patch Tuesday: An Overflowing Cornucopia of CVEs
+Source: https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves
+Extracted: 2026-11-13 00:33:41 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-110043
+CVE-2026-116928
+CVE-2026-118207
+CVE-2026-119958
+CVE-2026-120002
+CVE-2026-124194

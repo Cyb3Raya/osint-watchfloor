@@ -1,0 +1,13 @@
+IOC EXTRACTION - Apache HTTP Server patches critical HTTP/2 remote code execution flaw
+Source: https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/
+Extracted: 2026-11-13 00:33:30 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-106023
+CVE-2026-109163
+CVE-2026-119618

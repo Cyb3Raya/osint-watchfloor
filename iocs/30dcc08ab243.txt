@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams
+Source: https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/
+Extracted: 2026-11-13 00:33:49 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-124194
