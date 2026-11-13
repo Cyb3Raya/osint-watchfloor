@@ -1,0 +1,13 @@
+IOC EXTRACTION - Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper
+Source: https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/
+Extracted: 2026-11-13 21:36:33 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-123039

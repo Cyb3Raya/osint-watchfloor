@@ -1,0 +1,12 @@
+IOC EXTRACTION - PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE
+Source: https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
+Extracted: 2026-11-13 21:36:29 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-116322
+CVE-2026-6460
