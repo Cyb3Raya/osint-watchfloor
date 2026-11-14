@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
+Source: https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html
+Extracted: 2026-11-14 15:39:10 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114713

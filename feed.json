@@ -1,9 +1,43 @@
 {
- "generated": "2026-11-14T08:44:53.707194+00:00",
+ "generated": "2026-11-14T15:39:29.100961+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+   "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+   "desc": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+   "image": "",
+   "date": "2026-11-14T15:15:49+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Is AI Making Us Worse at Cybersecurity?",
+   "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+   "desc": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-14T14:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+   "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg",
+   "date": "2026-11-14T12:38:35+00:00",
+   "iocs": "iocs/e577b898eca3.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+   "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+   "desc": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared fir",
+   "image": "",
+   "date": "2026-11-14T11:00:00+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
@@ -275,22 +309,6 @@
    "date": "2026-11-13T09:36:18+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-   "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-   "desc": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared fi",
-   "image": "",
-   "date": "2026-11-13T09:21:01+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-   "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-   "desc": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217; appeared first on Securit",
-   "image": "",
-   "date": "2026-11-13T08:50:36+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Critical Apache HTTP Server vulnerability can allow remote code execution (CVE-2026-119618)",
    "link": "https://www.aikido.dev/blog/cve-2026-119618-apache-http-server-rce",
@@ -481,24 +499,6 @@
    "date": "2026-11-12T15:38:49+00:00",
    "iocs": "iocs/96d21dc534c0.txt",
    "ioc_count": 12
-  },
-  {
-   "source": "The Hacker News",
-   "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-   "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-   "desc": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg",
-   "date": "2026-11-12T15:15:40+00:00",
-   "iocs": "iocs/9d96703e2366.txt",
-   "ioc_count": 9
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-   "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-   "desc": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-   "image": "",
-   "date": "2026-11-12T15:07:20+00:00"
   },
   {
    "source": "Unit 42",
