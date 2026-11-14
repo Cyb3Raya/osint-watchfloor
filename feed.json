@@ -1,9 +1,17 @@
 {
- "generated": "2026-11-14T01:46:47.908406+00:00",
+ "generated": "2026-11-14T08:44:53.707194+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+   "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+   "desc": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Upd",
+   "image": "",
+   "date": "2026-11-14T08:40:22+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
@@ -309,16 +317,6 @@
    "date": "2026-11-13T08:05:49+00:00",
    "iocs": "iocs/69d1a63879fd.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-   "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-   "desc": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-13T07:39:04+00:00",
-   "iocs": "iocs/7182a3a53c63.txt",
-   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
