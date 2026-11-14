@@ -1,16 +1,24 @@
 {
- "generated": "2026-11-13T21:36:58.267799+00:00",
+ "generated": "2026-11-14T01:46:47.908406+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
    "source": "SecurityWeek",
-   "title": "FAA Ground Stop Issued Due to “Extraordinary Circumstances”",
+   "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
    "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-   "desc": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to &#8220;Extraordinary Circumstances&#8221; appea",
+   "desc": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to &#8216;Extraordinary Circumstances&#8217; appea",
    "image": "",
    "date": "2026-11-13T21:33:27+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
+   "link": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
+   "desc": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.",
+   "image": "",
+   "date": "2026-11-13T21:32:00+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -21,6 +29,14 @@
    "date": "2026-11-13T20:57:13+00:00",
    "iocs": "iocs/d59fa8c7c203.txt",
    "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+   "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+   "desc": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt876ae2249da592eb/6af77117471ce44823395b3f/smartphone_Ao_Zaa_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-13T20:20:27+00:00"
   },
   {
    "source": "RF The Record",
@@ -89,14 +105,6 @@
    "date": "2026-11-13T16:21:43+00:00",
    "iocs": "iocs/97c01e9fc463.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "RF The Record",
-   "title": "DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018",
-   "link": "https://therecord.media/gootloader-ransomware-doj-details",
-   "desc": "In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.",
-   "image": "",
-   "date": "2026-11-13T15:59:00+00:00"
   },
   {
    "source": "Aikido",
@@ -697,14 +705,6 @@
    "desc": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1b65168e9679e0a/6af379bdf986ff173e0a7def/Lock_with_target-Alena_Butusava-GettyImages-2263307877.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-10T21:01:14+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-   "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
-   "desc": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
-   "date": "2026-11-10T20:41:45+00:00"
   },
   {
    "source": "SANS ISC",
