@@ -1,0 +1,11 @@
+IOC EXTRACTION - Attackers Say 'Hello' to a Different Scale of Cloud Attack
+Source: https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack
+Extracted: 2026-11-14 20:05:23 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2024-58351

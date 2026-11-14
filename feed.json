@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-14T15:39:29.100961+00:00",
+ "generated": "2026-11-14T20:05:32.149756+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Socket",
+   "title": "ESLint Ends Paid Contributor Program as AI Upends Open Source Collaboration",
+   "link": "https://socket.dev/blog/eslint-ends-paid-contributor-program?utm_medium=feed",
+   "desc": "From Rust to Godot and curl, open source projects are tightening contribution rules as AI-generated code strains maintainers and changes how developers collaborate.",
+   "image": "",
+   "date": "2026-11-14T17:27:29+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "desc": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+   "image": "",
+   "date": "2026-11-14T17:27:25+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -483,14 +499,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-   "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-   "desc": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-   "image": "",
-   "date": "2026-11-12T16:04:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
    "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
@@ -602,7 +610,9 @@
    "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
    "desc": "Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10d089cc23c19918/6af23c18ddd4d34d271f90a5/GettyImages-511970077.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-11T21:44:04+00:00"
+   "date": "2026-11-11T21:44:04+00:00",
+   "iocs": "iocs/c3250efb8424.txt",
+   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -1013,16 +1023,6 @@
    "date": "2026-10-29T09:36:00+00:00",
    "iocs": "iocs/26762876fb97.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "Searchjacked: Hidden Browser Extensions Hijack Searches for 13 Million Users",
-   "link": "https://socket.dev/blog/searchjacked?utm_medium=feed",
-   "desc": "319 browser extensions installed by 13.4 million users hijack searches, capture queries, and collect referral payments from Yahoo and Bing.",
-   "image": "",
-   "date": "2026-10-29T02:01:54+00:00",
-   "iocs": "iocs/e940ecdf5aa6.txt",
-   "ioc_count": 3
   },
   {
    "source": "Cisco Talos",
