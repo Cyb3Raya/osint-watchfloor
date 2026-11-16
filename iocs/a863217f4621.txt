@@ -1,0 +1,11 @@
+IOC EXTRACTION - Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches
+Source: https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html
+Extracted: 2026-11-16 23:18:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

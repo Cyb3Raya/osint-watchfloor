@@ -1,0 +1,15 @@
+IOC EXTRACTION - GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold
+Source: https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/
+Extracted: 2026-11-16 23:19:09 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-40217
+CVE-2026-81578
+CVE-2026-82078
