@@ -1,0 +1,14 @@
+IOC EXTRACTION - Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign
+Source: https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/
+Extracted: 2026-11-16 13:59:15 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+moments-notice[.]com
+newbooker[.]com
+planetmaison[.]com
+reallifeaccounting[.]com

@@ -1,0 +1,13 @@
+IOC EXTRACTION - New NoisyTCP vulnerability lets attackers crash Linux servers
+Source: https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/
+Extracted: 2026-11-16 13:58:57 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-43284
+CVE-2026-43500
+CVE-2026-99288

@@ -1,0 +1,12 @@
+IOC EXTRACTION - Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)
+Source: https://isc.sans.edu/diary/rss/33522
+Extracted: 2026-11-16 13:58:45 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-42271
+CVE-2026-48710

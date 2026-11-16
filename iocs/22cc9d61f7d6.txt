@@ -1,0 +1,12 @@
+IOC EXTRACTION - Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers
+Source: https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/
+Extracted: 2026-11-16 13:59:12 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-124010
+CVE-2026-124014

@@ -1,0 +1,11 @@
+IOC EXTRACTION - SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity
+Source: https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html
+Extracted: 2026-11-16 13:58:49 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

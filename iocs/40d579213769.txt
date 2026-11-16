@@ -1,0 +1,12 @@
+IOC EXTRACTION - Recent UnrealIRCd Vulnerability Exploited in Attacks
+Source: https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/
+Extracted: 2026-11-16 13:59:11 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114713
+CVE-2026-123039

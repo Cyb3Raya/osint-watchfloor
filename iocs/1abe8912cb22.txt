@@ -1,0 +1,26 @@
+IOC EXTRACTION - BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server
+Source: https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
+Extracted: 2026-11-16 13:58:51 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2021-44228
+CVE-2026-118383
+
+IPv4 (2)
+----------------------------------------
+193[.]3[.]23[.]236
+80[.]76[.]42[.]139
+
+Domains (6)
+----------------------------------------
+lo1yaizaeghaevarood1ahtaichootae[.]nofrillsdns[.]com
+lo1yaizaeghaevarood1ahtaichootaz[.]nofrillsdns[.]com
+nofrillsdns[.]com
+proxy-sale[.]com
+start[.]duckduckgo[.]com
+vulners[.]com
