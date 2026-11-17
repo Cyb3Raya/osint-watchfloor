@@ -1,9 +1,35 @@
 {
- "generated": "2026-11-16T23:19:17.324251+00:00",
+ "generated": "2026-11-17T05:08:07.525561+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "RF The Record",
+   "title": "Uber says nearly 150,000 impacted by third-party breach",
+   "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+   "desc": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+   "image": "",
+   "date": "2026-11-18T01:20:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+   "desc": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts des",
+   "image": "",
+   "date": "2026-11-17T02:12:17+00:00",
+   "iocs": "iocs/b6e25351df53.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+   "link": "https://isc.sans.edu/diary/rss/33524",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-17T02:05:15+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
@@ -109,14 +135,6 @@
    "desc": "A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations.",
    "image": "",
    "date": "2026-11-16T17:22:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Russia denies intercepting Romanian government emails",
-   "link": "https://therecord.media/romania-russia-cyberattack-espionage",
-   "desc": "Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.",
-   "image": "",
-   "date": "2026-11-16T17:00:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -391,14 +409,6 @@
    "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.23.0 release brings 4 improvements and 16 bugfixes.&#xd;",
    "image": "",
    "date": "2026-11-15T18:17:27+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "TSMC employee data breach linked to cloud provider",
-   "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-   "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-   "image": "",
-   "date": "2026-11-15T15:23:48+00:00"
   },
   {
    "source": "The Hacker News",
@@ -757,16 +767,6 @@
    "date": "2026-11-10T21:55:03+00:00",
    "iocs": "iocs/6e299ce35745.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33506",
-   "desc": "&#xd;",
-   "image": "",
-   "date": "2026-11-10T12:48:55+00:00",
-   "iocs": "iocs/f5abc9ae3aeb.txt",
-   "ioc_count": 9
   },
   {
    "source": "Socket",

@@ -1,0 +1,15 @@
+IOC EXTRACTION - Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware
+Source: https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/
+Extracted: 2026-11-17 05:07:50 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://1688360[.]cc/card[.]php
+
+SHA256 (1)
+----------------------------------------
+2033556a49942224b486e70fa8beeaeae4265dc4b10adffec2326c002d30397b
