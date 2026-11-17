@@ -1,0 +1,11 @@
+IOC EXTRACTION - A phishing page interested in MX records, (Tue, Nov 17th)
+Source: https://isc.sans.edu/diary/rss/33526
+Extracted: 2026-11-17 14:38:56 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://dns[.]google/resolve?name=

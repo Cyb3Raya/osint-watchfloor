@@ -1,0 +1,11 @@
+IOC EXTRACTION - MSP ScreenConnect Servers Targeted in Month-Long Campaign
+Source: https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/
+Extracted: 2026-11-17 14:39:28 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-84869

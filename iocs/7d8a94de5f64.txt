@@ -1,0 +1,28 @@
+IOC EXTRACTION - N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners
+Source: https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html
+Extracted: 2026-11-17 14:39:05 UTC
+Total indicators: 18
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (18)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-129271
+CVE-2026-129272
+CVE-2026-129273
+CVE-2026-129274
+CVE-2026-129275
+CVE-2026-129276
+CVE-2026-129277
+CVE-2026-129278
+CVE-2026-129279
+CVE-2026-129280
+CVE-2026-129281
+CVE-2026-129282
+CVE-2026-129283
+CVE-2026-129284
+CVE-2026-129285
+CVE-2026-129286
+CVE-2026-129287

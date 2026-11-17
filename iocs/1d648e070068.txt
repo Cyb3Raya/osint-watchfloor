@@ -1,0 +1,12 @@
+IOC EXTRACTION - Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
+Source: https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html
+Extracted: 2026-11-17 14:38:59 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-65339

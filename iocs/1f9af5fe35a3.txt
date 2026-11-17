@@ -1,0 +1,15 @@
+IOC EXTRACTION - New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
+Source: https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html
+Extracted: 2026-11-17 14:39:00 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
+
+IPv4 (1)
+----------------------------------------
+27[.]102[.]66[.]162

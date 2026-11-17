@@ -1,0 +1,12 @@
+IOC EXTRACTION - Pre-auth RCE flaw in Java 17 puts servers at risk: affected versions and how to fix (CVE-2026-114938)
+Source: https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938
+Extracted: 2026-11-17 14:39:39 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-119618

@@ -1,0 +1,24 @@
+IOC EXTRACTION - Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors
+Source: https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html
+Extracted: 2026-11-17 14:39:02 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
+
+IPv4 (1)
+----------------------------------------
+136[.]113[.]106[.]136
+
+Domains (1)
+----------------------------------------
+1688360[.]cc
+
+SHA256 (2)
+----------------------------------------
+617df364120adc47fb4f55dcc0c69a9b6c9e108a92c60bc2b64a266254ab02f3
+f7b84b9a94f749f8ced3f0112d0a66894e8bbc3b4aa5592021d1b8976a9bad40

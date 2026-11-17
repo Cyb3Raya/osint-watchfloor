@@ -1,0 +1,13 @@
+IOC EXTRACTION - N-able Kills Legacy APIs, Patches 17 N-central Zero-Days
+Source: https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/
+Extracted: 2026-11-17 14:39:31 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-129271
+CVE-2026-129287
+CVE-2026-90436
