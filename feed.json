@@ -1,16 +1,184 @@
 {
- "generated": "2026-11-17T14:39:42.135194+00:00",
+ "generated": "2026-11-17T22:40:33.378114+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
-   "source": "RF The Record",
-   "title": "Uber says nearly 150,000 impacted by third-party breach",
-   "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-   "desc": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+   "source": "Aikido",
+   "title": "Two malicious agent-framework releases hit PyPI in 33 minutes",
+   "link": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
+   "desc": "Two malicious agent-framework releases on PyPI ran a credential stealer on every Python start, targeting Azure, Azure DevOps, and GitHub Actions secrets. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afcce66664e4dfb6a894c0c_pypi_Feature.png",
+   "date": "2026-11-17T22:00:00+00:00",
+   "iocs": "iocs/513557a2b174.txt",
+   "ioc_count": 11
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+   "desc": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
    "image": "",
-   "date": "2026-11-18T01:20:00+00:00"
+   "date": "2026-11-17T21:27:17+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+   "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
+   "desc": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+   "image": "",
+   "date": "2026-11-17T21:20:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+   "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+   "desc": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f7643977746699c/6afcac2049ae9b70b9695c91/red_mailbox_white_brick_wall-Liudmila_Chernetska-GettyImages-1477282383.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-17T20:58:13+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+   "desc": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+   "image": "",
+   "date": "2026-11-17T20:51:21+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+   "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
+   "desc": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation. The post Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us appe",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/09_Opinion_Category_1505x922.jpg",
+   "date": "2026-11-17T20:43:14+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+   "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+   "desc": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg",
+   "date": "2026-11-17T19:34:20+00:00",
+   "iocs": "iocs/6bab39afba04.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "desc": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "image": "",
+   "date": "2026-11-17T19:24:07+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Kazakh ransomware hacking suspect extradited from Italy",
+   "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+   "desc": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+   "image": "",
+   "date": "2026-11-17T19:09:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+   "link": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+   "desc": "Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent offensiv",
+   "image": "",
+   "date": "2026-11-17T18:50:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+   "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+   "desc": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ac2db6d8dd7d25d/6afb79babb3cf32830e383ff/cursor_Erman_Gunes_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-17T18:38:37+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+   "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+   "desc": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+   "image": "",
+   "date": "2026-11-17T18:21:24+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+   "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+   "desc": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on Security",
+   "image": "",
+   "date": "2026-11-17T18:16:17+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Tor releases emergency update amid ongoing DDoS attack",
+   "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+   "desc": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. ",
+   "image": "",
+   "date": "2026-11-17T18:04:15+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "California fines Hertz $1.5 million for breaking state data privacy law",
+   "link": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
+   "desc": "Hertz agreed to the fine and said it would change its business practices, according to a court filing shared by the regulator, the California Privacy Protection Agency (CPPA).",
+   "image": "",
+   "date": "2026-11-17T17:13:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
+   "link": "https://therecord.media/nsa-net-disruptions",
+   "desc": "The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.",
+   "image": "",
+   "date": "2026-11-17T16:21:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+   "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+   "desc": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+   "image": "",
+   "date": "2026-11-17T16:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "desc": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially cr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1l9jYXUC-XLNjqqVjPvFicpQvkj-fwml16Gl43nsTc5TrBGGzijFoCzpxHpfninWaxrDxoCW4J6FKkgO1rPsnVFgFAcMbm9hl9YxeVO6fM4sBrs_tvUOXG8MnKPqDXRal3qNJ2VY7RzqAlj5vJzYI6xVFOxVGV7TyDliY-AIBqKm2bst1d6rCNl2qkhv/s1600/java4shell.jpg",
+   "date": "2026-11-17T15:17:36+00:00",
+   "iocs": "iocs/e5492f986750.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+   "desc": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impe",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXvywoP0qreCtUhDgAD1y24HevVHwAH9bGo904BuaQ7-amvdkk6Oi8gz8WjF-Hwiu3SinN266QM0KwUX6lDnayGOtMaSEff_b5vybBsdwvDhiai2uGsAlYfMgCdquPmKqaqM6eY54pG9HsMR7X5Sf7M4nkbIaHmWJMBG1uL3ggpJMMvfQR6FbMagqug2QG/s1600/target.jpg",
+   "date": "2026-11-17T15:17:28+00:00",
+   "iocs": "iocs/4f9516b8f5d7.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+   "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+   "desc": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+   "image": "",
+   "date": "2026-11-17T15:01:11+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+   "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+   "desc": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWee",
+   "image": "",
+   "date": "2026-11-17T14:55:30+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -21,20 +189,22 @@
    "date": "2026-11-17T14:14:24+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage",
-   "link": "https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak",
-   "desc": "Now 21, Artion Kurtaj pleaded guilty to a 2022 spree that included leaking clips of Grand Theft Auto VI while it was still years away from release.",
-   "image": "",
-   "date": "2026-11-17T14:09:00+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
    "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
    "desc": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-11-17T14:00:00+00:00"
+  },
+  {
+   "source": "Google GTIG",
+   "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+   "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+   "desc": "Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russ",
+   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Redacted_LLM-generated_depiction_.max-1000x1000.png",
+   "date": "2026-11-17T14:00:00+00:00",
+   "iocs": "iocs/0ca7f638e6a0.txt",
+   "ioc_count": 2
   },
   {
    "source": "SecurityWeek",
@@ -48,17 +218,17 @@
   },
   {
    "source": "Dark Reading",
-   "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-   "link": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-   "desc": "The emerging technology will soon break the &quot;lock and key&quot; encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe572d94baa464a0/67bf001706ed6e9954636f2b/pqc-quantum-adam121AdobeStock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-17T13:22:15+00:00"
+   "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+   "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+   "desc": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte89802188fbf7517/6afc5ddc05f01c312ef66082/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-17T13:12:56+00:00"
   },
   {
    "source": "Aikido",
-   "title": "Pre-auth RCE flaw in Java 17 puts servers at risk: affected versions and how to fix (CVE-2026-114938)",
+   "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk, with affected versions and fix (CVE-2026-114938)",
    "link": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-   "desc": "Java CVE-2026-114938 is a reported unauthenticated remote code execution flaw in Java 17. See affected versions, Oracle’s November 2026 patch and the fix. Category: Vulnerabilities & Threats",
+   "desc": "Java4Shell (CVE-2026-114938) is a reported pre-auth RCE in Java 17. Oracle’s November 17 patches are out. See affected versions and how to fix. Category: Vulnerabilities & Threats",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afc522ba13a27d8917e0a59_Group%202147256808.png",
    "date": "2026-11-17T13:10:00+00:00",
    "iocs": "iocs/a7b9d8f0e379.txt",
@@ -271,14 +441,6 @@
    "date": "2026-11-16T22:08:20+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
-   "link": "https://therecord.media/california-sues-openai-hugging-face",
-   "desc": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a ne",
-   "image": "",
-   "date": "2026-11-16T21:40:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
    "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
@@ -295,32 +457,8 @@
    "date": "2026-11-16T20:59:44+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Match fined $10 million for alleged Tinder privacy violations",
-   "link": "https://therecord.media/ireland-tinder-privacy-fine",
-   "desc": "Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request.",
-   "image": "",
-   "date": "2026-11-16T20:15:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-   "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-   "desc": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirec",
-   "image": "",
-   "date": "2026-11-16T20:00:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-   "desc": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-   "image": "",
-   "date": "2026-11-16T19:57:13+00:00"
-  },
-  {
    "source": "Dark Reading",
-   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
    "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
    "desc": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80dac13b14975660/6af7368e89398e7e289817aa/global-cyber-map-alestudio996-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -335,22 +473,6 @@
    "date": "2026-11-16T19:10:03+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Italian regulator fines Meta $886 million for violating data privacy law",
-   "link": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
-   "desc": "The crackdown on Meta’s Facebook platform involved the company’s alleged use of its “camera roll” suggestions option, launched in 2023, to browse Android users’ photo galleries to recommend posts they could enhance with ",
-   "image": "",
-   "date": "2026-11-16T18:05:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-   "desc": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-   "image": "",
-   "date": "2026-11-16T16:43:24+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
@@ -359,28 +481,12 @@
    "date": "2026-11-16T16:36:55+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Cursor Supply Chain Attack Started at Fireworks AI",
-   "link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
-   "desc": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared",
-   "image": "",
-   "date": "2026-11-16T15:45:43+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Fandango says hackers stole payment card details from checkout pages",
-   "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-   "desc": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-   "image": "",
-   "date": "2026-11-16T15:44:21+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-   "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-   "desc": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to",
-   "image": "",
-   "date": "2026-11-16T15:01:11+00:00"
+   "source": "Dark Reading",
+   "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+   "link": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+   "desc": "The emerging technology will soon break the &quot;lock and key&quot; encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe572d94baa464a0/67bf001706ed6e9954636f2b/pqc-quantum-adam121AdobeStock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-16T14:22:15+00:00"
   },
   {
    "source": "The Hacker News",
@@ -391,14 +497,6 @@
    "date": "2026-11-16T14:00:00+00:00",
    "iocs": "iocs/a863217f4621.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Google warns that fully-automated AI attacks are coming soon",
-   "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-   "desc": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-   "image": "",
-   "date": "2026-11-16T14:00:00+00:00"
   },
   {
    "source": "Google GTIG",
@@ -431,14 +529,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-   "desc": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-   "image": "",
-   "date": "2026-11-16T12:53:18+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
    "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
@@ -459,14 +549,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Australian retail giant Coles investigates cybersecurity incident",
-   "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-   "desc": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-   "image": "",
-   "date": "2026-11-16T11:18:09+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
    "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
@@ -475,26 +557,6 @@
    "date": "2026-11-16T09:32:57+00:00",
    "iocs": "iocs/5ceeaae8e26f.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-   "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-   "desc": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which A",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg",
-   "date": "2026-11-16T07:34:21+00:00",
-   "iocs": "iocs/d6a0c3df6c7f.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-   "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-   "desc": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documente",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg",
-   "date": "2026-11-16T06:53:34+00:00",
-   "iocs": "iocs/1abe8912cb22.txt",
-   "ioc_count": 10
   },
   {
    "source": "SANS ISC",
@@ -511,16 +573,6 @@
    "desc": "YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.23.0 release brings 4 improvements and 16 bugfixes.&#xd;",
    "image": "",
    "date": "2026-11-15T18:17:27+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-   "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-   "desc": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdTCjpbsG3Dp62JM1KZqfSvZpuBnxwaCxXsplW3dAt2b4Ym0KAWPfxkHf4DT-02VK3jJESLmgasdE6D36qGegWu7dk9YSLN4DZxRVsgrM9lIEXXHUvQ0VzaZ1_gFqpjtA4cP3rlt82g5WnK2sXNZHJd5F_rEk4VSTGnMKOuXziSM1R85Vqhway3lajwTA/s1600/facebook-fine.jpg",
-   "date": "2026-11-15T11:27:31+00:00",
-   "iocs": "iocs/dabf7b9c559f.txt",
-   "ioc_count": 1
   },
   {
    "source": "Socket",
@@ -705,22 +757,6 @@
    "ioc_count": 7
   },
   {
-   "source": "Dark Reading",
-   "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-   "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-   "desc": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6aad3115d0b39df8/6af3b700f317a18a4957378c/Jinan_University-TkKurikawa-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-12T01:00:00+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-   "desc": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-12T00:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
    "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
@@ -729,14 +765,6 @@
    "date": "2026-11-11T23:00:53+00:00",
    "iocs": "iocs/b7b40a3784e9.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
-   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
-   "desc": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-11T22:14:44+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1043,16 +1071,6 @@
    "ioc_count": 4
   },
   {
-   "source": "Aikido",
-   "title": "Ghost in the PHP2Shell: Why coordinated disclosure and patching will start moving faster",
-   "link": "https://www.aikido.dev/blog/ghost-php2shell-coordinated-disclosure-faster",
-   "desc": "PHP2Shell showed how fast AI turns a bug into an exploit. Here’s why the disclosure should never happen this way again, and why it will anyway. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae16345929a49246756e408_Ghost_In_the_PHP2Shell_Feature.png",
-   "date": "2026-10-29T09:36:00+00:00",
-   "iocs": "iocs/26762876fb97.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Cisco Talos",
    "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
    "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
@@ -1283,16 +1301,6 @@
    "ioc_count": 30
   },
   {
-   "source": "Unit 42",
-   "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
-   "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
-   "desc": "We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware. The post Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant ap",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/09_Vulnerabilities_1920x900.jpg",
-   "date": "2026-10-14T22:00:44+00:00",
-   "iocs": "iocs/d73bcf51f60e.txt",
-   "ioc_count": 24
-  },
-  {
    "source": "Krebs on Security",
    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
    "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -1465,16 +1473,6 @@
    "desc": "The attack begins with phishing emails impersonating voicemail notifications that direct victims through a multi-stage redirect chain abusing legitimate services, including Google Meet, Google Ads infrastructure, and Ama",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-08-07T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/",
-   "desc": "Written by: Tyler McLellan, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) continues to track UNC6671 actively conducting compromises leading to data theft extortion, despite the alleged announced ret",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_j8OyMFx.max-1000x1000.png",
-   "date": "2026-08-06T14:00:00+00:00",
-   "iocs": "iocs/7b5a120ec555.txt",
-   "ioc_count": 76
   },
   {
    "source": "Wiz Threats",

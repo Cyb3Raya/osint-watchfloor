@@ -1,0 +1,12 @@
+IOC EXTRACTION - COLD RELIC: A Case Study in Impersonation and Compromise
+Source: https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/
+Extracted: 2026-11-17 22:40:26 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (2)
+----------------------------------------
+hxxps://compromised[.]example[.]com/some_path/some_file[.]php?file=
+hxxps://compromised[.]example[.]com/some_path/some_file[.]php?ref=

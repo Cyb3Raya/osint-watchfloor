@@ -1,0 +1,24 @@
+IOC EXTRACTION - Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers
+Source: https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html
+Extracted: 2026-11-17 22:39:56 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
+
+IPv4 (1)
+----------------------------------------
+170[.]205[.]30[.]27
+
+Domains (1)
+----------------------------------------
+asteara[.]org
+
+Emails (2)
+----------------------------------------
+eros1030109@gmail.com
+harper.danie95@gmail.com

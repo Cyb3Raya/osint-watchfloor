@@ -1,0 +1,12 @@
+IOC EXTRACTION - Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges
+Source: https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html
+Extracted: 2026-11-17 22:39:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-118383
