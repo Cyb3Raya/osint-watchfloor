@@ -1,9 +1,193 @@
 {
- "generated": "2026-11-18T03:53:27.535831+00:00",
+ "generated": "2026-11-18T12:46:39.122648+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+   "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+   "desc": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure da",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg",
+   "date": "2026-11-18T12:15:00+00:00",
+   "iocs": "iocs/e3f6e444c8de.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+   "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+   "desc": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared ",
+   "image": "",
+   "date": "2026-11-18T12:14:23+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+   "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+   "desc": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on S",
+   "image": "",
+   "date": "2026-11-18T12:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+   "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+   "desc": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this we",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg",
+   "date": "2026-11-18T11:55:49+00:00",
+   "iocs": "iocs/5966ac56e61b.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+   "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+   "desc": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+   "image": "",
+   "date": "2026-11-18T11:50:25+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Chrome 158 Patches 204 Vulnerabilities",
+   "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+   "desc": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-18T11:43:22+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+   "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+   "desc": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared fi",
+   "image": "",
+   "date": "2026-11-18T11:05:39+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+   "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+   "desc": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now d",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg",
+   "date": "2026-11-18T11:03:57+00:00",
+   "iocs": "iocs/1df2f3726abc.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+   "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+   "desc": "The evolution of malware command-and-control (C2) infrastructure has shifted away from fragile, centralized servers and hardcoded domains toward resilient, decentralized blockchain networks that eliminate single points o",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/on_the_radar.jpg",
+   "date": "2026-11-18T11:00:00+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+   "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+   "desc": "Cisco Talos discovered malicious infrastructure associated with a financially motivated threat group we are tracking as UAT-12643.",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_spotlight.jpg",
+   "date": "2026-11-18T11:00:00+00:00",
+   "iocs": "iocs/13f5a89a4544.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+   "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+   "desc": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-18T10:37:08+00:00",
+   "iocs": "iocs/e7b1093169c1.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+   "desc": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+   "image": "",
+   "date": "2026-11-18T10:35:05+00:00",
+   "iocs": "iocs/4d4692262fd0.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft announces Windows Server 2028 with hardened security",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+   "desc": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+   "image": "",
+   "date": "2026-11-18T09:24:31+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+   "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+   "desc": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-18T08:47:18+00:00",
+   "iocs": "iocs/6977aa717fc1.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+   "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg",
+   "date": "2026-11-18T08:24:31+00:00",
+   "iocs": "iocs/eeab189c3475.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "The Hacker News",
+   "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+   "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS sco",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmrsz2fViEN49Su385gmuAShCPcxobsMF-FbR9t1sXw6aEbOMzFUT5YktViqASQUXP3bLT13HYMAE1wBQTN0ZRDGXWFJUy_EWOKhOjR7jSz-bhEK8jas_v9wWUYxevCAZt4PzOCaGNLLC96kDwFjtKBuXVW2O3K2BK9AO5nyZutFf_uCaZtvyaQ2qf8gK/s1600/cisa-java.jpg",
+   "date": "2026-11-18T08:24:23+00:00",
+   "iocs": "iocs/e73903040477.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "desc": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+   "image": "",
+   "date": "2026-11-18T08:24:18+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+   "desc": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "image": "",
+   "date": "2026-11-18T07:43:34+00:00",
+   "iocs": "iocs/07860a355367.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "desc": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg",
+   "date": "2026-11-18T06:45:26+00:00",
+   "iocs": "iocs/533b590042a0.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "desc": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbxlzqi-uBPlDXGecxrfXQ8kZLpAKsDO5c7KmTTyYyNQQE6bdI0TqT7Rk_JrKRie2pMB_xrLRKy1Cksp1GYHfUGHXz7UGg5nWOAQmPmiRKoUJkMCHrMvW7A72W9x7_I7KESMQmJLQVrJth_Ozj7i1nF7IPB4W_WV-NQyy0afEMgGVbGdaSNfIjolqtC4-/s1600/cloud.jpg",
+   "date": "2026-11-18T05:58:04+00:00",
+   "iocs": "iocs/4816a5c313d5.txt",
+   "ioc_count": 1
+  },
   {
    "source": "Krebs on Security",
    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -30,7 +214,7 @@
   },
   {
    "source": "Cisco Talos",
-   "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+   "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
    "link": "https://blog.talosintelligence.com/java4shell/",
    "desc": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_advisory-1.jpg",
@@ -47,6 +231,16 @@
    "date": "2026-11-18T00:17:00+00:00",
    "iocs": "iocs/dda0d9f8c75c.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
+   "link": "https://therecord.media/cisa-issues-java4shell-alert",
+   "desc": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker to ",
+   "image": "",
+   "date": "2026-11-18T00:00:00+00:00",
+   "iocs": "iocs/ba46bd4827d4.txt",
+   "ioc_count": 1
   },
   {
    "source": "Socket",
@@ -191,14 +385,6 @@
    "date": "2026-11-17T17:13:00+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
-   "link": "https://therecord.media/nsa-net-disruptions",
-   "desc": "The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.",
-   "image": "",
-   "date": "2026-11-17T16:21:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
@@ -243,22 +429,6 @@
    "date": "2026-11-17T14:55:30+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-   "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-   "desc": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeare",
-   "image": "",
-   "date": "2026-11-17T14:14:24+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-   "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-   "desc": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-17T14:00:00+00:00"
-  },
-  {
    "source": "Google GTIG",
    "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
@@ -267,16 +437,6 @@
    "date": "2026-11-17T14:00:00+00:00",
    "iocs": "iocs/0ca7f638e6a0.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-   "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-   "desc": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-17T13:24:43+00:00",
-   "iocs": "iocs/86d3e558bb34.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -288,39 +448,13 @@
   },
   {
    "source": "Aikido",
-   "title": "Java4Shell: pre-auth RCE flaw in Java 17, 21, 25 and 27, with affected versions and fix (CVE-2026-114938)",
+   "title": "Java4Shell: RCE flaw in OpenJDK's Base64 decoder, with affected versions and fix (CVE-2026-114938)",
    "link": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-   "desc": "Java4Shell (CVE-2026-114938) is a reported pre-auth RCE in Java 17, 21, 25 and 27. See affected versions, fixed builds and how to check your exposure. Category: Vulnerabilities & Threats",
+   "desc": "Java4Shell (CVE-2026-114938) is an RCE flaw in OpenJDK’s Base64 decoder. See affected versions, fixed builds and the -XX:-UseBASE64Intrinsics mitigation. Category: Vulnerabilities & Threats",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afc522ba13a27d8917e0a59_Group%202147256808.png",
    "date": "2026-11-17T13:10:00+00:00",
    "iocs": "iocs/a7b9d8f0e379.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Access Dental Management Data Breach Impacts Over 340,000",
-   "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-   "desc": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-17T12:59:04+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-   "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-   "desc": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on Secu",
-   "image": "",
-   "date": "2026-11-17T12:51:54+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-   "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-   "desc": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-17T12:28:45+00:00",
-   "iocs": "iocs/f0afc1d9f6ba.txt",
-   "ioc_count": 3
   },
   {
    "source": "The Hacker News",
@@ -341,14 +475,6 @@
    "date": "2026-11-17T12:14:36+00:00",
    "iocs": "iocs/1d648e070068.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-   "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-   "desc": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the",
-   "image": "",
-   "date": "2026-11-17T12:00:00+00:00"
   },
   {
    "source": "Aikido",
@@ -415,14 +541,6 @@
    "date": "2026-11-17T08:35:42+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-   "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-   "desc": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-   "image": "",
-   "date": "2026-11-17T07:25:44+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
    "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
@@ -439,36 +557,6 @@
    "desc": "pnpm has introduced an experimental lockfile format designed to reduce Git merge conflicts by changing how dependencies are recorded.",
    "image": "",
    "date": "2026-11-17T07:02:53+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-   "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-   "desc": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjErwt0frcFKiESffCoP1OtYh0j23goqdMN0nz-RT02biCz30WlLG4PD5gTyGgbumOWB3Zh1PJfENQoRtOwQVm3Nbg8VsiRhvNk662qVFNGqO8DQ4bFrroSzWgsvfCYGLWFzD1A-f6fcTu_E_dm4o1iUJz96scWy7skw49vzD9hfIfVEILTVPKsvbsEpGca/s1600/screenconnect-flaws.jpg",
-   "date": "2026-11-17T06:29:27+00:00",
-   "iocs": "iocs/dd31e5151870.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "The Hacker News",
-   "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-   "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-   "desc": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Tz3JQedMRmE0NpjmQ9KXm4AlgJ2GfBbA8pbKm3UARfJrN_vRlTywt0Zg80C-fM4hmacqlZTHV_wh0E-yoga-UjcSvpt2FHczR2AtGze3mvk0fmqeET4vvee-4f_RJEMIF-HL79HkXg_GD2Lg-U8jAPPJaPaqYDJmKTsJHn7GO0lS84zEU5SFQWll-qwv/s1600/nn.jpg",
-   "date": "2026-11-17T05:00:34+00:00",
-   "iocs": "iocs/7d8a94de5f64.txt",
-   "ioc_count": 18
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-   "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-   "desc": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts des",
-   "image": "",
-   "date": "2026-11-17T02:12:17+00:00",
-   "iocs": "iocs/b6e25351df53.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -489,28 +577,12 @@
    "ioc_count": 81
   },
   {
-   "source": "BleepingComputer",
-   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-   "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-   "desc": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from acc",
-   "image": "",
-   "date": "2026-11-16T22:54:00+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
    "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
    "desc": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9eb0a69ea15c3e0c/6afb7143ea20de309e24d604/zero_day_over_text-JUN_LI-GettyImages-2179992195.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-16T22:08:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-   "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-   "desc": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-   "image": "",
-   "date": "2026-11-16T21:31:44+00:00"
   },
   {
    "source": "Dark Reading",
@@ -545,16 +617,6 @@
    "date": "2026-11-16T14:22:15+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-   "desc": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
-   "date": "2026-11-16T14:00:00+00:00",
-   "iocs": "iocs/a863217f4621.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Google GTIG",
    "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
    "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
@@ -565,16 +627,6 @@
    "ioc_count": 5
   },
   {
-   "source": "The Hacker News",
-   "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-   "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-   "desc": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg",
-   "date": "2026-11-16T13:27:20+00:00",
-   "iocs": "iocs/e021b9febf9e.txt",
-   "ioc_count": 171
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
    "link": "https://isc.sans.edu/diary/rss/33522",
@@ -583,36 +635,6 @@
    "date": "2026-11-16T13:11:04+00:00",
    "iocs": "iocs/1742a693aba8.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-   "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-   "desc": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg",
-   "date": "2026-11-16T12:34:21+00:00",
-   "iocs": "iocs/a989c64e51eb.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-   "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-   "desc": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file na",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRuwbdQU-KyBsSrFlIZp4oczr_tJu53WrfB3nM6QYrO7kFgGAZO1NMSi7mziUOUaTrzq5C4KzCJqvYOf0Ry19ypJac-9mBYzYiqiTNl462i1uYo7DF9aAHxiVU_IOaByH3NtNlrF0hUhZtpItADKJauPVzWrz8r6YOQEHQrt_YiAmPba4CIOsSjZA2Wy_/s1600/hacker-code.jpg",
-   "date": "2026-11-16T12:33:18+00:00",
-   "iocs": "iocs/c4086de05142.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-   "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-   "desc": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg",
-   "date": "2026-11-16T09:32:57+00:00",
-   "iocs": "iocs/5ceeaae8e26f.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -1187,16 +1209,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Cisco Talos",
-   "title": "Two critical RCEs in PHP core",
-   "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-   "desc": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, incl",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_advisory.jpg",
-   "date": "2026-10-21T15:10:53+00:00",
-   "iocs": "iocs/ed3fc2a51f89.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Unit 42",
    "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
    "link": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
@@ -1205,14 +1217,6 @@
    "date": "2026-10-21T14:00:24+00:00",
    "iocs": "iocs/51c757f2640a.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "Cisco Talos",
-   "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
-   "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
-   "desc": "Adversaries are turning the tools businesses trust into delivery mechanisms for malicious activity. Cisco Talos observed abuse of more than 25 legitimate platforms over the past year, exploiting the built-in trust of col",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/parasitizingtrust.jpg",
-   "date": "2026-10-21T10:00:00+00:00"
   },
   {
    "source": "Wiz Threats",

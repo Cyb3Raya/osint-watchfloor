@@ -1,0 +1,11 @@
+IOC EXTRACTION - Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
+Source: https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html
+Extracted: 2026-11-18 12:46:06 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

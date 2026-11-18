@@ -1,0 +1,13 @@
+IOC EXTRACTION - Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers
+Source: https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html
+Extracted: 2026-11-18 12:46:02 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-115731
+CVE-2026-115732
+CVE-2026-118383

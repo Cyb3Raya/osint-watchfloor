@@ -1,0 +1,11 @@
+IOC EXTRACTION - Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover
+Source: https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/
+Extracted: 2026-11-18 12:46:33 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938

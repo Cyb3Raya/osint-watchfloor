@@ -1,0 +1,19 @@
+IOC EXTRACTION - UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing
+Source: https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/
+Extracted: 2026-11-18 12:46:35 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (1)
+----------------------------------------
+41[.]216[.]188[.]11
+
+Domains (1)
+----------------------------------------
+gofile[.]io
+
+URLs (1)
+----------------------------------------
+hxxps://upload[.]gofile[.]io/uploadFile

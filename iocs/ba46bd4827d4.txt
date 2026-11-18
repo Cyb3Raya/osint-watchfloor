@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500
+Source: https://therecord.media/cisa-issues-java4shell-alert
+Extracted: 2026-11-18 12:46:38 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938

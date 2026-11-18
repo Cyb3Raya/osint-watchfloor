@@ -1,0 +1,12 @@
+IOC EXTRACTION - AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor
+Source: https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html
+Extracted: 2026-11-18 12:45:59 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-68982

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Oracle Patches 950 Vulnerabilities With November 2026 CSPU
+Source: https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/
+Extracted: 2026-11-18 12:46:32 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938

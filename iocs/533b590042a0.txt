@@ -1,0 +1,15 @@
+IOC EXTRACTION - Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials
+Source: https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
+Extracted: 2026-11-18 12:46:05 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
+
+Domains (1)
+----------------------------------------
+webhook[.]site

@@ -1,0 +1,11 @@
+IOC EXTRACTION - Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are
+Source: https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html
+Extracted: 2026-11-18 12:46:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
