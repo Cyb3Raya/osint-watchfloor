@@ -1,0 +1,12 @@
+IOC EXTRACTION - New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years
+Source: https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html
+Extracted: 2026-11-18 21:10:16 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-43613

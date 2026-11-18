@@ -1,0 +1,19 @@
+IOC EXTRACTION - PHP schedules a critical security release for 19 November, including CVE-2026-115560
+Source: https://www.aikido.dev/blog/php-security-release-19-november-2026-cve-2026-115560
+Extracted: 2026-11-18 21:10:58 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (9)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-113425
+CVE-2026-114938
+CVE-2026-115560
+CVE-2026-121810
+CVE-2026-123007
+CVE-2026-123633
+CVE-2026-123634

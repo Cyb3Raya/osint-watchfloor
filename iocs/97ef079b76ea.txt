@@ -1,0 +1,11 @@
+IOC EXTRACTION - Microsoft’s Agent Framework PyPI package compromised to steal credentials
+Source: https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/
+Extracted: 2026-11-18 21:10:20 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+URLs (1)
+----------------------------------------
+hxxps://webhook[.]site/d381fd80-ec62-42ad-8f5c-d1b15103c9bb

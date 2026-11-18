@@ -1,0 +1,24 @@
+IOC EXTRACTION - F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE
+Source: https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html
+Extracted: 2026-11-18 21:10:12 UTC
+Total indicators: 14
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (14)
+----------------------------------------
+CVE-2026-116953
+CVE-2026-118383
+CVE-2026-120285
+CVE-2026-120292
+CVE-2026-120718
+CVE-2026-120722
+CVE-2026-121805
+CVE-2026-121812
+CVE-2026-123637
+CVE-2026-125272
+CVE-2026-125274
+CVE-2026-126336
+CVE-2026-126822
+CVE-2026-94127

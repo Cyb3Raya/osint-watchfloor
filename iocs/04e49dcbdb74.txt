@@ -1,0 +1,16 @@
+IOC EXTRACTION - 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
+Source: https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html
+Extracted: 2026-11-18 21:10:11 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-113425
+CVE-2026-118383
+CVE-2026-121810
+CVE-2026-123007
+CVE-2026-123633
+CVE-2026-123634

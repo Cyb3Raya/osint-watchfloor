@@ -1,0 +1,11 @@
+IOC EXTRACTION - New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks
+Source: https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html
+Extracted: 2026-11-18 21:10:15 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

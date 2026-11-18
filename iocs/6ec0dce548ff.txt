@@ -1,0 +1,13 @@
+IOC EXTRACTION - Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required
+Source: https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html
+Extracted: 2026-11-18 21:10:13 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-129448
+CVE-2026-82384

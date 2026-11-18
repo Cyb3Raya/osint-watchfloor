@@ -1,0 +1,17 @@
+IOC EXTRACTION - nginx2root: Critical nginx vulnerabilities, including one RCE [CVE-2026-123007, CVE-2026-123634, CVE-2026-123633, CVE-2026-121810, CVE-2026-113425]
+Source: https://www.aikido.dev/blog/nginx2root-critical-nginx-rce-vulnerabilities
+Extracted: 2026-11-18 21:10:59 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-113425
+CVE-2026-114938
+CVE-2026-115560
+CVE-2026-121810
+CVE-2026-123007
+CVE-2026-123633
+CVE-2026-123634
