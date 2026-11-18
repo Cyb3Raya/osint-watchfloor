@@ -1,0 +1,12 @@
+IOC EXTRACTION - CVE-2026-114938: Critical vulnerability in OpenJDK JAVA
+Source: https://blog.talosintelligence.com/java4shell/
+Extracted: 2026-11-18 03:53:21 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-20127

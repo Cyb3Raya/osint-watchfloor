@@ -1,0 +1,15 @@
+IOC EXTRACTION - Optimizely Supply Chain Attack Distributes Malware Across Global Brands
+Source: https://socket.dev/blog/optimizely-supply-chain-attack?utm_medium=feed
+Extracted: 2026-11-18 03:53:25 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+1688360[.]cc
+
+SHA256 (1)
+----------------------------------------
+1ec4245b3b303304ea24a89b3b2351b0f0c085087050f517d23dcba9694c165a

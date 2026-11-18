@@ -1,18 +1,80 @@
 {
- "generated": "2026-11-17T22:40:33.378114+00:00",
+ "generated": "2026-11-18T03:53:27.535831+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
   {
-   "source": "Aikido",
-   "title": "Two malicious agent-framework releases hit PyPI in 33 minutes",
-   "link": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
-   "desc": "Two malicious agent-framework releases on PyPI ran a credential stealer on every Python start, targeting Azure, Azure DevOps, and GitHub Actions secrets. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afcce66664e4dfb6a894c0c_pypi_Feature.png",
-   "date": "2026-11-17T22:00:00+00:00",
-   "iocs": "iocs/513557a2b174.txt",
-   "ioc_count": 11
+   "source": "Krebs on Security",
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "desc": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize ",
+   "image": "",
+   "date": "2026-11-18T02:52:04+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+   "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+   "desc": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says a",
+   "image": "",
+   "date": "2026-11-18T02:15:07+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+   "link": "https://isc.sans.edu/diary/rss/33528",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-18T02:00:03+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+   "link": "https://blog.talosintelligence.com/java4shell/",
+   "desc": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_advisory-1.jpg",
+   "date": "2026-11-18T01:53:03+00:00",
+   "iocs": "iocs/65b2d3b6eed8.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Socket",
+   "title": "Optimizely Supply Chain Attack Distributes Malware Across Global Brands",
+   "link": "https://socket.dev/blog/optimizely-supply-chain-attack?utm_medium=feed",
+   "desc": "Attackers exploited Optimizely to inject malicious JavaScript into major websites, delivering cryptocurrency clippers, card skimmers, and iOS malware.",
+   "image": "",
+   "date": "2026-11-18T00:17:00+00:00",
+   "iocs": "iocs/dda0d9f8c75c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Socket",
+   "title": "Microsoft’s agent-framework PyPI package Compromised with Credential Stealer",
+   "link": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer?utm_medium=feed",
+   "desc": "Compromised agent-framework versions 1.26.1 and 1.26.2 on PyPI use .pth startup hooks to exfiltrate Azure, GitHub Actions, and CI/CD credentials.",
+   "image": "",
+   "date": "2026-11-17T23:05:25+00:00",
+   "iocs": "iocs/379e630fc3ca.txt",
+   "ioc_count": 8
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "desc": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian",
+   "image": "",
+   "date": "2026-11-17T23:04:21+00:00",
+   "iocs": "iocs/fca3dc2fb776.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+   "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+   "desc": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c54a284942546cd/6afccec91ecf5c62546c1c34/hydra_Daniel_Eskridge_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-17T22:34:22+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -226,9 +288,9 @@
   },
   {
    "source": "Aikido",
-   "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk, with affected versions and fix (CVE-2026-114938)",
+   "title": "Java4Shell: pre-auth RCE flaw in Java 17, 21, 25 and 27, with affected versions and fix (CVE-2026-114938)",
    "link": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-   "desc": "Java4Shell (CVE-2026-114938) is a reported pre-auth RCE in Java 17. Oracle’s November 17 patches are out. See affected versions and how to fix. Category: Vulnerabilities & Threats",
+   "desc": "Java4Shell (CVE-2026-114938) is a reported pre-auth RCE in Java 17, 21, 25 and 27. See affected versions, fixed builds and how to check your exposure. Category: Vulnerabilities & Threats",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afc522ba13a27d8917e0a59_Group%202147256808.png",
    "date": "2026-11-17T13:10:00+00:00",
    "iocs": "iocs/a7b9d8f0e379.txt",
@@ -289,6 +351,16 @@
    "date": "2026-11-17T12:00:00+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Two malicious agent-framework releases hit PyPI in 33 minutes",
+   "link": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
+   "desc": "Two malicious agent-framework releases on PyPI ran a credential stealer on every Python start, targeting Azure, Azure DevOps, and GitHub Actions secrets. Category: Vulnerabilities & Threats",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afcce66664e4dfb6a894c0c_pypi_Feature.png",
+   "date": "2026-11-17T12:00:00+00:00",
+   "iocs": "iocs/513557a2b174.txt",
+   "ioc_count": 11
+  },
+  {
    "source": "The Hacker News",
    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
    "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
@@ -325,14 +397,6 @@
    "date": "2026-11-17T10:56:38+00:00",
    "iocs": "iocs/e56d2b7cb059.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-   "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-   "desc": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-17T10:22:20+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -447,14 +511,6 @@
    "desc": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
    "image": "",
    "date": "2026-11-16T21:31:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-   "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-   "desc": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents t",
-   "image": "",
-   "date": "2026-11-16T20:59:44+00:00"
   },
   {
    "source": "Dark Reading",
@@ -731,14 +787,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Dark Reading",
-   "title": "Inside an AI Attack Against a US Retailer",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-   "desc": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte38664ed1dd3c978/6af4c35c1e561a1b3aa196c5/broken_lock-TU_IS-GettyImages-1369792495.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-12T11:00:00+00:00"
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
    "link": "https://isc.sans.edu/diary/rss/33512",
@@ -765,16 +813,6 @@
    "date": "2026-11-11T23:00:53+00:00",
    "iocs": "iocs/b7b40a3784e9.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33508",
-   "desc": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microso",
-   "image": "",
-   "date": "2026-11-11T18:28:43+00:00",
-   "iocs": "iocs/f802327bf7c7.txt",
-   "ioc_count": 1260
   },
   {
    "source": "Krebs on Security",
@@ -915,14 +953,6 @@
    "ioc_count": 10
   },
   {
-   "source": "Socket",
-   "title": "Composer 2.11 Adds Dependency Cooldowns",
-   "link": "https://socket.dev/blog/composer-dependency-cooldowns?utm_medium=feed",
-   "desc": "Composer 2.11 adds dependency cooldowns, joining package managers that delay new releases to reduce supply chain risks while allowing urgent security updates.",
-   "image": "",
-   "date": "2026-11-03T04:23:21+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
    "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
@@ -1003,14 +1033,6 @@
    "desc": "The Binance hack may have started with a compromised developer laptop, Binance says. See how that can lead to stolen funds and how to protect against it. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae49cc56462dd4813029df4_Binance_hack_Feature.jpg",
    "date": "2026-10-30T13:13:00+00:00"
-  },
-  {
-   "source": "Socket",
-   "title": "Cursor Removes Malicious Claude Code 2.1.313 Extension From Its Marketplace",
-   "link": "https://socket.dev/blog/claude-code-extension-compromise?utm_medium=feed",
-   "desc": "Cursor removed a malicious Claude Code 2.1.313 extension from its marketplace. Socket examines registry records and the initial claims about its distribution.",
-   "image": "",
-   "date": "2026-10-30T09:26:06+00:00"
   },
   {
    "source": "Aikido",
@@ -1211,16 +1233,6 @@
    "ioc_count": 21
   },
   {
-   "source": "Cisco Talos",
-   "title": "There's only so much code: the rise in vulnerability numbers",
-   "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
-   "desc": "The September Microsoft Patch Tuesday release included 975 vulnerability advisories. This month, 1,415 vulnerabilities were just dropped. Compared to a pre-June average of 100 a month, that increase is staggering. Where ",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/on_the_radar.jpg",
-   "date": "2026-10-20T15:31:22+00:00",
-   "iocs": "iocs/4939fa6a05be.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Wiz Threats",
    "title": "Threat Actors Targeting GCP Billing Accounts for LLM Usage (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/threat-actors-targeting-gcp-billing-accounts-for-llm-usage",
@@ -1333,16 +1345,6 @@
    "desc": "A wave of cyberattacks targeting organizations in Japan and financial institutions in South Korea has resulted in widespread data exposure and prompted urgent government responses. In Japan, more than 20 major companies ",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-10-10T00:00:00+00:00"
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-   "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-   "desc": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb",
-   "image": "",
-   "date": "2026-10-07T13:48:45+00:00",
-   "iocs": "iocs/2c4e6a4177d1.txt",
-   "ioc_count": 1
   },
   {
    "source": "Google GTIG",
