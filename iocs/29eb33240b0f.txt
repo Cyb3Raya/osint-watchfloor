@@ -1,0 +1,11 @@
+IOC EXTRACTION - Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE
+Source: https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html
+Extracted: 2026-11-19 10:45:54 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

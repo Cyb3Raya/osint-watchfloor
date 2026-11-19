@@ -1,0 +1,15 @@
+IOC EXTRACTION - Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle
+Source: https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html
+Extracted: 2026-11-19 10:45:55 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-101786
+CVE-2026-114819
+CVE-2026-116331
+CVE-2026-118383
+CVE-2026-91609

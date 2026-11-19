@@ -1,0 +1,15 @@
+IOC EXTRACTION - CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks
+Source: https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html
+Extracted: 2026-11-19 10:45:56 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2024-10441
+CVE-2026-118383
+CVE-2026-40217
+CVE-2026-90436
+CVE-2026-90817

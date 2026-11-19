@@ -1,0 +1,12 @@
+IOC EXTRACTION - PHP Readies Critical Security Updates to Patch Another RCE Flaw
+Source: https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/
+Extracted: 2026-11-19 10:46:20 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109619
+CVE-2026-115560

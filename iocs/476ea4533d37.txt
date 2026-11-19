@@ -1,0 +1,11 @@
+IOC EXTRACTION - Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories
+Source: https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/
+Extracted: 2026-11-19 10:46:19 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938
