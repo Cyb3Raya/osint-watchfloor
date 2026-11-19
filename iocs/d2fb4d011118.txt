@@ -1,0 +1,11 @@
+IOC EXTRACTION - Aikido's Deep Review finds Java4Shell in the PR that introduced it
+Source: https://www.aikido.dev/blog/deep-review-finds-java4shell-in-pr
+Extracted: 2026-11-19 02:39:57 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938

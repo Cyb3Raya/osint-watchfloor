@@ -1,9 +1,45 @@
 {
- "generated": "2026-11-18T21:11:00.232956+00:00",
- "sources_ok": 14,
+ "generated": "2026-11-19T02:40:00.047674+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "Google GTIG"
+ ],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+   "link": "https://isc.sans.edu/diary/rss/33536",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-19T02:00:03+00:00"
+  },
+  {
+   "source": "SANS ISC",
+   "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)",
+   "link": "https://isc.sans.edu/diary/rss/33534",
+   "desc": "&#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+   "image": "",
+   "date": "2026-11-19T01:53:48+00:00",
+   "iocs": "iocs/316b1322e925.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "desc": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [..",
+   "image": "",
+   "date": "2026-11-18T23:08:33+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "desc": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cf0a0b934852050/6afe1492ac3412795c5370fe/russia_Skorzewiak_shutterstoc.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-18T21:59:46+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
@@ -61,6 +97,14 @@
    "date": "2026-11-18T19:39:33+00:00"
   },
   {
+   "source": "Socket",
+   "title": "MITRE Acknowledges Inaccurate Publication Timestamps in 87% of Its Recent CVE Records",
+   "link": "https://socket.dev/blog/mitre-cve-timestamp-issues?utm_medium=feed",
+   "desc": "MITRE acknowledges inaccurate publication timestamps in 87% of its recent CVE records and plans to retire the legacy system responsible in 2027.",
+   "image": "",
+   "date": "2026-11-18T19:38:28+00:00"
+  },
+  {
    "source": "Aikido",
    "title": "PHP schedules a critical security release for 19 November, including CVE-2026-115560",
    "link": "https://www.aikido.dev/blog/php-security-release-19-november-2026-cve-2026-115560",
@@ -69,6 +113,16 @@
    "date": "2026-11-18T19:28:00+00:00",
    "iocs": "iocs/8ac4c687feb7.txt",
    "ioc_count": 9
+  },
+  {
+   "source": "Aikido",
+   "title": "Aikido's Deep Review finds Java4Shell in the PR that introduced it",
+   "link": "https://www.aikido.dev/blog/deep-review-finds-java4shell-in-pr",
+   "desc": "We recreated the 2021 OpenJDK pull request behind Java4Shell (CVE-2026-114938) and ran Deep Review on it. It flagged the bug and suggested the upstream fix. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afdf71e9c5e21cf76d727d4_Java_Feature.jpg",
+   "date": "2026-11-18T19:04:00+00:00",
+   "iocs": "iocs/d2fb4d011118.txt",
+   "ioc_count": 1
   },
   {
    "source": "RF The Record",
@@ -535,14 +589,6 @@
    "date": "2026-11-17T18:04:15+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-   "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-   "desc": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-   "image": "",
-   "date": "2026-11-17T16:00:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
    "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
@@ -561,16 +607,6 @@
    "date": "2026-11-17T15:17:28+00:00",
    "iocs": "iocs/4f9516b8f5d7.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "Google GTIG",
-   "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
-   "desc": "Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russ",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Redacted_LLM-generated_depiction_.max-1000x1000.png",
-   "date": "2026-11-17T14:00:00+00:00",
-   "iocs": "iocs/0ca7f638e6a0.txt",
-   "ioc_count": 2
   },
   {
    "source": "Dark Reading",
@@ -677,16 +713,6 @@
    "date": "2026-11-16T14:22:15+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
-   "desc": "Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move beyond basic prompting to deploying autonomous multi-agent frameworks, automated vulnerability exploit",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Multi-agent_LLM_offensive_framewo.max-1000x1000.jpg",
-   "date": "2026-11-16T14:00:00+00:00",
-   "iocs": "iocs/afb55fb3a36e.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "SANS ISC",
    "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
    "link": "https://isc.sans.edu/diary/rss/33522",
@@ -739,14 +765,6 @@
    "ioc_count": 1
   },
   {
-   "source": "Dark Reading",
-   "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-   "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-   "desc": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt876ae2249da592eb/6af77117471ce44823395b3f/smartphone_Ao_Zaa_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-13T20:20:27+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "Top 8 Upwind Security alternatives for code and cloud security",
    "link": "https://www.aikido.dev/blog/upwind-security-alternatives",
@@ -783,14 +801,6 @@
    "ioc_count": 9
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-   "link": "https://isc.sans.edu/diary/rss/33516",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-13T02:00:03+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Never be afraid to ask questions",
    "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
@@ -825,16 +835,6 @@
    "desc": "Compare six AI network and infrastructure pentesting tools. Aikido Security is our pick for external network pentesting; see what fits internal networks. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-11-12T14:01:00+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33514",
-   "desc": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All version",
-   "image": "",
-   "date": "2026-11-12T11:56:24+00:00",
-   "iocs": "iocs/f929241d5017.txt",
-   "ioc_count": 1
   },
   {
    "source": "Aikido",
@@ -985,16 +985,6 @@
    "date": "2026-11-04T21:06:00+00:00"
   },
   {
-   "source": "Socket",
-   "title": "Hardening GitHub Actions Against Outside Threats",
-   "link": "https://socket.dev/blog/hardening-github-actions-against-outside-threats?utm_medium=feed",
-   "desc": "A practical guide to securing GitHub Actions against supply chain attacks, covering malicious pull requests, credential theft, dependency risks, and release pipelines.",
-   "image": "",
-   "date": "2026-11-03T17:41:44+00:00",
-   "iocs": "iocs/68736af426e3.txt",
-   "ioc_count": 10
-  },
-  {
    "source": "Krebs on Security",
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
    "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
@@ -1010,26 +1000,6 @@
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/08/05_Interview_Category_1505x922.jpg",
    "date": "2026-11-02T23:00:45+00:00",
    "iocs": "iocs/9f7f463866df.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Shutting the Door on the XCPE Botnet",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-   "desc": "Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intenti",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_XCPE_malware_overview.max-1000x1000.png",
-   "date": "2026-11-02T14:00:00+00:00",
-   "iocs": "iocs/c8647446e5ec.txt",
-   "ioc_count": 225
-  },
-  {
-   "source": "Google GTIG",
-   "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-   "desc": "Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Usage_chart_showing_LLMJacking_ge.max-1000x1000_IcanCpV.png",
-   "date": "2026-11-02T14:00:00+00:00",
-   "iocs": "iocs/098ee6ddbe90.txt",
    "ioc_count": 2
   },
   {
@@ -1059,22 +1029,6 @@
    "desc": "Abdel Sghiouar, Google engineer and senior cloud developer advocate, thinks prompt injection should be called prompt poisoning Category: Guides & Best Practices",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae4f0c6f3db6ba6b82b9f25_The-catch-22-of-putting-AI-agents-in-your-cluster_Feature.png",
    "date": "2026-10-30T19:31:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
-   "desc": "Written by: Aurora Blum, David Mainor, Rohit Nambiar, Omar ElAhdan, Matthew McWhirt, Will Silverstone, Bhavesh Dhake, Chris Busse Introduction Recent intrusions in which threat actors have been observed weaponizing agent",
-   "image": "",
-   "date": "2026-10-30T14:00:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Binance hack: how a compromised developer laptop can lead to a $6.3 billion breach",
-   "link": "https://www.aikido.dev/blog/binance-hack-developer-laptop",
-   "desc": "The Binance hack may have started with a compromised developer laptop, Binance says. See how that can lead to stolen funds and how to protect against it. Category: News",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6ae49cc56462dd4813029df4_Binance_hack_Feature.jpg",
-   "date": "2026-10-30T13:13:00+00:00"
   },
   {
    "source": "Unit 42",
@@ -1283,16 +1237,6 @@
    "ioc_count": 36
   },
   {
-   "source": "Google GTIG",
-   "title": "ARMORY CASTLE Exploits BeyondTrust",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
-   "desc": "Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTr",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_ARMORY_CASTLE_BeyondTrust_comprom.max-1000x1000.jpg",
-   "date": "2026-10-15T14:00:00+00:00",
-   "iocs": "iocs/7294a4c7f8b6.txt",
-   "ioc_count": 5
-  },
-  {
    "source": "IC3 PSA",
    "title": "Scammers Exploit 2026 U.S. Midterm Election to Perpetrate Multiple Fraud Schemes",
    "link": "https://www.ic3.gov/PSA/2026/PSA261015-3",
@@ -1307,16 +1251,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-15T13:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Investigating Ephemeral Supply Chain Tampering",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
-   "desc": "Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology betw",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_AOMEI_Update_Mechanism.max-1000x1000.png",
-   "date": "2026-10-15T11:00:00+00:00",
-   "iocs": "iocs/59c9f7ba17b6.txt",
-   "ioc_count": 30
   },
   {
    "source": "Krebs on Security",
@@ -1353,68 +1287,12 @@
    "date": "2026-10-10T00:00:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-   "desc": "Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intel",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Count_of_vulnerabilities_disclose.max-1000x1000.png",
-   "date": "2026-09-30T14:00:00+00:00",
-   "iocs": "iocs/ab41583e705d.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/",
-   "desc": "Introduction In late September 2026, Mandiant Consulting and Google Threat Intelligence Group (GTIG) identified active, in-the-wild exploitation of a zero-day vulnerability (CVE-2026-88772) affecting Citrix NetScaler ADC",
-   "image": "",
-   "date": "2026-09-29T14:00:00+00:00",
-   "iocs": "iocs/8ae589a85d81.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Wiz Threats",
    "title": "JADEPUFFER Agentic Ransomware Targeting Cloud Environments (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/jadepuffer-agentic-ransomware-targeting-cloud-environments",
    "desc": "Multiple sources reported malicious activity linked to JADEPUFFER (Storm-3168), an agentic ransomware operation, during June 2026. This attacker has been observed leveraging exposed secrets and exploiting vulnerabilities",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-09-26T00:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/",
-   "desc": "Introduction As an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit, Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_3_PSEMHUB_WAF_bypass.max-1000x1000.png",
-   "date": "2026-09-25T14:00:00+00:00",
-   "iocs": "iocs/0d4d5cdcaf33.txt",
-   "ioc_count": 9
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/",
-   "desc": "Introduction The landscape of software supply chain security has undergone a significant shift. Recent campaigns demonstrate that sophisticated threat actors are systematically targeting the engineering lifecycle by comp",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/The_five_core_pillars_for_securing_the_sof.max-1000x1000.png",
-   "date": "2026-09-24T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/",
-   "desc": "Executive Summary Since the release of our May 2026 report detailing adversarial misuse of artificial intelligence (AI), Google Threat Intelligence Group (GTIG) has observed forward leaning adversaries transition from ba",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Bespoke_Vulnerability_Scanning_an.max-1000x1000.png",
-   "date": "2026-09-08T14:00:00+00:00"
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/",
-   "desc": "Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BR",
-   "image": "",
-   "date": "2026-09-01T14:00:00+00:00",
-   "iocs": "iocs/3b9bb67e082f.txt",
-   "ioc_count": 28
   },
   {
    "source": "Wiz Threats",
@@ -1445,16 +1323,6 @@
    "date": "2026-08-28T00:00:00+00:00"
   },
   {
-   "source": "Google GTIG",
-   "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/",
-   "desc": "Written by: Gabby Roncone, Wesley Shields Overview Google Threat Intelligence Group (GTIG) is tracking three distinct suspected Russian cyber espionage threat clusters abusing legitimate authentication flows to target in",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Changed_text_in_new_lure_document.max-1000x1000.png",
-   "date": "2026-08-20T14:00:00+00:00",
-   "iocs": "iocs/e466cd90008a.txt",
-   "ioc_count": 23
-  },
-  {
    "source": "Wiz Threats",
    "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)",
    "link": "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack",
@@ -1463,16 +1331,6 @@
    "date": "2026-08-20T00:00:00+00:00",
    "iocs": "iocs/8308c84247d5.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Google GTIG",
-   "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-   "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/",
-   "desc": "Written by: Alex Tselevich, Michael Maturi Introduction Adversarial misuse of AI has increased the risk of data theft and extortion events, because when proprietary source code is exposed, defenders must scramble to iden",
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Sequential_vulnerability_discover.max-1000x1000.png",
-   "date": "2026-08-18T14:00:00+00:00",
-   "iocs": "iocs/4a5b883aab25.txt",
-   "ioc_count": 2
   },
   {
    "source": "Wiz Threats",

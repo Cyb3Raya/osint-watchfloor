@@ -1,0 +1,11 @@
+IOC EXTRACTION - Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)
+Source: https://isc.sans.edu/diary/rss/33534
+Extracted: 2026-11-19 02:39:35 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-109618
