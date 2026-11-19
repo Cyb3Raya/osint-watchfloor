@@ -1,0 +1,18 @@
+IOC EXTRACTION - Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication
+Source: https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
+Extracted: 2026-11-19 19:23:57 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-123890
+CVE-2026-123891
+CVE-2026-123892
+CVE-2026-123893
+CVE-2026-123894
+CVE-2026-59309
+CVE-2026-59310

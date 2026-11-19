@@ -1,0 +1,15 @@
+IOC EXTRACTION - Splunk Patches Nearly 140 Flaws Across Three Core Products
+Source: https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/
+Extracted: 2026-11-19 19:24:30 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-131202
+CVE-2026-131253
+CVE-2026-131287
+CVE-2026-76535
+CVE-2026-76536

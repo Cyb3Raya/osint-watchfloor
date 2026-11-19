@@ -1,0 +1,17 @@
+IOC EXTRACTION - PHP security updates fix 18 flaws, including critical RCE bugs
+Source: https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/
+Extracted: 2026-11-19 19:24:02 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-115560
+CVE-2026-126714
+CVE-2026-128090
+CVE-2026-129289
+CVE-2026-129291
+CVE-2026-129474
+CVE-2026-129496

@@ -1,0 +1,12 @@
+IOC EXTRACTION - phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
+Source: https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html
+Extracted: 2026-11-19 19:23:55 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-126714

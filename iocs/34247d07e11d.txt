@@ -1,0 +1,13 @@
+IOC EXTRACTION - Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT
+Source: https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/
+Extracted: 2026-11-19 19:24:23 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-102764
+CVE-2026-123890
+CVE-2026-59309

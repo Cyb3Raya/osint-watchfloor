@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release
+Source: https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/
+Extracted: 2026-11-19 19:24:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-76466

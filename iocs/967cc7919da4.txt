@@ -1,0 +1,29 @@
+IOC EXTRACTION - ARMORY CASTLE Exploits vSphere
+Source: https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/
+Extracted: 2026-11-19 19:24:36 UTC
+Total indicators: 10
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-22457
+CVE-2026-102764
+CVE-2026-123890
+CVE-2026-59309
+
+URLs (4)
+----------------------------------------
+hxxps://%s/ui/saml/websso/sso
+hxxps://slack[.]com/api/conversations[.]history
+hxxps://slack[.]com/api/files[.]completeUploadExternal
+hxxps://slack[.]com/api/files[.]getUploadURLExternal
+
+Emails (1)
+----------------------------------------
+administrator@vsphere.local
+
+SHA256 (1)
+----------------------------------------
+ac6bdb41324a9a9bf166de5e1389582faf72b6651987ee07fc3192943db56050

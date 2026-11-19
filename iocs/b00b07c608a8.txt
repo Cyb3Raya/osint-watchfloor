@@ -1,0 +1,19 @@
+IOC EXTRACTION - The internet needs a nap (and you do, too)
+Source: https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/
+Extracted: 2026-11-19 19:24:32 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938
+
+MD5 (5)
+----------------------------------------
+0cf0271c3564881fce95f44c649bd745
+2915b3f8b703eb744fc54c81f4a9c67f
+485055033bcddfde56325c0d2feea4f2
+95a6a4b638cfdfbe3afc883d593a1f87
+cca616647db9370c88998ae25da6997f
