@@ -1,0 +1,82 @@
+IOC EXTRACTION - Dialing for Data: Inside the Com’s High-Profile Heists
+Source: https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
+Extracted: 2026-11-20 23:46:50 UTC
+Total indicators: 63
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+IPv4 (2)
+----------------------------------------
+193[.]149[.]176[.]62
+31[.]42[.]184[.]213
+
+Domains (57)
+----------------------------------------
+add-mfa[.]com
+apply-passkey[.]com
+auth-sso[.]com
+authenroll[.]com
+configkeys[.]com
+configurekey[.]com
+configuresso[.]com
+editmysso[.]com
+enableoskey[.]com
+enrollmfa[.]com
+enrollmfamethods[.]com
+enrollssopasskey[.]com
+fastpasskeys[.]com
+hostsso[.]com
+installpasskey[.]com
+installsso[.]com
+itkeyenroll[.]com
+itkeyportal[.]com
+itkeyupdate[.]com
+keyconfiguration[.]com
+keyenrollos[.]com
+keyosregister[.]com
+login-options[.]com
+makepasskey[.]com
+mfa-options[.]com
+mfa-passkey[.]com
+mfa-registry[.]com
+mfaoptions[.]com
+mfapasskeysetup[.]com
+mfaregister[.]com
+mfasettings[.]com
+my-passkey[.]com
+my-passkeys[.]com
+myaccountapps[.]com
+myaccountoptions[.]com
+myapps2fa[.]com
+mypasskeyapp[.]com
+myssoapps[.]com
+myssoauth[.]com
+myssosettings[.]com
+new-passkey[.]com
+nowsso[.]com
+onboardpasskey[.]com
+oskeyregister[.]com
+oursso[.]com
+pages[.]dev
+passkey-mfa[.]com
+passkeyconnect[.]com
+register-mfa[.]com
+register-passkeys[.]com
+registermymfa[.]com
+registersso[.]com
+settingsportal[.]com
+signinoptions[.]com
+ssokeyportal[.]com
+ssosettings[.]com
+startmypasskey[.]com
+
+URLs (2)
+----------------------------------------
+hxxps://oskeysetup[.]com/files/folderextension[.]crx
+hxxps://oskeysetup[.]com/files/folderextension[.]zip
+
+SHA256 (2)
+----------------------------------------
+930898e8b65e9cf4e2595ac4092042a707cca8922751e723ad8b86260655154a
+ea8d30c42e758559e78bd1fe97f8849011beb7f24c7f092a066a5a62fa7fbe6f

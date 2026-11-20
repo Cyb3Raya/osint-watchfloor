@@ -1,0 +1,14 @@
+IOC EXTRACTION - WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
+Source: https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+Extracted: 2026-11-20 23:46:31 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-102769
+CVE-2026-118383
+CVE-2026-23871
+CVE-2026-44908

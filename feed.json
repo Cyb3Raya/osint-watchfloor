@@ -1,9 +1,77 @@
 {
- "generated": "2026-11-20T17:54:09.017660+00:00",
+ "generated": "2026-11-20T23:46:57.137650+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Unit 42",
+   "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+   "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+   "desc": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance. The post Dialing for Data: Inside the Com’s High-Profile Heists ",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/12_Cybercrime_Category_1920x900.jpg",
+   "date": "2026-11-20T22:00:25+00:00",
+   "iocs": "iocs/b7f0e2a6724f.txt",
+   "ioc_count": 63
+  },
+  {
+   "source": "RF The Record",
+   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+   "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+   "desc": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+   "image": "",
+   "date": "2026-11-20T21:34:36+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+   "desc": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-20T21:03:27+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+   "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+   "desc": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
+   "image": "",
+   "date": "2026-11-20T20:25:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Container Store restores systems after cyberattack",
+   "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+   "desc": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
+   "image": "",
+   "date": "2026-11-20T19:32:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "desc": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications c",
+   "image": "",
+   "date": "2026-11-20T18:51:43+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "In Security, Words Matter as Much as Tools, Maybe More",
+   "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "desc": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36f1afcfa92ff2c5/6af766db3c02eaba0a4aae0d/cyber_talk_ATHVisions_Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-20T18:35:40+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+   "desc": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg",
+   "date": "2026-11-20T17:57:20+00:00",
+   "iocs": "iocs/b44c0a854e15.txt",
+   "ioc_count": 4
+  },
   {
    "source": "BleepingComputer",
    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -21,6 +89,14 @@
    "desc": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
    "image": "",
    "date": "2026-11-20T17:30:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "desc": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafa9df51f75884e4/6b007fead61f59302a23c588/nvidia-Benjamin_Fanjoy_-Getty-2304259055.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-20T17:04:04+00:00"
   },
   {
    "source": "The Hacker News",
@@ -73,22 +149,6 @@
    "desc": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegi",
    "image": "",
    "date": "2026-11-20T14:56:23+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Cyber Director Cairncross out as White House resets cyber leadership",
-   "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
-   "desc": "Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.",
-   "image": "",
-   "date": "2026-11-20T14:30:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
-   "link": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
-   "desc": "Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.",
-   "image": "",
-   "date": "2026-11-20T14:24:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -279,14 +339,6 @@
    "date": "2026-11-19T22:25:42+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
-   "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
-   "desc": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.",
-   "image": "",
-   "date": "2026-11-19T21:19:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
    "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
@@ -298,7 +350,7 @@
   },
   {
    "source": "Dark Reading",
-   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "title": "Second Norwegian Energy Company Breached in 2 Days",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
    "desc": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -475,16 +527,6 @@
    "ioc_count": 10
   },
   {
-   "source": "BleepingComputer",
-   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-   "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-   "desc": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-   "image": "",
-   "date": "2026-11-19T13:08:08+00:00",
-   "iocs": "iocs/9ca9ce7f9de5.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Aikido",
    "title": "Aikido launches agentic pentesting for iOS apps",
    "link": "https://www.aikido.dev/blog/aikido-launches-agentic-pentesting-for-ios-apps",
@@ -511,16 +553,6 @@
    "date": "2026-11-19T09:42:00+00:00",
    "iocs": "iocs/cfcbce429730.txt",
    "ioc_count": 7
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-   "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-   "desc": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg",
-   "date": "2026-11-19T09:31:26+00:00",
-   "iocs": "iocs/6ebe391a8b41.txt",
-   "ioc_count": 1
   },
   {
    "source": "Dark Reading",
@@ -707,28 +739,12 @@
    "date": "2026-11-17T22:34:22+00:00"
   },
   {
-   "source": "Dark Reading",
-   "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-   "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-   "desc": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f7643977746699c/6afcac2049ae9b70b9695c91/red_mailbox_white_brick_wall-Liudmila_Chernetska-GettyImages-1477282383.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-17T20:58:13+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
    "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
    "desc": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation. The post Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us appe",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/09_Opinion_Category_1505x922.jpg",
    "date": "2026-11-17T20:43:14+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-   "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-   "desc": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ac2db6d8dd7d25d/6afb79babb3cf32830e383ff/cursor_Erman_Gunes_shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-17T18:38:37+00:00"
   },
   {
    "source": "Google GTIG",
@@ -739,14 +755,6 @@
    "date": "2026-11-17T14:00:00+00:00",
    "iocs": "iocs/0ca7f638e6a0.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-   "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-   "desc": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte89802188fbf7517/6afc5ddc05f01c312ef66082/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
-   "date": "2026-11-17T13:12:56+00:00"
   },
   {
    "source": "Aikido",
@@ -1293,16 +1301,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-16T14:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
-   "link": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
-   "desc": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infr",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/AdobeStock_637057734.jpg",
-   "date": "2026-10-15T22:00:09+00:00",
-   "iocs": "iocs/acb8dfd16f4d.txt",
-   "ioc_count": 36
   },
   {
    "source": "Google GTIG",
