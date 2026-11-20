@@ -1,0 +1,11 @@
+IOC EXTRACTION - New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It
+Source: https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html
+Extracted: 2026-11-20 09:09:41 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

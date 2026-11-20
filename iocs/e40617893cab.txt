@@ -1,0 +1,17 @@
+IOC EXTRACTION - ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs
+Source: https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html
+Extracted: 2026-11-20 09:09:39 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
+
+Domains (3)
+----------------------------------------
+orders-amazon[.]com[.]advancedfences[.]com
+updates[.]howclens[.]com
+veriffication-redirect[.]com

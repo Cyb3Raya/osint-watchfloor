@@ -1,0 +1,16 @@
+IOC EXTRACTION - China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data
+Source: https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html
+Extracted: 2026-11-20 09:09:40 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2025-22457
+CVE-2026-102764
+CVE-2026-118383
+CVE-2026-123890
+CVE-2026-41709
+CVE-2026-59309
