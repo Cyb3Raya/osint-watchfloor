@@ -1,0 +1,16 @@
+IOC EXTRACTION - Hardening GitHub Actions Against Insider Threats
+Source: https://socket.dev/blog/hardening-github-actions-against-insider-threats?utm_medium=feed
+Extracted: 2026-11-20 01:26:34 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (1)
+----------------------------------------
+npmjs[.]com
+
+URLs (2)
+----------------------------------------
+hxxps://acme[.]example
+hxxps://registry[.]npmjs[.]org

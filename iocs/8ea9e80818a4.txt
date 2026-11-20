@@ -1,0 +1,15 @@
+IOC EXTRACTION - ASUS warns of critical hard-coded key flaw in Control Center Express
+Source: https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/
+Extracted: 2026-11-20 01:26:11 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-112115
+CVE-2026-114202
+CVE-2026-114204
+CVE-2026-114205
+CVE-2026-126574

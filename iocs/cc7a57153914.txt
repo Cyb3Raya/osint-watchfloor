@@ -1,0 +1,15 @@
+IOC EXTRACTION - ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
+Source: https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html
+Extracted: 2026-11-20 01:26:08 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
+
+Domains (1)
+----------------------------------------
+recruitersglobal[.]net

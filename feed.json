@@ -1,9 +1,77 @@
 {
- "generated": "2026-11-19T19:24:43.524594+00:00",
+ "generated": "2026-11-20T01:26:34.900150+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "VMware patches vCenter zero-day exploited in attacks since September",
+   "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "desc": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+   "image": "",
+   "date": "2026-11-20T00:26:25+00:00",
+   "iocs": "iocs/15f220796a18.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+   "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "desc": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdca0689384b67fb8/6aff731dfef3359545395d0a/old-ship-steering-wheel-DmitriiElj-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-19T22:40:03+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "desc": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1",
+   "image": "",
+   "date": "2026-11-19T22:25:42+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
+   "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+   "desc": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.",
+   "image": "",
+   "date": "2026-11-19T21:19:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "desc": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+   "image": "",
+   "date": "2026-11-19T21:15:59+00:00",
+   "iocs": "iocs/8ea9e80818a4.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "desc": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-19T20:14:15+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "desc": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63f30aa2e4f7a5b8/6aff560d615b4f7719adda8c/source_code_background-scanrail-GettyImages-832282452.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-19T19:57:31+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Navigating Vulnerability Hysteria in the AI Era",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "desc": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-19T19:46:44+00:00"
+  },
   {
    "source": "SecurityWeek",
    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
@@ -15,6 +83,16 @@
    "ioc_count": 3
   },
   {
+   "source": "Socket",
+   "title": "Hardening GitHub Actions Against Insider Threats",
+   "link": "https://socket.dev/blog/hardening-github-actions-against-insider-threats?utm_medium=feed",
+   "desc": "A practical guide to securing CI/CD pipelines against stolen credentials, covering GitHub Actions, trusted publishing, release approvals, and revocation.",
+   "image": "",
+   "date": "2026-11-19T19:17:08+00:00",
+   "iocs": "iocs/a3441af2a2c2.txt",
+   "ioc_count": 3
+  },
+  {
    "source": "Cisco Talos",
    "title": "The internet needs a nap (and you do, too)",
    "link": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
@@ -23,6 +101,16 @@
    "date": "2026-11-19T19:00:00+00:00",
    "iocs": "iocs/b00b07c608a8.txt",
    "ioc_count": 6
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "desc": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
+   "date": "2026-11-19T18:47:58+00:00",
+   "iocs": "iocs/cc7a57153914.txt",
+   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -177,14 +265,6 @@
    "date": "2026-11-19T14:00:00+00:00",
    "iocs": "iocs/967cc7919da4.txt",
    "ioc_count": 10
-  },
-  {
-   "source": "RF The Record",
-   "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
-   "link": "https://therecord.media/ukraine-ransomware-arrests-cyber",
-   "desc": "Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.",
-   "image": "",
-   "date": "2026-11-19T13:30:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -533,14 +613,6 @@
    "date": "2026-11-18T16:54:52+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-   "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-   "desc": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how st",
-   "image": "",
-   "date": "2026-11-18T15:00:10+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
    "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
@@ -559,24 +631,6 @@
    "date": "2026-11-18T14:00:00+00:00"
   },
   {
-   "source": "The Hacker News",
-   "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-   "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-   "desc": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg",
-   "date": "2026-11-18T12:28:30+00:00",
-   "iocs": "iocs/90f84e48047f.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-   "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-   "desc": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-   "image": "",
-   "date": "2026-11-18T11:50:25+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "The challenge of defending against bulletproof dead drops on public blockchains",
    "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
@@ -592,16 +646,6 @@
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_spotlight.jpg",
    "date": "2026-11-18T11:00:00+00:00",
    "iocs": "iocs/13f5a89a4544.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "desc": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "image": "",
-   "date": "2026-11-18T10:35:05+00:00",
-   "iocs": "iocs/4d4692262fd0.txt",
    "ioc_count": 3
   },
   {
@@ -755,38 +799,6 @@
    "date": "2026-11-16T23:00:55+00:00",
    "iocs": "iocs/1d31e6e96599.txt",
    "ioc_count": 81
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-   "desc": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9eb0a69ea15c3e0c/6afb7143ea20de309e24d604/zero_day_over_text-JUN_LI-GettyImages-2179992195.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-16T22:08:20+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
-   "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-   "desc": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80dac13b14975660/6af7368e89398e7e289817aa/global-cyber-map-alestudio996-shutterstock.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-16T19:56:05+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
-   "desc": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc64dc86fdbfba025/6af7630521de23678b058bc7/Spy-IconicBestiary-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-16T19:10:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-   "desc": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c5fdb26a9d6d01/669a8451220787d9a293b79f/China(1800)_Rokas_Tenys_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-16T16:36:55+00:00"
   },
   {
    "source": "Google GTIG",
@@ -1039,14 +1051,6 @@
    "date": "2026-11-05T17:07:00+00:00"
   },
   {
-   "source": "Socket",
-   "title": "GitHub to Block pull_request_target Workflows by Default Starting December 2",
-   "link": "https://socket.dev/blog/github-to-block-pull-request-target?utm_medium=feed",
-   "desc": "GitHub is tightening GitHub Actions security with new restrictions on privileged pull request workflows. Here's what changes and how maintainers are affected.",
-   "image": "",
-   "date": "2026-11-05T15:01:39+00:00"
-  },
-  {
    "source": "Krebs on Security",
    "title": "Want to Rent an Internet Address at the White House?",
    "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -1112,7 +1116,7 @@
   },
   {
    "source": "Unit 42",
-   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19)",
    "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
    "desc": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-20",
    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
