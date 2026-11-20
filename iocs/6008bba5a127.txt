@@ -1,0 +1,17 @@
+IOC EXTRACTION - F5 releases emergency patches for critical BIG-IP RCE flaws
+Source: https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/
+Extracted: 2026-11-20 17:53:37 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-116953
+CVE-2026-120285
+CVE-2026-120292
+CVE-2026-121805
+CVE-2026-123637
+CVE-2026-126822
+CVE-2026-94127

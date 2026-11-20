@@ -1,0 +1,17 @@
+IOC EXTRACTION - Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network
+Source: https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html
+Extracted: 2026-11-20 17:53:29 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-118383
+CVE-2026-76466
+
+IPv4 (2)
+----------------------------------------
+18[.]130[.]47[.]116
+66[.]179[.]31[.]32

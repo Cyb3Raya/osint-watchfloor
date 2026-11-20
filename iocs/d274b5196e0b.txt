@@ -1,0 +1,11 @@
+IOC EXTRACTION - Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE
+Source: https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/
+Extracted: 2026-11-20 17:54:01 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-132825

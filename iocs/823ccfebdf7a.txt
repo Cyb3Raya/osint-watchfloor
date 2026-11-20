@@ -1,0 +1,11 @@
+IOC EXTRACTION - SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws
+Source: https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html
+Extracted: 2026-11-20 17:53:28 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

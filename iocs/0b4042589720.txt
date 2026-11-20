@@ -1,0 +1,11 @@
+IOC EXTRACTION - Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control
+Source: https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html
+Extracted: 2026-11-20 17:53:22 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383

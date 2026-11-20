@@ -1,0 +1,11 @@
+IOC EXTRACTION - The Path to AI Autonomy in the SOC
+Source: https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html
+Extracted: 2026-11-20 17:53:24 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-118383
