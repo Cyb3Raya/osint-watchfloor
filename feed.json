@@ -1,9 +1,17 @@
 {
- "generated": "2026-11-20T23:46:57.137650+00:00",
+ "generated": "2026-11-21T06:14:16.765912+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Krebs on Security",
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "desc": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud",
+   "image": "",
+   "date": "2026-11-21T00:36:39+00:00"
+  },
   {
    "source": "Unit 42",
    "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
@@ -370,7 +378,9 @@
    "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
    "desc": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-19T19:46:44+00:00"
+   "date": "2026-11-19T19:46:44+00:00",
+   "iocs": "iocs/1172616db460.txt",
+   "ioc_count": 4
   },
   {
    "source": "SecurityWeek",
@@ -1355,14 +1365,6 @@
    "date": "2026-10-13T23:24:53+00:00",
    "iocs": "iocs/0fbd64ca10e3.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Krebs on Security",
-   "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-   "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-   "desc": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th",
-   "image": "",
-   "date": "2026-10-10T00:17:42+00:00"
   },
   {
    "source": "Wiz Threats",
