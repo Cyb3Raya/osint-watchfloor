@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-21T14:47:25.047158+00:00",
+ "generated": "2026-11-21T20:49:08.511951+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "desc": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant conf",
+   "image": "",
+   "date": "2026-11-21T18:01:58+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+   "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "desc": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+   "image": "",
+   "date": "2026-11-21T15:17:27+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "FBI reportedly hacked again, this time targeting nationwide police database",
@@ -497,16 +513,6 @@
    "date": "2026-11-19T18:20:01+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-   "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-   "desc": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-   "image": "",
-   "date": "2026-11-19T16:28:23+00:00",
-   "iocs": "iocs/8e443c2964ac.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "Aikido",
    "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
    "link": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
@@ -515,14 +521,6 @@
    "date": "2026-11-19T16:04:00+00:00",
    "iocs": "iocs/9d32a0beee76.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Five warning signs of ransomware breach before encryption or data theft",
-   "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-   "desc": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions ",
-   "image": "",
-   "date": "2026-11-19T15:00:10+00:00"
   },
   {
    "source": "Dark Reading",
