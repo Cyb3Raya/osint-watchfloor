@@ -1,0 +1,13 @@
+IOC EXTRACTION - Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access
+Source: https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html
+Extracted: 2026-11-21 14:47:01 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-133968
+CVE-2026-99312

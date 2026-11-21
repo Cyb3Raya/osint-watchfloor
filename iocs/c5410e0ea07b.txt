@@ -1,0 +1,12 @@
+IOC EXTRACTION - Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS
+Source: https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html
+Extracted: 2026-11-21 14:47:02 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
