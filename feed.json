@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-22T08:10:09.245565+00:00",
+ "generated": "2026-11-22T16:25:31.838903+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "desc": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "image": "",
+   "date": "2026-11-22T15:43:04+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "desc": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+   "image": "",
+   "date": "2026-11-22T15:15:25+00:00"
+  },
   {
    "source": "The Hacker News",
    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -445,24 +461,6 @@
    "desc": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdca0689384b67fb8/6aff731dfef3359545395d0a/old-ship-steering-wheel-DmitriiElj-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-19T22:40:03+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-   "desc": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1",
-   "image": "",
-   "date": "2026-11-19T22:25:42+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-   "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-   "desc": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-   "image": "",
-   "date": "2026-11-19T21:15:59+00:00",
-   "iocs": "iocs/8ea9e80818a4.txt",
-   "ioc_count": 5
   },
   {
    "source": "Dark Reading",
