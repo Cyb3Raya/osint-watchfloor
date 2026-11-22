@@ -1,0 +1,12 @@
+IOC EXTRACTION - A brief history of syslog timestamps, (Sun, Nov 22nd)
+Source: https://isc.sans.edu/diary/rss/33530
+Extracted: 2026-11-22 22:00:23 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-123890
+CVE-2026-126714
