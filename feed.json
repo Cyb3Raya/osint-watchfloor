@@ -1,9 +1,29 @@
 {
- "generated": "2026-11-22T01:01:46.315623+00:00",
+ "generated": "2026-11-22T08:10:09.245565+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "desc": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests we",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png",
+   "date": "2026-11-22T05:06:55+00:00",
+   "iocs": "iocs/6d087c898942.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "desc": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert upl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg",
+   "date": "2026-11-22T05:03:41+00:00",
+   "iocs": "iocs/a3c63e958cb9.txt",
+   "ioc_count": 4
+  },
   {
    "source": "SecurityWeek",
    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
@@ -43,6 +63,14 @@
    "desc": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal",
    "image": "",
    "date": "2026-11-21T14:26:04+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+   "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+   "desc": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-21T13:00:00+00:00"
   },
   {
    "source": "SecurityWeek",
@@ -383,14 +411,6 @@
    "date": "2026-11-20T09:08:35+00:00"
   },
   {
-   "source": "SecurityWeek",
-   "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-   "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-   "desc": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on Se",
-   "image": "",
-   "date": "2026-11-20T07:35:46+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
    "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
@@ -399,16 +419,6 @@
    "date": "2026-11-20T07:11:39+00:00",
    "iocs": "iocs/e40617893cab.txt",
    "ioc_count": 4
-  },
-  {
-   "source": "The Hacker News",
-   "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-   "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-   "desc": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg",
-   "date": "2026-11-20T05:30:01+00:00",
-   "iocs": "iocs/4b0033536e57.txt",
-   "ioc_count": 1
   },
   {
    "source": "SANS ISC",
@@ -499,16 +509,6 @@
    "date": "2026-11-19T19:00:00+00:00",
    "iocs": "iocs/b00b07c608a8.txt",
    "ioc_count": 6
-  },
-  {
-   "source": "The Hacker News",
-   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-   "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-   "desc": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
-   "date": "2026-11-19T18:47:58+00:00",
-   "iocs": "iocs/cc7a57153914.txt",
-   "ioc_count": 2
   },
   {
    "source": "Aikido",

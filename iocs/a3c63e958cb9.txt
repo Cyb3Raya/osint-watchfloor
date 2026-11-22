@@ -1,0 +1,14 @@
+IOC EXTRACTION - Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps
+Source: https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
+Extracted: 2026-11-22 08:09:46 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-125396
+CVE-2026-65640
+CVE-2026-99312

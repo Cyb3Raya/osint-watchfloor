@@ -1,0 +1,12 @@
+IOC EXTRACTION - OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms
+Source: https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+Extracted: 2026-11-22 08:09:45 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
