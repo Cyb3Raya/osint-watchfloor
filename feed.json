@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-21T20:49:08.511951+00:00",
+ "generated": "2026-11-22T01:01:46.315623+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+   "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+   "desc": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on",
+   "image": "",
+   "date": "2026-11-22T00:53:02+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "desc": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+   "image": "",
+   "date": "2026-11-21T22:59:58+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -465,16 +481,6 @@
    "ioc_count": 4
   },
   {
-   "source": "SecurityWeek",
-   "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-   "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-   "desc": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appea",
-   "image": "",
-   "date": "2026-11-19T19:21:06+00:00",
-   "iocs": "iocs/34247d07e11d.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "Socket",
    "title": "Hardening GitHub Actions Against Insider Threats",
    "link": "https://socket.dev/blog/hardening-github-actions-against-insider-threats?utm_medium=feed",
@@ -503,14 +509,6 @@
    "date": "2026-11-19T18:47:58+00:00",
    "iocs": "iocs/cc7a57153914.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-   "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-   "desc": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-   "image": "",
-   "date": "2026-11-19T18:20:01+00:00"
   },
   {
    "source": "Aikido",
