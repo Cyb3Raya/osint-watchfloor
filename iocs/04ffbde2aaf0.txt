@@ -1,0 +1,11 @@
+IOC EXTRACTION - ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)
+Source: https://isc.sans.edu/diary/rss/33548
+Extracted: 2026-11-23 02:53:59 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-125396
