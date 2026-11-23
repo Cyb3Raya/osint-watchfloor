@@ -1,0 +1,22 @@
+IOC EXTRACTION - Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices
+Source: https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html
+Extracted: 2026-11-23 11:58:37 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
+
+IPv4 (3)
+----------------------------------------
+170[.]39[.]226[.]219
+65[.]20[.]71[.]131
+66[.]245[.]219[.]252
+
+Domains (1)
+----------------------------------------
+gl-inet[.]top

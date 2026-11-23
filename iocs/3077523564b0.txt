@@ -1,0 +1,18 @@
+IOC EXTRACTION - AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms
+Source: https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html
+Extracted: 2026-11-23 11:58:39 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2025-3248
+CVE-2026-114938
+CVE-2026-28797
+CVE-2026-99312
+
+IPv4 (1)
+----------------------------------------
+43[.]240[.]29[.]11

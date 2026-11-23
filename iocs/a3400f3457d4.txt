@@ -1,0 +1,13 @@
+IOC EXTRACTION - CISA flags critical Cisco RCE flaw as actively exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/
+Extracted: 2026-11-23 11:58:42 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-20320
+CVE-2026-7646
+CVE-2026-76466
