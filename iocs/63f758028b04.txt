@@ -1,0 +1,11 @@
+IOC EXTRACTION - phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path
+Source: https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/
+Extracted: 2026-11-23 23:46:22 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-126714

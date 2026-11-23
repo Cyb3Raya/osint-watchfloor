@@ -1,0 +1,22 @@
+IOC EXTRACTION - Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning
+Source: https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html
+Extracted: 2026-11-23 23:45:52 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-84869
+CVE-2026-99312
+
+IPv4 (2)
+----------------------------------------
+74[.]208[.]158[.]106
+91[.]224[.]92[.]167
+
+Domains (1)
+----------------------------------------
+masterdarky[.]com

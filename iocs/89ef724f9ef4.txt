@@ -1,0 +1,13 @@
+IOC EXTRACTION - N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation
+Source: https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html
+Extracted: 2026-11-23 23:45:53 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-134624
+CVE-2026-99312

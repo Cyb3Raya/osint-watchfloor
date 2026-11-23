@@ -1,0 +1,14 @@
+IOC EXTRACTION - Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions
+Source: https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html
+Extracted: 2026-11-23 23:45:51 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-1245
+CVE-2026-134814
+CVE-2026-99312

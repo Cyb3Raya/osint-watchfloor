@@ -1,0 +1,12 @@
+IOC EXTRACTION - Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access
+Source: https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html
+Extracted: 2026-11-23 23:45:49 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312

@@ -1,0 +1,11 @@
+IOC EXTRACTION - N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack
+Source: https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/
+Extracted: 2026-11-23 23:46:21 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-134624

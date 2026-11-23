@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hardened container images: STIGs, FIPS and FedRAMP explained
+Source: https://www.aikido.dev/blog/hardened-container-images-stigs-fips-fedramp
+Extracted: 2026-11-23 23:46:34 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938
