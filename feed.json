@@ -1,9 +1,39 @@
 {
- "generated": "2026-11-23T23:46:36.009664+00:00",
- "sources_ok": 14,
+ "generated": "2026-11-24T09:01:56.419193+00:00",
+ "sources_ok": 13,
  "sources_total": 14,
- "failed": [],
+ "failed": [
+  "SANS ISC"
+ ],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+   "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+   "desc": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dyn",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+   "date": "2026-11-24T06:02:57+00:00",
+   "iocs": "iocs/b0d72916ebec.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active explo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPCPwSotVSX8IYSgpSrVceRAIYqba8YSZSlNwD5RjetEhPG6vLRhk_NKkatjg1h-fulZJDm4CucsLvQrEtCO6v0NtuJGo3nZD3mXSHyKpgPrUZMpq7YNpheStYC_AqyMWRfWIFiK9bcHJNAw6pwK9JqirhO8JESKdmsI5Pl8UgtsVsRivmMmMenQ01ClW/s1600/cisa-kev.jpg",
+   "date": "2026-11-24T06:02:45+00:00",
+   "iocs": "iocs/d70285cdacc0.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "RF The Record",
+   "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
+   "link": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
+   "desc": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
+   "image": "",
+   "date": "2026-11-24T00:00:00+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
@@ -155,14 +185,6 @@
    "date": "2026-11-23T15:47:40+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
-   "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
-   "desc": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.",
-   "image": "",
-   "date": "2026-11-23T15:45:00+00:00"
-  },
-  {
    "source": "The Hacker News",
    "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
@@ -174,9 +196,9 @@
   },
   {
    "source": "SecurityWeek",
-   "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+   "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
    "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-   "desc": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek.",
+   "desc": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek.",
    "image": "",
    "date": "2026-11-23T15:06:49+00:00",
    "iocs": "iocs/d7008ca0e04c.txt",
@@ -337,16 +359,6 @@
    "ioc_count": 3
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33548",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-23T02:00:04+00:00",
-   "iocs": "iocs/04ffbde2aaf0.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
@@ -355,16 +367,6 @@
    "date": "2026-11-22T18:45:37+00:00",
    "iocs": "iocs/f7511684402b.txt",
    "ioc_count": 3
-  },
-  {
-   "source": "SANS ISC",
-   "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33530",
-   "desc": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.&#xd;",
-   "image": "",
-   "date": "2026-11-22T18:40:18+00:00",
-   "iocs": "iocs/a1fea56d8f1e.txt",
-   "ioc_count": 2
   },
   {
    "source": "BleepingComputer",
@@ -465,26 +467,6 @@
    "ioc_count": 3
   },
   {
-   "source": "The Hacker News",
-   "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-   "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-   "desc": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The f",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cVX1DZUDMTkSc3kGcO8KsGd-MIBr6py39SuaRxG1wCxVVfKIQhiQaywRpjn95FQV4tMy0dWyNc49745cwqBBLpGzVK_eut-DGLBaidiiYCdIH65bXGtopuPJ7dofJzAJVJ6cWrKp2JJb5gNrODQuWtK7vZZp824ecrz4_DHWWJIaC5wS6aYfsMsKshg4/s1600/signal.jpg",
-   "date": "2026-11-21T08:49:20+00:00",
-   "iocs": "iocs/c5410e0ea07b.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-   "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KE",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg",
-   "date": "2026-11-21T08:49:13+00:00",
-   "iocs": "iocs/552b60cb29a0.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "Dark Reading",
    "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
    "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
@@ -549,14 +531,6 @@
    "desc": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt823dceb89b6bf324/6a1dd1f32928e11bac7b2d1a/microsoft_DrewAngerer_Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-20T13:51:30+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-   "link": "https://isc.sans.edu/diary/rss/33538",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-20T02:00:02+00:00"
   },
   {
    "source": "Dark Reading",
@@ -651,32 +625,6 @@
    "ioc_count": 7
   },
   {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
-   "link": "https://isc.sans.edu/diary/rss/33536",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-19T02:00:03+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI &#x5b;Guest Diary&#x5d;, (Wed, Nov 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33534",
-   "desc": "&#x5b;This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-   "image": "",
-   "date": "2026-11-19T01:53:48+00:00",
-   "iocs": "iocs/316b1322e925.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33532",
-   "desc": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of v",
-   "image": "",
-   "date": "2026-11-18T19:54:50+00:00"
-  },
-  {
    "source": "Socket",
    "title": "MITRE Acknowledges Inaccurate Publication Timestamps in 87% of Its Recent CVE Records",
    "link": "https://socket.dev/blog/mitre-cve-timestamp-issues?utm_medium=feed",
@@ -739,14 +687,6 @@
    "desc": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize ",
    "image": "",
    "date": "2026-11-18T02:52:04+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33528",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-18T02:00:03+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -817,30 +757,12 @@
    "ioc_count": 11
   },
   {
-   "source": "SANS ISC",
-   "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33526",
-   "desc": "I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xe2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x80&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x99&#x3b;ve mentioned before in some of my diaries that it can be instructive to look at what appear to b",
-   "image": "",
-   "date": "2026-11-17T10:56:38+00:00",
-   "iocs": "iocs/e56d2b7cb059.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Socket",
    "title": "pnpm Introduces New Lockfile Format to Reduce Git Merge Conflicts",
    "link": "https://socket.dev/blog/pnpm-introduces-new-lockfile-format?utm_medium=feed",
    "desc": "pnpm has introduced an experimental lockfile format designed to reduce Git merge conflicts by changing how dependencies are recorded.",
    "image": "",
    "date": "2026-11-17T07:02:53+00:00"
-  },
-  {
-   "source": "SANS ISC",
-   "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33524",
-   "desc": "",
-   "image": "",
-   "date": "2026-11-17T02:05:15+00:00"
   },
   {
    "source": "Unit 42",
@@ -861,16 +783,6 @@
    "date": "2026-11-16T14:00:00+00:00",
    "iocs": "iocs/afb55fb3a36e.txt",
    "ioc_count": 5
-  },
-  {
-   "source": "SANS ISC",
-   "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
-   "link": "https://isc.sans.edu/diary/rss/33522",
-   "desc": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about ho",
-   "image": "",
-   "date": "2026-11-16T13:11:04+00:00",
-   "iocs": "iocs/1742a693aba8.txt",
-   "ioc_count": 2
   },
   {
    "source": "Socket",

@@ -1,0 +1,12 @@
+IOC EXTRACTION - OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching
+Source: https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html
+Extracted: 2026-11-24 09:01:34 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
