@@ -1,0 +1,11 @@
+IOC EXTRACTION - What the ARTEX attacks tell defenders about AI pentesting
+Source: https://www.aikido.dev/blog/artex-ai-pentesting-defenders
+Extracted: 2026-11-24 20:14:26 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-114938

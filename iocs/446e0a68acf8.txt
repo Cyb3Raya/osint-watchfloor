@@ -1,0 +1,12 @@
+IOC EXTRACTION - 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk
+Source: https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html
+Extracted: 2026-11-24 20:13:40 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312

@@ -1,0 +1,27 @@
+IOC EXTRACTION - Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site
+Source: https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
+Extracted: 2026-11-24 20:13:38 UTC
+Total indicators: 14
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
+
+Domains (12)
+----------------------------------------
+activisionblizzard-legal[.]com
+legal-amd[.]com
+legal-creditkarma[.]com
+legal-dropbox[.]com
+legal-duolingo[.]com
+legal-grubhub[.]com
+legal-indeed[.]com
+legal-paychex[.]com
+legal-pepsico[.]com
+legal-twitch[.]tv
+legal-westernunion[.]com
+legal[.]com

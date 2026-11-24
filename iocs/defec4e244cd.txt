@@ -1,0 +1,22 @@
+IOC EXTRACTION - Check Point Security Management Servers Hacked in AI-Assisted Campaign
+Source: https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/
+Extracted: 2026-11-24 20:14:09 UTC
+Total indicators: 12
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (12)
+----------------------------------------
+CVE-2020-1472
+CVE-2021-21972
+CVE-2021-26855
+CVE-2021-34473
+CVE-2023-34048
+CVE-2023-4966
+CVE-2024-21893
+CVE-2025-5777
+CVE-2026-16232
+CVE-2026-41089
+CVE-2026-61500
+CVE-2026-98432

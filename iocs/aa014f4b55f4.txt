@@ -1,0 +1,18 @@
+IOC EXTRACTION - VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation
+Source: https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html
+Extracted: 2026-11-24 20:13:36 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-123890
+CVE-2026-123903
+CVE-2026-123904
+CVE-2026-123905
+CVE-2026-123906
+CVE-2026-123907
+CVE-2026-99312

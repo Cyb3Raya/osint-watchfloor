@@ -1,0 +1,14 @@
+IOC EXTRACTION - VMware Updates Patch Critical ESX, vCenter Vulnerabilities
+Source: https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/
+Extracted: 2026-11-24 20:14:07 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-123903
+CVE-2026-123910
+CVE-2026-123911
+CVE-2026-123912

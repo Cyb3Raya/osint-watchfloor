@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA warns of exploited N-able bug as company restores email platform
+Source: https://therecord.media/cisa-nable-cybersecurity-bug
+Extracted: 2026-11-24 20:14:23 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-134624

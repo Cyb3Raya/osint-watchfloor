@@ -1,0 +1,14 @@
+IOC EXTRACTION - ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof
+Source: https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/
+Extracted: 2026-11-24 20:13:46 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+SHA1 (4)
+----------------------------------------
+1fc4d0b1dee914bb05b57fabf1f1b98a51c989b3
+27da9d5b183247cadfc322880abc63e30f73822e
+828537c15f43f135a8317153cd16a1660cc7ce51
+f4953411767de71bedcdabcb76f4e26f7a20978a

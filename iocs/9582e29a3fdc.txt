@@ -1,0 +1,16 @@
+IOC EXTRACTION - Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns
+Source: https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html
+Extracted: 2026-11-24 20:13:35 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
+
+IPv4 (1)
+----------------------------------------
+185[.]205[.]187[.]109

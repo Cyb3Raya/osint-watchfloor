@@ -1,0 +1,15 @@
+IOC EXTRACTION - WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login
+Source: https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html
+Extracted: 2026-11-24 20:13:42 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-82979
+CVE-2026-82981
+CVE-2026-93700
+CVE-2026-99312
