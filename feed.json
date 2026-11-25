@@ -1,9 +1,83 @@
 {
- "generated": "2026-11-24T20:14:28.489764+00:00",
+ "generated": "2026-11-25T03:35:06.697802+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SANS ISC",
+   "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33554",
+   "desc": "",
+   "image": "",
+   "date": "2026-11-25T02:00:03+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+   "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+   "desc": "Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance. The post NGINX HTTP/2 Use-After-Free: CVE-2026-123633 appeared first on ",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/06_Security-Technology_Category_1920x900.jpg",
+   "date": "2026-11-24T23:00:14+00:00",
+   "iocs": "iocs/6d41187434b5.txt",
+   "ioc_count": 12
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+   "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+   "desc": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-24T22:41:58+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+   "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+   "desc": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6866e786d2fd0c3c/6b05fc1bdcebc97b86eb1502/satellite_Y_alax_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-24T22:05:34+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+   "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+   "desc": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90d6b1405473fe5b/6b05fadd5bf26ea3ca9d2638/snake_computer-the-lightwriter-GettyImages-530757188.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-24T21:48:06+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Rackspace shuts down Spot cloud platform after security breach",
+   "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "desc": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and dow",
+   "image": "",
+   "date": "2026-11-24T21:37:30+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "desc": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-24T21:36:11+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+   "link": "https://therecord.media/mycolorado-app-down-data-breach",
+   "desc": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
+   "image": "",
+   "date": "2026-11-24T20:52:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Inception extortion gang launches large-scale vishing campaign",
+   "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "desc": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+   "image": "",
+   "date": "2026-11-24T20:21:20+00:00"
+  },
   {
    "source": "RF The Record",
    "title": "California privacy agency director Kemp to leave after two-year tenure",
@@ -43,6 +117,14 @@
    "desc": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
    "image": "",
    "date": "2026-11-24T17:49:00+00:00"
+  },
+  {
+   "source": "Aikido",
+   "title": "What is continuous automated red teaming?",
+   "link": "https://www.aikido.dev/blog/continuous-automated-red-teaming",
+   "desc": "Continuous automated red teaming simulates real attacks to test whether defenses detect and stop it. Here’s what it involves and how to implement it. Category: Guides & Best Practices",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6af1ac2925c0c66dbee7811a_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
+   "date": "2026-11-24T17:24:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -171,14 +253,6 @@
    "desc": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
    "image": "",
    "date": "2026-11-24T14:09:37+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
-   "link": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
-   "desc": "Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and persi",
-   "image": "",
-   "date": "2026-11-24T13:45:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -429,14 +503,6 @@
    "ioc_count": 2
   },
   {
-   "source": "BleepingComputer",
-   "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-   "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-   "desc": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-   "image": "",
-   "date": "2026-11-23T16:50:01+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
@@ -461,24 +527,6 @@
    "date": "2026-11-23T15:10:48+00:00",
    "iocs": "iocs/a75fd36abba0.txt",
    "ioc_count": 48
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-   "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-   "desc": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-23T15:06:49+00:00",
-   "iocs": "iocs/d7008ca0e04c.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "AI Agents Are Creating a Shared Responsibility Gap",
-   "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-   "desc": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can bet",
-   "image": "",
-   "date": "2026-11-23T15:00:10+00:00"
   },
   {
    "source": "The Hacker News",
@@ -611,32 +659,6 @@
    "desc": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdca0689384b67fb8/6aff731dfef3359545395d0a/old-ship-steering-wheel-DmitriiElj-shutterstock.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-19T22:40:03+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Second Norwegian Energy Company Breached in 2 Days",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-   "desc": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-19T20:14:15+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
-   "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
-   "desc": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63f30aa2e4f7a5b8/6aff560d615b4f7719adda8c/source_code_background-scanrail-GettyImages-832282452.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-19T19:57:31+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Navigating Vulnerability Hysteria in the AI Era",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-   "desc": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-19T19:46:44+00:00",
-   "iocs": "iocs/1172616db460.txt",
-   "ioc_count": 4
   },
   {
    "source": "Socket",
@@ -863,16 +885,6 @@
    "ioc_count": 11
   },
   {
-   "source": "SANS ISC",
-   "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-   "link": "https://isc.sans.edu/diary/rss/33526",
-   "desc": "I&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xe2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x80&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x99&#x3b;ve mentioned before in some of my diaries that it can be instructive to look at what appear to b",
-   "image": "",
-   "date": "2026-11-17T10:56:38+00:00",
-   "iocs": "iocs/e56d2b7cb059.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Socket",
    "title": "pnpm Introduces New Lockfile Format to Reduce Git Merge Conflicts",
    "link": "https://socket.dev/blog/pnpm-introduces-new-lockfile-format?utm_medium=feed",
@@ -979,16 +991,6 @@
    "desc": "Compare six AI network and infrastructure pentesting tools. Aikido Security is our pick for external network pentesting; see what fits internal networks. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-11-12T14:01:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories",
-   "link": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
-   "desc": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6af53377bf6dde907dc1592a_GitHub_Feature.jpg",
-   "date": "2026-11-12T01:45:00+00:00",
-   "iocs": "iocs/8f22bc6983f6.txt",
-   "ioc_count": 7
   },
   {
    "source": "Unit 42",
@@ -1271,16 +1273,6 @@
    "desc": "At 11:39 UTC on October 21, a malicious version (1.107.0) of the LiteLLM package was uploaded to PyPI. This version was quarantined on PyPI as of 13:20 UTC. According to ClickPy data, the malicious version received appro",
    "image": "https://www.wiz.io/rss_feed_logo.jpg",
    "date": "2026-10-21T00:00:00+00:00"
-  },
-  {
-   "source": "Unit 42",
-   "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
-   "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
-   "desc": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated Octobe",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
-   "date": "2026-10-20T20:30:42+00:00",
-   "iocs": "iocs/b4be8cd5eeb4.txt",
-   "ioc_count": 21
   },
   {
    "source": "Wiz Threats",
