@@ -1,0 +1,18 @@
+IOC EXTRACTION - Attackers use Hugging Face’s AI to make phishing pages
+Source: https://www.aikido.dev/blog/hugging-face-phishing-pages
+Extracted: 2026-11-25 13:29:46 UTC
+Total indicators: 8
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (8)
+----------------------------------------
+CVE-2026-113425
+CVE-2026-115560
+CVE-2026-121810
+CVE-2026-123007
+CVE-2026-123633
+CVE-2026-123634
+CVE-2026-129289
+CVE-2026-132825

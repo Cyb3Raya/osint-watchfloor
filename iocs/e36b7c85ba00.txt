@@ -1,0 +1,12 @@
+IOC EXTRACTION - Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls
+Source: https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/
+Extracted: 2026-11-25 13:29:37 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-46300

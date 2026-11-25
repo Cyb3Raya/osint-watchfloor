@@ -1,0 +1,12 @@
+IOC EXTRACTION - Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail
+Source: https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html
+Extracted: 2026-11-25 13:29:10 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312

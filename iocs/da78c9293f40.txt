@@ -1,0 +1,17 @@
+IOC EXTRACTION - WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live
+Source: https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html
+Extracted: 2026-11-25 13:29:16 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-135202
+CVE-2026-99312
+
+Domains (1)
+----------------------------------------
+tascredit-pay[.]com

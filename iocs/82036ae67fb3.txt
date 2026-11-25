@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library
+Source: https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/
+Extracted: 2026-11-25 13:29:36 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-131914

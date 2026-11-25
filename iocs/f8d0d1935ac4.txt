@@ -1,0 +1,15 @@
+IOC EXTRACTION - Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation
+Source: https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html
+Extracted: 2026-11-25 13:29:09 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-118539
+CVE-2026-132165
+CVE-2026-9082
+CVE-2026-99312

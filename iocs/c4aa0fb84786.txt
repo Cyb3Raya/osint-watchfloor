@@ -1,0 +1,16 @@
+IOC EXTRACTION - Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers
+Source: https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html
+Extracted: 2026-11-25 13:29:11 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-124283
+CVE-2026-129514
+CVE-2026-130411
+CVE-2026-133555
+CVE-2026-99312

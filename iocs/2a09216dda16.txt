@@ -1,0 +1,11 @@
+IOC EXTRACTION - Hackers now exploit critical Drupal RCE flaw to hijack sites
+Source: https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/
+Extracted: 2026-11-25 13:29:18 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-132165

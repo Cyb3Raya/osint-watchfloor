@@ -1,0 +1,12 @@
+IOC EXTRACTION - Credential Remediation Is Slow When You Don’t Know What Will Break
+Source: https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html
+Extracted: 2026-11-25 13:29:07 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
