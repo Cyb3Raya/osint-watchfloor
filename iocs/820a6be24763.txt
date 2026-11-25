@@ -1,0 +1,11 @@
+IOC EXTRACTION - CISA warns of critical unpatched flaw in Danfoss refrigeration controllers
+Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/
+Extracted: 2026-11-25 22:44:29 UTC
+Total indicators: 1
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (1)
+----------------------------------------
+CVE-2026-129713

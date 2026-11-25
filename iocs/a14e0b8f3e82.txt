@@ -1,0 +1,16 @@
+IOC EXTRACTION - Two Newly Disclosed GeoServer Vulnerabilities Under Attack
+Source: https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/
+Extracted: 2026-11-25 22:44:46 UTC
+Total indicators: 6
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (6)
+----------------------------------------
+CVE-2026-120704
+CVE-2026-120705
+CVE-2026-129242
+CVE-2026-129243
+CVE-2026-129244
+CVE-2026-129245

@@ -1,9 +1,159 @@
 {
- "generated": "2026-11-25T13:29:46.688312+00:00",
+ "generated": "2026-11-25T22:45:03.867422+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+   "desc": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+   "image": "",
+   "date": "2026-11-25T22:05:09+00:00",
+   "iocs": "iocs/85d71203b57c.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "1Password customer data stolen after employee GitHub account breach",
+   "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+   "desc": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+   "image": "",
+   "date": "2026-11-25T21:33:33+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+   "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "desc": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
+   "image": "",
+   "date": "2026-11-25T21:18:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+   "link": "https://therecord.media/fifa-data-breach-limited",
+   "desc": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
+   "image": "",
+   "date": "2026-11-25T20:40:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "desc": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "image": "",
+   "date": "2026-11-25T19:39:31+00:00"
+  },
+  {
+   "source": "Cisco Talos",
+   "title": "Oh, is it Thanksgiving? I hadn’t noticed!",
+   "link": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
+   "desc": "In true Thanksgiving fashion, David has a few thank-yous to give to the cybersecurity community (and a few choice words for threat actors).",
+   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_source-3.jpg",
+   "date": "2026-11-25T19:00:00+00:00",
+   "iocs": "iocs/c04cae8932d9.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "Aikido",
+   "title": "Response readiness starts before the next 2shell appears",
+   "link": "https://www.aikido.dev/blog/vulnerability-response-readiness",
+   "desc": "Attackers now exploit new CVEs within hours. Learn how connecting your cloud, containers and domains ahead of time lets you find affected assets in minutes. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b0728478f93579bdc3359f1_response%20readiness%20main.jpg",
+   "date": "2026-11-25T18:54:00+00:00",
+   "iocs": "iocs/65ee70939a5a.txt",
+   "ioc_count": 3
+  },
+  {
+   "source": "Socket",
+   "title": "Introducing Socket Calm: A Syntax Highlighting Theme for VS Code, Vim, and Neovim",
+   "link": "https://socket.dev/blog/socket-syntax-highlighting-theme?utm_medium=feed",
+   "desc": "Socket Calm is a free, open source syntax highlighting theme for VS Code, Vim, and Neovim, inspired by Socket's design system.",
+   "image": "",
+   "date": "2026-11-25T18:52:26+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+   "link": "https://therecord.media/ransomware-doj-indictment-recovery",
+   "desc": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
+   "image": "",
+   "date": "2026-11-25T17:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+   "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+   "desc": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause signif",
+   "image": "",
+   "date": "2026-11-25T17:07:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lig",
+   "image": "",
+   "date": "2026-11-25T16:13:40+00:00",
+   "iocs": "iocs/820a6be24763.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+   "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+   "desc": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62eb1a39d76dff3b/6b06d44d51725d29015e8423/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-25T15:48:04+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+   "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+   "desc": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on Sec",
+   "image": "",
+   "date": "2026-11-25T15:27:36+00:00",
+   "iocs": "iocs/a14e0b8f3e82.txt",
+   "ioc_count": 6
+  },
+  {
+   "source": "Dark Reading",
+   "title": "It's a Bot World. We're Just Living in It",
+   "link": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+   "desc": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-25T15:20:27+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+   "desc": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagement",
+   "image": "",
+   "date": "2026-11-25T15:00:10+00:00"
+  },
+  {
+   "source": "Unit 42",
+   "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+   "link": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
+   "desc": "Unit 42 examines the evolution of AI-driven cyberattacks and outlines proactive defense strategies for security teams. The post The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense appeared first ",
+   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/05_Opinion_Category_1505x922.jpg",
+   "date": "2026-11-25T15:00:09+00:00",
+   "iocs": "iocs/191a79620025.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "desc": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than c",
+   "image": "",
+   "date": "2026-11-25T15:00:00+00:00",
+   "iocs": "iocs/918f8236c2b6.txt",
+   "ioc_count": 7
+  },
   {
    "source": "Dark Reading",
    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
@@ -11,6 +161,46 @@
    "desc": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainabl",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-25T15:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+   "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+   "desc": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appea",
+   "image": "",
+   "date": "2026-11-25T14:15:25+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+   "desc": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt436e3cfa4b9fe8b4/6b05fbef3e73ec0ee2851fe9/port-santos-brazil-ByDroneVideos-shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-25T14:00:00+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+   "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+   "desc": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury&#8217;s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek",
+   "image": "",
+   "date": "2026-11-25T13:39:21+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+   "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+   "desc": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on ",
+   "image": "",
+   "date": "2026-11-25T13:30:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+   "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
+   "desc": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cance",
+   "image": "",
+   "date": "2026-11-25T13:30:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -201,14 +391,6 @@
    "date": "2026-11-25T02:00:03+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
-   "link": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
-   "desc": "The Treasury Department has taken some systems offline after a cyberattack after a cybersecurity incident which “resulted in unauthorized access to a limited subset of its systems.”",
-   "image": "",
-   "date": "2026-11-25T00:00:00+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
    "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
@@ -259,28 +441,12 @@
    "date": "2026-11-24T21:36:11+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
-   "link": "https://therecord.media/mycolorado-app-down-data-breach",
-   "desc": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
-   "image": "",
-   "date": "2026-11-24T20:52:00+00:00"
-  },
-  {
    "source": "BleepingComputer",
    "title": "New Inception extortion gang launches large-scale vishing campaign",
    "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
    "desc": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
    "image": "",
    "date": "2026-11-24T20:21:20+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "California privacy agency director Kemp to leave after two-year tenure",
-   "link": "https://therecord.media/california-privacy-agency-kemp",
-   "desc": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
-   "image": "",
-   "date": "2026-11-24T19:30:00+00:00"
   },
   {
    "source": "BleepingComputer",
@@ -305,14 +471,6 @@
    "desc": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left e",
    "image": "",
    "date": "2026-11-24T17:49:05+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Lawmakers warn ID verification companies to bolster security after September hack",
-   "link": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-   "desc": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
-   "image": "",
-   "date": "2026-11-24T17:49:00+00:00"
   },
   {
    "source": "Aikido",
@@ -363,32 +521,6 @@
    "ioc_count": 4
   },
   {
-   "source": "BleepingComputer",
-   "title": "European Commission confirms data theft in EU Academy breach",
-   "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "desc": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "image": "",
-   "date": "2026-11-24T16:22:44+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers compromise Check Point Servers in 22 organizations",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-   "desc": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-   "image": "",
-   "date": "2026-11-24T16:15:23+00:00",
-   "iocs": "iocs/53f2a1acf596.txt",
-   "ioc_count": 11
-  },
-  {
-   "source": "RF The Record",
-   "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
-   "link": "https://therecord.media/carnegie-endowment-data-breach",
-   "desc": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
-   "image": "",
-   "date": "2026-11-24T16:00:00+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "What the ARTEX attacks tell defenders about AI pentesting",
    "link": "https://www.aikido.dev/blog/artex-ai-pentesting-defenders",
@@ -399,20 +531,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-   "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-   "desc": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-   "image": "",
-   "date": "2026-11-24T15:10:10+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-   "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-   "desc": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening",
-   "image": "",
-   "date": "2026-11-24T15:01:11+00:00"
+   "source": "Dark Reading",
+   "title": "How Southeastern University Got a Handle on Its Data",
+   "link": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+   "desc": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25e178de5cb0409d/6b00d028efff7c214dcd404d/data_Pingingz_shutterstock.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-24T15:46:46+00:00"
   },
   {
    "source": "Unit 42",
@@ -423,48 +547,6 @@
    "date": "2026-11-24T15:00:19+00:00",
    "iocs": "iocs/7e4b24247986.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-   "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-   "desc": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appear",
-   "image": "",
-   "date": "2026-11-24T14:49:59+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-   "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
-   "desc": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on Securi",
-   "image": "",
-   "date": "2026-11-24T14:21:56+00:00",
-   "iocs": "iocs/defec4e244cd.txt",
-   "ioc_count": 12
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "McDonald's Japan data breach exposes customer location information",
-   "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-   "desc": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-   "image": "",
-   "date": "2026-11-24T14:09:37+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-   "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-   "desc": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restart",
-   "image": "",
-   "date": "2026-11-24T13:34:23+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-   "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
-   "desc": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared firs",
-   "image": "",
-   "date": "2026-11-24T13:30:23+00:00"
   },
   {
    "source": "The Hacker News",
@@ -495,14 +577,6 @@
    "date": "2026-11-24T12:42:09+00:00",
    "iocs": "iocs/88d6d55f0b06.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
-   "link": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
-   "desc": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
-   "image": "",
-   "date": "2026-11-24T12:20:41+00:00"
   },
   {
    "source": "The Hacker News",
@@ -653,38 +727,6 @@
    "desc": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-20T21:03:27+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
-   "desc": "Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-20T20:43:45+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "In Security, Words Matter as Much as Tools — Maybe More",
-   "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-   "desc": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36f1afcfa92ff2c5/6af766db3c02eaba0a4aae0d/cyber_talk_ATHVisions_Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-20T18:35:40+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-   "desc": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafa9df51f75884e4/6b007fead61f59302a23c588/nvidia-Benjamin_Fanjoy_-Getty-2304259055.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-20T17:04:04+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
-   "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
-   "desc": "At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt823dceb89b6bf324/6a1dd1f32928e11bac7b2d1a/microsoft_DrewAngerer_Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-20T13:51:30+00:00"
   },
   {
    "source": "SANS ISC",
@@ -981,16 +1023,6 @@
    "date": "2026-11-13T11:56:00+00:00"
   },
   {
-   "source": "Aikido",
-   "title": "Critical Apache HTTP Server vulnerability can allow remote code execution (CVE-2026-119618)",
-   "link": "https://www.aikido.dev/blog/cve-2026-119618-apache-http-server-rce",
-   "desc": "CVE-2026-119618 is a critical mod_http2 RCE in Apache HTTP Server 2.4.55 to 2.4.70. See who is affected, how to fix it, and how to disable HTTP/2. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6af6d25f71a8c78bfa891f1d_Node-JS_Feature%20(1).jpg",
-   "date": "2026-11-13T08:49:00+00:00",
-   "iocs": "iocs/d6fabe7af75f.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "Cisco Talos",
    "title": "Never be afraid to ask questions",
    "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
@@ -1065,16 +1097,6 @@
    "date": "2026-11-10T21:55:03+00:00",
    "iocs": "iocs/6e299ce35745.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
-   "link": "https://socket.dev/blog/bee-js-compromise?utm_medium=feed",
-   "desc": "Compromised maintainer accounts pushed malicious @ethersphere/bee-js 13.3.0 and Swarm Desktop 0.56.2, reusing SleepyDuck’s Ethereum-addressed C2 infrastructure.",
-   "image": "",
-   "date": "2026-11-09T14:52:15+00:00",
-   "iocs": "iocs/c711eef631b1.txt",
-   "ioc_count": 39
   },
   {
    "source": "Unit 42",
@@ -1199,16 +1221,6 @@
    "ioc_count": 4
   },
   {
-   "source": "Cisco Talos",
-   "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
-   "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
-   "desc": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorize",
-   "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_advisory-1.jpg",
-   "date": "2026-10-28T21:32:02+00:00",
-   "iocs": "iocs/196cb48efaf9.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Unit 42",
    "title": "Unwrapping Retail Peak Season Cyber Threats",
    "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
@@ -1263,16 +1275,6 @@
    "date": "2026-10-21T15:26:07+00:00",
    "iocs": "iocs/5d15c045388e.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Unit 42",
-   "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
-   "link": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
-   "desc": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration. The post “Next Exploit Opportunities”: How a Threat Actor Used AI to Help ",
-   "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/AdobeStock_1246251272-2-1.jpg",
-   "date": "2026-10-21T14:00:24+00:00",
-   "iocs": "iocs/51c757f2640a.txt",
-   "ioc_count": 3
   },
   {
    "source": "Wiz Threats",

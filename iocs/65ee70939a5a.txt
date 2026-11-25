@@ -1,0 +1,13 @@
+IOC EXTRACTION - Response readiness starts before the next 2shell appears
+Source: https://www.aikido.dev/blog/vulnerability-response-readiness
+Extracted: 2026-11-25 22:45:02 UTC
+Total indicators: 3
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (3)
+----------------------------------------
+CVE-2026-123007
+CVE-2026-123158
+CVE-2026-123633

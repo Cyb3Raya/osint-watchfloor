@@ -1,0 +1,17 @@
+IOC EXTRACTION - InfraTrust warns of exploited supply chain flaws in network appliances
+Source: https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/
+Extracted: 2026-11-25 22:44:31 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (7)
+----------------------------------------
+CVE-2026-109618
+CVE-2026-109619
+CVE-2026-114625
+CVE-2026-123039
+CVE-2026-19868
+CVE-2026-76418
+CVE-2026-76466
