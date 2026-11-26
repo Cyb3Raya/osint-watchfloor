@@ -1,0 +1,14 @@
+IOC EXTRACTION - Fake paid expert interviews impersonate brands to steal Google logins
+Source: https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/
+Extracted: 2026-11-26 23:33:18 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+Domains (4)
+----------------------------------------
+accenture[.]international-interviews[.]com
+google[.]webinar-cloud[.]com
+nvidia[.]feedback-study[.]com
+spotify[.]interview-experts[.]com

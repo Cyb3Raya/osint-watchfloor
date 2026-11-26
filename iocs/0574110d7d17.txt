@@ -1,0 +1,23 @@
+IOC EXTRACTION - North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware
+Source: https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html
+Extracted: 2026-11-26 23:33:13 UTC
+Total indicators: 7
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
+
+IPv4 (3)
+----------------------------------------
+103[.]179[.]142[.]155
+95[.]135[.]181[.]151
+95[.]135[.]181[.]84
+
+Domains (2)
+----------------------------------------
+accurasofthire[.]com
+huntrole[.]org

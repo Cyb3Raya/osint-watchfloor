@@ -1,9 +1,71 @@
 {
- "generated": "2026-11-26T14:49:08.382411+00:00",
+ "generated": "2026-11-26T23:33:37.108243+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "desc": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "image": "",
+   "date": "2026-11-26T21:06:22+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+   "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+   "desc": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg",
+   "date": "2026-11-26T19:39:57+00:00",
+   "iocs": "iocs/0b75246ced86.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+   "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+   "desc": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+   "image": "",
+   "date": "2026-11-26T17:58:42+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "desc": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews a",
+   "image": "",
+   "date": "2026-11-26T17:15:27+00:00",
+   "iocs": "iocs/deebe28bb42d.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+   "link": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+   "desc": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing &#8216;Personal and Business Information&#8217; appeared ",
+   "image": "",
+   "date": "2026-11-26T17:06:55+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "desc": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "image": "",
+   "date": "2026-11-26T15:23:28+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "desc": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg",
+   "date": "2026-11-26T15:13:41+00:00",
+   "iocs": "iocs/0574110d7d17.txt",
+   "ioc_count": 7
+  },
   {
    "source": "SecurityWeek",
    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
@@ -427,16 +489,6 @@
    "ioc_count": 6
   },
   {
-   "source": "SecurityWeek",
-   "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-   "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-   "desc": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first",
-   "image": "",
-   "date": "2026-11-25T09:05:13+00:00",
-   "iocs": "iocs/82036ae67fb3.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "BleepingComputer",
    "title": "Microsoft confirms authentication issues after November updates",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
@@ -475,16 +527,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-   "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-   "desc": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNbawIx8zYCfd7sCTbVfIzPFBtykkY65lf8EOswU62pIdZKTrx9ReB3mGnqYqujmW5eGzN_w8pEijAZMTpmOZ3fGB5zFyFaPo4ZhRQ8V0BkAmDCH3WoVqJ3kAfjDcw3_wRjhwphfyJxjF3_rDYiudb-cxt0pY3t8s-IRjNP1aEYHqtO5L1eZMkgBX6y2xD/s1600/wp.jpg",
-   "date": "2026-11-25T06:21:12+00:00",
-   "iocs": "iocs/da78c9293f40.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "SANS ISC",
    "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
    "link": "https://isc.sans.edu/diary/rss/33554",
@@ -519,36 +561,12 @@
    "date": "2026-11-24T21:48:06+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Rackspace shuts down Spot cloud platform after security breach",
-   "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-   "desc": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and dow",
-   "image": "",
-   "date": "2026-11-24T21:37:30+00:00"
-  },
-  {
    "source": "Dark Reading",
    "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
    "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
    "desc": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-24T21:36:11+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "New Inception extortion gang launches large-scale vishing campaign",
-   "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-   "desc": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-   "image": "",
-   "date": "2026-11-24T20:21:20+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-   "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-   "desc": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-   "image": "",
-   "date": "2026-11-24T18:59:52+00:00"
   },
   {
    "source": "Socket",
@@ -559,30 +577,12 @@
    "date": "2026-11-24T18:27:14+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "Radware discloses breach exposing customer cloud access keys",
-   "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-   "desc": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left e",
-   "image": "",
-   "date": "2026-11-24T17:49:05+00:00"
-  },
-  {
    "source": "Aikido",
    "title": "What is continuous automated red teaming?",
    "link": "https://www.aikido.dev/blog/continuous-automated-red-teaming",
    "desc": "Continuous automated red teaming simulates real attacks to test whether defenses detect and stop it. Here’s what it involves and how to implement it. Category: Guides & Best Practices",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6af1ac2925c0c66dbee7811a_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-11-24T17:24:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-   "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-   "desc": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a back",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg",
-   "date": "2026-11-24T16:54:07+00:00",
-   "iocs": "iocs/9582e29a3fdc.txt",
-   "ioc_count": 3
   },
   {
    "source": "Aikido",

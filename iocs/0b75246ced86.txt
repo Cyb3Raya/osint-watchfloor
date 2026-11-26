@@ -1,0 +1,12 @@
+IOC EXTRACTION - ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories
+Source: https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html
+Extracted: 2026-11-26 23:33:12 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
