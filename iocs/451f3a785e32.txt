@@ -1,0 +1,27 @@
+IOC EXTRACTION - Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products
+Source: https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html
+Extracted: 2026-11-26 14:48:41 UTC
+Total indicators: 14
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (13)
+----------------------------------------
+CVE-2023-25914
+CVE-2023-25915
+CVE-2025-41450
+CVE-2026-103406
+CVE-2026-114938
+CVE-2026-129713
+CVE-2026-133275
+CVE-2026-133303
+CVE-2026-133311
+CVE-2026-133323
+CVE-2026-133324
+CVE-2026-133469
+CVE-2026-99312
+
+IPv4 (1)
+----------------------------------------
+91[.]211[.]251[.]112

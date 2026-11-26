@@ -1,0 +1,12 @@
+IOC EXTRACTION - Drupal Installer Patch Left a Gap Attackers Are Already Exploiting
+Source: https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/
+Extracted: 2026-11-26 14:49:00 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-132165
+CVE-2026-136716

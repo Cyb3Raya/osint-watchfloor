@@ -1,0 +1,15 @@
+IOC EXTRACTION - Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks
+Source: https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/
+Extracted: 2026-11-26 14:48:59 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (5)
+----------------------------------------
+CVE-2026-133275
+CVE-2026-133303
+CVE-2026-133311
+CVE-2026-133323
+CVE-2026-133324

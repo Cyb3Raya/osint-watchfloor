@@ -1,9 +1,103 @@
 {
- "generated": "2026-11-26T04:45:03.340334+00:00",
+ "generated": "2026-11-26T14:49:08.382411+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "SecurityWeek",
+   "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+   "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+   "desc": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-26T13:04:06+00:00",
+   "iocs": "iocs/e5ae44210f7d.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "desc": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and O",
+   "image": "",
+   "date": "2026-11-26T11:50:17+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+   "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+   "desc": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first ",
+   "image": "",
+   "date": "2026-11-26T11:35:25+00:00",
+   "iocs": "iocs/cc622f5f1349.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+   "desc": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to k",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg",
+   "date": "2026-11-26T10:57:55+00:00",
+   "iocs": "iocs/54cc21ceab24.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "desc": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer passw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg",
+   "date": "2026-11-26T10:57:25+00:00",
+   "iocs": "iocs/5e5b0d3bb248.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+   "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+   "desc": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared fi",
+   "image": "",
+   "date": "2026-11-26T09:12:26+00:00",
+   "iocs": "iocs/3f4e53c9791c.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+   "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+   "desc": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on",
+   "image": "",
+   "date": "2026-11-26T08:32:10+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+   "desc": "A previously undocumented Iranian threat group called &quot;Volant Manticore&quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt08316e419aab95b8/6b071dfb870042f8e04904af/cyprus-tunart-GettyImages-961759390.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-26T08:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+   "desc": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png",
+   "date": "2026-11-26T07:02:34+00:00",
+   "iocs": "iocs/61e3be14c2b6.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that wer",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht82Zul6A6D_rTYZuOr0QQWkA4p8kQXRI-4qAYhdGBdTR0ZNzlHkHCiz3eSv5wm9Gq1rADX0CIEBUu08HBUbWd4fVKtL6f7UrWcaa_nVetYt0DyPj2-f_yM80HEIUbuy57mpftPYHHp1FKCNXvkDnFtsj-V5PWGUvWiNL38OKY3EIKUwKHuoKsIc4oSXeC/s1600/mitel.jpg",
+   "date": "2026-11-26T06:44:46+00:00",
+   "iocs": "iocs/451f3a785e32.txt",
+   "ioc_count": 14
+  },
   {
    "source": "The Hacker News",
    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
@@ -13,6 +107,14 @@
    "date": "2026-11-26T03:48:52+00:00",
    "iocs": "iocs/8720d53f4644.txt",
    "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+   "link": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+   "desc": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
+   "image": "",
+   "date": "2026-11-26T00:00:00+00:00"
   },
   {
    "source": "Socket",
@@ -197,6 +299,16 @@
    "date": "2026-11-25T14:00:00+00:00"
   },
   {
+   "source": "Aikido",
+   "title": "Deep Review: secure every commit",
+   "link": "https://www.aikido.dev/blog/deep-review-secure-every-commit",
+   "desc": "Learn how Aikido's Deep Review reasons about your pull requests to find bugs, quality and security issues in your code before your merge. Category: Product Updates",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b06ff193235ad7a64bcf69e_2026%27s_AI_security_incidents_Feature.jpg",
+   "date": "2026-11-25T14:00:00+00:00",
+   "iocs": "iocs/1e367ebcdffd.txt",
+   "ioc_count": 2
+  },
+  {
    "source": "SecurityWeek",
    "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
    "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
@@ -209,14 +321,6 @@
    "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
    "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
    "desc": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on ",
-   "image": "",
-   "date": "2026-11-25T13:30:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
-   "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
-   "desc": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cance",
    "image": "",
    "date": "2026-11-25T13:30:00+00:00"
   },
@@ -343,26 +447,6 @@
    "ioc_count": 1
   },
   {
-   "source": "SecurityWeek",
-   "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-   "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
-   "desc": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-25T08:12:24+00:00",
-   "iocs": "iocs/e36b7c85ba00.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-   "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-   "desc": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-25T08:01:06+00:00",
-   "iocs": "iocs/a2064bb4d857.txt",
-   "ioc_count": 3
-  },
-  {
    "source": "BleepingComputer",
    "title": "Hackers reportedly breached CIA intelligence analysis system",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
@@ -417,14 +501,6 @@
    "date": "2026-11-24T23:00:14+00:00",
    "iocs": "iocs/6d41187434b5.txt",
    "ioc_count": 12
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
-   "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-   "desc": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-24T22:41:58+00:00"
   },
   {
    "source": "Dark Reading",
@@ -519,26 +595,6 @@
    "ioc_count": 8
   },
   {
-   "source": "SecurityWeek",
-   "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-   "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-   "desc": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-24T16:32:56+00:00",
-   "iocs": "iocs/cbd825ca533e.txt",
-   "ioc_count": 4
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-   "desc": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-   "image": "",
-   "date": "2026-11-24T16:30:19+00:00",
-   "iocs": "iocs/9078000bd51b.txt",
-   "ioc_count": 4
-  },
-  {
    "source": "Aikido",
    "title": "What the ARTEX attacks tell defenders about AI pentesting",
    "link": "https://www.aikido.dev/blog/artex-ai-pentesting-defenders",
@@ -565,46 +621,6 @@
    "date": "2026-11-24T15:00:19+00:00",
    "iocs": "iocs/7e4b24247986.txt",
    "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-   "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-   "desc": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zpQTclLnhVQHphFdBZZ_hrxhsZvA5G50sGBz5qq1iOg2B1YLu8rE5e_HM1GZOE24SNpwexwst80NTKP7_Wwexq7EzIl-I7ykIXCtTGQjeZhBGVVuAgzxac5JwaquTQuMNRstBFo8JzMDyqgsNbM_KtxGF3wHPBIM9GfaclNu0OTPlpF5YhNvqoKKytAY/s1600/vmware-exploit.jpg",
-   "date": "2026-11-24T13:28:26+00:00",
-   "iocs": "iocs/aa014f4b55f4.txt",
-   "ioc_count": 8
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-   "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-   "desc": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjete6dy8Fmd7sbjqKI5GKSySXkcnz4NF__irfVMBHzgRIDUnpGHtvRIbCywZYYsoKsnMdPhvanoXcnXbYvZpMjL2lL6d_F9a4ErEaI5rH_boPedH_ru2Ush9wonb8tYhGNVM6M_01DTue1THY7uGMbuKBJKNgMbrACkxHCGJiJylHWoxkkpCXNr2Z_CIdf/s1600/leaks.jpg",
-   "date": "2026-11-24T13:28:21+00:00",
-   "iocs": "iocs/c4ed564253ff.txt",
-   "ioc_count": 14
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-   "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-   "desc": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
-   "date": "2026-11-24T12:42:09+00:00",
-   "iocs": "iocs/88d6d55f0b06.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-   "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-   "desc": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOJqhOn7t8wd3NeMCWVCg9xmusuRJmZuaePaCbKTif2XsPpPhu0fR1NwQncA4y-wAMmLOzylBZ3ebd9f4G8F6K54sUdnZ2cTn6yPq1RgAKrh4lSX3y1Ll8LIywXkDyVXItUuUGS4sy0BVUMhwXPvOZGdxhvwnd55_OvjOVnh2CfnAeURMVcmafuFgJlQ/s1600/windows.net.jpg",
-   "date": "2026-11-24T12:02:00+00:00",
-   "iocs": "iocs/372382395c6e.txt",
-   "ioc_count": 4
   },
   {
    "source": "SANS ISC",
@@ -727,14 +743,6 @@
    "date": "2026-11-20T22:00:25+00:00",
    "iocs": "iocs/b7f0e2a6724f.txt",
    "ioc_count": 63
-  },
-  {
-   "source": "Dark Reading",
-   "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-   "desc": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-20T21:03:27+00:00"
   },
   {
    "source": "SANS ISC",
@@ -1021,14 +1029,6 @@
    "desc": "Compare eight Upwind alternatives for code, cloud and runtime security, with a side-by-side table and a shortlist for each buying situation. Category: DevSec Tools & Comparisons",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
    "date": "2026-11-13T15:39:00+00:00"
-  },
-  {
-   "source": "Aikido",
-   "title": "Top 9 Qualys alternatives for infrastructure and application security",
-   "link": "https://www.aikido.dev/blog/top-qualys-alternatives",
-   "desc": "Compare the top 9 Qualys alternatives for 2026, from Aikido, Tenable and Rapid7 to Wiz, Orca and Snyk, by cloud, code and remediation coverage. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-11-13T11:56:00+00:00"
   },
   {
    "source": "Cisco Talos",
