@@ -1,9 +1,27 @@
 {
- "generated": "2026-11-25T22:45:03.867422+00:00",
+ "generated": "2026-11-26T04:45:03.340334+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "The Hacker News",
+   "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+   "desc": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg",
+   "date": "2026-11-26T03:48:52+00:00",
+   "iocs": "iocs/8720d53f4644.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Socket",
+   "title": "Risky Biz Podcast: Eliminating Vulnerabilities Without Upgrading Dependencies",
+   "link": "https://socket.dev/blog/eliminating-vulnerabilities-without-upgrading-dependencies?utm_medium=feed",
+   "desc": "Socket CEO Feross Aboukhadijeh joins Risky Business Podcast to discuss eliminating open source vulnerabilities at scale without requiring dependency upgrades.",
+   "image": "",
+   "date": "2026-11-25T22:50:32+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
@@ -589,16 +607,6 @@
    "ioc_count": 4
   },
   {
-   "source": "The Hacker News",
-   "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-   "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-   "desc": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through fast",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg",
-   "date": "2026-11-24T12:01:54+00:00",
-   "iocs": "iocs/446e0a68acf8.txt",
-   "ioc_count": 2
-  },
-  {
    "source": "SANS ISC",
    "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
    "link": "https://isc.sans.edu/diary/rss/33550",
@@ -1041,14 +1049,6 @@
    "date": "2026-11-12T15:00:31+00:00",
    "iocs": "iocs/4f6c490e5578.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Socket",
-   "title": "Cyberattacks Are Skyrocketing in Japan as Researchers Trace AI-Assisted Intrusions",
-   "link": "https://socket.dev/blog/japan-cyberattack-surge?utm_medium=feed",
-   "desc": "Japan faces a record surge in cyberattacks as researchers uncover AI-assisted intrusions, widespread data breaches, and growing pressure to patch vulnerabilities.",
-   "image": "",
-   "date": "2026-11-12T14:51:52+00:00"
   },
   {
    "source": "Unit 42",
