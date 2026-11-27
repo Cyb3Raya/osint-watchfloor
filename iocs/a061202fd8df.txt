@@ -1,0 +1,18 @@
+IOC EXTRACTION - Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign
+Source: https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html
+Extracted: 2026-11-27 23:43:23 UTC
+Total indicators: 5
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2021-42235
+CVE-2024-36401
+CVE-2026-114938
+CVE-2026-99312
+
+IPv4 (1)
+----------------------------------------
+172[.]235[.]245[.]49

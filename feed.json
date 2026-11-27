@@ -1,9 +1,59 @@
 {
- "generated": "2026-11-27T15:24:35.969739+00:00",
+ "generated": "2026-11-27T23:43:46.803544+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "Aikido",
+   "title": "Preparing for the future AI cryptography break",
+   "link": "https://www.aikido.dev/blog/prepare-for-ai-cryptography-break-rsa",
+   "desc": "Rumors say AI could break encryption like RSA. Learn what a real break would mean and how a cryptography inventory helps you prepare. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b09eecbbdfc85c57a6068ba_crypto%20break%20main.jpg",
+   "date": "2026-11-27T20:58:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "desc": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "image": "",
+   "date": "2026-11-27T19:26:04+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "desc": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "image": "",
+   "date": "2026-11-27T18:57:42+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "desc": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+   "image": "",
+   "date": "2026-11-27T17:06:13+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+   "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+   "desc": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military ag",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj19T-kU1dmVfKt2PtUQ2I25MGovj8kmv6lMkk6inlif4yLeezJS4kVRTvsARL5UkpTT66jYru6k2b5bmWfjjlkmG4JznSKmkmd4ldXcyxTw3xsU5nP6_jxfWMw9thW37m5usfr-eWAZBHq6bPuS613CIx9XgWxPcSVFcZVgz_9tWd5Nu8YWAxexuqcVPrN/s1600/data.jpg",
+   "date": "2026-11-27T16:36:11+00:00",
+   "iocs": "iocs/a061202fd8df.txt",
+   "ioc_count": 5
+  },
+  {
+   "source": "Dark Reading",
+   "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+   "link": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+   "desc": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterpr",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7893676670a76d5/6aa13f3e0a3bef09c363535c/Data_security(1800)_ber1a_Alamy.png?width=720&quality=80&disable=upscale",
+   "date": "2026-11-27T15:27:20+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
@@ -152,7 +202,7 @@
   },
   {
    "source": "Aikido",
-   "title": "Aikido's external network pentest found 31 issues vs 13 for ARTEX",
+   "title": "What we learned from benchmarking ARTEX",
    "link": "https://www.aikido.dev/blog/aikido-vs-artex",
    "desc": "We ran ARTEX and Aikido's external network pentest on the same test environment. Aikido reported 31 findings against 13 for ARTEX, including 11 critical. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b08904f2b7f8c31117ec77d_Aikido-x-Japan-Cloud_Feature.jpg",
@@ -287,14 +337,6 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-   "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-   "desc": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and O",
-   "image": "",
-   "date": "2026-11-26T11:50:17+00:00"
-  },
-  {
    "source": "SecurityWeek",
    "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
    "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
@@ -395,24 +437,6 @@
    "desc": "Socket CEO Feross Aboukhadijeh joins Risky Business Podcast to discuss eliminating open source vulnerabilities at scale without requiring dependency upgrades.",
    "image": "",
    "date": "2026-11-25T22:50:32+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-   "desc": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-   "image": "",
-   "date": "2026-11-25T22:05:09+00:00",
-   "iocs": "iocs/85d71203b57c.txt",
-   "ioc_count": 3
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "1Password customer data stolen after employee GitHub account breach",
-   "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-   "desc": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-   "image": "",
-   "date": "2026-11-25T21:33:33+00:00"
   },
   {
    "source": "Cisco Talos",
@@ -522,16 +546,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg",
    "date": "2026-11-25T12:30:08+00:00",
    "iocs": "iocs/b72d4a699599.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-   "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-   "desc": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil06YVYkZZwt0a8nA97RyMZvYZEQIoZ7r9_YHMtjx5eWc7RNAB4ol6OWb7NIsJOpC0v4w11xynwGgR1SsTnArvWAF7yJseVMbQfoawpTPEKYDdmH6O5UrbIZgJ2Fz9MGBFC6kF95oLeubdwlrdVKaVTPz4kjrOCH0X1neixvpNSYHhotL5WuzdYM12tUo/s1600/GitGuardian.gif",
-   "date": "2026-11-25T11:51:48+00:00",
-   "iocs": "iocs/2d3fe69c638a.txt",
    "ioc_count": 2
   },
   {
@@ -733,14 +747,6 @@
    "date": "2026-11-22T18:40:18+00:00",
    "iocs": "iocs/a1fea56d8f1e.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "Dark Reading",
-   "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-   "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-   "desc": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-21T01:31:23+00:00"
   },
   {
    "source": "Krebs on Security",
@@ -970,16 +976,6 @@
    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_Redacted_LLM-generated_depiction_.max-1000x1000.png",
    "date": "2026-11-17T14:00:00+00:00",
    "iocs": "iocs/0ca7f638e6a0.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "Aikido",
-   "title": "Java4Shell: RCE flaw in OpenJDK's Base64 decoder, with affected versions and fix (CVE-2026-114938)",
-   "link": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-   "desc": "Java4Shell (CVE-2026-114938) is an RCE flaw in OpenJDK’s Base64 decoder. See affected versions, fixed builds and the -XX:-UseBASE64Intrinsics mitigation. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afc522ba13a27d8917e0a59_Group%202147256808.png",
-   "date": "2026-11-17T13:10:00+00:00",
-   "iocs": "iocs/a7b9d8f0e379.txt",
    "ioc_count": 2
   },
   {
