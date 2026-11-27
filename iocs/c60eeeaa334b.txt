@@ -1,0 +1,22 @@
+IOC EXTRACTION - Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control
+Source: https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html
+Extracted: 2026-11-27 15:23:50 UTC
+Total indicators: 9
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
+
+Domains (7)
+----------------------------------------
+codes-team[.]com
+monkeysholder[.]info
+roblx[.]codes-team[.]com
+setup-assistant[.]com
+snipp[.]codes-team[.]com
+teams[.]codes-team[.]com
+teamsmac[.]codes-team[.]com

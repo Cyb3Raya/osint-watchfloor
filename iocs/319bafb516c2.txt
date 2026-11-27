@@ -1,0 +1,12 @@
+IOC EXTRACTION - Drupal warns of new site takeover flaw exploited in attacks
+Source: https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/
+Extracted: 2026-11-27 15:24:01 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-132165
+CVE-2026-136716

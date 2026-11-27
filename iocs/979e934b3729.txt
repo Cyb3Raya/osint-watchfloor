@@ -1,0 +1,12 @@
+IOC EXTRACTION - Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators
+Source: https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html
+Extracted: 2026-11-27 15:23:54 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312

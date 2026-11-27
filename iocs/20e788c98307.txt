@@ -1,0 +1,12 @@
+IOC EXTRACTION - Aikido's external network pentest found 31 issues vs 13 for ARTEX
+Source: https://www.aikido.dev/blog/aikido-vs-artex
+Extracted: 2026-11-27 15:24:35 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2025-29927
+CVE-2025-55182

@@ -1,0 +1,14 @@
+IOC EXTRACTION - Hex Package Manager Warns of Potential Data Breach
+Source: https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/
+Extracted: 2026-11-27 15:24:23 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (4)
+----------------------------------------
+CVE-2026-124283
+CVE-2026-129514
+CVE-2026-130411
+CVE-2026-133555

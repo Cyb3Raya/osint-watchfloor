@@ -1,0 +1,12 @@
+IOC EXTRACTION - How to Keep Your Security Picture Current When Attackers Move at AI Speed
+Source: https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html
+Extracted: 2026-11-27 15:23:51 UTC
+Total indicators: 2
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312

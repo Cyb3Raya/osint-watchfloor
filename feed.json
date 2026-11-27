@@ -1,9 +1,219 @@
 {
- "generated": "2026-11-27T05:20:08.799829+00:00",
+ "generated": "2026-11-27T15:24:35.969739+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+   "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "desc": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+   "image": "",
+   "date": "2026-11-27T15:09:40+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+   "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+   "desc": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and",
+   "image": "",
+   "date": "2026-11-27T15:00:10+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+   "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+   "desc": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection",
+   "image": "",
+   "date": "2026-11-27T14:22:06+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Japan’s education ministry discloses breach of government procurement system",
+   "link": "https://therecord.media/japan-education-ministry-cyberattack",
+   "desc": "Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.",
+   "image": "",
+   "date": "2026-11-27T14:15:00+00:00"
+  },
+  {
+   "source": "Dark Reading",
+   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "desc": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&quality=80&disable=upscale",
+   "date": "2026-11-27T14:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "Software giant SAP confirms cyber incident amid reports of source code breach",
+   "link": "https://therecord.media/sap-germany-cyberattack-github",
+   "desc": "German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.",
+   "image": "",
+   "date": "2026-11-27T13:15:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "desc": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSe",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png",
+   "date": "2026-11-27T11:49:34+00:00",
+   "iocs": "iocs/c60eeeaa334b.txt",
+   "ioc_count": 9
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft removes WSUS server role in Windows Server 2028",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "desc": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+   "image": "",
+   "date": "2026-11-27T11:18:36+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+   "link": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+   "desc": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberat",
+   "image": "",
+   "date": "2026-11-27T11:00:00+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+   "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+   "desc": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells alm",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg",
+   "date": "2026-11-27T10:32:18+00:00",
+   "iocs": "iocs/982bfc2fadcb.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "Aikido",
+   "title": "Black Friday + Cyber Monday: 50% off AI external network pentests",
+   "link": "https://www.aikido.dev/blog/black-friday-cyber-monday-50-off-ai-external-network-pentests",
+   "desc": "Aikido external network pentests are 50% off through December 1. AI agents attack your perimeter from one domain and report only what they exploited. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b0958ac2365af644a579ec7_2026%27s_AI_security_incidents_Feature.jpg",
+   "date": "2026-11-27T10:17:00+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "desc": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+   "image": "",
+   "date": "2026-11-27T10:10:15+00:00",
+   "iocs": "iocs/319bafb516c2.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "SAP confirms security incident after suspicious GitHub activity",
+   "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "desc": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+   "image": "",
+   "date": "2026-11-27T09:56:36+00:00"
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "100,000 Potentially Impacted by Colorado Data Breach",
+   "link": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+   "desc": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek.",
+   "image": "",
+   "date": "2026-11-27T09:30:54+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+   "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+   "desc": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that m",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg",
+   "date": "2026-11-27T09:29:30+00:00",
+   "iocs": "iocs/d8fcf47e119c.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "desc": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+   "image": "",
+   "date": "2026-11-27T09:08:16+00:00"
+  },
+  {
+   "source": "BleepingComputer",
+   "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+   "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+   "desc": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+   "image": "",
+   "date": "2026-11-27T08:06:58+00:00",
+   "iocs": "iocs/0f84e2352a98.txt",
+   "ioc_count": 1
+  },
+  {
+   "source": "Aikido",
+   "title": "Aikido's external network pentest found 31 issues vs 13 for ARTEX",
+   "link": "https://www.aikido.dev/blog/aikido-vs-artex",
+   "desc": "We ran ARTEX and Aikido's external network pentest on the same test environment. Aikido reported 31 findings against 13 for ARTEX, including 11 critical. Category: News",
+   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b08904f2b7f8c31117ec77d_Aikido-x-Japan-Cloud_Feature.jpg",
+   "date": "2026-11-27T08:00:00+00:00",
+   "iocs": "iocs/20e788c98307.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "Hex Package Manager Warns of Potential Data Breach",
+   "link": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+   "desc": "A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged. The post Hex Package Manager Warns of Potential Data Breach appeare",
+   "image": "",
+   "date": "2026-11-27T07:44:49+00:00",
+   "iocs": "iocs/fb1f1662f6eb.txt",
+   "ioc_count": 4
+  },
+  {
+   "source": "SecurityWeek",
+   "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+   "link": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+   "desc": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on ",
+   "image": "",
+   "date": "2026-11-27T07:36:14+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+   "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+   "desc": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg",
+   "date": "2026-11-27T06:04:20+00:00",
+   "iocs": "iocs/979e934b3729.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "The Hacker News",
+   "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+   "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+   "desc": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png",
+   "date": "2026-11-27T05:48:20+00:00",
+   "iocs": "iocs/27f1645ed04a.txt",
+   "ioc_count": 2
+  },
+  {
+   "source": "RF The Record",
+   "title": "Cyberattack disrupts global news distribution platform at France’s AFP",
+   "link": "https://therecord.media/france-afp-hit-by-cyberattack",
+   "desc": "French international news agency Agence France-Presse was hit by a cyberattack Thursday, forcing it to take offline one of its main platforms for distributing news content to media organizations worldwide.",
+   "image": "",
+   "date": "2026-11-27T00:00:00+00:00"
+  },
+  {
+   "source": "RF The Record",
+   "title": "British government takes services offline following ‘cyber incident’",
+   "link": "https://therecord.media/uk-department-work-pensions-cyber-incident",
+   "desc": "The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution.",
+   "image": "",
+   "date": "2026-11-27T00:00:00+00:00"
+  },
   {
    "source": "BleepingComputer",
    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -60,7 +270,7 @@
    "source": "The Hacker News",
    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
    "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-   "desc": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides ",
+   "desc": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity ma",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg",
    "date": "2026-11-26T15:13:41+00:00",
    "iocs": "iocs/0574110d7d17.txt",
@@ -205,30 +415,6 @@
    "date": "2026-11-25T21:33:33+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
-   "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
-   "desc": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
-   "image": "",
-   "date": "2026-11-25T21:18:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
-   "link": "https://therecord.media/fifa-data-breach-limited",
-   "desc": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
-   "image": "",
-   "date": "2026-11-25T20:40:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-   "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-   "desc": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-   "image": "",
-   "date": "2026-11-25T19:39:31+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "Oh, is it Thanksgiving? I hadn’t noticed!",
    "link": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
@@ -257,32 +443,6 @@
    "date": "2026-11-25T18:52:26+00:00"
   },
   {
-   "source": "RF The Record",
-   "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
-   "link": "https://therecord.media/ransomware-doj-indictment-recovery",
-   "desc": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
-   "image": "",
-   "date": "2026-11-25T17:30:00+00:00"
-  },
-  {
-   "source": "RF The Record",
-   "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
-   "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
-   "desc": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause signif",
-   "image": "",
-   "date": "2026-11-25T17:07:00+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lig",
-   "image": "",
-   "date": "2026-11-25T16:13:40+00:00",
-   "iocs": "iocs/820a6be24763.txt",
-   "ioc_count": 1
-  },
-  {
    "source": "Dark Reading",
    "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
    "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
@@ -309,14 +469,6 @@
    "date": "2026-11-25T15:20:27+00:00"
   },
   {
-   "source": "BleepingComputer",
-   "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-   "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-   "desc": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagement",
-   "image": "",
-   "date": "2026-11-25T15:00:10+00:00"
-  },
-  {
    "source": "Unit 42",
    "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
    "link": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
@@ -327,30 +479,12 @@
    "ioc_count": 1
   },
   {
-   "source": "BleepingComputer",
-   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-   "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-   "desc": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than c",
-   "image": "",
-   "date": "2026-11-25T15:00:00+00:00",
-   "iocs": "iocs/918f8236c2b6.txt",
-   "ioc_count": 7
-  },
-  {
    "source": "Dark Reading",
    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
    "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
    "desc": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainabl",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-25T15:00:00+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
-   "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
-   "desc": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appea",
-   "image": "",
-   "date": "2026-11-25T14:15:25+00:00"
   },
   {
    "source": "Dark Reading",
@@ -369,22 +503,6 @@
    "date": "2026-11-25T14:00:00+00:00",
    "iocs": "iocs/1e367ebcdffd.txt",
    "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
-   "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
-   "desc": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury&#8217;s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek",
-   "image": "",
-   "date": "2026-11-25T13:39:21+00:00"
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
-   "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
-   "desc": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on ",
-   "image": "",
-   "date": "2026-11-25T13:30:00+00:00"
   },
   {
    "source": "The Hacker News",
@@ -417,24 +535,6 @@
    "ioc_count": 2
   },
   {
-   "source": "The Hacker News",
-   "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-   "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-   "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by No",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbChdPRqvJHt9cIG4Z1W9o12tl4thtxIDNNcntDjmIytSIC1PWvOytT0JjY0OJtnba6UVJcEmqNxgOMuWxX2pvNJzjQ70-CIeruqZEDdgaDG66Lv2T6lLMv8cEhrXRie1gcaLz6OoNw6f2822s2yz8jl958kok6WpHmZ7p_n3TRWTdEWSpr1le5T28kFQO/s1600/drupal.gif",
-   "date": "2026-11-25T11:23:26+00:00",
-   "iocs": "iocs/f8d0d1935ac4.txt",
-   "ioc_count": 5
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-   "desc": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
-   "image": "",
-   "date": "2026-11-25T11:16:32+00:00"
-  },
-  {
    "source": "Cisco Talos",
    "title": "The Great Escape: Tradecraft insights from an agentic swarm",
    "link": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
@@ -449,82 +549,6 @@
    "desc": "Pierre takes us back to his early days on help desks in the 90s, where learning to correlate logs between Windows and Unix systems sparked the curiosity that eventually led him to security.",
    "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/humans_of_talos.jpg",
    "date": "2026-11-25T11:00:00+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-   "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-   "desc": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tue",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaKaEIQ9XIhyphenhyphen7wjO1dtGE_h6MwLEEd4or1U6Ud39Ce7BbZfU817kR-mLr4bT5n_dMzAujT3VzKACvto1wsiHVfLjOLyGFnYPsf4PH_DHuog0NWylpF1RXoFIYhb84sb8T7RHCx4qnBCCJnNDKTkjoMQ-KPDaKgHaLW7fII7cOhPzc9XKC0OGGOjjE-ygf/s1600/openai.jpg",
-   "date": "2026-11-25T10:43:07+00:00",
-   "iocs": "iocs/df7e6d35b0bf.txt",
-   "ioc_count": 2
-  },
-  {
-   "source": "SecurityWeek",
-   "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
-   "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-   "desc": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek.",
-   "image": "",
-   "date": "2026-11-25T10:40:07+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-   "desc": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-   "image": "",
-   "date": "2026-11-25T10:10:20+00:00",
-   "iocs": "iocs/2a09216dda16.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-   "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-   "desc": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the r",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBxy4VIOekOumZfm8RElWJl6ZTKoIJ1QLc3U7ynLQ8p9PCqm_kYX1T-akwbZwbthTYcNwfVW-aWbRB4wIkvbUeM_gvQmnw8EH-hpY0542jCwFUAaI2mNEXGE3dct9K4JKFURV1smdERZlx4tV1zCy3AbS_NwF4o926_KSW-OKMPfDXT2gWbbZ4lKjFm6Y/s1600/hex-hack.jpg",
-   "date": "2026-11-25T09:06:59+00:00",
-   "iocs": "iocs/c4aa0fb84786.txt",
-   "ioc_count": 6
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Microsoft confirms authentication issues after November updates",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-   "desc": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-   "image": "",
-   "date": "2026-11-25T09:02:57+00:00",
-   "iocs": "iocs/29df4a0d48be.txt",
-   "ioc_count": 1
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Hackers reportedly breached CIA intelligence analysis system",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-   "desc": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-   "image": "",
-   "date": "2026-11-25T07:45:03+00:00"
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-   "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-   "desc": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzxhgIKTt8K5ep8a4qHW9dDpkSYcBC5D1CWgkvvh9Ee5DRlNRSg-2UcZZVNoXrHXVTeIcdzj47FFcSz6gAssLknSDf6f0JDyQCoH51D4GYLSju_wh4smA6-2yE3Z7I30SPeuY8LOKA__Y9xPiU66t1aPsHTzuRnX0QUq2iadcKXFfv7ZhAhcXti_BDnrmu/s1600/code.jpg",
-   "date": "2026-11-25T06:50:19+00:00",
-   "iocs": "iocs/d5f3ce6a4d9a.txt",
-   "ioc_count": 14
-  },
-  {
-   "source": "The Hacker News",
-   "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-   "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-   "desc": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCQn2zL8-RpfdhDeb1Zmyn46vLk1s9lerpXtGlcMkN5IGF9nlhEejtwoOXwhznjS7JVrix_FeG_G6yJ6Jb8mI31CU4Mi2dndKvLp-4nG4wWsqMaBpI60HFIk5d8_5uIxj6XEjSt4sixJYkJN8Xeqs4OrgSzOPK48esNtXbQ_FgtVe67B_WZkfpuUSEiD7/s1600/vishing.jpg",
-   "date": "2026-11-25T06:37:06+00:00",
-   "iocs": "iocs/da2703c97fc2.txt",
-   "ioc_count": 2
   },
   {
    "source": "SANS ISC",
@@ -559,14 +583,6 @@
    "desc": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90d6b1405473fe5b/6b05fadd5bf26ea3ca9d2638/snake_computer-the-lightwriter-GettyImages-530757188.jpg?width=720&quality=80&disable=upscale",
    "date": "2026-11-24T21:48:06+00:00"
-  },
-  {
-   "source": "Dark Reading",
-   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-   "desc": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
-   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&quality=80&disable=upscale",
-   "date": "2026-11-24T21:36:11+00:00"
   },
   {
    "source": "Socket",
@@ -967,16 +983,6 @@
    "ioc_count": 2
   },
   {
-   "source": "Aikido",
-   "title": "Two malicious agent-framework releases hit PyPI in 33 minutes",
-   "link": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
-   "desc": "Two malicious agent-framework releases on PyPI ran a credential stealer on every Python start, targeting Azure, Azure DevOps, and GitHub Actions secrets. Category: Vulnerabilities & Threats",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afcce66664e4dfb6a894c0c_pypi_Feature.png",
-   "date": "2026-11-17T12:00:00+00:00",
-   "iocs": "iocs/513557a2b174.txt",
-   "ioc_count": 11
-  },
-  {
    "source": "Socket",
    "title": "pnpm Introduces New Lockfile Format to Reduce Git Merge Conflicts",
    "link": "https://socket.dev/blog/pnpm-introduces-new-lockfile-format?utm_medium=feed",
@@ -1021,14 +1027,6 @@
    "date": "2026-11-13T20:57:13+00:00",
    "iocs": "iocs/d59fa8c7c203.txt",
    "ioc_count": 1
-  },
-  {
-   "source": "Aikido",
-   "title": "Top 8 Upwind Security alternatives for code and cloud security",
-   "link": "https://www.aikido.dev/blog/upwind-security-alternatives",
-   "desc": "Compare eight Upwind alternatives for code, cloud and runtime security, with a side-by-side table and a shortlist for each buying situation. Category: DevSec Tools & Comparisons",
-   "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abeab47646285748e45cd47_Feature_%5Bgeneric-seo-title%5D_16x9.jpg",
-   "date": "2026-11-13T15:39:00+00:00"
   },
   {
    "source": "Cisco Talos",
