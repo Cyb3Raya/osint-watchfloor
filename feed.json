@@ -1,9 +1,27 @@
 {
- "generated": "2026-11-28T06:57:08.096613+00:00",
+ "generated": "2026-11-28T16:05:45.412130+00:00",
  "sources_ok": 14,
  "sources_total": 14,
  "failed": [],
  "items": [
+  {
+   "source": "BleepingComputer",
+   "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+   "link": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+   "desc": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+   "image": "",
+   "date": "2026-11-28T15:32:49+00:00"
+  },
+  {
+   "source": "The Hacker News",
+   "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+   "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+   "desc": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, w",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizySCkvtf5mXH_3zoxzuk-QyEdUnYmspglEsVYdqRITloUFrUDZCQJcwtQG09teFmXo2IJOknOQb7CXhUpjKjGnadD6TuOIvVWIoWmKcaxb8-1uwf-3AiXZPYCFf2RzDkHNZ06d2Q5OS6AcCV7JHjTACCJH2f5aipC8vllpOwj1dSBYQJtqJ_wDc5nXQwU/s1600/pcloud.jpg",
+   "date": "2026-11-28T08:08:11+00:00",
+   "iocs": "iocs/98be6a877e81.txt",
+   "ioc_count": 4
+  },
   {
    "source": "Aikido",
    "title": "Preparing for the future AI cryptography break",
@@ -202,7 +220,7 @@
   },
   {
    "source": "Aikido",
-   "title": "What we learned from benchmarking ARTEX",
+   "title": "What we learned from benchmarking ARTEX internally",
    "link": "https://www.aikido.dev/blog/aikido-vs-artex",
    "desc": "We ran ARTEX and Aikido's external network pentest on the same test environment. Aikido reported 31 findings against 13 for ARTEX, including 11 critical. Category: News",
    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b08904f2b7f8c31117ec77d_Aikido-x-Japan-Cloud_Feature.jpg",
@@ -307,14 +325,6 @@
    "desc": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing &#8216;Personal and Business Information&#8217; appeared ",
    "image": "",
    "date": "2026-11-26T17:06:55+00:00"
-  },
-  {
-   "source": "BleepingComputer",
-   "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-   "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-   "desc": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
-   "image": "",
-   "date": "2026-11-26T15:23:28+00:00"
   },
   {
    "source": "The Hacker News",
@@ -537,16 +547,6 @@
    "date": "2026-11-25T12:48:54+00:00",
    "iocs": "iocs/27873297949c.txt",
    "ioc_count": 9
-  },
-  {
-   "source": "The Hacker News",
-   "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-   "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-   "desc": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg",
-   "date": "2026-11-25T12:30:08+00:00",
-   "iocs": "iocs/b72d4a699599.txt",
-   "ioc_count": 2
   },
   {
    "source": "Cisco Talos",

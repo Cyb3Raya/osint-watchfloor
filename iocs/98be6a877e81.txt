@@ -1,0 +1,17 @@
+IOC EXTRACTION - pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts
+Source: https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html
+Extracted: 2026-11-28 16:05:26 UTC
+Total indicators: 4
+Indicators are DEFANGED (hxxp / [.]). Refang before use.
+Auto-extracted from article text. Verify before acting.
+================================================================
+
+CVEs (2)
+----------------------------------------
+CVE-2026-114938
+CVE-2026-99312
+
+IPv4 (2)
+----------------------------------------
+45[.]131[.]244[.]7
+45[.]131[.]247[.]10
